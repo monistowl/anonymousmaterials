@@ -1,2 +1,0 @@
-# anonymousmaterials
-Anonymous Materials
