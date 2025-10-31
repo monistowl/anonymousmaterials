@@ -674,27 +674,26 @@ h1, h2, h3, h4, h5 {text-align: center;}
 <p>Each card pip (Ace through 9, across the four suits) corresponds to exactly one cell on a 6×6 grid, for a total of 36 cells. To find where a given pip belongs:</p>
 
 <p>Assign each suit and rank a number:</p>
+<ul>
+<li><p>Hearts = 0, Diamonds = 1, Clubs = 2, Spades = 3</p></li>
 
-<p>Hearts = 0, Diamonds = 1, Clubs = 2, Spades = 3</p>
-
-<p>Ace = 1, Two = 2, …, Nine = 9.</p>
-
+<li><p>Ace = 1, Two = 2, …, Nine = 9.</p></li>
+</ul>
 <p>Then, combine them into a single sequence index: multiply the suit number by 9, add the rank number, and subtract 1.</p>
 
 <p>This gives a value ranging from 0 to 35, mapping to our abecedarium.</p>
 
-<p>(For example, Ace of Hearts = 0, Two of Hearts = 1, …, Ace of Diamonds = 9, etc.)</p>
+<p> (For example, Ace of Hearts = 0, Two of Hearts = 1, …, Ace of Diamonds = 9, etc.)</p>
 
 <p>Locate the cell:</p>
-
-<p>The row is found by dividing i by 6 and keeping only the whole number part (the quotient).</p>
-
-<p>The column is found by dividing i by 6 and keeping only what’s left over (the remainder).</p>
-
+<ul>
+    <li><p>The row is found by dividing i by 6 and keeping only the whole number part (the quotient).</p></li>
+    <li><p>The column is found by dividing i by 6 and keeping only what’s left over (the remainder).</p></li>
+</ul>
 <p>Treat the grid as a loop:</p>
-
-<p>If row or column values ever exceed 5, wrap them around to the beginning—think of the grid as a torus, where edges connect seamlessly.</p>
-
+<ul>
+    <li><p>If row or column values ever exceed 5, wrap them around to the beginning—think of the grid as a torus, where edges connect seamlessly.</p></li>
+</ul>
 <p>In this way, all 36 pips map neatly onto the 36 grid cells with no overlaps or gaps.</p>
 <h3> </h3>
 <h3>Operators</h3>
