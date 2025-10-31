@@ -671,14 +671,31 @@ h1, h2, h3, h4, h5 {text-align: center;}
 <li>Finalizer: Rules = Seal (output &amp; disperse).</li>
 </ul>
 <h3>Pip → Cell (A–9 only)</h3>
-<p>Bijective 36→36 mapping. Each pip picks exactly one grid cell.<br />
-s: {Hearts:0, Diamonds:1, Clubs:2, Spades:3}<br />
-r: {A:1, 2:2, …, 9:9}<br />
-linear i = s*9 + (r-1)<br />
-row R = floor(i/6)<br />
-col C = i % 6<br />
-Wrap all row/col arithmetic mod 6 (torus).<br />
-Heuristic memory: 36 pips (A–9 across 4 suits) exactly cover 36 cells.</p>
+<p>Each card pip (Ace through 9, across the four suits) corresponds to exactly one cell on a 6×6 grid, for a total of 36 cells. To find where a given pip belongs:</p>
+
+<p>Assign each suit and rank a number:</p>
+
+<p>Hearts = 0, Diamonds = 1, Clubs = 2, Spades = 3</p>
+
+<p>Ace = 1, Two = 2, …, Nine = 9.</p>
+
+<p>Then, combine them into a single sequence index: multiply the suit number by 9, add the rank number, and subtract 1.</p>
+
+<p>This gives a value ranging from 0 to 35, mapping to our abecedarium.</p>
+
+<p>(For example, Ace of Hearts = 0, Two of Hearts = 1, …, Ace of Diamonds = 9, etc.)</p>
+
+<p>Locate the cell:</p>
+
+<p>The row is found by dividing i by 6 and keeping only the whole number part (the quotient).</p>
+
+<p>The column is found by dividing i by 6 and keeping only what’s left over (the remainder).</p>
+
+<p>Treat the grid as a loop:</p>
+
+<p>If row or column values ever exceed 5, wrap them around to the beginning—think of the grid as a torus, where edges connect seamlessly.</p>
+
+<p>In this way, all 36 pips map neatly onto the 36 grid cells with no overlaps or gaps.</p>
 <h3> </h3>
 <h3>Operators</h3>
 <p>Read left→right. A pip selects (or replaces) the current cell. Operators mutate the current selection. If no cell is selected yet, an operator is a no-op.</p>
