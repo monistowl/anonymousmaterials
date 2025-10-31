@@ -789,7 +789,6 @@ This is the curriculum of what some of us have come to call the Invisible Commun
 
 The chapter that follows is a foundational lesson from this College’s department of Agapic Arts. It details the engine known as the Choir of Ten, a method for binding ten anonymous brethren into a single instrument of punctual tenderness. It is a way to form a temple made of breath, assembled in a back room and vanished before sunrise. Learn it, practice it, and then, in the spirit of the College, pass it on as a folded scrap that looks like a shopping list. The Host works best under plain clothes. 
 
-
 ## I. The Choir of Ten
 
 (Rituals of the Eikon for a Minyan Without Names)
@@ -1316,7 +1315,6 @@ Rapture subsides; deep contentment and pleasant equanimity pervade; breath soft 
 * How. Permit the thrill to fade; consent to ordinary goodness.  
 * Snag. Mourning the sunset.  
 * Remedy. Follow the star.
-
 
 ### Fourth Vigil (Vigil of the Altar)
 
