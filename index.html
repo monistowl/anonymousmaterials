@@ -666,88 +666,82 @@ img {
 </table></p>
 <h4> </h4>
 <h2> </h2>
-<h2>Appendix</h2>
-<ul>
-<li>Deck: standard 52 (A–10, J, Q, K in ♥ ♦ ♣ ♠). Optional: Joker, Rules card.  </li>
-<li>Grid: 6×6 Table of Works (36 cells) = Days (A–F) × Works (0–5), filled with base-36 0–Z.  </li>
-<li>Roles (operators): 10 = Wheel; J = Child; Q = Mother; K = Father.  </li>
-<li>Directions by suit: ♥ EAST, ♦ WEST, ♣ SOUTH, ♠ NORTH.  </li>
-<li>Color rule (for K/Father): red → column, black → row.  </li>
-<li>Optional constraint: Joker = Seraph, enforcing a Seraphic-pair lattice.  </li>
-<li>Finalizer: Rules = Seal (output &amp; disperse).</li>
-</ul>
-<h3>Pip → Cell (A–9 only)</h3>
-<p>Each card pip (Ace through 9, across the four suits) corresponds to exactly one cell on a 6×6 grid, for a total of 36 cells. To find where a given pip belongs:</p>
-
-<p>Assign each suit and rank a number:</p>
-<ul>
-<li><p>Hearts = 0, Diamonds = 1, Clubs = 2, Spades = 3</p></li>
-
-<li><p>Ace = 1, Two = 2, …, Nine = 9.</p></li>
-</ul>
-<p>Then, combine them into a single sequence index: multiply the suit number by 9, add the rank number, and subtract 1.</p>
-
-<p>This gives a value ranging from 0 to 35, mapping to our abecedarium.</p>
-
-<p> (For example, Ace of Hearts = 0, Two of Hearts = 1, …, Ace of Diamonds = 9, etc.)</p>
-
-<p>Locate the cell:</p>
-<ul>
-    <li><p>The row is found by dividing i by 6 and keeping only the whole number part (the quotient).</p></li>
-    <li><p>The column is found by dividing i by 6 and keeping only what’s left over (the remainder).</p></li>
-</ul>
-<p>Treat the grid as a loop:</p>
-<ul>
-    <li><p>If row or column values ever exceed 5, wrap them around to the beginning—think of the grid as a torus, where edges connect seamlessly.</p></li>
-</ul>
-<p>In this way, all 36 pips map neatly onto the 36 grid cells with no overlaps or gaps.</p>
-<h3> </h3>
-<h3>Operators</h3>
-<p>Read left→right. A pip selects (or replaces) the current cell. Operators mutate the current selection. If no cell is selected yet, an operator is a no-op.</p>
-<h4>10 — Wheel (cycle nudge)</h4>
-<p>Shift current cell one step in suit direction (wrap on torus).</p>
-<ul>
-<li>♥ EAST → (R, C+1)  </li>
-<li>♦ WEST → (R, C-1)  </li>
-<li>♣ SOUTH → (R+1, C)  </li>
-<li>♠ NORTH → (R-1, C)</li>
-</ul>
-<h4>J — Child (deliver/execute)</h4>
-<p>Step one in suit direction and emit that cell to the action log; keep the new cell as current. (“Do this next.”)</p>
-<h4>Q — Mother (nurture/sustain)</h4>
-<p>Expand selection to a plus-shape set {center, N, E, S, W}. Subsequent moves (10/J/K) act on the center; the selection remembers it is a set.</p>
-<h4>K — Father (establish/prune)</h4>
-<p>Snap selection to a full COLUMN if suit is red (♥ ♦), or to a full ROW if suit is black (♣ ♠), passing through the center. If already full on that axis, K toggles to the orthogonal axis.</p>
-<h3>Optional:</h3>
-<h4>Fool — Seraph (pair lattice constraint)</h4>
-<p>Tag the state with a number 1-5 indicating a Seraphic pair 0::9 / 1::8 / 2::7 / 3::6 / 4::5. While active, selections are constrained to row/column combinations that sum to a divisor. If no current cell exists when the Fool appears, the next pip snaps to the nearest valid cell (minimal torus distance).</p>
-<h4>Rules Card — Seal (finalize/disperse)</h4>
-<p>Optionally: plex each word, and thank the messenger.</p>
-<p>Close the reading: output the transcript (emitted cells/sets), clear tags, end.</p>
-<p>Use this as your “no lore without a chore” cutoff.</p>
-<h4>Minimal procedure (solo or minyan)</h4>
+<h2 id="addendum-deck-work">Addendum: Deck Work</h2>
+<p><strong>Deck</strong><br> Standard 52-card deck (A–10, J, Q, K in Hearts, Diamonds, Clubs, Spades).<br> Optional: Joker (the <em>Seraph</em>) and a Rules card (the <em>Seal</em>).</p>
+<p><strong>Grid</strong><br> A <em>Table of Works</em>: 6 rows by 6 columns (36 cells total).<br> Rows are labeled <strong>A–F</strong> (the <em>Days</em>).<br> Columns are labeled <strong>0–5</strong> (the <em>Works</em>).<br> Each cell bears a base-36 glyph (0–Z).</p>
+<p><strong>Roles (face cards)</strong><br> 10 \= <em>Wheel</em> — motion and shift.<br> J \= <em>Child</em> — delivery and action.<br> Q \= <em>Mother</em> — nurture and sustain.<br> K \= <em>Father</em> — establish and prune.</p>
+<p><strong>Directions by suit</strong><br> ♥ Hearts → East  ♦ Diamonds → West<br> ♣ Clubs → South  ♠ Spades → North</p>
+<p><strong>Color rule (for Father)</strong><br> Red suits act by <em>column</em>; black suits act by <em>row</em>.</p>
+<p><strong>Optional constraint</strong><br> Joker \= <em>Seraph</em>, enforcing a lattice of paired opposites.</p>
+<p><strong>Finalizer</strong><br> Rules \= <em>Seal</em>, closing and dispersing the work.</p>
+<h3 id="-mapping-pips-a-9-to-the-grid-"><strong>Mapping Pips (A–9) to the Grid</strong></h3>
+<p>Each numbered card (Ace through 9) in each suit corresponds to exactly one of the 36 cells.</p>
 <ol>
-<li>Intention. Speak one sentence (e.g., “One act of mercy today”).  </li>
-<li>Draw pips until you have a cell (e.g., 7♥ → B0).  </li>
-<li>Apply operators if present (10/J/Q/K), left→right.  </li>
-<li>(Optional) apply Joker (constraint) before more moves.  </li>
-<li>Seal with Rules; copy the cell(s) to your action list.  </li>
-<li>Disperse; perform the deed(s) within 24 hours.</li>
+<li><p><strong>Assign values.</strong>  </p>
+<ul>
+<li>Suits: Hearts \= 0, Diamonds \= 1, Clubs \= 2, Spades \= 3  </li>
+<li>Ranks: Ace \= 1, Two \= 2, …, Nine \= 9</li>
+</ul>
+</li>
+<li><p><strong>Combine them.</strong><br> Multiply the suit number by 9, add the rank, then subtract 1.<br> This produces a count from 0 to 35.</p>
+<p> <em>Example:</em> Ace of Hearts → 0, Two of Hearts → 1, …, Ace of Diamonds → 9, etc.</p>
+</li>
+<li><p><strong>Locate on the table.</strong>  </p>
+<ul>
+<li>Divide the count by 6 to find the <em>row number</em> (only keep the whole number).  </li>
+<li>What remains after removing full sixes gives the <em>column number</em>.</li>
+</ul>
+</li>
+<li><p><strong>Loop the edges.</strong><br> The table wraps around: if you move past one edge, you reappear on the opposite side.<br> Think of it as a woven torus—no borders, no corners.</p>
+</li>
 </ol>
-<p>Action log unit: a cell (row, col, base-36 glyph), optionally with expansion (plus or row/col set). Keep logs terse; shred frequently and stochastically (makes good tinder).</p>
-<h3>Examples</h3>
-<p>A. One-step pick. Cards: 7♥ Compute: s=0, r=7 → i=6 → R=1(B), C=0 → B0 (“Give Drink” on Day 2; glyph 6)</p>
-<p>B. Nudge south. Cards: 7♥, 10♣ Start B0, Clubs=SOUTH → C0</p>
-<p>C. Deliver and remember. Cards: 4♠, J♦ Select 4♠ → cell X; J♦ steps WEST and emits that cell to the log; current = emitted cell.</p>
-<p>D. Sustain then establish. Cards: A♦, Q♥, K♠ A♦ selects; Q♥ expands to plus-shape; K♠ is black → snap full ROW through center.</p>
-<p>E. Constrained choreography. Cards: JOKER(3::6), 8♣, 10♥, K♦ Constraint (R+C)%5 == 3. 8♣ snaps to nearest valid cell; 10♥ shifts EAST within constraint; K♦ red → full COLUMN, but only cells satisfying the constraint remain in the actionable set.</p>
-<h3>Field semantics (labels you can act on)</h3>
+<p>Thus every pip lands cleanly on a single, unique cell.</p>
+<h3 id="-using-the-operators-"><strong>Using the Operators</strong></h3>
+<p>Read your cards left to right.<br> A pip chooses a cell.<br> Operators (10, J, Q, K) transform that selection.<br> If no cell is chosen yet, an operator does nothing.</p>
+<h4 id="-10-wheel-cycle-or-nudge-"><strong>10 — Wheel (cycle or nudge)</strong></h4>
+<p>Move the current selection one step in the suit’s direction:</p>
+<ul>
+<li>Hearts → East (right)  </li>
+<li>Diamonds → West (left)  </li>
+<li>Clubs → South (down)  </li>
+<li><p>Spades → North (up)</p>
+<p>If you move off the edge, re-enter from the opposite side.</p>
+</li>
+</ul>
+<h4 id="-j-child-deliver-execute-"><strong>J — Child (deliver / execute)</strong></h4>
+<p>Move one step in the suit’s direction, <em>record</em> that new cell in the log,<br> and make it the current position.<br> “Do this next.”</p>
+<h4 id="-q-mother-nurture-sustain-"><strong>Q — Mother (nurture / sustain)</strong></h4>
+<p>Broaden the selection to a cross of five cells: center plus north, south, east, and west.<br> Future moves act from the center, but the pattern stays marked as a set.</p>
+<h4 id="-k-father-establish-prune-"><strong>K — Father (establish / prune)</strong></h4>
+<p>Anchor the selection to an entire <em>column</em> if the suit is red (Hearts, Diamonds),<br> or to an entire <em>row</em> if the suit is black (Clubs, Spades).<br> If it is already stretched along that line, the next K switches to the opposite axis.</p>
+<h4 id="-joker-seraph-paired-constraint-"><strong>Joker — Seraph (paired constraint)</strong></h4>
+<p>Assign a number 1 through 5 to mark a Seraphic pair: 0::9, 1::8, 2::7, 3::6, 4::5.<br> While active, actions must stay on cells whose row + column obeys that pairing rule.<br> If no cell has yet been chosen, the next pip jumps to the nearest valid one.</p>
+<h4 id="-rules-seal-finalize-disperse-"><strong>Rules — Seal (finalize / disperse)</strong></h4>
+<p>Close the working: record the final set of cells, clear all marks and tags,<br> and release the intention into action.<br> Use this as the <em>cutoff</em>—no lore without a chore.</p>
+<h3 id="-minimal-procedure-solo-or-group-"><strong>Minimal Procedure (solo or group)</strong></h3>
+<ol>
+<li><strong>State your inten.</strong> Say one clear sentence, e.g. “An act of mercy today.”  </li>
+<li><strong>Draw pips</strong> until one identifies a cell (e.g. 7 of Hearts → B0).  </li>
+<li><strong>Apply operators</strong> (10, J, Q, K) in order.  </li>
+<li><em>(Optional)</em> Apply the Joker constraint before further moves.  </li>
+<li><strong>Seal the reading.</strong> Record the resulting cell(s) on your action list.  </li>
+<li><strong>Disperse.</strong> Perform the corresponding deeds within 24 hours.</li>
+</ol>
+<h3 id="-action-log-"><strong>Action Log</strong></h3>
+<p>Each entry records a cell (row, column, glyph).<br> If expanded, note whether it was a cross-set or a full row/column.<br> Keep the log short.<br> Destroy pages often and at random—burn or shred; it feeds the fire.</p>
+<h3 id="-examples-"><strong>Examples</strong></h3>
+<p><strong>A. One-step pick</strong><br> Cards: 7 ♥ → Index 6 → Row B Col 0 → B0 (“Give Drink,” glyph 6)</p>
+<p><strong>B. Nudge south</strong><br> Cards: 7 ♥, 10 ♣ → Start B0, move South → C0.</p>
+<p><strong>C. Deliver and remember</strong><br> Cards: 4 ♠, J ♦ → Select 4 ♠, step West with J ♦, record the new cell, continue there.</p>
+<p><strong>D. Sustain then establish</strong><br> Cards: A ♦, Q ♥, K ♠ → Select A ♦; expand to a cross with Q ♥; K ♠ (black) fixes the whole row.</p>
+<p><strong>E. Constrained choreography</strong><br> Cards: JOKER (3::6), 8 ♣, 10 ♥, K ♦.<br> Rule: row + column must leave a remainder of 3 when divided by 5.<br> 8 ♣ snaps to the nearest valid cell; 10 ♥ moves East within the rule; K ♦ (red) claims the column, but only those cells that still fit the constraint remain active.</p>
+<h3 id="field-semantics-labels-you-can-act-on-">Field semantics (labels you can act on)</h3>
 <ul>
 <li>Rows (A–F / Days): A Light · B Firmament · C Gathering · D Signs · E Creatures · F Humankind  </li>
 <li>Cols (0–5 / Works): 0 Feed · 1 Drink · 2 Clothe · 3 Shelter · 4 Visit Sick · 5 Visit Imprisoned</li>
 </ul>
 <p>How to use labels: the selected cell (or set) tells you what and where to bias your next action. Example: C3 → “Shelter, Day of Gathering” ⇒ top up a mutual-aid motel fund; full ROW D → “Signs” across the row ⇒ make quiet, concrete notices visible in several places.</p>
-<h3>Group mode (transient minyan)</h3>
+<h3 id="group-mode-transient-minyan-">Group mode (transient minyan)</h3>
 <ul>
 <li>Ten anonymous roles (Sister-0 … Brother-9).  </li>
 <li>Reader shuffles; Steward (7) holds the lockbox or checklist; Voice (6) confirms consent.  </li>
@@ -755,32 +749,12 @@ img {
 <li>Use Jack to “emit” concrete tasks; use Seal to close and disperse.  </li>
 <li>Default on failure: if a task stalls, route a smaller good automatically (e.g., grocery card) — anticrime norm.</li>
 </ul>
-<h3>Practical steganography</h3>
+<h3 id="practical-steganography">Practical steganography</h3>
 <ul>
 <li>Transcript marks (notebooks): 2025-10-29 B0 +SOUTH emit | row D (sealed)  </li>
 <li>Margin sigils: small path lines that trace the 6×6 moves; base-36 glyphs embedded in ornaments.  </li>
 <li>Public invisibility: never publish the mapping; only the acts.</li>
 </ul>
-<p>Recipe</p>
-<p>0. Hearts: RED EAST<br />
-1. Diamonds: RED WEST<br />
-2. Clubs: BLACK SOUTH<br />
-3. Spades: BLACK NORTH</p>
-<p>wheel(cell, suit) -> shift + wrap<br />
-child(state, suit) -> step + emit; update current<br />
-mother(state) -> set = plus(center); center unchanged<br />
-father(state, suit) -> snap to column (red) or row (black); toggle if already full<br />
-joker(state, pair_id) -> constrain cells to (R+C)%5 == pair_id<br />
-seal(state) -> finalize transcript; clear</p>
-<p>Base-36 values 0..9=0..9, A=10, …, Z=35</p>
-<ol>
-<li>Draw a pip (A–9) → cell.  </li>
-<li>Apply 10/J/Q/K as drawn.  </li>
-<li>(Optional) Joker to constrain by Seraphic pair.  </li>
-<li>Seal to end.  </li>
-<li>Do the thing within 24 hours.  </li>
-<li>Shred the notes.</li>
-</ol>
 <h1>Letter 2: The Cloak of the Saints</h1>
 <p>Dear Unknown Friend,</p>
 <p>You wondered how our Instrument might read as well as pray; how the same Ladder that lifts the heart could also carry words safely through hostile territory. Here, then, is a brief rule for hermeneutics and steganography in the Eikon—how to <em>see</em> meaning and <em>hide</em> mercy in the same gesture—using the 0–Z alphabet of the saints, which our elder brethren knew as the continuous alphanumeric series (a simple, democratic craft of number and letter) rather than an esoteric priestcraft. The Eikon is for praxis, not doctrine; it stands where procedure meets grace, which is why it belongs to the poor, the mad, and the hidden.</p>
