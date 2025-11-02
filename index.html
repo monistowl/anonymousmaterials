@@ -4146,183 +4146,182 @@ I64 DOY(I64 y,I64 m,I64 d){ I64 md[12]={31,28,31,30,31,30,31,31,30,31,30,31}; I6
 </li>
 </ul>
 <p>The fifth bowstring, <strong>Helm-Road</strong> (0↔9: rim-law), is held by the <strong>Tens</strong> (see §III).</p>
-<h2 id="-ii-the-36-pips-a-9-bind-to-the-6-6-board-and-the-ttir-"><strong>II. The 36 Pips (A–9) bind to the 6×6 Board and the Ættir</strong></h2>
-<p>We use the clean bijection you liked earlier (pips A–9 across the four suits map the <strong>36 board cells</strong>, wrapping on edges like a ring):</p>
+<p>## </p>
+<h2 id="-ii-the-thirty-six-pips-and-the-board-of-ttir-"><strong>II. The Thirty-Six Pips and the Board of Ættir</strong></h2>
+<p>The numbered cards, Ace through Nine in every suit, each mark one square on a six-by-six board.<br> Think of the board as looped at its edges—if you step off one side, you re-enter on the opposite, like a ring.</p>
+<p>Assign the suits in order: <strong>Hearts first, Diamonds next, then Clubs, then Spades.</strong><br> Each rank simply counts upward: <strong>Ace \= 1, Two \= 2, … Nine \= 9.</strong></p>
+<p>So the first nine Hearts fill the first nine squares, then the Diamonds continue from there, then Clubs, then Spades, until all thirty-six squares are filled.</p>
+<p>To find the exact row and column for any card:</p>
 <ul>
-<li>Give each suit an index: <strong>Hearts=0, Diamonds=1, Clubs=2, Spades=3</strong>.  </li>
-<li>Give each rank a count: <strong>A=1 … 9=9</strong>.  </li>
-<li><strong>Linear i \= suit*9 + (rank–1)</strong>  </li>
-<li><strong>Row R \= ⌊i/6⌋ ; Col C \= i mod 6</strong> (wrap on a torus)</li>
+<li>Count through the deck in that order, from zero up to thirty-five.  </li>
+<li>Divide your count by six: the whole part gives the <strong>row</strong> (A through F).  </li>
+<li>What remains gives the <strong>column</strong> (0 through 5).<br> Wrap around if you go beyond—edges connect smoothly.</li>
 </ul>
-<p><strong>Rune seats</strong> on the board are where <strong>(R+C) mod 3 ∈ {0,1}</strong> (24 seats \= 8 per ætt).<br> <strong>Wards</strong> are where <strong>(R+C) mod 3 \= 2</strong> (12 squares).</p>
-<p>Keep the same ætt rows as before:</p>
+<p>On this board, two kinds of places appear:</p>
 <ul>
-<li><p><strong>Freyr’s ætt:</strong> rows <strong>0 &amp; 3</strong></p>
-</li>
-<li><p><strong>Hagal’s ætt:</strong> rows <strong>1 &amp; 4</strong></p>
-</li>
-<li><p><strong>Týr’s ætt:</strong> rows <strong>2 &amp; 5</strong></p>
-</li>
+<li><strong>Rune seats</strong> are squares whose row and column numbers, when added, fall into the first two divisions of three. These are the twenty-four living seats of the Ættir—eight for each.  </li>
+<li><strong>Wards</strong> are the remaining twelve squares, the watch-stones between.</li>
 </ul>
-<p>Thus every <strong>pip card A–9</strong> is a spot on the board, a member of an <strong>ætt</strong>, and—by the easy sums below—also a seat on the <strong>Sign-Ring</strong>.</p>
-<h3 id="-ring-seat-and-road-for-any-pip-"><strong>Ring-Seat and Road for any pip</strong></h3>
-<p>For its square (R,C):</p>
+<p>The Ættir keep their earlier rows:</p>
 <ul>
-<li><p><strong>Ring-seat d \= (R+C) mod 10</strong> → a stave <strong>0..9</strong> on the Sign-Ring</p>
-</li>
-<li><p><strong>Road r \= (C–R) mod 5</strong> → which bowstring it lies on</p>
-</li>
+<li><strong>Freyr’s ætt</strong>: rows A and D  </li>
+<li><strong>Hagal’s ætt</strong>: rows B and E  </li>
+<li><strong>Týr’s ætt</strong>: rows C and F</li>
 </ul>
-<p>Twinfire (nine-mate) is <strong>9–d</strong>.</p>
-<h2 id="-iii-tens-as-helm-cards-the-fifth-bowstring-"><strong>III. Tens as Helm-Cards (the fifth bowstring)</strong></h2>
-<p>The four <strong>Tens</strong> are the deck’s <strong>Helm-Road</strong> keepers. They also front the <strong>salt/shift</strong> for hide-writing:</p>
+<p>Thus every pip card belongs to an Ætt, has a fixed square, and—by simple sum and difference—finds its place upon the Sign-Ring.</p>
+<p><strong>Its seat on the Ring</strong> is found by adding its row and column numbers together and taking only the last digit of the result; that digit, from 0 to 9, shows which stave of the Ring it occupies. <strong>Its Road</strong> is found by seeing how far the column stands ahead of or behind the row, counted upon five fingers; this shows which bowstring or Road it lies upon. The card’s <strong>Twinfire</strong> (its “nine-mate”) is the card whose Ring number adds with it to make nine.</p>
+<p>## </p>
+<h2 id="-iii-the-tens-keepers-of-the-helm-"><strong>III. The Tens — Keepers of the Helm</strong></h2>
+<p>The four Tens steer the board: they rule the fifth Road, the Helm-Road, and also set the secret shifts used in hidden writing.</p>
+<p>Their bearings:</p>
 <ul>
-<li><p><strong>10♠</strong>: right-shift <strong>+3</strong></p>
-</li>
-<li><p><strong>10♥</strong>: right-shift <strong>+1</strong></p>
-</li>
-<li><p><strong>10♦</strong>: down-shift <strong>+1</strong></p>
-</li>
-<li><p><strong>10♣</strong>: down-shift <strong>+3</strong></p>
-</li>
+<li><strong>Ten of Spades</strong> — move three steps to the right.  </li>
+<li><strong>Ten of Hearts</strong> — move one step to the right.  </li>
+<li><strong>Ten of Diamonds</strong> — move one step downward.  </li>
+<li><strong>Ten of Clubs</strong> — move three steps downward.</li>
 </ul>
-<p>When a line <strong>starts</strong> with one or more Tens, those steps set the board shift (reader un-shifts, then reads). If no Ten leads, read with no shift. (You can change the steps to suit your house; keep them few and easy.)</p>
-<p>On the Sign-Ring, all Tens share <strong>d=0</strong> (the <strong>Void/Helm</strong> seat). They “open the rim” and set right measure.</p>
-<h2 id="-iv-courts-as-gods-and-deeds-"><strong>IV. Courts as Gods and Deeds</strong></h2>
-<p>Twelve face cards carry Aesir and Vanir. Each bears a short law—<em>what the tale teaches</em>—and a house bind to Ring and Road.</p>
-<h3 id="-spear-hall-spades-war-law-sky-spear-road-"><strong>Spear-Hall (Spades: war, law, sky — Spear-Road)</strong></h3>
+<p>When a line or reading begins with one or more Tens, their directions determine how the board has been shifted. The reader first reverses those moves, then reads the result. If no Ten appears first, no shift is used. (You may set your own simple step-rules, so long as they stay easy to remember.)</p>
+<p>On the Sign-Ring, all Tens share the same seat—<strong>the zero-point, the Helm or Void</strong>. They open the rim and measure the work that follows.</p>
+<h2 id="-iv-the-courts-gods-and-their-deeds-"><strong>IV. The Courts — Gods and Their Deeds</strong></h2>
+<p>The twelve face cards hold the Aesir and Vanir. Each brings a teaching and a bond: one law from myth, and one way it acts upon the Ring and the Road.</p>
+<h3 id="-spear-hall-spades-war-law-sky-"><strong>Spear-Hall (Spades — war, law, sky)</strong></h3>
 <ul>
-<li><p><strong>K♠ Týr — The Given Hand.</strong><br> <em>Teach:</em> Give what must be given to keep the peace. Right rule stings, yet holds the hall.<br> <em>Bind:</em> Ring 1/8 (Spear) favored; breaks wards.</p>
+<li><strong>King Týr — The Given Hand.</strong><br> <em>Lesson:</em> Give what must be given to keep the peace; true rule may sting but holds the hall.<br> <em>Bind:</em> Favors the Spear seat (1 or 8); can break a ward.  </li>
+<li><strong>Queen Skadi — The Cold Choice.</strong><br> <em>Lesson:</em> Stand where ground is firm; if the bed is wrong, keep your boots on.<br> <em>Bind:</em> Turns the Road of the Wolf into the Spear—hunt becomes law.  </li>
+<li><p><strong>Jack Heimdall — The Watch.</strong><br> <em>Lesson:</em> Rise early; hear the hoof before the horn.<br> <em>Bind:</em> Lets you treat one card as if no board-shift applied.</p>
+<h3 id="-frith-hall-hearts-love-kin-mead-"><strong>Frith-Hall (Hearts — love, kin, mead)</strong></h3>
 </li>
-<li><p><strong>Q♠ Skadi — The Cold Choice.</strong><br> <em>Teach:</em> Know your ground; if the bed is wrong, keep your boots on.<br> <em>Bind:</em> Turns hunt to law (Wolf→Spear).</p>
+<li><p><strong>King Freyr — The Seed and the Gift.</strong><br> <em>Lesson:</em> Give first; the field returns in kind.<br> <em>Bind:</em> May exchange a Twinfire pair without leaving its Road.  </p>
 </li>
-<li><p><strong>J♠ Heimdall — The Watch.</strong><br> <em>Teach:</em> Wake early; hear the soft hoof long before the horn.<br> <em>Bind:</em> Lets you read one card as if un-shifted.</p>
+<li><strong>Queen Frigg — The Quiet Foresight.</strong><br> <em>Lesson:</em> See and hold silence; not all known must be said.<br> <em>Bind:</em> May hide one card for a turn (“under snow”).  </li>
+<li><p><strong>Jack Bragi — The Right Song.</strong><br> <em>Lesson:</em> Speak true; speech shapes fate.<br> <em>Bind:</em> Rename a draw, glossing it by its rune.</p>
+<h3 id="-hoard-hall-diamonds-craft-trade-sea-"><strong>Hoard-Hall (Diamonds — craft, trade, sea)</strong></h3>
 </li>
+<li><p><strong>King Njörðr — The Fair Shore.</strong><br> <em>Lesson:</em> Safe wealth lies in well-chosen harbors.<br> <em>Bind:</em> Swap a step along the Oar-Road without losing ground.  </p>
+</li>
+<li><strong>Queen Freyja — The Price and the Will.</strong><br> <em>Lesson:</em> Worth demands will; pay the price to gain the gold.<br> <em>Bind:</em> Pay one card to draw two, keep one.  </li>
+<li><p><strong>Jack Loki — The Hidden Cost.</strong><br> <em>Lesson:</em> Every shortcut has a tail; reckon it early.<br> <em>Bind:</em> Force a Twinfire and raise a ward.</p>
+<h3 id="-yoke-hall-clubs-work-earth-field-"><strong>Yoke-Hall (Clubs — work, earth, field)</strong></h3>
+</li>
+<li><p><strong>King Þórr — The Right Blow.</strong><br> <em>Lesson:</em> Strength with measure; strike what must fall, spare what may grow.<br> <em>Bind:</em> Breaks a ward and clears the Wolf-Road path (3 or 6).  </p>
+</li>
+<li><strong>Queen Sif — The Bread and the Field.</strong><br> <em>Lesson:</em> Growth loves care; mind the roots.<br> <em>Bind:</em> Move one step diagonally (down and right) once for free.  </li>
+<li><strong>Jack Hermóðr — The Go-Between.</strong><br> <em>Lesson:</em> Journey, return, and tell the truth of the road.<br> <em>Bind:</em> Retrieve one known card from the discard.</li>
 </ul>
-<h3 id="-frith-hall-hearts-love-kin-mead-ash-road-"><strong>Frith-Hall (Hearts: love, kin, mead — Ash-Road)</strong></h3>
+<p>You may exchange other gods or tales, but each face should stay tied to its hall’s Road and a clear teaching.</p>
+<p>## </p>
+<h2 id="-v-the-nine-worlds-upon-the-ring-"><strong>V. The Nine Worlds upon the Ring</strong></h2>
+<p>The ten seats of the Sign-Ring hold the Nine Worlds, with the White Still or Ginnung between as the rim:</p>
+<table>
+<thead>
+<tr>
+<th>Seat</th>
+<th>World</th>
+<th>Domain</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td><strong>Ginnung (White Still)</strong></td>
+<td>the silent rim, pure potential</td>
+</tr>
+<tr>
+<td>1</td>
+<td><strong>Ásgarðr</strong></td>
+<td>law, word, oath</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Vanaheimr</strong></td>
+<td>exchange, tide, trade</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Jötunheimr</strong></td>
+<td>wild strength, edge</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Midgarðr</strong></td>
+<td>the field, the bound</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Hel</strong></td>
+<td>ending, due, endurance</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Svartálfaheimr / Dvergaheimr</strong></td>
+<td>craft, repair, binding</td>
+</tr>
+<tr>
+<td>7</td>
+<td><strong>Álfheimr</strong></td>
+<td>skill, light, fetch and favor</td>
+</tr>
+<tr>
+<td>8</td>
+<td><strong>Border of Nifl and Musp</strong></td>
+<td>gate, threshold, warding</td>
+</tr>
+<tr>
+<td>9</td>
+<td><strong>All-Round</strong></td>
+<td>harvest, summing, renewal</td>
+</tr>
+</tbody>
+</table>
+<p>Twinfires bind the worlds whose numbers make nine: (1 with 8), (2 with 7), (3 with 6), (4 with 5), and the rim-bond (0 with 9). When you draw a pair that form such a sum, read their story together as one yoke.</p>
+<p>## </p>
+<h2 id="-vi-ways-of-play-work-hidden-writing-and-lot-casting-"><strong>VI. Ways of Play — Work, Hidden Writing, and Lot-Casting</strong></h2>
+<h3 id="-a-plain-work-"><strong>A) Plain Work</strong></h3>
+<p>Lay the pips as their places on the board.<br> Use the face cards to interpret the reading.<br> If a Ten appears first, apply its shift before reading.</p>
+<h3 id="-b-hide-writing-steganography-"><strong>B) Hide-Writing (Steganography)</strong></h3>
+<p>Begin with Tens to fix the board’s shift. Write with pips that fall on Rune seats only. To change the visible card without changing its meaning:</p>
 <ul>
-<li><p><strong>K♥ Freyr — The Seed and the Gift.</strong><br> <em>Teach:</em> Give first; fields answer in kind.<br> <em>Bind:</em> Makes a Twinfire swap without leaving the Road.</p>
+<li><strong>Road-walk:</strong> move one step down and right any number of times—this keeps the same Ring and Road, only the card’s face changes.  </li>
+<li><p><strong>Ring-swap:</strong> move one step down and left repeatedly until you reach your Twinfire seat; this swaps the face to its mirrored twin.<br> Drop ward-cards among them to mark vowels, ties, and pauses.</p>
+<h3 id="-c-lot-casting-quick-reading-"><strong>C) Lot-Casting (Quick Reading)</strong></h3>
 </li>
-<li><p><strong>Q♥ Frigg — The Quiet Foresight.</strong><br> <em>Teach:</em> Know and hush; not all seen is said.<br> <em>Bind:</em> Hold a card “under snow” (mute it for one turn).</p>
+<li><p><strong>One-Breath Draw:</strong> draw two pips. Read them as a Twinfire pair, their Ring seats telling the story (e.g. 3 with 6 → “wild strength must be woven”). Let the suit color how it acts: Spear for bold speech, Ash for kin and accord, Oar for journey, Wolf for work.  </p>
 </li>
-<li><p><strong>J♥ Bragi — The Right Song.</strong><br> <em>Teach:</em> Tell it true; tongue shapes fate.<br> <em>Bind:</em> Rename a draw (gloss one card as its rune name).</p>
-</li>
-</ul>
-<h3 id="-hoard-hall-diamonds-craft-trade-sea-oar-road-"><strong>Hoard-Hall (Diamonds: craft, trade, sea — Oar-Road)</strong></h3>
-<ul>
-<li><p><strong>K♦ Njörðr — The Fair Shore.</strong><br> <em>Teach:</em> Choose good harbors; wealth is safe land thrice over.<br> <em>Bind:</em> Swap any one step along Oar (2↔7) without loss.</p>
-</li>
-<li><p><strong>Q♦ Freyja — The Price and the Will.</strong><br> <em>Teach:</em> Worth needs will; lay the price and take the gold.<br> <em>Bind:</em> Pay a card to draw two, keep one.</p>
-</li>
-<li><p><strong>J♦ Loki — The Hidden Cost.</strong><br> <em>Teach:</em> A quick fix has a tail; reckon it now or bleed later.<br> <em>Bind:</em> Force a Twinfire; then place one ward.</p>
-</li>
-</ul>
-<h3 id="-yoke-hall-clubs-work-earth-field-wolf-road-"><strong>Yoke-Hall (Clubs: work, earth, field — Wolf-Road)</strong></h3>
-<ul>
-<li><p><strong>K♣ Þórr — The Right Blow.</strong><br> <em>Teach:</em> Strength with measure: smite what must be smit, spare what can grow.<br> <em>Bind:</em> Breaks one ward; clears a path on Wolf (3↔6).</p>
-</li>
-<li><p><strong>Q♣ Sif — The Bread and the Field.</strong><br> <em>Teach:</em> Mind the root; growth loves care.<br> <em>Bind:</em> Make a Road-walk <em>(+1 row,+1 col)</em> once for free.</p>
-</li>
-<li><p><strong>J♣ Hermóðr — The Go-Between.</strong><br> <em>Teach:</em> Go, bring back, and tell no lies about the road.<br> <em>Bind:</em> Fetch one known card from the throw-out.</p>
-</li>
-</ul>
-<p>You can swap in others (Odin, Frigg/Freyja trade places, etc.). Keep each face bound to its hall-Road and a clear teach.</p>
-<h2 id="-v-the-nine-worlds-on-the-ring-for-lots-and-reads-"><strong>V. The Nine Worlds on the Ring (for lots and reads)</strong></h2>
-<p>Map the <strong>Ring seats</strong> to <strong>Nine Worlds</strong> (and the <em>White Still</em> that cradles them):</p>
-<ul>
-<li><p><strong>0 → Ginnung (White Still / Rim)</strong></p>
-</li>
-<li><p><strong>1 → Ásgarðr</strong> (law, word, oaths)</p>
-</li>
-<li><p><strong>2 → Vanaheimr</strong> (tide, trade, give-and-take)</p>
-</li>
-<li><p><strong>3 → Jötunheimr</strong> (wild might, edge)</p>
-</li>
-<li><p><strong>4 → Midgarðr</strong> (field, bounds, deal)</p>
-</li>
-<li><p><strong>5 → Hel</strong> (due, end, holding fast)</p>
-</li>
-<li><p><strong>6 → Svartálfa/Dvergaheimr</strong> (craft, bind, make-whole)</p>
-</li>
-<li><p><strong>7 → Álfheimr</strong> (fare, fetch, bright skill)</p>
-</li>
-<li><p><strong>8 → Nifl/Musp border</strong> (gate, ward, in-out)</p>
-</li>
-<li><p><strong>9 → All-Round</strong> (harvest, sum, start-again)</p>
-</li>
-</ul>
-<p>Twinfires yoke worlds that “make nine”: (1↔8), (2↔7), (3↔6), (4↔5), with <strong>0↔9</strong> as the rim-bond. In a throw, read a pair by its yoke-tale.</p>
-<h2 id="-vi-play-ways-work-hide-and-lot-"><strong>VI. Play-ways (work, hide, and lot)</strong></h2>
-<h3 id="-a-plain-work-pips-as-places-"><strong>A) Plain Work (pips as places)</strong></h3>
-<ul>
-<li><p>Lay A–9 as board spots (by the 6×6 rule).</p>
-</li>
-<li><p>Face cards change the <em>way</em> you read (as above).</p>
-</li>
-<li><p>Tens shift the board (salt) if they lead.</p>
-</li>
-</ul>
-<h3 id="-b-hide-writing-stego-with-the-deck-"><strong>B) Hide-Writing (stego) with the deck</strong></h3>
-<ul>
-<li><p>Start with <strong>Tens</strong> to set shift.</p>
-</li>
-<li><p>Write runes with <strong>rune-seat</strong> pips only (your 24 seats).</p>
-</li>
-<li><p>To change the face but keep the sway:</p>
-<ul>
-<li><p><strong>Road-walk:</strong> crawl <em>(+1 row,+1 col)</em> any number; d and r stay the same, only the printed face changes.</p>
-</li>
-<li><p><strong>Ring-swap:</strong> crawl <em>(+1 row,−1 col)</em> until <strong>d → 9−d</strong> along the same <strong>Road</strong>; now you’re the Twinfire face.</p>
-</li>
-</ul>
-</li>
-<li><p>Drop ward-pips among the runes to mark vowels, binds, breaks (your earlier scheme).</p>
-</li>
-</ul>
-<h3 id="-c-lot-cast-quick-read-"><strong>C) Lot-Cast (quick read)</strong></h3>
-<ul>
-<li><p><strong>One-breath Draw:</strong> pull <strong>2 pips</strong>. Read their <strong>Ring seats</strong> as a Twinfire: tell the pair-tale (e.g., <strong>3/6</strong> \= “wild might must be woven”). Let the <strong>Road</strong> of either card color the means (Spear=bold word, Ash=deal, Oar=journey, Wolf=work).</p>
-</li>
-<li><p><strong>Hall-and-Hearth:</strong> pull <strong>3 cards</strong> → <strong>Road (how), Work (what), Measure (what to give or hold).</strong> A Ten in slot 1 says “shift first”; a face in slot 3 says “a teach is due.”</p>
-</li>
+<li><strong>Hall and Hearth:</strong> draw three cards for <em>how, what,</em> and <em>measure</em>—the Road, the Work, and what must be given or held. A Ten in the first slot means “shift first”; a face in the third says “a teaching is due.”</li>
 </ul>
 <h3 id="-d-nine-world-spread-"><strong>D) Nine-World Spread</strong></h3>
-<p>Lay <strong>9 cards</strong> clockwise. Map each by <strong>d</strong> to the world list in §V; speak the tale at that seat with help from the hall-Road and any faces that land there. Tens at <strong>0</strong> crown the spread: rim-law in play.</p>
-<h2 id="-vii-folktale-bound-to-ring-road-"><strong>VII. Folktale Bound to Ring &amp; Road</strong></h2>
+<p>Lay nine cards clockwise around you. Each card’s Ring seat names one of the Nine Worlds; speak what that world says with help from the card’s hall and Road. If any Ten lands at the rim (seat 0), the law of the rim governs the reading.</p>
+<p>## </p>
+<h2 id="-vii-tales-bound-to-ring-and-road-"><strong>VII. Tales Bound to Ring and Road</strong></h2>
 <ul>
-<li><p><strong>The Fen-Beast Chain (3↔6 on Wolf).</strong><br> <em>Tale:</em> A wild harm is bound by craft and will.<br> <em>Teach:</em> Don’t smash what must be <em>held</em>. Weave, then strike.<br> <em>Use:</em> When 3 and 6 show with Clubs, bind first, act second.</p>
+<li><p><strong>The Fen-Beast Chain</strong> (3 ↔ 6, Wolf-Road)<br> <em>Tale:</em> Wild harm is bound by craft and will.<br> <em>Teach:</em> Don’t crush what must be contained—bind, then strike.<br> <em>Use:</em> When 3 and 6 appear in Clubs, act in that order: bind first, then act.</p>
 </li>
-<li><p><strong>Brísing Necklace (2↔7 on Oar).</strong><br> <em>Tale:</em> Price and path: wealth comes of fare and fair trade—and of honest cost.<br> <em>Teach:</em> Name the price or you’ll pay it twice.<br> <em>Use:</em> Diamonds with 2/7 say “deal clean; travel light.”</p>
+<li><p><strong>The Brísing Necklace</strong> (2 ↔ 7, Oar-Road)<br> <em>Tale:</em> Wealth comes through fair price and honest passage.<br> <em>Teach:</em> Name the price or pay it twice.<br> <em>Use:</em> Diamonds with 2 or 7 say “trade cleanly, travel light.”</p>
 </li>
-<li><p><strong>The Given Hand (1↔8 on Spear).</strong><br> <em>Tale:</em> A pledge kept with flesh holds the ring together.<br> <em>Teach:</em> Pay once in full; the hall stands.<br> <em>Use:</em> Spades with 1/8 press for oaths kept, gates warded.</p>
+<li><p><strong>The Given Hand</strong> (1 ↔ 8, Spear-Road)<br> <em>Tale:</em> A promise kept with flesh holds the ring together.<br> <em>Teach:</em> Pay once in full; the hall stands.<br> <em>Use:</em> Spades with 1 or 8 demand oath and ward.</p>
 </li>
-<li><p><strong>Baldur’s Bale (4↔5 on Ash).</strong><br> <em>Tale:</em> One small slight (mistle) breaks the field when bounds are not watched.<br> <em>Teach:</em> Mind the hedge; small things undo great.<br> <em>Use:</em> Hearts with 4/5 warn: tend the little law.</p>
+<li><p><strong>Baldur’s Bale</strong> (4 ↔ 5, Ash-Road)<br> <em>Tale:</em> A small neglect unravels great things.<br> <em>Teach:</em> Tend the hedge; small faults fell giants.<br> <em>Use:</em> Hearts with 4 or 5 warn against broken bounds.</p>
 </li>
-<li><p><strong>World-Rim and Harvest (0↔9, Tens + any 9).</strong><br> <em>Tale:</em> What begins in the White Still ends in the All-Round and seeds again.<br> <em>Teach:</em> Close the work; lay seed for the next.<br> <em>Use:</em> Ten followed by a Nine: finish clean; start fresh.</p>
+<li><p><strong>World-Rim and Harvest</strong> (0 ↔ 9, any Ten with any Nine)<br> <em>Tale:</em> What begins in stillness ends in return.<br> <em>Teach:</em> Close the work cleanly; sow for the next.<br> <em>Use:</em> Ten followed by a Nine means: finish, then begin anew.</p>
+<h2 id="-viii-quick-reference-wallet-sheet-"><strong>VIII. Quick Reference (Wallet Sheet)</strong></h2>
 </li>
+<li><p><strong>Suits → Roads</strong><br> Spades \= Spear Hearts \= Ash Diamonds \= Oar Clubs \= Wolf Tens \= Helm  </p>
+</li>
+<li><strong>Pips A–9 → Board</strong><br> First nine Hearts, then Diamonds, then Clubs, then Spades. Rows and columns wrap around.  </li>
+<li><strong>Ring Seat:</strong> add row + column, take the last digit (0–9).  </li>
+<li><strong>Road:</strong> difference of column and row, counted on five fingers.  </li>
+<li><strong>Twinfire:</strong> the card whose Ring seat makes nine with yours.  </li>
+<li><strong>Rune Seats:</strong> where the sum of row + column falls into the first two parts of three (24 total).  </li>
+<li><strong>Wards:</strong> the remaining twelve.  </li>
+<li><strong>Walks:</strong> down-and-right keeps the same Road; down-and-left flips to the Twin.  </li>
+<li><strong>Shifts (the “salt”):</strong><br> Ten ♠ → three right Ten ♥ → one right Ten ♦ → one down Ten ♣ → three down.</li>
 </ul>
-<h2 id="-viii-one-page-cheat-for-the-wallet-"><strong>VIII. One-page cheat (for the wallet)</strong></h2>
-<ul>
-<li><strong>Suits→Roads:</strong> ♠ Spear • ♥ Ash • ♦ Oar • ♣ Wolf • <strong>10s \= Helm</strong>  </li>
-<li><strong>Pips A–9 → 6×6:</strong> i=s*9+(r–1); R=⌊i/6⌋; C=i mod6  </li>
-<li><strong>Ring seat:</strong> d=(R+C) mod10 • <strong>Road:</strong> r=(C−R) mod5 • <strong>Twin:</strong> 9−d  </li>
-<li><strong>Rune seats:</strong> (R+C) mod3 ∈ {0,1} • <strong>Wards:</strong> \=2  </li>
-<li><strong>Walks:</strong> keep Road <em>(+1,+1)</em> • flip Twin <em>(+1,−1)</em>  </li>
-<li><strong>Salt:</strong> 10♠ +3 right • 10♥ +1 right • 10♦ +1 down • 10♣ +3 down</li>
-</ul>
-<h2 id="ix-a-quick-rite-to-make-it-sing">IX. A quick rite to make it sing</h2>
-<ol>
-<li><p><strong>Hallow the stead.</strong> Set deck, draw the Sign-Ring star with five bowstrings.</p>
-</li>
-<li><p><strong>Breathe five times</strong> naming Roads in order: Helm (hold a Ten), Spear, Oar, Wolf, Ash.</p>
-</li>
-<li><p><strong>Cut once; draw three</strong>: Road / Work / Measure. Speak their hall-laws.</p>
-</li>
-<li><p><strong>Close with a Twin-pair.</strong> Draw two pips; tell their make-nine teach.</p>
-</li>
-<li><p><strong>Rise and go to work.</strong> Let the teach carry into deed.</p>
-</li>
-</ol>
+<h2 id="-ix-a-brief-rite-to-awaken-it-"><strong>IX. A Brief Rite to Awaken It</strong></h2>
+<p>Consecrate the place. Lay out the deck.<br> Trace the Sign-Ring star with its five Roads.</p>
+<p>Breathe five times, naming the Roads in turn:<br> Helm (hold a Ten), Spear, Oar, Wolf, Ash.</p>
+<p>Cut once; draw three cards for <strong>Road</strong>, <strong>Work</strong>, and <strong>Measure</strong>.<br> Speak their lessons.</p>
+<p>Close with a Twinfire pair: draw two pips, tell the tale of how they make nine.</p>
+<p>Then rise, and carry that teaching into the day’s deed.</p>
 <h1 id="settling-the-mead">Settling the Mead</h1>
 <p>A warrior must clear his mind until it shines. We keep the old forms—harrow the space, take our seat, and work the breath. The goal is <em>stillness with strength</em>, not to hunt visions or omens. This is closer to the quiet discipline of a watchful thane than to seiðr.</p>
 <h3 id="hallowing-the-stead">Hallowing the Stead</h3>
