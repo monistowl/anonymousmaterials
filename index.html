@@ -3935,8 +3935,14 @@ I64 DOY(I64 y,I64 m,I64 d){ I64 md[12]={31,28,31,30,31,30,31,31,30,31,30,31}; I6
 </ul>
 <p>If you want a sterner lock, you can swap which two “stones” count as seats (e.g., choose the second and third instead of the first and second) or flip which rows belong to which ætt—so long as both sides share the house-rule.</p>
 <h1 id="binding-the-ring-to-the-board-and-the-ttir">Binding the Ring to the Board and the Ættir</h1>
-<p>Below is a house-rule that yokes all three: the 6×6 board (0..Z), the Reckon-Wheel (0..9) with its Twinfires, and the three ættir with their 24 rune seats and 12 wards. It keeps the work in head and hand—no hard sums, only short counts and a few clean rules.</p>
-<h2 id="0-what-we-already-set">0) What we already set</h2>
+<p>A house-rule that ties three things together:</p>
+<ul>
+<li>the <strong>6×6 board</strong> labeled <strong>0–Z</strong> (wrapping at the edges),  </li>
+<li>the <strong>Reckon-Wheel</strong> (the Sign-Ring) with seats <strong>0–9</strong> and their <strong>Twinfires</strong> (pairs that add to nine),  </li>
+<li>the <strong>three ættir</strong> with <strong>24 rune seats</strong> and <strong>12 wards</strong>.</li>
+</ul>
+<p>Keep it all in head and hand.</p>
+<h2 id="-0-what-s-already-set-"><strong>0) What’s already set</strong></h2>
 <p>Board face:</p>
 <table>
 <thead>
@@ -3992,136 +3998,110 @@ I64 DOY(I64 y,I64 m,I64 d){ I64 md[12]={31,28,31,30,31,30,31,31,30,31,30,31}; I6
 </tr>
 </tbody>
 </table>
+<p><strong>Rune seats</strong> are the squares whose row number plus column number, when you group things in threes, fall into the first two groups (call those “0” or “1”). The remaining third group are <strong>wards</strong>.</p>
+<p><strong>Ætt by rows:</strong></p>
 <ul>
-<li><p>Rows and cols count from 0; wrap on edges.</p>
-</li>
-<li><p>Rune seats are those squares where row+col leaves 0 or 1 when split by threes (the “2” stones are wards).</p>
-</li>
-<li><p>Ætt by rows: Freyr (rows 0 &amp; 3), Hagal (rows 1 &amp; 4), Týr (rows 2 &amp; 5).</p>
-</li>
-<li><p>Given rune seats:<br> Freyr: 0 1 3 4 I J L M<br> Hagal: 6 8 9 B O Q R T<br> Týr: D E G H V W Y Z<br> Wards: 2 5 7 A C F K N P S U X</p>
-</li>
+<li><strong>Freyr:</strong> rows 0 and 3  </li>
+<li><strong>Hagal:</strong> rows 1 and 4  </li>
+<li><strong>Týr:</strong> rows 2 and 5</li>
+</ul>
+<p><strong>Given rune seats (unchanged):</strong></p>
+<ul>
+<li><strong>Freyr:</strong> 0, 1, 3, 4, I, J, L, M  </li>
+<li><strong>Hagal:</strong> 6, 8, 9, B, O, Q, R, T  </li>
+<li><strong>Týr:</strong> D, E, G, H, V, W, Y, Z  </li>
+<li><strong>Wards:</strong> 2, 5, 7, A, C, F, K, N, P, S, U, X</li>
 </ul>
 <p>We’ll keep all that.</p>
-<h2 id="1-ring-seat-for-any-square-binds-board-0-9-">1) Ring-Seat for any square (binds Board → 0..9)</h2>
-<p>For any square, take row+col and count by tens:</p>
+<h2 id="-1-ring-seat-for-any-square-board-ring-0-9-"><strong>1) Ring seat for any square (Board → Ring 0–9)</strong></h2>
+<p>Add the square’s row and column numbers. If the sum is bigger than nine, keep only the last digit.<br> That digit (0–9) is the square’s <strong>seat on the Ring</strong>. Its <strong>Twinfire</strong> is the number that pairs with it to make nine.</p>
 <ul>
-<li>Ring-seat (d) \= <em>(row + col) counted mod 10</em>.<br> (Plainly: add row and col; if over nine, drop the tens.)</li>
+<li>Example: <strong>0</strong> sits at row 0, column 0 → sum 0 → Ring 0 (the Void).  </li>
+<li><strong>J</strong> sits at row 3, column 1 → 3+1=4 → Ring 4 (Forth / Ash).  </li>
+<li><strong>W</strong> sits at row 5, column 1 → 5+1=6 → Ring 6 (Loom / Weave).</li>
 </ul>
-<p>This puts every board square on a Reckon-Wheel seat 0..9.<br> Its Twinfire is 9–d.</p>
-<p><em>Examples:</em><br> 0 sits at row0 col0 → d=0 (Void).<br> J sits at row3 col1 → 3+1=4 (Forth/Square).<br> W sits at row5 col1 → 5+1=6 (Loom/Weave).</p>
-<p>This one rule binds your runes (by their seats) straight to the Ring.</p>
-<h2 id="2-road-mark-for-any-square-binds-board-the-five-roads-">2) Road-mark for any square (binds Board → the five Roads)</h2>
-<p>Give each square a Road by the lean difference:</p>
+<p>This single rule ties any board square straight onto the Ring.</p>
+<h2 id="-2-road-mark-for-any-square-board-the-five-roads-"><strong>2) Road mark for any square (Board → the five Roads)</strong></h2>
+<p>Look at how the column stands relative to the row. Count the “gap” on one hand (five steps), wrapping as needed. That gives the square’s <strong>Road</strong>:</p>
 <ul>
-<li>Road-mark (r) \= <em>(col – row) counted mod 5</em>.</li>
+<li><strong>0</strong> → <strong>Helm-Road</strong> (the rim: 0 with 9)  </li>
+<li><strong>1</strong> → <strong>Spear-Road</strong> (1 with 8)  </li>
+<li><strong>2</strong> → <strong>Oar-Road</strong> (2 with 7)  </li>
+<li><strong>3</strong> → <strong>Wolf-Road</strong> (3 with 6)  </li>
+<li><strong>4</strong> → <strong>Ash-Road</strong> (4 with 5)</li>
 </ul>
-<p>Name the five as you like; house-names we set before:</p>
+<p>So every square carries a pair <strong>(d, r)</strong>: a Ring seat and a Road.</p>
+<h2 id="-3-tt-yokes-ring-roads-ttir-"><strong>3) Ætt yokes (Ring/Roads ↔ ættir)</strong></h2>
+<p>Keep the row-based ætt split, and give each ætt its “in-character” Roads for rite and stego:</p>
 <ul>
-<li><p>0 → Helm-Road (0↔9)</p>
-</li>
-<li><p>1 → Spear-Road (1↔8)</p>
-</li>
-<li><p>2 → Oar-Road (2↔7)</p>
-</li>
-<li><p>3 → Wolf-Road (3↔6)</p>
-</li>
-<li><p>4 → Ash-Road (4↔5)</p>
-</li>
+<li><strong>Freyr’s ætt (rows 0 &amp; 3):</strong> <strong>Ash</strong> and <strong>Spear</strong> (field/hand; thrust/ward)  </li>
+<li><strong>Hagal’s ætt (rows 1 &amp; 4):</strong> <strong>Oar</strong> and <strong>Wolf</strong> (fare/fetch; hunt/home)  </li>
+<li><strong>Týr’s ætt (rows 2 &amp; 5):</strong> <strong>Helm</strong> (0↔9, even-mood, rim-law)</li>
 </ul>
-<p>So each square has (d, r): a Ring-seat and a Road.</p>
-<h2 id="3-tt-yokes-binds-ring-roads-the-three-ttir-">3) Ætt yokes (binds Ring/Roads ↔ the three ættir)</h2>
-<p>Keep rows as the ætt split, but give each ætt its Road yoke for rite and stego moves:</p>
+<p>This doesn’t change how you read meanings; it just tells you which Road-moves are “on brand” when you dress or hide a line.</p>
+<h2 id="-4-how-to-write-runes-marks-with-drift-and-hide-"><strong>4) How to write (runes → marks), with drift and hide</strong></h2>
+<p><strong>A. Plain laydown (no hide).</strong><br> For each rune, place its actual board letter from the set above. That face is the mark. Done.</p>
+<p><strong>B. Salt and shift (as before).</strong><br> Begin with one or two <strong>ward</strong> marks to signal a global board shift (right or down).<br> The reader un-shifts first, then reads. (House picks the exact ward→shift scheme.)</p>
+<p><strong>C. Ring-swap (Twinfire hide).</strong><br> To change the visible face but keep the underlying sway: move along the same <strong>Road</strong> to another square whose <strong>Ring seat is the Twin</strong> (the number that makes nine with the old one).<br> Road stays the same; Ring flips to its mate.<br> For stricter rite: only allow swaps on the Roads yoked to that ætt (e.g., in Freyr’s rows, use Ash or Spear only).</p>
+<p><strong>D. Road-walk (shape hide).</strong><br> To change only the printed face while keeping <strong>both</strong> Ring and Road the same, <strong>crawl diagonally down-and-right</strong> (row +1, column +1), wrapping at edges.<br> That keeps the Road (the gap) and the Ring seat (the sum) unchanged while the face changes.<br> If you need to recover precisely, either:</p>
 <ul>
-<li><p>Freyr’s ætt (rows 0 &amp; 3): Ash and Spear<br> (field/hand; thrust/ward)</p>
-</li>
-<li><p>Hagal’s ætt (rows 1 &amp; 4): Oar and Wolf<br> (fare/fetch; hunt/home)</p>
-</li>
-<li><p>Týr’s ætt (rows 2 &amp; 5): Helm<br> (0↔9, even-mood, rim-law)</p>
-</li>
+<li>drop a small ward after the rune to say how many crawls you took, or  </li>
+<li>make a simple house rule (e.g., “always one crawl”).</li>
 </ul>
-<p>This does not change reading; it sets which Road-walks are “in-character” when you dress or hide a line.</p>
-<h2 id="4-how-to-write-runes-marks-with-drift-and-hide">4) How to <em>write</em> (runes → marks), with drift and hide</h2>
-<p>A. Plain laydown (no hide):<br> For each rune, take its board seat (from the list we set). That letter itself <em>is</em> the mark. Done.</p>
-<p>B. Salt and shift (same as before):<br> Lead with 1–2 ward marks to tell right-shift and down-shift of the whole board (reader un-shifts, then reads).</p>
-<p>C. Ring-swap (Twinfire hide):<br> To change the face but keep the deep sway, swap any mark on Ring-seat d to <em>some</em> other mark on the board that shares the same Road and sits on the Twinfire seat (9–d).</p>
+<p><strong>Summary:</strong></p>
 <ul>
-<li>You keep the Road (shape), flip the Ring (mate).  </li>
-<li>If you want stricter rite, only allow the Road-swaps that fit your ætt yoke (e.g., in Freyr’s rows, swap along Ash or Spear only).</li>
+<li><strong>Ring-swap:</strong> same Road, Twin seat on the Ring → meaning flips to its mate.  </li>
+<li><strong>Road-walk:</strong> same Ring, same Road → only the face changes.</li>
 </ul>
-<p>D. Road-walk (shape hide):<br> To shuffle shape but keep the same Ring-seat, step ±5 squares (wrap) in board-index (row*6+col).</p>
-<ul>
-<li>Moving by five keeps <em>(col–row) mod 5</em> unchanged, so your Road stays the same while the board face changes.  </li>
-<li>Mark how many steps with a ward right after the rune if you need recovery; or fix a house-rule count (e.g., always +5 once) so the reader knows.</li>
-</ul>
-<p>In short: Ring-swap keeps Road, flips mate. Road-walk keeps both Ring and Road, only changes the face.</p>
-<h2 id="5-how-to-read-marks-runes-clean-and-sure">5) How to <em>read</em> (marks → runes), clean and sure</h2>
+<h2 id="-5-how-to-read-marks-runes-clean-and-sure-"><strong>5) How to read (marks → runes), clean and sure</strong></h2>
 <ol>
-<li><p>If the string starts with ward(s), un-shift board by those steps (right/down).</p>
-</li>
-<li><p>For each mark:</p>
-<ul>
-<li><p>If it’s on a rune seat, read that rune plain.</p>
-</li>
-<li><p>If your house uses Road-walks, undo the fixed walk (e.g., step −5) <em>before</em> lookup.</p>
-</li>
-<li><p>If your house uses Ring-swaps, and the face you see is not a rune seat, step along its Road to the Twinfire seat that <em>is</em> a rune seat, then read the rune.</p>
-</li>
+<li>If the string begins with wards, undo the announced board shift (right/down), then read.  </li>
+<li>For each mark:  <ul>
+<li>If it’s on a rune seat, read that rune as is.  </li>
+<li>If your house uses a fixed <strong>Road-walk</strong>, undo that many diagonal crawls (up-and-left) before lookup.  </li>
+<li>If your house allows <strong>Ring-swaps</strong> and the face you see isn’t itself a rune seat, slide along its <strong>Road</strong> until you land on the <strong>Twin seat</strong> that <strong>is</strong> a rune seat, then read that rune.  </li>
 </ul>
 </li>
-<li><p>Ignore wards mid-string unless your house set them as vowels/binds.</p>
-</li>
+<li>Ignore wards in the middle unless your house uses them for vowels/binds.</li>
 </ol>
-<p>This keeps parse in head with two tiny counts (mod 10 and mod 5).</p>
-<h2 id="6-why-this-hangs-true-hand-check-">6) Why this hangs true (hand-check)</h2>
+<p>The whole parse lives in your head with two tiny habits: “add the corners” (Ring seat) and “feel the bowstring” (Road).</p>
+<h2 id="-6-why-it-hangs-true-hand-check-"><strong>6) Why it hangs true (hand-check)</strong></h2>
 <ul>
-<li><p>Every square maps to a Ring-seat (by row+col) and a Road (by col–row).</p>
-</li>
-<li><p>Ring-swap to Twinfire flips d → 9–d while r stays put (you slid along the bowstring).</p>
-</li>
-<li><p>Road-walk by ±5 keeps r (same bowstring) <em>and</em> keeps d (sum doesn’t change when you shift one right/one down in lockstep around the ring), but gives you a new face to print on.</p>
-</li>
-<li><p>Ætt yokes keep rite tidy: Freyr favors field/hand roads; Hagal favors fare/hunt roads; Týr keeps the helm.</p>
-</li>
+<li>Every square owns a <strong>Ring seat</strong> (by adding row and column) and a <strong>Road</strong> (by their gap).  </li>
+<li><strong>Ring-swap</strong> slides along the <strong>same bowstring</strong>, so the Road stays; the Ring flips to its Twin.  </li>
+<li><strong>Road-walk</strong> is the <strong>down-and-right crawl</strong>: sum and gap both hold steady, only the printed letter changes.  </li>
+<li>The <strong>ætta yokes</strong> keep style: Freyr favors field/hand Roads; Hagal favors fare/hunt; Týr keeps the helm rim-law.</li>
 </ul>
-<h2 id="7-tiny-worked-bit">7) Tiny worked bit</h2>
-<p>Say the rune is Ansuz at 4 (row0 col4).</p>
+<h2 id="-7-a-tiny-worked-bit-"><strong>7) A tiny worked bit</strong></h2>
+<p>Suppose the rune is <strong>Ansuz</strong> at <strong>4</strong> (row 0, column 4).</p>
 <ul>
-<li><p>d \= 0+4 \= 4 (Ash/Forth).</p>
-</li>
-<li><p>r \= (4–0) mod5 \= 4 (Ash-Road).</p>
-</li>
+<li><strong>Ring seat:</strong> 0+4 \= <strong>4</strong> (Ash / “Forth”).  </li>
+<li><strong>Road:</strong> column ahead of row by <strong>4</strong> → <strong>Ash-Road</strong>.</li>
 </ul>
-<p>Ring-swap: Twinfire of 4 is 5. Walk the Ash-Road to some face with d=5.<br> One such is M (row3 col4): 3+4=7 (nope). Try L (3,3): 3+3=6 (no). Try J (3,1): 3+1=4 (still 4).<br> Better: step along Ash by a fixed pattern: <em>(col–row stays 4)</em> → for row1 col? we need col= row+4:</p>
+<p><strong>Ring-swap (to the Twin):</strong> Twin of 4 is <strong>5</strong>.<br> Slide along <strong>Ash-Road</strong> (stay on the same bowstring) until you reach a square whose Ring seat is 5.<br> (Your eye learns these paths quickly; in play, you’ll feel the line.)</p>
+<p><strong>Road-walk (shape-only):</strong> crawl <strong>down-and-right</strong> (wrap as needed).<br> You keep both Ring and Road; faces change:<br> (0,4)=4 → (1,5)=B (ward) → (2,0)=U (ward) → (3,1)=J (rune) → (4,2)=Q (rune) → (5,3)=X (ward) → back to start.</p>
+<p>So: for <strong>Road-walk</strong>, use the <strong>(+1 row, +1 col)</strong> crawl.<br> For <strong>Ring-swap</strong>, use the <strong>(+1 row, −1 col)</strong> crawl until you hit the Twin seat.</p>
+<h2 id="-8-one-card-cheat-house-marks-"><strong>8) One-card cheat (house marks)</strong></h2>
 <ul>
-<li>row1 col5 → that’s B (ward, skip)  </li>
-<li>row2 col6 (wrap col0) → U (ward)  </li>
-<li>row3 col? (=7→1) → J (rune seat, d=4)<br> To flip to 5, use a Ring-swap from some <em>other</em> start, or just Road-walk +5:<br> 4 (idx 0*6+4=4) → +5 → idx 9 → that’s 9 (row1 col3): d=1+3=4, r=(3–1)=2 (same? no: oops—my “walk by 5” changed r; use the rule below.)</li>
-</ul>
-<p>Safer Road-walk: step (+1 row, +1 col) together (wrap). That keeps col–row the same. Do that until you hit a face you like.<br> From 4 (0,4) → (1,5)=B (ward) → (2,0)=U (ward) → (3,1)=J (rune seat) → (4,2)=Q (rune seat, d=6) → (5,3)=X (ward) → back to (0,4).</p>
-<p>So for Road-walk, use diagonal crawl <em>(+1,+1)</em>. For Ring-swap, crawl the <em>other</em> diagonal <em>(+1,−1)</em> until d flips to 9–d.</p>
-<p>You needn’t brute-search in use—after a week your eyes see the bowstrings.</p>
-<h2 id="8-one-card-cheat-house-marks-">8) One-card cheat (house marks)</h2>
-<ul>
-<li>Ring-seat: d \= (row+col) mod 10  </li>
-<li>Road-mark: r \= (col−row) mod 5  </li>
-<li>Twinfire: d ↔ 9−d  </li>
-<li>Road crawls:  <ul>
-<li>keep Road: <em>(+1 row, +1 col)</em>  </li>
-<li>ring-swap crawl: <em>(+1 row, −1 col)</em>  </li>
+<li><strong>Ring seat:</strong> add row and column; keep the last digit.  </li>
+<li><strong>Road:</strong> feel the column-minus-row gap on one hand (five).  </li>
+<li><strong>Twinfire:</strong> pair that makes nine.  </li>
+<li><strong>Crawls:</strong>  <ul>
+<li>keep Road <strong>and</strong> Ring → <strong>down-and-right</strong>  </li>
+<li>flip to Twin on same Road → <strong>down-and-left</strong>  </li>
 </ul>
 </li>
-<li>Ætt yokes: Freyr ↔ Ash/Spear; Hagal ↔ Oar/Wolf; Týr ↔ Helm  </li>
-<li>Salt: first ward(s) shift right / down (as set before)  </li>
-<li>Wards mid-line: vowels/binds (house-set)</li>
+<li><strong>Ætt yokes:</strong> Freyr ↔ Ash/Spear; Hagal ↔ Oar/Wolf; Týr ↔ Helm  </li>
+<li><strong>Salt:</strong> first ward(s) announce right/down shifts (house-set)  </li>
+<li><strong>Wards mid-line:</strong> vowels/binds (house-set)</li>
 </ul>
-<h2 id="9-if-you-want-tighter-locks">9) If you want tighter locks</h2>
+<h2 id="-9-if-you-want-tighter-locks-"><strong>9) If you want tighter locks</strong></h2>
 <ul>
-<li>Flip the “seat stones”: choose seats where (row+col) mod3 \= 1 or 2 instead of 0 or 1. (Both must agree.)  </li>
-<li>Remap Roads: swap the 5 road-names to new numbers, but keep the count rule.  </li>
-<li>Ætt drift: rotate which Roads each ætt claims each moon.</li>
+<li><strong>Flip the seat stones:</strong> choose rune seats as the <strong>other two</strong> thirds instead— writer and reader must agree.  </li>
+<li><strong>Rename Roads:</strong> change which numbers name which Roads, but keep the five-count idea.  </li>
+<li><strong>Ætt drift:</strong> rotate which Roads each ætt claims each moon.</li>
 </ul>
-<p>All swaps keep head-work small and the backbone the same.</p>
+<p>All of these preserve thebackbone and keep the head-work small.</p>
 <h1 id="-the-world-tree-pack-"><strong>The World-Tree Pack</strong></h1>
 <p><em>How to yoke the 52-card deck to the Sign-Ring, the 6×6 board, and the three ættir—so head, hand, and hall all agree.</em></p>
 <h2 id="-i-suits-as-halls-"><strong>I. Suits as Halls</strong></h2>
