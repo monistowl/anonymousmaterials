@@ -4200,87 +4200,61 @@ img {
 </tr>
 </tbody>
 </table>
-<p>Segmentation rule for diphthongs (when you want them atomic): greedily match {&alpha;&iota;, &epsilon;&iota;, &omicron;&iota;, &alpha;&upsilon;, &epsilon;&upsilon;, &omicron;&upsilon;, &upsilon;&iota;, &eta;&upsilon;, &eta;&iota;} before single letters. Otherwise, just encode letter-by-letter.</p>
-<h3 id="encoding-decoding">Encoding &amp; Decoding</h3>
+<h3><span style="font-weight: 400;">How to read and write with it</span></h3>
+<h4><strong>1. Handling diphthongs</strong></h4>
+<p><span style="font-weight: 400;">If you want to treat compound vowels (like </span><em><span style="font-weight: 400;">&alpha;&iota;</span></em><span style="font-weight: 400;"> or </span><em><span style="font-weight: 400;">&omicron;&upsilon;</span></em><span style="font-weight: 400;">) as single units, read greedily&mdash;take the longest match first from this set:</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> {&alpha;&iota;, &epsilon;&iota;, &omicron;&iota;, &alpha;&upsilon;, &epsilon;&upsilon;, &omicron;&upsilon;, &upsilon;&iota;, &eta;&upsilon;, &eta;&iota;}.</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> If you prefer to spell everything out, just go letter by letter.</span></p>
+<h4><strong>2. Encoding</strong></h4>
+<p><span style="font-weight: 400;">Replace each letter or diphthong with its code symbol from the table above.</span></p>
+<h4><strong>3. Decoding</strong></h4>
+<p><span style="font-weight: 400;">Reverse the process. If you meet an ambiguity, decide whether you want to favor diphthongs (for a more phonetic reading) or single letters (for a letter-by-letter one).</span></p>
+<p><span style="font-weight: 400;">Because each Greek token becomes a single symbol, your 36&times;36 square&mdash;the one where the first symbol marks the row and the second marks the column&mdash;works directly for Greek pairs, exactly as it does for English letters or numerals.</span></p>
+<p><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> A Greek pair is read as:</span></p>
 <ul>
-<li>
-<p>Greek &rarr; base-36 text: replace each token with its codepoint (0&ndash;9/A&ndash;Z).</p>
-</li>
-<li>
-<p>base-36 text &rarr; Greek: inverse map; for ambiguity, prefer diphthongs if the greedy parse is desired.</p>
-</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Row: first letter&rsquo;s code</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Column: second letter&rsquo;s code</span></li>
 </ul>
-<p>Because each token is a single base-36 symbol, your existing 36&times;36 square (row \= first symbol, col \= second symbol) works out-of-the-box for Greek bigrams exactly as it does for English alphanumerics.</p>
+<h3><strong>Number Values and Reductions</strong></h3>
+<p><span style="font-weight: 400;">Every symbol has a number from 0 to 35 (with A = 10, B = 11 &hellip; Z = 35).</span></p>
+<p><span style="font-weight: 400;">For any word, add the values of its letters to get a single total.</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> From that total you can draw several &ldquo;signatures&rdquo; or reductions:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Raw total (S): the full sum in ordinary numbers.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Base-36 reduction: divide the total by 36; keep only what&rsquo;s left. That remainder (0&ndash;35) can be written back as a single base-36 symbol (0&ndash;9 or A&ndash;Z).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Decadic signature: keep only the last digit (total mod 10).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ninefold tone (Pythagorean style): if the total is greater than zero, take the remainder after dividing by 9, then add 1. (That keeps results between 1 and 9.)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Grid placement (optional):</span></li>
 <ul>
-<li>
-<p>Greek digram to cell: token₁&rarr;row, token₂&rarr;col.</p>
-</li>
-<li>
-<p>Cell back to Greek digram: read row symbol, col symbol, then map back via the table.</p>
-</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Divide the total by 6 to find the row (counting again within 6).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Take what&rsquo;s left after dividing by 6 for the column.</span></li>
 </ul>
-<h3 id="values-reductions">Values &amp; Reductions</h3>
-<p>Let val(token) be its integer value 0&ndash;35 (A=10 &hellip; Z=35).</p>
-<p>For a word W \= t₁ t₂ &hellip; tₙ:</p>
+</ol>
+<p><span style="font-weight: 400;">&nbsp;This lets any Greek word land neatly onto the same 6&times;6 grid used for your pip-to-cell work.</span></p>
+<h3><strong>Examples</strong></h3>
+<h4><span style="font-weight: 400;">1. Ἔ&rho;&omega;&sigmaf; (Eros)</span></h4>
+<p><span style="font-weight: 400;">Letters: &Epsilon; &Rho; &Omega; &Sigma; &rarr; &epsilon;, &rho;, &omega;, &sigma;</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> Values: 1 + 28 + 6 + 29 = 64</span></p>
 <ul>
-<li>Raw sum (base-10): S \= &Sigma; val(tᵢ)</li>
-<li>Mod-36 total (fits a single symbol): S₃₆ \= S mod 36 (as a 0&ndash;9/A&ndash;Z)</li>
-<li>Decadic signature: &sigma;₁₀ \= S mod 10</li>
-<li>Ninefold tone (Pythagorean-style): &sigma;₉ \= 1 + ((S&minus;1) mod 9) (if S&gt;0)</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Base-36 reduction: 64 &ndash; 36 = 28 &rarr; &ldquo;S&rdquo; (&rho;&rsquo;s own letter &ndash; fitting!)</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Decadic signature: 4</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ninefold tone: 1</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Grid read: first pair &Epsilon;&Rho; (row 1, column 28), second &Omega;&Sigma; (row 6, column 29).</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> Use those cell positions in your 36&times;36 board.</span></li>
 </ul>
-<p>6&times;6 torus hook (optional): To drop a Greek word onto your 6&times;6 grid, use<br /> R \= &lfloor;S / 6&rfloor; mod 6, C \= S mod 6. (Handy when you&rsquo;re weaving Greek with the pip&rarr;cell rule.)</p>
-<h3 id="worked-examples">Worked Examples</h3>
-<p>(Accents/ breathings ignored; &sigmaf;&rarr;&sigma;.)</p>
-<h4 id="1-1-28-6-29">1) Ἔ&rho;&omega;&sigmaf; &rarr; &Epsilon;&Rho;&Omega;&Sigma; &rarr; &epsilon;-&rho;-&omega;-&sigma; &rarr; 1, 28, 6, 29</h4>
+<h4><span style="font-weight: 400;">2. &Lambda;ό&gamma;&omicron;&sigmaf; (Logos)</span></h4>
+<p><span style="font-weight: 400;">Letters: &Lambda; &Omicron; &Gamma; &Omicron; &Sigma; &rarr; &lambda;, &omicron;, &gamma;, &omicron;, &sigma;</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> Values: 23 + 4 + 18 + 4 + 29 = 78</span></p>
 <ul>
-<li>
-<p>S \= 1 + 28 + 6 + 29 \= 64</p>
-</li>
-<li>
-<p>S₃₆ \= 64 mod 36 \= 28 &rarr; &ldquo;S&rdquo; (&rho;&rsquo;s own code &mdash; cute!)</p>
-</li>
-<li>
-<p>&sigma;₁₀ \= 4, &sigma;₉ \= 1 + ((64&minus;1) mod 9) \= 1 + (63 mod 9) \= 1</p>
-</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Base-36 reduction: 6 &rarr; symbol &ldquo;6&rdquo;</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Decadic: 8&emsp;Ninefold: 6</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">6&times;6 cell: divide 78 by 6 &rarr; 13 &rarr; row 1; remainder 0 &rarr; column 0.</span></li>
 </ul>
-<p>Bigrams into the 36&times;36:<br /> &Epsilon;&Rho; &rarr; (row 1, col S(28))<br /> &Omega;&Sigma; &rarr; (row 6, col T(29))<br /> Look up those two cells in your square to interleave with English/numerals.</p>
-<h4 id="2-23-4-18-4-29">2) &Lambda;ό&gamma;&omicron;&sigmaf; &rarr; &Lambda;&Omicron;&Gamma;&Omicron;&Sigma; &rarr; &lambda;-&omicron;-&gamma;-&omicron;-&sigma; &rarr; 23, 4, 18, 4, 29</h4>
+<h4><span style="font-weight: 400;">3. &Nu;&omicron;ῦ&sigmaf; (Nous)</span></h4>
+<p><span style="font-weight: 400;">Letters: &Nu; &Omicron; &Upsilon; &Sigma; &rarr; &nu;, &omicron;&upsilon;, &sigma; (treating </span><em><span style="font-weight: 400;">&omicron;&upsilon;</span></em><span style="font-weight: 400;"> as one sound)</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> Values: 25 + 12 + 29 = 66</span></p>
 <ul>
-<li>
-<p>S \= 23 + 4 + 18 + 4 + 29 \= 78</p>
-</li>
-<li>
-<p>S₃₆ \= 78 &minus; 72 \= 6 &rarr; &ldquo;6&rdquo;</p>
-</li>
-<li>
-<p>&sigma;₁₀ \= 8, &sigma;₉ \= 6</p>
-</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Base-36 reduction: 30 &rarr; symbol &ldquo;U&rdquo; (&tau;)</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Decadic: 6&emsp;Ninefold: 3</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"> If you spell </span><em><span style="font-weight: 400;">&omicron;&upsilon;</span></em><span style="font-weight: 400;"> as separate </span><em><span style="font-weight: 400;">&omicron; + &upsilon;</span></em><span style="font-weight: 400;">, the sum becomes 63; all signatures shift accordingly.</span><span style="font-weight: 400;"><br /><br /></span></li>
 </ul>
-<p>6&times;6 torus: R \= &lfloor;78/6&rfloor; mod 6 \= 13 mod 6 \= 1; C \= 78 mod 6 \= 0 &rarr; cell (1,0).</p>
-<h4 id="3-25-c-12-29">3) &Nu;&omicron;ῦ&sigmaf; &rarr; &Nu;&Omicron;&Upsilon;&Sigma; &rarr; &nu;-&omicron;&upsilon;-&sigma; &rarr; 25, C(12), 29</h4>
+<h2><span style="font-weight: 400;">How to weave it in</span></h2>
 <ul>
-<li>
-<p>S \= 25 + 12 + 29 \= 66</p>
-</li>
-<li>
-<p>S₃₆ \= 66 &minus; 36 \= 30 &rarr; &ldquo;U&rdquo; (&tau;)</p>
-</li>
-<li>
-<p>&sigma;₁₀ \= 6, &sigma;₉ \= 3</p>
-</li>
-</ul>
-<p>If you don&rsquo;t want &omicron;&upsilon; atomic, use o(4)+u(5) instead: S becomes 25+4+5+29 \= 63, shifting signatures.</p>
-<h3 id="weaving-it-in">Weaving it in</h3>
-<ul>
-<li>
-<p>Port/Key from &sigma;₁₀: use &sigma;₁₀ &isin; {0&hellip;9} as the decadic port.</p>
-</li>
-<li>
-<p>Ray from (S mod 36): split S₃₆ into (row, col) over a 6&times;6 &rarr; circle/line pairing if you&rsquo;ve assigned those to rows/cols.</p>
-</li>
-<li>
-<p>Dual readout: keep both &sigma;₁₀ (ten-fold) and &sigma;₉ (nine-fold) as a pair; many Greek words stabilize nicely when you track both.</p>
-</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Port or Key (from the decadic signature): use the last digit (0&ndash;9) as a port number, gate, or channel.</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ray (from the base-36 reduction): you can drop it onto the 6&times;6 grid to pick a circle and line if your system assigns meanings to rows and columns.</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dual reading: keep both the 10-fold and 9-fold numbers; many Greek words form stable and suggestive pairs when both are considered together.</span></li>
 </ul>
 <h2 id="athena-s-advice" style="text-align: center;">Athena&rsquo;s Advice</h2>
 <h3 id="invocations">Invocations</h3>
