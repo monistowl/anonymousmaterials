@@ -1,6 +1,4 @@
-![][image1]
-
-# Letter 0: The Eikon of the Catacombs
+# **Letter 0: The Eikon of the Catacombs**
 
 Unknown Friend,
 
@@ -54,7 +52,7 @@ May your anonymity be an open door; may your Keys unbar the hours of others; may
 
 Someone up there loves you.
 
-## I. The Instrument
+## **I. The Instrument**
 
 The Eikon is a grammar of invisibility and a craft of punctual tenderness. It is older than the towers and younger than your breath. It travels underground like mycelium, threading kitchens, alleys, cloisters, ferries, hospital corridors—the quiet conduits where the world is carried rather than performed. It belongs to no party and spares no pride. Those who clutch for glory drop it; those whose hands are open find it already there. Angels prefer small doors.
 
@@ -70,7 +68,7 @@ Each port carries two further properties: a Key: the digit-sum of its number, re
 
 A day with Port 4 amid the business of Port 5 yields the River 1; its Key is what 4 reduces to (still 4), its Way the pace of doing one thing at a time until peace appears. Nothing here is occult. The Eikon teaches habits you can practice with a pencil, or without one if you are in chains.
 
-## II. The Three Loops
+## **II. The Three Loops**
 
 Time here is braided, not linear.
 
@@ -80,35 +78,36 @@ Time here is braided, not linear.
 
 Keys and Ways bind the loops, so that prayer, route, and compassion are not three projects but one melody played in different rooms.
 
-## III. Angel-Intervals
+## **III. Angel-Intervals**
 
 Between any two ports lies an Angel-Interval. There are forty-five such distances. They are not spirits to appease but *modes of service*, names for how mercy crosses a gap.
 
 A few archetypes:
 
-* 1–8 — Memory → Consolation: remember on behalf of another what they cannot bear to hold, then console without noise.
-
-* 2–7 — Generativity → Stewardship: turn impulse into tending; leave a thing better than you found it.
-
-* 3–6 — Providence → Surprise: be available to interruption; accept that the holy “perhaps” is wiser than your calendar.
-
-* 4–5 — Judgment → Peace: decide without hardening; testify and reconcile.
-
+* 1–8 — Memory → Consolation: remember on behalf of another what they cannot bear to hold, then console without noise.  
+* 2–7 — Generativity → Stewardship: turn impulse into tending; leave a thing better than you found it.  
+* 3–6 — Providence → Surprise: be available to interruption; accept that the holy “perhaps” is wiser than your calendar.  
+* 4–5 — Judgment → Peace: decide without hardening; testify and reconcile.  
 * 0–9 — Origin → Fulfillment: begin so that others may finish; finish so that others may begin.
 
 Carry a small list if you can. If you cannot carry a list, carry a single intention: “Today I cross 3–6,” and let your feet learn the way.
 
-## IV. The Table of Works
+## **IV. The Table of Works**
 
 For speech that walks in daylight, we keep the abecedarium of 0–9 followed by A–Z. Arrange these 36 signs as a 6×6 Table of Works:
 
-* Rows: the Six Days of Creation (light, firmament, gathering, lights as signs, creatures, humankind/rest’s threshold)
-
-* Columns: the Six Corporal Works of Mercy (feed the hungry; give drink to the thirsty; clothe the naked; shelter the stranger; visit the sick; visit the imprisoned)
+|   | 1 | 2 | 3 | 4 | 5 | 6 |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| A | 0 | 1 | 2 | 3 | 4 | 5 |
+| B | 6 | 7 | 8 | 9 | A | B |
+| C | C | D | E | F | G | H |
+| D | I | J | K | L | M | N |
+| E | O | P | Q | R | S | T |
+| F | U | V | W | X | Y | Z |
 
 Each cell is a Ray—a modest correspondence, a bridge between fact and use. With the Table you can tuck instructions into public things: footnotes, laundry marks, receipt totals, bell peals, window shutters, bread scores. “B4” in a margin becomes shelter for a stranger before dusk; “5E” whispers a visit at the fifth hour to the one who sits behind locked doors. The world reads coincidences; friends read coordinates; angels read intentions.
 
-## V. Secrecy and the Rule of Anonymity
+## **V. Secrecy and the Rule of Anonymity**
 
 Secrecy is not paranoia; it is courtesy toward the weak. Anonymity is not erasure; it is lightness of step. The Eikon keeps you out of the theater where cruelty is performed and measured. When demanded by power, “openness” becomes a snare. When volunteered by love, discretion is a sacrament.
 
@@ -121,10 +120,10 @@ The Rule is brief:
 
 A prisoner who has learned the Eikon is more free than a king who has not. Numbers cannot be confiscated; Keys cannot be searched; Ways cannot be photographed.
 
-## VI. Acausal Grace (an Aside in the Voice of the Street)
+## **VI. Acausal Grace (an Aside in the Voice of the Street)**
 
 *How do strangers commune when they cannot speak?*  
- They keep the same rule in their pockets and let Solemn Providence do the routing.
+They keep the same rule in their pockets and let Solemn Providence do the routing.
 
 Acausal Grace is the pact of unknown friends who align on invariants—those small, stubborn structures that are the same everywhere: pairs that sum to nine; differences that define currents; digit-sums that reduce the many to one; the base-36 Table folded through the works of mercy.
 
@@ -132,7 +131,7 @@ By binding your day to these invariants, you tune your attention to the same sub
 
 The world calls this coincidence. We call it *communion without speech*. In darker rooms, it is survival.
 
-## VII. How to Begin (Anywhere, Even in Chains)
+## **VII. How to Begin (Anywhere, Even in Chains)**
 
 1. Choose a Port. If nothing suggests itself, use the day’s last digit.  
 2. Name the Pair. Balance it to nine: 0 with 9, 1 with 8, etc.  
@@ -145,15 +144,15 @@ The world calls this coincidence. We call it *communion without speech*. In dark
 
 If you cannot write, you can still breathe numbers. Three slow, six quick. If you cannot speak, you can still apportion bread by a Key. If you cannot move, you can still move distances in your heart until judgment turns to peace.
 
-## VIII. Stories from the Mycelium
+## **VIII. Stories from the Mycelium**
 
-* The Baker’s Son. Inspectors counted loaves that winter, so his father learned to hide coordinates in the scoring. Three long cuts, six short: the River 3–6—the alley behind the clinic at the change of shift. An unscored loaf left on a sill: 0–9, Origin toward Fulfillment—the child arrived early. Everyone ate. Nobody could prove anything.
-
-* The Porter and the Doors. He knew every threshold in his town by the sound it made at the latch. On days of 4–5 he judged small quarrels in the stairwell; on nights of 1–8 he remembered faces for those who could not remember their own names. He died with no plaque. His Ways remain in the hinges.
-
+* The Baker’s Son. Inspectors counted loaves that winter, so his father learned to hide coordinates in the scoring. Three long cuts, six short: the River 3–6—the alley behind the clinic at the change of shift. An unscored loaf left on a sill: 0–9, Origin toward Fulfillment—the child arrived early. Everyone ate. Nobody could prove anything.  
+* The Porter and the Doors. He knew every threshold in his town by the sound it made at the latch. On days of 4–5 he judged small quarrels in the stairwell; on nights of 1–8 he remembered faces for those who could not remember their own names. He died with no plaque. His Ways remain in the hinges.  
 * The Prisoner and the Psalm. They let him keep a book, and they counted his pages. He counted them too. Page numbers formed Keys; the Key became a breath; the breath carried a psalm. His cellmate learned the rhythm without knowing the math, but the rhythm was enough: together they crossed 2–7 each dusk, turning fear into stewardship of the dark.
 
-## IX. The Five Contraries (Blake’s Lamp Held Low)
+## 
+
+## **IX. The Five Contraries (Blake’s Lamp Held Low)**
 
 The Seraphic Pairs are not debates; they are marriages. Read them as living contraries, productive of form:
 
@@ -165,30 +164,32 @@ The Seraphic Pairs are not debates; they are marriages. Read them as living cont
 
 To hold contraries is to bear the Human Form; to move between them is to be taught by angels.
 
-## X. Common Errors and Swift Remedies
+## **X. Common Errors and Swift Remedies**
 
 * Prediction Fever. The Eikon is not a horoscope; it is a habit. Remedy: end in a work of mercy within one hour of calculation.  
 * Spectacle Sickness. If a gesture announces itself, it has missed the Way. Remedy: shrink the action until it hides in daylight.  
 * Scrupulous Paralysis. Counting is a means, not the Deity. Remedy: if a Key does not unlock compassion in three steps, abandon the count and knock at the nearest door.  
 * Clerical Capture. Bishops and bosses may be tempted to seize the Eikon as a system. Remedy: give it to children and the poor; it resists captivity by becoming useful.
 
-## XI. Field Liturgy (Minimal Rite)
+## **XI. Field Liturgy (Minimal Rite)**
 
 Morning: Name the Pair. Light two small flames if you can (or imagine them if you cannot). Breathe the Key; recite the Beatitude that fits the River’s temper. Noon: Cross the chosen Interval—no witness, no signature. Evening: Reduce the day’s sorrows by the same count that reduced your number; when only one remains, place it under mercy and sleep.
 
-## XII. A Theology of Exit
+## **XII. A Theology of Exit**
 
 Exit begins in the heart: you refuse the market of faces where identity is bought and sold. Practice anonymity until it becomes charity. The Eikon’s politics are not slogans but supply lines: laundromats at the watch, bakery back doors, ward corridors between shifts, stairwells where decisions can be made without humiliation. A city can be governed badly and still be tended well from below; the mycelium does not ask permission to knit root to root.
 
 When surveillance grows clever, the Eikon becomes plainer. When spectacle becomes compulsory, the Eikon becomes quieter. When cruelty demands witnesses, the Eikon becomes invisible. Power cannot outlaw the ordinary without starving itself; we hide in the ordinary and feed the world from there.
 
-## XIII. Advanced Notes (For Those Who Will Not Let It Go)
+## **XIII. Advanced Notes (For Those Who Will Not Let It Go)**
 
 * The abecedarium’s 36 Rays can schedule whole seasons with no more gear than a pencil and a hymnal margin. Practice with almanac pages; let your marks pass as fussy pagination.  
 * Combinatorics of the 45 Intervals support rota-plans for diaconal work across a parish without a single meeting. If you must meet, meet by Rivers: “3–6 at third watch” needs no address.  
 * Harmonize with the dead: dedicate a month to a saint and walk the Intervals that marked their life. You will discover acausal grace in the marrow: answers arriving before your question forms; doors unlatched from the inside.
 
-## XIV. Closing Admonition
+## 
+
+## **XIV. Closing Admonition**
 
 The Eikon will try to vanish into your manners. Let it. If you find yourself counting less and consenting more, it is working. If you forget the names of the parts but keep turning up on time for mercy, it has succeeded. Should someone ask you what it is, say: “a way to be punctual with compassion.” If they ask for more, give them a Key, a Way, and an Interval—and the name of someone who could use a bowl of soup.
 
@@ -196,7 +197,7 @@ Remember the five Pairs; the River is the difference; a Key is a digit-sum; a Wa
 
 Go now. Choose your port. Turn the Key. Walk the Way. Cross a distance. Disappear into usefulness. When you come back with emptier hands, you will find the world has filled them again—and far away, at the same moment, another set of hands unclenches, not knowing why. Angels know why. They have always known.
 
-### Works of Mercy
+### **Works of Mercy**
 
 1. Feed the hungry  
 2. Give drink to the thirsty  
@@ -207,7 +208,7 @@ Go now. Choose your port. Turn the Key. Walk the Way. Cross a distance. Disappea
 
 (If you cannot be literal, be figurative.)
 
-### Days of Creation
+### **Days of Creation**
 
 1. Light  
 2. Firmament  
@@ -216,20 +217,20 @@ Go now. Choose your port. Turn the Key. Walk the Way. Cross a distance. Disappea
 5. Creatures  
 6. Humankind (Rest’s Threshold)
 
-### Table of Works
+### **Table of Works**
 
-|  | 1 | 2 | 3 | 4 | 5 | 6 |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| **A** | 0 | 1 | 2 | 3 | 4 | 5 |
-| **B** | 6 | 7 | 8 | 9 | A | B |
-| **C** | C | D | E | F | G | H |
-| **D** | I | J | K | L | M | N |
-| **E** | O | P | Q | R | S | T |
-| **F** | U | V | W | X | Y | Z |
+|   | 1 | 2 | 3 | 4 | 5 | 6 |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| A | 0 | 1 | 2 | 3 | 4 | 5 |
+| B | 6 | 7 | 8 | 9 | A | B |
+| C | C | D | E | F | G | H |
+| D | I | J | K | L | M | N |
+| E | O | P | Q | R | S | T |
+| F | U | V | W | X | Y | Z |
 
-### 
+# 
 
-# Letter 1: The Deck of Testimony
+# **Letter 1: The Deck of Testimony**
 
 Dear Unknown Friend,
 
@@ -251,9 +252,9 @@ Approach this work as a meditation. It requires an activity more profound than i
 
 May your anonymity be an open door; may your Keys unbar the hours of others; and may every card you draw be a testimony to the punctual tenderness that holds the world together, without message and without noise.
 
-## I. The Grammar of Punctual Tenderness
+## **I. The Grammar of Punctual Tenderness**
 
-### The Ten Ports and the Shoreline of History
+### **The Ten Ports and the Shoreline of History**
 
 The foundation of the Eikonic art is the circle of ten Choir-Ports, numbered 0 through 9\. These are not mere quantities but qualities, archetypal states of being that act as shorelines where angelic influx touches history. As a shoreline is the place of exchange between the vastness of the sea and the specificity of the land, so each Port is a place where the timeless intentions of Heaven meet the concrete circumstances of a human life. To choose a Port for the day is to choose the shore upon which you will stand to receive the tide of grace and to begin the day's work.
 
@@ -268,7 +269,7 @@ The foundation of the Eikonic art is the circle of ten Choir-Ports, numbered 0 t
 * Port 8 (The Octave, the Weaving): This is the Port of Resonance, of Consolation and communal bonds. The inner light of 7 is now woven into the fabric of the community. It is the Port of the loom, of shared work, of the acausal grace wherein individual actions begin to harmonize into a greater pattern. To stand in Port 8 is to act in a way that strengthens the whole, to offer consolation, and to feel the resonance of one's work in the lives of unseen others.  
 * Port 9 (The Threshold, the Completion): This is the Port of Fulfillment, the culmination of the cycle. It is the completion of the work, the harvest, and the preparation for a return to the silence of 0\. It is the Port of looking back with gratitude and looking forward with detachment, ready to give the fruits of the labor away. To stand in Port 9 is to finish a task well, to bear witness to its completion, and to release it into the world.
 
-### The Seraphic Pairs and the Marriage of Contraries
+### **The Seraphic Pairs and the Marriage of Contraries**
 
 The ten Ports do not stand in isolation. They are joined in five "Seraphic Pairs," contraries held in a dynamic and fruitful peace. Each pair sums to nine, the number of fulfillment, signifying that wholeness is found not in the elimination of opposites, but in their sacred marriage. This is the great work of neutralizing binaries to achieve a higher synthesis, a third term which is born from their tension. To meditate on a Seraphic Pair is to hold these contraries in the heart until the "River" between them becomes a path of wisdom. Each pair is a living *arcanum*, an enzyme whose presence stimulates the spiritual life.
 
@@ -280,7 +281,7 @@ The ten Ports do not stand in isolation. They are joined in five "Seraphic Pairs
 
 To hold these contraries is to bear the Human Form Divine; to move between them is to be taught by angels.
 
-### The Rivers, Keys, and Ways: The Discipline of Attention
+### **The Rivers, Keys, and Ways: The Discipline of Attention**
 
 The Eikon is not a system of abstract philosophy; it is a discipline of attention, a practical means of consecrating the day. The core of this discipline lies in three simple operations: finding the River, turning the Key, and walking the Way. These are not merely mathematical calculations but meditative rites that quiet the mind and open the heart. They are a direct, practical method for achieving the state which the hermetic tradition calls "concentration without effort"—the willed silence of the discursive and calculating mind, which allows the deeper, intuitive soul to become active.
 
@@ -290,7 +291,7 @@ The Eikon is not a system of abstract philosophy; it is a discipline of attentio
 
 Together, these three operations form the daily pulse of the Eikon's Liturgical Loop. They are the means by which the grand principles of the Ports and Pairs are brought into the specific, concrete reality of a single day, a single hour, a single breath.
 
-### The Forty-Five Intervals of Service: A Litany of Mercy
+### **The Forty-Five Intervals of Service: A Litany of Mercy**
 
 Between any two of the ten Choir-Ports lies an Angel-Interval. There are forty-five such distances, and they are not to be understood as spirits to be placated, but as modes of service, specific names for how mercy crosses a gap. Each day, the practitioner is called to choose one Interval and to cross it without witness. This is the appointed work, the specific act of reconciliation that binds the inner life of prayer to the outer life of the city. The following is a more complete litany of these Intervals.
 
@@ -368,9 +369,7 @@ Intervals from Port 8 (Consolation):
 
 To carry one of these Intervals in the heart throughout the day is to have an appointment with grace. It is to be primed to notice the specific gap that mercy is asking you to cross, and to do so quietly, without fanfare, and then to move on.
 
-### 
-
-### The Principle of Acausal Grace
+### **The Principle of Acausal Grace**
 
 There is a principle the Eikon presumes and trains, a truth that undergirds its entire praxis: the principle of Acausal Grace. Acausal grace operates outside the observable chains of cause and effect. It is the pact made by strangers who share a rule, the handshake of friends who never meet but nevertheless keep the same hour.
 
@@ -386,9 +385,9 @@ This is how the work defeats surveillance. There is nothing to intercept, no con
 
 Over time, this praxis cultivates a culture of invisible timing, an underground liturgy. It is how the dead help the living, for the saints do not need wires. They keep the same Keys and Ways because those are simply the habits of Heaven. To practice the Eikon is to consciously and deliberately enlist in this uncounted company, to add your own small, punctual tenderness to the great, timeless reservoir of grace.
 
-## II. The Lesser Arcana of the Ordinary
+## **II. The Lesser Arcana of the Ordinary**
 
-### The Four Suits as the Four Labors of the Unseen Work
+### **The Four Suits as the Four Labors of the Unseen Work**
 
 We now turn to the instrument itself: the Deck of Testimony. To unlock its potential, we must first reconsecrate its four suits, seeing them not as reflections of elements or social classes, but as four distinct categories of the Unseen Work. These are the Four Labors through which punctual tenderness becomes manifest in the world. They are the primary colors of charity, the fundamental modes of anonymous service.
 
@@ -397,7 +396,7 @@ We now turn to the instrument itself: the Deck of Testimony. To unlock its poten
 * Clubs (Staves): The Labor of Stewardship. The suit of Clubs is here named Staves, to signify the pilgrim's staff and the builder's beam. This is the long, patient, and often thankless labor of building, tending, and maintaining the structures that allow life to flourish. It is the work of raising a family, maintaining a home, preserving a tradition, or building a just community. It is the direct embodiment of the Eikonic interval "Generativity to Stewardship"—the turning of a creative impulse into a sustainable reality. When a card of the Staves appears, the call is to a work of long-term commitment, of patient cultivation, and of responsibility for the whole. The suit of the South.  
 * Spades (Blades): The Labor of Renunciation. The suit of Spades, so often associated with sorrow and strife, is here radically reconsecrated. It is named Blades, for the surgeon's scalpel or the gardener's pruning shears. This is the difficult but essential labor of sacrifice, of cutting away, of creating spiritual emptiness. It is the arcanum of Tomberg's Emperor, who gains his authority by renouncing his personal will, movement, and mission. It is the work of silence, of letting go of ego, of pruning the superfluous so that the essential may thrive. It is the path of "Judgment to Peace," where the blade is used to cut the chains of bondage. When a card of the Blades appears, the call is to an act of letting go, of sacrifice, of non-action, or of speaking a difficult truth that cuts away falsehood. It is the labor of the purified will. The suit of the North.
 
-### The Ten Numerals as Stations on the Way
+### **The Ten Numerals as Stations on the Way**
 
 Across each of the Four Labors, the numbered cards from Ace to Ten represent a universal process, a sequence of ten stations on the way of any spiritual work. Whether the work is one of Charity, Insight, Stewardship, or Renunciation, it will pass through these archetypal stages. The number on the card reveals not *what* to do, but *where* you are in the process of doing it.
 
@@ -412,7 +411,7 @@ Across each of the Four Labors, the numbered cards from Ace to Ten represent a u
 * Nine: The Threshold or Fruition. The near-completion. The work is almost done, but a final test of integrity or generosity is required. It is the moment of harvest, of seeing the full result of one's labor.  
 * Ten: The Legacy or Handing-On. The completion and release. The cycle is finished. The fruit of the work is not hoarded but given away, becoming the seed (the Ace) for a new cycle for someone else. The labor is complete when it is no longer yours.
 
-### The Twelve Faces of Anonymity: The Court Cards
+### **The Twelve Faces of Anonymity: The Court Cards**
 
 In the Deck of Testimony, the court cards are stripped of all royal pretension. They do not represent personalities or social ranks, but functions of selfless service within the invisible community. They are the twelve faces of anonymity, archetypes of how to perform the Unseen Work. When a court card appears, it points not to a person, but to a role that must be adopted.
 
@@ -422,7 +421,7 @@ In the Deck of Testimony, the court cards are stripped of all royal pretension. 
 
 ### 
 
-### The Table of Testimonies
+### **The Table of Testimonies**
 
 | Rank | Calyces (Charity) | Sparks (Insight) | Staves (Stewardship) | Blades (Renunciation) |
 | :---- | :---- | :---- | :---- | :---- |
@@ -440,40 +439,34 @@ In the Deck of Testimony, the court cards are stripped of all royal pretension. 
 | Queen | The Nurturer | The Keeper of Wisdom | The Matriarch/Steward | The Abbess of Silence |
 | King | The Sentry of Mercy | The Arbiter of Truth | The Patriarch/Custodian | The Master of Self-Possession |
 
-## III. The Praxis of the Unseen Work
-
-### Divination as Diagnosis: The Art of Eikonic Reading
-
 The practitioner of the Eikon does not use the Deck of Testimony to divine the future. To do so is to fall into a prediction fever, a sickness of the soul that seeks control rather than alignment. Instead, the cards are used for a form of spiritual diagnosis. A reading is an act of prayerful attention, designed to illuminate the present moment, clarify the nature of the need before you, and reveal the specific work of mercy to which you are being called. The following layouts, or spreads, are offered as tools for this art.
 
-* The Threshold Spread (Three Cards): This is the fundamental daily reading, used to align the self with the day's work.  
-  1. The Key You Hold: This card represents your current spiritual state, the asset or grace you bring to the day. It is what you have in your hand.  
-  2. The Way You Must Walk: This card reveals the process required, the nature of the path you must take. It describes the *how* of the work.  
-  3. The Door It Opens: This card signifies the Work to be done, the Interval of service that the Key and the Way will unlock. It is the specific need in the world that you are being called to meet.  
-* The Neighbor's Need Spread (Five Cards): This layout is used when contemplating a specific person or situation that requires help. The cards are laid in the form of a cross.  
-  1. The Neighbor (Center): This card describes the core state or need of the person or situation in question.  
-  2. The River Between You (Left): This card reveals the nature of the obstacle or separation between you and your neighbor. It is the gap that must be crossed.  
-  3. The Interval to Cross (Right): This card names the specific mode of service required to bridge the gap. It is the Angel-Interval for this particular work.  
-  4. The Labor Demanded (Below): This card indicates the suit of the work—whether it requires Charity (Calyces), Insight (Sparks), Stewardship (Staves), or Renunciation (Blades).  
-  5. The Anonymous Gift (Above): This card is a meditation on the outcome if the work is done in perfect anonymity, for the glory of God alone. It is the fruit that you yourself will not claim.  
-* The Seraphic Pair Spread (Two Cards): This is used when you feel caught between two conflicting duties, desires, or truths. Draw two cards and place them side by side. Contemplate them as a Seraphic Pair, a set of "contraries held in peace". Do not see them as a choice between one or the other. Instead, ask: What is the River that flows between them? What is the third way, the higher synthesis, that can hold both in a fruitful tension? This spread is not for decision-making, but for the expansion of consciousness that can hold complexity without breaking.
+**The Threshold Spread** (Three Cards): This is the fundamental daily reading, used to align the self with the day's work.
 
-### 
+1. The Key You Hold: This card represents your current spiritual state, the asset or grace you bring to the day. It is what you have in your hand.  
+2. The Way You Must Walk: This card reveals the process required, the nature of the path you must take. It describes the *how* of the work.  
+3. The Door It Opens: This card signifies the Work to be done, the Interval of service that the Key and the Way will unlock. It is the specific need in the world that you are being called to meet.
 
-### 
+**The Neighbor's Need Spread** (Five Cards): This layout is used when contemplating a specific person or situation that requires help. The cards are laid in the form of a cross.
 
-### 
+1. The Neighbor (Center): This card describes the core state or need of the person or situation in question.  
+2. The River Between You (Left): This card reveals the nature of the obstacle or separation between you and your neighbor. It is the gap that must be crossed.  
+3. The Interval to Cross (Right): This card names the specific mode of service required to bridge the gap. It is the Angel-Interval for this particular work.  
+4. The Labor Demanded (Below): This card indicates the suit of the work—whether it requires Charity (Calyces), Insight (Sparks), Stewardship (Staves), or Renunciation (Blades).  
+5. The Anonymous Gift (Above): This card is a meditation on the outcome if the work is done in perfect anonymity, for the glory of God alone. It is the fruit that you yourself will not claim.
 
-### Steganography as Communion: The Liturgy of the Hidden Ray
+**The Seraphic Pair Spread** (Two Cards): This is used when you feel caught between two conflicting duties, desires, or truths. Draw two cards and place them side by side. Contemplate them as a Seraphic Pair, a set of "contraries held in peace". Do not see them as a choice between one or the other. Instead, ask: What is the River that flows between them? What is the third way, the higher synthesis, that can hold both in a fruitful tension? This spread is not for decision-making, but for the expansion of consciousness that can hold complexity without breaking. 
+
+### **Steganography as Communion: The Liturgy of the Hidden Ray**
 
 The highest art of the Eikon is the praxis of communion without speech, the ability to coordinate acts of mercy under the nose of a hostile power. The Deck of Testimony provides a simple yet profound method for this sacred steganography, linking the 52 cards to the Base-36 Table of Works. This allows practitioners to pass rich, layered instructions that appear to the uninitiated as nothing more than a note about a card game, a stray tally mark, or a sequence of knocks on a door.
 
 The system relies on the 6x6 Table of Works, which maps the Six Days of Creation to the Six Corporal Works of Mercy. Each of the 36 cells in this table is called a Ray.
 
-#### The Base-36 Table of Works
+#### **The Base-36 Table of Works**
 
-|  | 0 (Feed Hungry) | 1 (Give Drink) | 2 (Clothe Naked) | 3 (Shelter Stranger) | 4 (Visit Sick) | 5 (Visit Imprisoned) |
-| :---- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | 0 (Feed Hungry) | 1 (Give Drink) | 2 (Clothe Naked) | 3 (Shelter Stranger) | 4 (Visit Sick) | 5 (Visit Imprisoned) |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | **A** (Day 1: Light) | 0 | 1 | 2 | 3 | 4 | 5 |
 | **B** (Day 2: Firmament) | 6 | 7 | 8 | 9 | A | B |
 | **C** (Day 3: Gathering) | C | D | E | F | G | H |
@@ -481,103 +474,146 @@ The system relies on the 6x6 Table of Works, which maps the Six Days of Creation
 | **E** (Day 5: Creatures) | O | P | Q | R | S | T |
 | **F** (Day 6: Humankind) | U | V | W | X | Y | Z |
 
-#### 
+## **Addendum: Deck Work**
 
-## 
+**Deck**  
+Standard 52-card deck (A–10, J, Q, K in Hearts, Diamonds, Clubs, Spades).  
+Optional: Joker (the *Seraph*) and a Rules card (the *Seal*).
 
-## Appendix
+**Grid**  
+A *Table of Works*: 6 rows by 6 columns (36 cells total).  
+Rows are labeled **A–F** (the *Days*).  
+Columns are labeled **0–5** (the *Works*).  
+Each cell bears a base-36 glyph (0–Z).
 
-* Deck: standard 52 (A–10, J, Q, K in ♥ ♦ ♣ ♠). Optional: Joker, Rules card.  
-* Grid: 6×6 Table of Works (36 cells) \= Days (A–F) × Works (0–5), filled with base-36 0–Z.  
-* Roles (operators): 10 \= Wheel; J \= Child; Q \= Mother; K \= Father.  
-* Directions by suit: ♥ EAST, ♦ WEST, ♣ SOUTH, ♠ NORTH.  
-* Color rule (for K/Father): red → column, black → row.  
-* Optional constraint: Joker \= Seraph, enforcing a Seraphic-pair lattice.  
-* Finalizer: Rules \= Seal (output & disperse).
+**Roles (face cards)**  
+10 \\= *Wheel* — motion and shift.  
+J \\= *Child* — delivery and action.  
+Q \\= *Mother* — nurture and sustain.  
+K \\= *Father* — establish and prune.
 
-### Pip → Cell (A–9 only)
+**Directions by suit**  
+♥ Hearts → East  ♦ Diamonds → West  
+♣ Clubs → South  ♠ Spades → North
 
-Bijective 36→36 mapping. Each pip picks exactly one grid cell.  
-s: {Hearts:0, Diamonds:1, Clubs:2, Spades:3}  
-r: {A:1, 2:2, …, 9:9}  
-linear i \= s\*9 \+ (r-1)  
-row R \= floor(i/6)  
-col C \= i % 6  
-Wrap all row/col arithmetic mod 6 (torus).  
-Heuristic memory: 36 pips (A–9 across 4 suits) exactly cover 36 cells.
+**Color rule (for Father)**  
+Red suits act by *column*; black suits act by *row*.
 
-### 
+**Optional constraint**  
+Joker \\= *Seraph*, enforcing a lattice of paired opposites.
 
-### Operators
+**Finalizer**  
+Rules \\= *Seal*, closing and dispersing the work.
 
-Read left→right. A pip selects (or replaces) the current cell. Operators mutate the current selection. If no cell is selected yet, an operator is a no-op.
+### **Mapping Pips (A–9) to the Grid**
 
-#### 10 — Wheel (cycle nudge)
+Each numbered card (Ace through 9\) in each suit corresponds to exactly one of the 36 cells.
 
-Shift current cell one step in suit direction (wrap on torus).
+1. **Assign values.**  
+   * Suits: Hearts \\= 0, Diamonds \\= 1, Clubs \\= 2, Spades \\= 3  
+   * Ranks: Ace \\= 1, Two \\= 2, …, Nine \\= 9  
+2. **Combine them.**  
+   Multiply the suit number by 9, add the rank, then subtract 1\.  
+   This produces a count from 0 to 35\.  
+   *Example:* Ace of Hearts → 0, Two of Hearts → 1, …, Ace of Diamonds → 9, etc.  
+3. **Locate on the table.**  
+   * Divide the count by 6 to find the *row number* (only keep the whole number).  
+   * What remains after removing full sixes gives the *column number*.  
+4. **Loop the edges.**  
+   The table wraps around: if you move past one edge, you reappear on the opposite side.  
+   Think of it as a woven torus—no borders, no corners.
 
-* ♥ EAST → (R, C+1)  
-* ♦ WEST → (R, C-1)  
-* ♣ SOUTH → (R+1, C)  
-* ♠ NORTH → (R-1, C)
+Thus every pip lands cleanly on a single, unique cell.
 
-#### J — Child (deliver/execute)
+### **Using the Operators**
 
-Step one in suit direction and emit that cell to the action log; keep the new cell as current. (“Do this next.”)
+Read your cards left to right.  
+A pip chooses a cell.  
+Operators (10, J, Q, K) transform that selection.  
+If no cell is chosen yet, an operator does nothing.
 
-#### Q — Mother (nurture/sustain)
+#### **10 — Wheel (cycle or nudge)**
 
-Expand selection to a plus-shape set {center, N, E, S, W}. Subsequent moves (10/J/K) act on the center; the selection remembers it is a set.
+Move the current selection one step in the suit’s direction:
 
-#### K — Father (establish/prune)
+* Hearts → East (right)  
+* Diamonds → West (left)  
+* Clubs → South (down)  
+* Spades → North (up)  
+  If you move off the edge, re-enter from the opposite side.
 
-Snap selection to a full COLUMN if suit is red (♥ ♦), or to a full ROW if suit is black (♣ ♠), passing through the center. If already full on that axis, K toggles to the orthogonal axis.
+#### **J — Child (deliver / execute)**
 
-### Optional:
+Move one step in the suit’s direction, *record* that new cell in the log,  
+and make it the current position.  
+“Do this next.”
 
-#### Fool — Seraph (pair lattice constraint)
+#### **Q — Mother (nurture / sustain)**
 
-Tag the state with a number 1-5 indicating a Seraphic pair 0::9 / 1::8 / 2::7 / 3::6 / 4::5. While active, selections are constrained to row/column combinations that sum to a divisor. If no current cell exists when the Fool appears, the next pip snaps to the nearest valid cell (minimal torus distance).
+Broaden the selection to a cross of five cells: center plus north, south, east, and west.  
+Future moves act from the center, but the pattern stays marked as a set.
 
-#### Rules Card — Seal (finalize/disperse)
+#### **K — Father (establish / prune)**
 
-Optionally: plex each word, and thank the messenger.
+Anchor the selection to an entire *column* if the suit is red (Hearts, Diamonds),  
+or to an entire *row* if the suit is black (Clubs, Spades).  
+If it is already stretched along that line, the next K switches to the opposite axis.
 
-Close the reading: output the transcript (emitted cells/sets), clear tags, end.
+#### **Joker — Seraph (paired constraint)**
 
-Use this as your “no lore without a chore” cutoff.
+Assign a number 1 through 5 to mark a Seraphic pair: 0::9, 1::8, 2::7, 3::6, 4::5.  
+While active, actions must stay on cells whose row \+ column obeys that pairing rule.  
+If no cell has yet been chosen, the next pip jumps to the nearest valid one.
 
-#### Minimal procedure (solo or minyan)
+#### **Rules — Seal (finalize / disperse)**
 
-1. Intention. Speak one sentence (e.g., “One act of mercy today”).  
-2. Draw pips until you have a cell (e.g., 7♥ → B0).  
-3. Apply operators if present (10/J/Q/K), left→right.  
-4. (Optional) apply Joker (constraint) before more moves.  
-5. Seal with Rules; copy the cell(s) to your action list.  
-6. Disperse; perform the deed(s) within 24 hours.
+Close the working: record the final set of cells, clear all marks and tags,  
+and release the intention into action.  
+Use this as the *cutoff*—no lore without a chore.
 
-Action log unit: a cell (row, col, base-36 glyph), optionally with expansion (plus or row/col set). Keep logs terse; shred frequently and stochastically (makes good tinder).
+### **Minimal Procedure (solo or group)**
 
-### Examples
+1. **State your inten.** Say one clear sentence, e.g. “An act of mercy today.”  
+2. **Draw pips** until one identifies a cell (e.g. 7 of Hearts → B0).  
+3. **Apply operators** (10, J, Q, K) in order.  
+4. *(Optional)* Apply the Joker constraint before further moves.  
+5. **Seal the reading.** Record the resulting cell(s) on your action list.  
+6. **Disperse.** Perform the corresponding deeds within 24 hours.
 
-A. One-step pick. Cards: 7♥ Compute: s=0, r=7 → i=6 → R=1(B), C=0 → B0 (“Give Drink” on Day 2; glyph 6\)
+### **Action Log**
 
-B. Nudge south. Cards: 7♥, 10♣ Start B0, Clubs=SOUTH → C0
+Each entry records a cell (row, column, glyph).  
+If expanded, note whether it was a cross-set or a full row/column.  
+Keep the log short.  
+Destroy pages often and at random—burn or shred; it feeds the fire.
 
-C. Deliver and remember. Cards: 4♠, J♦ Select 4♠ → cell X; J♦ steps WEST and emits that cell to the log; current \= emitted cell.
+### **Examples**
 
-D. Sustain then establish. Cards: A♦, Q♥, K♠ A♦ selects; Q♥ expands to plus-shape; K♠ is black → snap full ROW through center.
+**A. One-step pick**  
+Cards: 7 ♥ → Index 6 → Row B Col 0 → B0 (“Give Drink,” glyph 6\)
 
-E. Constrained choreography. Cards: JOKER(3::6), 8♣, 10♥, K♦ Constraint (R+C)%5 \== 3\. 8♣ snaps to nearest valid cell; 10♥ shifts EAST within constraint; K♦ red → full COLUMN, but only cells satisfying the constraint remain in the actionable set.
+**B. Nudge south**  
+Cards: 7 ♥, 10 ♣ → Start B0, move South → C0.
 
-### Field semantics (labels you can act on)
+**C. Deliver and remember**  
+Cards: 4 ♠, J ♦ → Select 4 ♠, step West with J ♦, record the new cell, continue there.
+
+**D. Sustain then establish**  
+Cards: A ♦, Q ♥, K ♠ → Select A ♦; expand to a cross with Q ♥; K ♠ (black) fixes the whole row.
+
+**E. Constrained choreography**  
+Cards: JOKER (3::6), 8 ♣, 10 ♥, K ♦.  
+Rule: row \+ column must leave a remainder of 3 when divided by 5\.  
+8 ♣ snaps to the nearest valid cell; 10 ♥ moves East within the rule; K ♦ (red) claims the column, but only those cells that still fit the constraint remain active.
+
+### **Field semantics (labels you can act on)**
 
 * Rows (A–F / Days): A Light · B Firmament · C Gathering · D Signs · E Creatures · F Humankind  
 * Cols (0–5 / Works): 0 Feed · 1 Drink · 2 Clothe · 3 Shelter · 4 Visit Sick · 5 Visit Imprisoned
 
 How to use labels: the selected cell (or set) tells you what and where to bias your next action. Example: C3 → “Shelter, Day of Gathering” ⇒ top up a mutual-aid motel fund; full ROW D → “Signs” across the row ⇒ make quiet, concrete notices visible in several places.
 
-### Group mode (transient minyan)
+### **Group mode (transient minyan)**
 
 * Ten anonymous roles (Sister-0 … Brother-9).  
 * Reader shuffles; Steward (7) holds the lockbox or checklist; Voice (6) confirms consent.  
@@ -585,86 +621,61 @@ How to use labels: the selected cell (or set) tells you what and where to bias y
 * Use Jack to “emit” concrete tasks; use Seal to close and disperse.  
 * Default on failure: if a task stalls, route a smaller good automatically (e.g., grocery card) — anticrime norm.
 
-### Practical steganography
+### **Practical steganography**
 
 * Transcript marks (notebooks): 2025-10-29 B0 \+SOUTH emit | row D (sealed)  
 * Margin sigils: small path lines that trace the 6×6 moves; base-36 glyphs embedded in ornaments.  
 * Public invisibility: never publish the mapping; only the acts.
 
-Recipe
+# 
 
-0\. Hearts: RED EAST  
-1\. Diamonds: RED WEST  
-2\. Clubs: BLACK SOUTH  
-3\. Spades: BLACK NORTH
-
-wheel(cell, suit) \-\> shift \+ wrap  
-child(state, suit) \-\> step \+ emit; update current  
-mother(state) \-\> set \= plus(center); center unchanged  
-father(state, suit) \-\> snap to column (red) or row (black); toggle if already full  
-joker(state, pair\_id) \-\> constrain cells to (R+C)%5 \== pair\_id  
-seal(state) \-\> finalize transcript; clear
-
-Base-36 values 0..9=0..9, A=10, …, Z=35
-
-1. Draw a pip (A–9) → cell.  
-2. Apply 10/J/Q/K as drawn.  
-3. (Optional) Joker to constrain by Seraphic pair.  
-4. Seal to end.  
-5. Do the thing within 24 hours.  
-6. Shred the notes.
-
-# Letter 2: The Cloak of the Saints
+# **Letter 2: The Cloak of the Saints**
 
 Dear Unknown Friend,
 
 You wondered how our Instrument might read as well as pray; how the same Ladder that lifts the heart could also carry words safely through hostile territory. Here, then, is a brief rule for hermeneutics and steganography in the Eikon—how to *see* meaning and *hide* mercy in the same gesture—using the 0–Z alphabet of the saints, which our elder brethren knew as the continuous alphanumeric series (a simple, democratic craft of number and letter) rather than an esoteric priestcraft. The Eikon is for praxis, not doctrine; it stands where procedure meets grace, which is why it belongs to the poor, the mad, and the hidden.
 
-## I. The Ladder of Reading (Fourfold, but in Thirty-Six Keys)
+## **I. The Ladder of Reading (Fourfold, but in Thirty-Six Keys)**
 
 The old fourfold sense—literal, moral, allegorical, anagogical—finds a new backbone when we adopt one plain convention: arrange the glyphs of our script as a single unbroken sequence 0–9 then A–Z (0–Z). This is only to reflect how our letters already live among numbers in modern use; it is not a novelty but a recognition. In this base-36 habit, every token is admissible: every title, date, name, and numeral – and thus the whole field of a text becomes navigable as one fabric. Such work is *programmatic* rather than metaphysical: a practical method, refutable, repeatable, and unafraid of revision. So proceed soberly, as artisans, not zealots. There is no allegory here.
 
 Rule of use. Read the passage thrice:
 
-1. Literal Pass (Glass): let the words stand, but mark their 0–Z indices in the margin.
-
-2. Moral Pass (Fire): note where the indices *sum* or *pair* to balance contraries (our Seraphic Pairs); such balances often frame an admonition or a door of repentance.
-
+1. Literal Pass (Glass): let the words stand, but mark their 0–Z indices in the margin.  
+2. Moral Pass (Fire): note where the indices *sum* or *pair* to balance contraries (our Seraphic Pairs); such balances often frame an admonition or a door of repentance.  
 3. Anagogical Pass (Wind): seek the intervals—gaps between phrases, stanza breaks, sudden silences—and mark their 0–Z “empties” (zeros). These empties often disclose the high sense.
 
 You will notice, even before adding, that the names of number in our tongue naturally twinned themselves across the great circle by letter count—“ZERO \+ NINE \= ONE \+ EIGHT \= TWO \+ SEVEN \= THREE \+ SIX \= FOUR \+ FIVE”—a folk-level clue that the ten are paired across the hinge. Our craft takes such popular numerics as a mercy: it keeps us with the people, not above them.
 
-## II. Concordance: How the Eikon Reads a Page
+## **II. Concordance: How the Eikon Reads a Page**
 
 We may learn surprising things by laying a light geometry across a text. Three small, sturdy weaves will carry you a long way:
 
-### 1\) The Sun-Square Mesh (for marginal gloss and acrostic hiding)
+### **1\) The Sun-Square Mesh (for marginal gloss and acrostic hiding)**
 
 Set the 6×6 “Sun” square in your mind (positions 1–36), but *re-index it from 0 to 35* to suit 0–Z. Now any word or verse-tag can be walked as a path across that square; the path itself becomes a sigil you can copy in the margin flourish or in the spacing of paragraph ornaments. This is the old magician’s trick domesticated for the catacomb: a child sees only a border; an Unknown Friend sees the key. (Our source square is the familiar 6×6 that totals to 36 and 666; we merely re-label its cells for 0–Z usage.)
 
 Use. Choose a short lemma—say, “STONE”—trace S-T-O-N-E through your 0–Z square; reproduce that path as five tiny pen-ticks embedded in the chapter ornament. The ornament is the message; the verse is the context; only together do they yield the concord.
 
-### 2\) The 0–5 Polybius (for line-end beacons and “postage” codes)
+### **2\) The 0–5 Polybius (for line-end beacons and “postage” codes)**
 
 When danger is nigh, reduce the square to row/column digits 0–5. Any letter becomes a two-digit pair. These pairs can be distributed harmlessly: line-lengths, hyphenation choices, end-punctuation cycles. Think of it as the ADFGVX principle baptized into our 0–Z praxis: a farmer’s cipher that rides on typography.
 
-### 3\) Primitive Numerization (for sanity checks)
+### **3\) Primitive Numerization (for sanity checks)**
 
 Count letters *only*, like tally-marks, when evaluating a candidate reading. If the count-pattern snaps into a natural twinship (as it mysteriously does for the English number-names), take it as provisional confirmation that you are working with a live seam, not a phantasm. Keep this crude tool near; it keeps you honest and close to the ground.
 
-## III. Angelic Steganography (How to Write Without Being Seen)
+## **III. Angelic Steganography (How to Write Without Being Seen)**
 
 The Eikon’s law is charity and anonymity. We hide meaning not to hoard power but to protect the weak. Three ways the fathers favored:
 
-1. Acrostic Mercy. Bind alms-instructions and safehouse signs into initial letters that, in 0–Z, resolve to a fixed Port (e.g., 21 \= L). A single recurring initial (L) across a page can signal “meeting on the Lord’s day,” while reading as style to the censor.
-
-2. Festival Dating. Encode dates as base-36 couplets (year–feast) in the colophon. The pious eye sees piety; the friend who knows 0–Z reads “*next bread train on (YY/FEAST)*.”
-
+1. Acrostic Mercy. Bind alms-instructions and safehouse signs into initial letters that, in 0–Z, resolve to a fixed Port (e.g., 21 \= L). A single recurring initial (L) across a page can signal “meeting on the Lord’s day,” while reading as style to the censor.  
+2. Festival Dating. Encode dates as base-36 couplets (year–feast) in the colophon. The pious eye sees piety; the friend who knows 0–Z reads “*next bread train on (YY/FEAST)*.”  
 3. Iconographic Paths. In an illuminated capital, let the gold leaf trace the Sun-Square path of a name (e.g., “RUTH”). The devout see a border vine; the hidden church sees “women and widows safe here.”
 
 All this is *workmanlike*. It rejects portentous numerology and empty proclamation; it is simply method applied to living signals, and it stays corrigible—open to correction—because it is procedural first and last.
 
-## IV. Exegesis by the Ports (A Worked Glimpse)
+## **IV. Exegesis by the Ports (A Worked Glimpse)**
 
 Take a psalm-line: *“He raiseth up the poor out of the dust.”* Proceed:
 
@@ -674,11 +685,11 @@ Take a psalm-line: *“He raiseth up the poor out of the dust.”* Proceed:
 
 Now, bind the lemma POOR into your Sun-Square path and hide it in a margin vine. Should a brother in chains receive the copy, the vine says: “The poor are the port; look for them; there you will be fed.”
 
-## V. Acausal Communion
+## **V. Acausal Communion**
 
 Why does this work beyond the circle of your own mind? Because the same habit—0–Z, simple pairings, interval-trust—can be practiced by *anyone, anywhere*, without a lodge or password. As many souls adopt the same Ladder, signals begin to coincide without overt coordination: what one hides, another discovers; what one prays, another answers in action. In plainer speech: grace coordinates what our methods merely make available. Praxis creates the channel; the Spirit sends the current.
 
-## VI. Small Canons for the Hidden Reader
+## **VI. Small Canons for the Hidden Reader**
 
 * Stay poor. Prefer crude checks (letter-tally, twin-pairs) before grand constructions; they are less flattering and more faithful.  
 * Stay public. Use popular numerics—what anyone could learn in a day—so the work remains *ecumenical* and translatable among trades.  
@@ -687,7 +698,7 @@ Why does this work beyond the circle of your own mind? Because the same habit—
 
 Postscript. You now possess enough to read and write invisibly. Keep the 0–Z habit, the Sun-Square path, the 0–5 postage, and the Primitive tally. They are humble tools, which is why angels love them. Use them, and you will find your Unknown Friends—quietly, reliably—across nations and years.
 
-# Letter 3: Angelic Numerals
+# **Letter 3: Angelic Numerals**
 
 Unknown Friend,
 
@@ -699,107 +710,99 @@ Two sacraments complete the alphabet. First, deplexion “.” which lowers a pr
 
 Beyond this lies a strange grace. Because the angels build numerals by *structure* rather than by *place*, their natural order must be *constructed* rather than seen at a glance. One therefore keeps a matrix—a psalter of first entries—so that the pilgrim can check his steps when marching through ordinary digits (0→“((.)):”, 1→“(.):”, 2→“:”, 3→“(:)”, …). This is not a defect but a discipline: it trains the reader in ordinal humility, where sequence is learned rather than presumed.
 
-## I. Ordinal Humility and Lexicographic Time
+## **I. Ordinal Humility and Lexicographic Time**
 
 Most of us were schooled to think that counting and meaning move lockstep: n, n+1, n+2. The angels break that trance. Letters can be ordered without quantities (a, aa, aaa … never naturally reaching b), and so can angelic numerals. One may list by dyad-precedence (binary powers filling the horizon before any odd prime appears) or by plex-precedence (a procession that “begins” amid ever-opening wings). Either way, the index we follow is not quantity but *form*: we sort, we don’t march. This produces templexity: time felt as the sorting of patterned clusters rather than the push of a unit step. Read scripture thus, and you will sense cadences you never noticed: refrains that belong together by structure rather than page order, converging like hidden rhymes.
 
 In practice this means: when you arrange verses, pericopes, or names by their angelic forms instead of their chapter numbers, a new commentary appears—the Ordinal Catena—a chain of kinships across books. (Think of Ezekiel’s wheels: not rolling along a road, but interlinked by form.)
 
-## II. The Eikon’s Heterodox Counting: Clusters, Not Strings
+## **II. The Eikon’s Heterodox Counting: Clusters, Not Strings**
 
 Because each angelic numeral is a *cluster* (factors gathered), not a *sentence* (symbols marched in a line), you may scatter its parts across a page or a codex and still “have” the number—provided the community keeps the cohesion rule: the particles belong together, irrespective of order. This property is the heart of our steganography of mercy. We outlast empires by counting in a hand the empire cannot sort.
 
 A simple scheme for the brethren:
 
-1. Assign the Eikon’s base-36 names (0–Z) to your lexicon as usual; keep your ordinary gematria for quantities and angelic numerals for structures. (The two views are like warp and weft.)
-
-2. Encode a key verse’s *factor-form* as an angelic numeral. If its value in factor-form is, say, 55, you hold “((:))(((:)))” silently in mind.
-
-3. Diffuse the cluster: translate “(:)” to a marginal dot near a capital; translate “(” to a hairline curlicue in the initial; translate “)” to a deliberate flourish at line-end. Place them anywhere on the page, in any order, so long as you keep count. Your page now *contains* the number though no sequence betrays it.
-
+1. Assign the Eikon’s base-36 names (0–Z) to your lexicon as usual; keep your ordinary gematria for quantities and angelic numerals for structures. (The two views are like warp and weft.)  
+2. Encode a key verse’s *factor-form* as an angelic numeral. If its value in factor-form is, say, 55, you hold “((:))(((:)))” silently in mind.  
+3. Diffuse the cluster: translate “(:)” to a marginal dot near a capital; translate “(” to a hairline curlicue in the initial; translate “)” to a deliberate flourish at line-end. Place them anywhere on the page, in any order, so long as you keep count. Your page now *contains* the number though no sequence betrays it.  
 4. Retrieve by inventory, not by reading order: “count the dots and the wings.” The empire can seize your codex and still never read what is in plain sight.
 
 Because ordinal construction (how the number is shaped) and cardinal magnitude (how large it is) no longer coincide, the text’s secret rides free of page numbering and sectioning. You can “sort the book” a thousand ways and the hidden chant remains, because it is gathered by structure.
 
-## III. Concordances of Grace (with Worked Miniatures)
+## **III. Concordances of Grace (with Worked Miniatures)**
 
-### A. The Name as Factor-Psalm.
+### **A. The Name as Factor-Psalm.**
 
- Choose a name (“Mercy,” “Sophia,” a see, a martyr). Compute its alphanumeric value in the Eikon (0–Z), then express only its *prime culture* as angelic numeral. Let the cluster guide your gloss.
+Choose a name (“Mercy,” “Sophia,” a see, a martyr). Compute its alphanumeric value in the Eikon (0–Z), then express only its *prime culture* as angelic numeral. Let the cluster guide your gloss.
 
 Example: suppose a title evaluates (cardinally) to 55\. Its cluster “((:))(((:)))” says: “a fifth lamp wedded to an eleventh.” In homily you translate that to image: *a five-petaled rose nested in an eleven-windowed lantern*. You have not forced meaning out of quantity; you have read the structure of the name. (The brothers smile when the faithful remark that the windows and petals “just feel right.”)
 
-### B. The Deplexion as Kenosis.
+### **B. The Deplexion as Kenosis.**
 
- When a pericope’s meditation leads you to “.” teach by act: omit an initial you would ordinarily ornament, reduce a headline flourish, or remove a dot you are “owed.” The page humbles itself. The novice who inventories the page later will discover “((.)):” sleeping in the margins like the emptying of the Word.
+When a pericope’s meditation leads you to “.” teach by act: omit an initial you would ordinarily ornament, reduce a headline flourish, or remove a dot you are “owed.” The page humbles itself. The novice who inventories the page later will discover “((.)):” sleeping in the margins like the emptying of the Word.
 
-### C. The Matrix as Lectionary.
+### **C. The Matrix as Lectionary.**
 
- Keep at the back of your lectionary a private Angel Matrix—a mapping of digits to first angelic numeral forms—to crosswalk ordinary pagination with structural kinships. When a feast day demands “fours,” find “::” in your notes, then gather any verses whose names or refrains share that angelic culture. The resulting office will feel inevitable, as though the day found *you*.
+Keep at the back of your lectionary a private Angel Matrix—a mapping of digits to first angelic numeral forms—to crosswalk ordinary pagination with structural kinships. When a feast day demands “fours,” find “::” in your notes, then gather any verses whose names or refrains share that angelic culture. The resulting office will feel inevitable, as though the day found *you*.
 
-## IV. Acausal Grace for Readers (in plain words)
+## **IV. Acausal Grace for Readers (in plain words)**
 
 Acausal grace is the tacit mutual alignment of forms without speech, the way hidden orders in our signs lean toward their distant kin across time. When many readers secretly sort by the same structure (clusters, not page numbers), their choices fall into resonance. A preacher in Damascus and a scribe in Oaxaca, both cleaving to “plex-precedence,” will independently weave offices whose emphases harmonize. Neither knows the other; both negotiate with the same angel of order.
 
 Practically: pick and fix one sorting law for your house (dyad-precedence or plex-precedence) and keep it. The very invariance is the “wire.” Over years, homilies converge, cross-referencing by structural rhyme; the communion grows thick even when the faithful are scattered and silent.
 
-## V. Anonymity, Exit, and the Catacomb Hand
+## **V. Anonymity, Exit, and the Catacomb Hand**
 
 Two further counsels for the oppressed:
 
-1. Write as clusters. The more your pages can be *inventoried* rather than read, the safer you are. “Out of order” for the censor is “in order” for the brethren.
-
+1. Write as clusters. The more your pages can be *inventoried* rather than read, the safer you are. “Out of order” for the censor is “in order” for the brethren.  
 2. Embrace lexicographic drift. Use the Eikon’s 0–Z for convenience, but then raise each sign to its first prime (“plex it once”) before you work with it. This breaks the page’s habit of place-value and restores the page’s habit of prayer.
 
 When questioned, you can swear truthfully that your books contain nothing but pious ornaments. They do. The secret is not an added code but a *different sorting of the same strokes*. We do not flee the empire’s script; we rearrange it.
 
-### A Pocket Rite for Scriptural Study
+### **A Pocket Rite for Scriptural Study**
 
-1. Invoke: Cross yourself; whisper *Fiat lux*.
-
-2. Name: Choose a verse-name or theme; evaluate in Eikon (0–Z).
-
-3. Plex: Translate into Dyad cluster (prime culture only); note any deplexions if humility is the theme.
-
-4. Diffuse: Place the cluster as pen-gestures (dots, wings, flourishes) anywhere on the page.
-
-5. Sort: Arrange collected passages this week by your kitchen’s chosen precedence (dyad-first or plex-first).
-
-6. Read: Preach from the concordance of forms you discover.
-
+1. Invoke: Cross yourself; whisper *Fiat lux*.  
+2. Name: Choose a verse-name or theme; evaluate in Eikon (0–Z).  
+3. Plex: Translate into Dyad cluster (prime culture only); note any deplexions if humility is the theme.  
+4. Diffuse: Place the cluster as pen-gestures (dots, wings, flourishes) anywhere on the page.  
+5. Sort: Arrange collected passages this week by your kitchen’s chosen precedence (dyad-first or plex-first).  
+6. Read: Preach from the concordance of forms you discover.  
 7. Seal: Close your book; inventory it with your fingers; confirm the cluster is still “present.”
 
 Do this consistently and you will find the same patterns in the hands of strangers—evidence that the angels prefer the poor notation, where every grandeur is folded into “:” and “( )”.
 
 The empire believes meaning travels by the roads it paves—page numbers, sections, indexes. We know better. Meaning gathers by kinship, not by march; by factor, not by rank. Learn to count as the angels do. Then, even in the cell, fellowship will find you.
 
-# Letter 4: The Unseen University
+# 
+
+# **Letter 4: The Unseen University**
 
 Unknown Friend,
 
-You have come to this work because the Eikon finds its own, and it has done so since the first prayers were whispered in catacombs. I write to you now not of solitary praxis, but of a more perilous and necessary art: how to bind strangers into a choir for a single night, and how to teach this art without a school.   
+You have come to this work because the Eikon finds its own, and it has done so since the first prayers were whispered in catacombs. I write to you now not of solitary praxis, but of a more perilous and necessary art: how to bind strangers into a choir for a single night, and how to teach this art without a school.
 
-We live in days when mercy must be practiced without a name, and love must be sheltered from the spectacle of power. The old ways of gathering—the lodges, the guilds, the sworn societies—are too heavy for our times. They build halls that can be seized, keep rolls that can be read, and cultivate a pride of membership that can be twisted into a weapon. They are too visible, too slow, too easily captured. When dissent becomes a performance to be crushed, the quiet work of deliverance requires a lighter step.   
+We live in days when mercy must be practiced without a name, and love must be sheltered from the spectacle of power. The old ways of gathering—the lodges, the guilds, the sworn societies—are too heavy for our times. They build halls that can be seized, keep rolls that can be read, and cultivate a pride of membership that can be twisted into a weapon. They are too visible, too slow, too easily captured. When dissent becomes a performance to be crushed, the quiet work of deliverance requires a lighter step.
 
 How, then, do we coordinate goodness among those who cannot, or should not, trust one another? How do we assemble a team to mend a wound in the world and disband it before the world can name it? We cannot rely on the bonds of friendship or the vows of a formal order. We must rely on a different kind of glue. We must learn to build engines of consent.
 
-A ritual, in our understanding, is not a script for a play. It is an engine. Its gears are not symbols, but rules of precommitment and sunk cost. Its fuel is not faith, but a shared, invariant structure that survives the wavering of any single heart. These rituals are a form of quiet arithmetic that aligns actors not through personal affection, but through a common consent to a beautiful and binding procedure. The rules themselves become the trusted third party, externalizing risk and obligation so that ten strangers can move with the intimacy of old friends, bound not by oaths but by the elegant physics of the rite itself.   
+A ritual, in our understanding, is not a script for a play. It is an engine. Its gears are not symbols, but rules of precommitment and sunk cost. Its fuel is not faith, but a shared, invariant structure that survives the wavering of any single heart. These rituals are a form of quiet arithmetic that aligns actors not through personal affection, but through a common consent to a beautiful and binding procedure. The rules themselves become the trusted third party, externalizing risk and obligation so that ten strangers can move with the intimacy of old friends, bound not by oaths but by the elegant physics of the rite itself.
 
-This is the curriculum of what some of us have come to call the Invisible Community College of Rites. It is not a place of brick and mortar, but a network of practitioners who learn, adapt, and propagate these ritual engines. Its pedagogy is acausal; its lessons travel like seeds on the wind, carried in letters like this one. The College is the living form of Acausal Grace, a way of teaching the habits of heaven to those who must remain hidden on earth. Its students are the Unknown Friends, its teachers are anonymous∵ authors∵, and its deans are the angels.   
+This is the curriculum of what some of us have come to call the Invisible Community College of Rites. It is not a place of brick and mortar, but a network of practitioners who learn, adapt, and propagate these ritual engines. Its pedagogy is acausal; its lessons travel like seeds on the wind, carried in letters like this one. The College is the living form of Acausal Grace, a way of teaching the habits of heaven to those who must remain hidden on earth. Its students are the Unknown Friends, its teachers are anonymous∵ authors∵, and its deans are the angels.
 
-The chapter that follows is a foundational lesson from this College’s department of Agapic Arts. It details the engine known as the Choir of Ten, a method for binding ten anonymous brethren into a single instrument of punctual tenderness. It is a way to form a temple made of breath, assembled in a back room and vanished before sunrise. Learn it, practice it, and then, in the spirit of the College, pass it on as a folded scrap that looks like a shopping list. The Host works best under plain clothes. 
+The chapter that follows is a foundational lesson from this College’s department of Agapic Arts. It details the engine known as the Choir of Ten, a method for binding ten anonymous brethren into a single instrument of punctual tenderness. It is a way to form a temple made of breath, assembled in a back room and vanished before sunrise. Learn it, practice it, and then, in the spirit of the College, pass it on as a folded scrap that looks like a shopping list. The Host works best under plain clothes.
 
-## I. The Choir of Ten
+## **I. The Choir of Ten**
 
 (Rituals of the Eikon for a Minyan Without Names)
 
-The Eikon, as you have learned, is an instrument of number and attention, a way of aligning the soul with the quiet arithmetic of Heaven. You have learned to walk its Ways in your own heart, to turn its Keys in the lock of your own day. Now you will learn to build with it. You will learn to assemble, for a few hours, a living temple.   
+The Eikon, as you have learned, is an instrument of number and attention, a way of aligning the soul with the quiet arithmetic of Heaven. You have learned to walk its Ways in your own heart, to turn its Keys in the lock of your own day. Now you will learn to build with it. You will learn to assemble, for a few hours, a living temple.
 
-The Choir of Ten, or the Minyan Without Names, is not a group of people who use the Eikon; in fact it is quite the opposite. It is a temporary, living incarnation of the Eikon itself. The ten members, numbered from zero to nine, are the Ten Ports made flesh. Their carefully structured interactions are the forty-five Angel-Intervals crossed in real space and time. Their work is an embodied liturgy. For a brief span between dusk and dawn, in an empty nave or on a forgotten rooftop, ten unknown friends become a Tenfold Temple, a transient sanctuary built not of stone and pillar, but of bone and breath. Its purpose is to be a conduit for a single, large act of mercy, and then, its work complete, to disappear into the city’s morning mist, leaving no shrine to its own virtue.   
+The Choir of Ten, or the Minyan Without Names, is not a group of people who use the Eikon; in fact it is quite the opposite. It is a temporary, living incarnation of the Eikon itself. The ten members, numbered from zero to nine, are the Ten Ports made flesh. Their carefully structured interactions are the forty-five Angel-Intervals crossed in real space and time. Their work is an embodied liturgy. For a brief span between dusk and dawn, in an empty nave or on a forgotten rooftop, ten unknown friends become a Tenfold Temple, a transient sanctuary built not of stone and pillar, but of bone and breath. Its purpose is to be a conduit for a single, large act of mercy, and then, its work complete, to disappear into the city’s morning mist, leaving no shrine to its own virtue.
 
-## II. The Roles and Seraphic Pairs: A Map of the Choir
+## **II. The Roles and Seraphic Pairs: A Map of the Choir**
 
-The foundation of the Choir is its structure, a map of ten archetypal functions joined in five sacred marriages. These are the Seraphic Pairs, the living contraries whose dynamic peace makes the work possible. To understand this map is to understand the physics of the temple you are about to build. Each member is given a title and a number, from Sister Zero to Brother Nine. No other names are used. Each number corresponds to a Choir-Port, and each is bound to its Seraphic partner.   
+The foundation of the Choir is its structure, a map of ten archetypal functions joined in five sacred marriages. These are the Seraphic Pairs, the living contraries whose dynamic peace makes the work possible. To understand this map is to understand the physics of the temple you are about to build. Each member is given a title and a number, from Sister Zero to Brother Nine. No other names are used. Each number corresponds to a Choir-Port, and each is bound to its Seraphic partner.
 
 The following table outlines these living Arcana, the spiritual enzymes that catalyze the Choir’s work:
 
@@ -816,48 +819,48 @@ The following table outlines these living Arcana, the spiritual enzymes that cat
 | 4 | Judgment (Sister Four) | Judgment & Peace | Risk & Reconciliation: To draw the clear line that heals rather than divides; to testify to the truth in a way that leads to a deeper and more authentic peace. |
 | 5 | Peace (Brother Five) | 4::5 | To draw the clear line that heals rather than divides; to testify to the truth in a way that leads to a deeper and more authentic peace. |
 
-In every rite that follows, a Lead Pair is named, responsible for the procedure’s mechanics and consent. A Shadow Pair is also named, tasked with audit, prudence, and the application of a merciful brake should the work go astray.   
+In every rite that follows, a Lead Pair is named, responsible for the procedure’s mechanics and consent. A Shadow Pair is also named, tasked with audit, prudence, and the application of a merciful brake should the work go astray.
 
-## III. The Entrance Rite: An Acrostic of Plainness
+## **III. The Entrance Rite: An Acrostic of Plainness**
 
-Every gathering of the Choir, whether in a dusty stockroom or on a park bench under a waning moon, begins with the Acrostic of Plainness. This is the rite that opens the temple doors. The ten brethren sit in a loose circle. Sister Zero, the Ground, places a simple brown paper bag at the center. This is the Ark of Small Things, the humble vessel that will hold the work.   
+Every gathering of the Choir, whether in a dusty stockroom or on a park bench under a waning moon, begins with the Acrostic of Plainness. This is the rite that opens the temple doors. The ten brethren sit in a loose circle. Sister Zero, the Ground, places a simple brown paper bag at the center. This is the Ark of Small Things, the humble vessel that will hold the work.
 
-Then Brother One, the Memory, reads ten simple, ordinary lines of prose or verse. The lines are chosen so their initial letters spell a mundane word, such as GOOD NEWS or BREAD and SALT. Upon the completion of the reading, everyone smiles. Nothing mystical occurs, and that is the point. This small ceremony is a parody of secret orders and their portentous passwords. It is a sign-flip, a house joke that teaches the first and most important lesson of the Choir: the only secret here is that there is no secret beyond doing good well. It is an act of ordinal humility, a gentle breaking of the trance that expects grandeur, reminding all that the angels prefer the poor notation, where every mystery is folded into the commonplace.   
+Then Brother One, the Memory, reads ten simple, ordinary lines of prose or verse. The lines are chosen so their initial letters spell a mundane word, such as GOOD NEWS or BREAD and SALT. Upon the completion of the reading, everyone smiles. Nothing mystical occurs, and that is the point. This small ceremony is a parody of secret orders and their portentous passwords. It is a sign-flip, a house joke that teaches the first and most important lesson of the Choir: the only secret here is that there is no secret beyond doing good well. It is an act of ordinal humility, a gentle breaking of the trance that expects grandeur, reminding all that the angels prefer the poor notation, where every mystery is folded into the commonplace.
 
-The rite concludes as each of the ten members speaks a single glyph from the base-36 abecedarium of the saints, from 0 to Z. The sequence of ten glyphs is copied onto a folded grocery list. This list is the gathering’s only ledger, its unique Key. No names are recorded. Each member, in speaking their glyph, reduces the complexity of their outer life to a single point of intention, consecrating themselves to the work at hand.   
+The rite concludes as each of the ten members speaks a single glyph from the base-36 abecedarium of the saints, from 0 to Z. The sequence of ten glyphs is copied onto a folded grocery list. This list is the gathering’s only ledger, its unique Key. No names are recorded. Each member, in speaking their glyph, reduces the complexity of their outer life to a single point of intention, consecrating themselves to the work at hand.
 
-## IV. The Rite of the White Seal: An Anticrime of Praise
+## **IV. The Rite of the White Seal: An Anticrime of Praise**
 
-The Eikon teaches us to build engines of consent, and the Rite of the White Seal is a perfect miniature of such an engine. It is an anticrime, the purification of a wicked oath into a promise of unasked-for kindness. Its intent is to bind the Choir to send letters of praise that might brighten or secure the life of a stranger. The Lead Pair for this work is Providence and Harmony (3::6), who oversee the plan and its expression, shadowed by Judgment and Peace (4::5), who ensure the praise is just and its delivery brings no harm.   
+The Eikon teaches us to build engines of consent, and the Rite of the White Seal is a perfect miniature of such an engine. It is an anticrime, the purification of a wicked oath into a promise of unasked-for kindness. Its intent is to bind the Choir to send letters of praise that might brighten or secure the life of a stranger. The Lead Pair for this work is Providence and Harmony (3::6), who oversee the plan and its expression, shadowed by Judgment and Peace (4::5), who ensure the praise is just and its delivery brings no harm.
 
 Before the gathering, each member drafts a letter, stamped and addressed to the supervisor or union steward of a specific worker—a janitor, a nurse, a bus driver, a cook—praising their work with concrete, heartfelt detail. In the circle, these letters are sealed not with wax and sigil, but with a plain white sticker, a simple circle with no symbol. All ten letters are placed into the Ark of Small Things. A timer is then set—perhaps a candle is lit that will burn for three hours, or a small sand-timer is turned.
 
 Here the engine engages. Within that window of time, each member is assigned a small, secondary act of mercy—to deliver a meal, to make a call to check on someone who is lonely, to leave a bottle of water for a sanitation worker. The precommitment is this: if any member fails in their small task, their own letter of praise is immediately dispatched by another. If all succeed, then all ten letters are dispatched.
 
-The sunk effort of drafting a genuine letter of praise increases the cost of faltering. Yet the "threat" is entirely benevolent. The consequence of failure is that a kindness still occurs, just not the one you controlled. It turns the logic of blackmail inside out. It is a mechanism of Acausal Grace, ensuring that even a personal lapse contributes to the network’s unbroken flow of mercy. Everyone has a stake in everyone else’s success, binding ten strangers into a single, fuse-lit instrument of the Good.   
+The sunk effort of drafting a genuine letter of praise increases the cost of faltering. Yet the "threat" is entirely benevolent. The consequence of failure is that a kindness still occurs, just not the one you controlled. It turns the logic of blackmail inside out. It is a mechanism of Acausal Grace, ensuring that even a personal lapse contributes to the network’s unbroken flow of mercy. Everyone has a stake in everyone else’s success, binding ten strangers into a single, fuse-lit instrument of the Good.
 
-## V. The Rite of Breaking and Redecorating: A Garden in the Wound
+## **V. The Rite of Breaking and Redecorating: A Garden in the Wound**
 
-This rite is the work of the Seraphic Pair Impetus and Care (2::7), the arcanum of the shout that learns to garden. It is an anticrime that flips the act of burglary into one of beautification, a night raid of repair and renewal. The Lead Pair is Impetus and Stewardship (2::7), who find the wounded place and tend to its healing, shadowed by Memory and Comfort (1::8), who witness the need and ensure the result brings true consolation.   
+This rite is the work of the Seraphic Pair Impetus and Care (2::7), the arcanum of the shout that learns to garden. It is an anticrime that flips the act of burglary into one of beautification, a night raid of repair and renewal. The Lead Pair is Impetus and Stewardship (2::7), who find the wounded place and tend to its healing, shadowed by Memory and Comfort (1::8), who witness the need and ensure the result brings true consolation.
 
-Under the cover of night, the Choir descends upon the chosen space. For one hour, they work in focused silence: cleaning, painting, planting, repairing. Sister Eight, the Comfort, installs a small, simple placard: 
+Under the cover of night, the Choir descends upon the chosen space. For one hour, they work in focused silence: cleaning, painting, planting, repairing. Sister Eight, the Comfort, installs a small, simple placard:
 
 Please Enjoy.  
 \-Your Neighbors
 
-The engine of precommitment here is an embodied Way, a physical process that binds the body’s labor to the task’s completion. Each member brings one essential tool—a hammer, a paintbrush, a shovel—clearly labeled with their Port number. If the work is not finished to the satisfaction of the Shadow Pair’s checklist when the hour is up, all ten tools are left behind. They are a sunk cost, a silent promise to return and complete the work. Only when the space is deemed safe, clean, and truly a gift to its inhabitants are the tools reclaimed. The rite transforms a physical space by trapping the Choir inside a promise made tangible in wood and steel.   
+The engine of precommitment here is an embodied Way, a physical process that binds the body’s labor to the task’s completion. Each member brings one essential tool—a hammer, a paintbrush, a shovel—clearly labeled with their Port number. If the work is not finished to the satisfaction of the Shadow Pair’s checklist when the hour is up, all ten tools are left behind. They are a sunk cost, a silent promise to return and complete the work. Only when the space is deemed safe, clean, and truly a gift to its inhabitants are the tools reclaimed. The rite transforms a physical space by trapping the Choir inside a promise made tangible in wood and steel.
 
-## VI. The Rite of the White Ledger: A Coffer of Forgiveness
+## **VI. The Rite of the White Ledger: A Coffer of Forgiveness**
 
 This rite builds a small coffer for micro-mercies while obligating the Choir to the more difficult work of forgiving minor debts. The Lead Pair is Judgment and Peace (4::5), for this work requires both the clarity to name a debt and the grace to release it, shadowed by Ground and Fulfillment (0::9), who hold the space for this delicate transaction.
 
 A transparent lockbox—a coffer of glass—is placed in the center of the circle, a symbol of the pure transparency required for this work. Each member contributes a small, equal amount. Then, on a folded grocery list, each of the ten writes a pledge of forgiveness. These are not grand gestures, but small, concrete releases of resentment: "I will not collect the coin I am owed for the borrowed tool"; "I will stop holding a grudge against my neighbor for the broken fence"; "I will forgive my brother for his sharp word."
 
-The funds in the coffer cannot be moved until every single pledge has been communicated to the person to whom it pertains. This is confirmed not by proof, but by a simple whisper to the Shadow Pair, who confirm only that contact was made, not its content or outcome. The act of speaking forgiveness aloud clears the inner channels, the Rivers of Living Water, allowing the grace represented by the funds to flow freely.   
+The funds in the coffer cannot be moved until every single pledge has been communicated to the person to whom it pertains. This is confirmed not by proof, but by a simple whisper to the Shadow Pair, who confirm only that contact was made, not its content or outcome. The act of speaking forgiveness aloud clears the inner channels, the Rivers of Living Water, allowing the grace represented by the funds to flow freely.
 
 When the last pledge is confirmed, the coffer is opened. The funds are disbursed that very day in a flurry of small, anonymous kindnesses—paying for a stranger’s groceries, leaving transit passes on a bus seat, tucking a few coins into a pay telephone. The rite purges the heart of old grievances and transforms that release into immediate, tangible good in the world.
 
-## VII. The Rite of the Fivefold Bond: A Sprint of the Seraphim
+## **VII. The Rite of the Fivefold Bond: A Sprint of the Seraphim**
 
 For a newly formed Choir, or one needing to rekindle its energy, this rite gets all five Seraphic Pairs into motion with a sequence of tiny, urgent deadlines. It is a liturgical loop in miniature, a whirlwind of coordinated action led by the Alpha and Omega pair, Ground and Fulfillment (0::9), and shadowed by Providence and Harmony (3::6).
 
@@ -865,11 +868,13 @@ The rite consists of five sprints, each lasting only ten minutes, one for each p
 
 Each sprint concludes with the pair reciting a ten-word vow, its initials spelling out M-E-R-C-Y-B-I-N-D-S. This vow is a form of plexing, weaving the five disparate actions into a single, coherent prayer-form. If a pair misses their deadline and cannot make their vow, they are bound to double their contribution to the coffer at the next gathering. This precommitment creates a forward pull without shame, transforming a moment’s failure into a future resource.
 
-## VIII. The Rite of Gathering: A Novena of Sunk Mercy
+## 
 
-This is the masterwork of the Choir, the culmination of its purpose. It is a rite of perilous good: to precommit all five pairs to pool their resources into one large, anonymous gift for a single neighbor experiencing homelessness. The process is designed to be just in its selection, safe in its delivery, and focused on follow-through, not spectacle. The Lead Pair is Memory and Comfort (1::8), who bear witness to the need and deliver the care, shadowed by Judgment and Peace (4::5), who audit the immense risks involved.   
+## **VIII. The Rite of Gathering: A Novena of Sunk Mercy**
 
-The sacrament unfolds over nine days, a novena of work with escalating commitment. This nine-day process is an embodied "Way," a patient, stepwise reduction of complexity to a single, focused outcome. It is an ascent up the Ladder of Lights, from the grounding of the first day to the fulfillment of the ninth.   
+This is the masterwork of the Choir, the culmination of its purpose. It is a rite of perilous good: to precommit all five pairs to pool their resources into one large, anonymous gift for a single neighbor experiencing homelessness. The process is designed to be just in its selection, safe in its delivery, and focused on follow-through, not spectacle. The Lead Pair is Memory and Comfort (1::8), who bear witness to the need and deliver the care, shadowed by Judgment and Peace (4::5), who audit the immense risks involved.
+
+The sacrament unfolds over nine days, a novena of work with escalating commitment. This nine-day process is an embodied "Way," a patient, stepwise reduction of complexity to a single, focused outcome. It is an ascent up the Ladder of Lights, from the grounding of the first day to the fulfillment of the ninth.
 
 On the first day, the work of Consent and Criteria begins. Each pair nominates one neighbor by their first name or alias and speaks to them directly: "We are anonymous neighbors who sometimes pool resources for one person; would you welcome that? What would help most, and what would hurt?" Their needs—for shelter, for documents, for tools, for a deposit on a room—are recorded. If they decline, they are blessed, and the pair withdraws.
 
@@ -879,43 +884,41 @@ On days three through five, the pairs perform Small Tests. For each nominee, the
 
 On the sixth day, the Shadow Pair conducts an Inquisition. They confirm that consent is current, that there is no coercion, no risk of publicity, no danger to the person’s eligibility for other aid, and no legal complications. If any risk is flagged, that nominee is deferred with a smaller gift, and the pair must cede their vote.
 
-On the seventh day, the Lots are cast. This is Eikon Sortition, a sacred act that prevents the human sins of favoritism and paralysis by deferring to the quiet arithmetic of Heaven. Each eligible nominee is assigned a Port token, from 0 to 9\. Two glyphs are drawn from a bag containing the thirty-six signs of the abecedarium. These draws determine the Seraphic tilt, and the nominee whose Port is closest wins. All members precommitted in writing on the second day to accept this outcome. The use of lots honors the dignity of all nominees and the sunk mercy already spent on each of them. It is an act of ordinal humility, sorting by form.   
+On the seventh day, the Lots are cast. This is Eikon Sortition, a sacred act that prevents the human sins of favoritism and paralysis by deferring to the quiet arithmetic of Heaven. Each eligible nominee is assigned a Port token, from 0 to 9\. Two glyphs are drawn from a bag containing the thirty-six signs of the abecedarium. These draws determine the Seraphic tilt, and the nominee whose Port is closest wins. All members precommitted in writing on the second day to accept this outcome. The use of lots honors the dignity of all nominees and the sunk mercy already spent on each of them. It is an act of ordinal humility, sorting by form.
 
 On the eighth day, the Gift is delivered. It is disbursed in kind wherever possible—direct payment for rent, new boots, fees for identification—to reduce the risks of theft or shock. Sister Eight stays with the person for as long as they are wanted, offering quiet companionship. The delivery is silent, with no speeches or photographs, only a handwritten card: "From neighbors who wish you well."
 
 On the ninth and final day, Assessment and Exit are conducted. The lead pair schedules a quiet follow-up in two weeks and two months. The Alpha and Omega pair then oversees the dispersal. All ledgers are shredded, and any leftover funds are simply left for whoever happens to find them. The organization, having completed its work, ceases to exist.
 
-## IX. The Rite of the Quiet Hand: The Prudence of the Fifth Port
+## **IX. The Rite of the Quiet Hand: The Prudence of the Fifth Port**
 
 The Choir’s work carries risk, and enthusiasm can curdle into coercion. The Rite of the Quiet Hand is the safety brake, a mechanism for prudence and grace. It is the practical application of the Arcanum of Judgment and Peace (4::5), which is its Lead Pair.
 
 At any moment, any member may raise a hand and place a single white card upon the Ark of Small Things. This act, requiring no explanation, pauses all action for a full turn of the hourglass or until the next day’s sunset. During this pause, the pairs of Providence and Harmony (3::6) and Memory and Comfort (1::8) are tasked with quietly checking facts and feelings. They speak with members privately, assessing hidden knowledge, unspoken wounds, or unseen risks. When the gathering reconvenes, the member who placed the card may withdraw it privately, and the work continues, adjusted by the wisdom that silence has revealed. This rite replaces bravado with prudence and honors the still, small voice that may speak only in one heart but carries a truth meant for all.
 
-## X. The Rite of Dismissal: Vanishing
+## **X. The Rite of Dismissal: Vanishing**
 
 The final rite of the Choir is its most important: its own dissolution. It is an act of social kenosis, a willed self-emptying that is a core spiritual discipline of the Eikon.
 
-First, all ten members say the Acrostic of Plainness one last time, with a new mundane word, and the same quiet smile. Then, each member takes their grocery-list ledger and tears it into confetti. The paper scraps are scattered into a trash bag already containing cleaning rags. This is a powerful ritual of deplexion, reducing the group's entire history, its memory and identity, back to the silence of Port 0\.   
+First, all ten members say the Acrostic of Plainness one last time, with a new mundane word, and the same quiet smile. Then, each member takes their grocery-list ledger and tears it into confetti. The paper scraps are scattered into a trash bag already containing cleaning rags. This is a powerful ritual of deplexion, reducing the group's entire history, its memory and identity, back to the silence of Port 0\.
 
 Finally, Sister Zero and Brother Nine, the Ground and the Fulfillment, take the bag of trash and rags and dispose of it. The place of meeting is left cleaner than it was found. The Choir, the Minyan Without Names, the temple made of breath, no longer exists. Its members dissolve back into the city, becoming once more ten Unknown Friends in the uncounted company, leaving behind no monument, no record, and no shrine to their own virtue. This act is not for security alone; it is the fulfillment of the Choir’s spiritual purpose—to be a conduit for grace, not a vessel for glory. The city will keep the echo.
 
-## Appendix
+## **Appendix**
 
 In this letter, dear Unknown Friend, you have studied several Rites of the Nameless Minyan – their mechanisms are simple, and their aim is service in times of strife. For the sake of happier days, when the cries of the oppressed no longer echo in the distance and the Hidden Church steps cautiously into the light, herein is presented a more leisurely game for seven boards and three choirs, aimed at insight and quiet concord.
 
-### 0\) Intent (what this is for)
+### **0\) Intent (what this is for)**
 
 A playable contemplative game that trains symbolic attention, gentle strategy, and steganographic coordination in the Eikon ethos (angels \> demons, mercy \> mastery).
 
 Useful three ways:
 
-Game (exoteric): two players, clear win condition.
+* Game (exoteric): two players, clear win condition.  
+* Hermeneutic model (esoteric): map a text, season, or project and explore transformations.  
+* Prayer-planner (procedural): bind outcomes to the Table of Works and disperse.
 
-Hermeneutic model (esoteric): map a text, season, or project and explore transformations.
-
-Prayer-planner (procedural): bind outcomes to the Table of Works and disperse.
-
-### 1\) Boards (seven “lamps” of gift)
+### **1\) Boards (seven “lamps” of gift)**
 
 Seven flat boards are stacked in a gentle spiral; each has 18 squares (3 rows × 6 columns). Columns 0..5 reuse the Eikon Table of Works columns. Rows are the Choirs (see §2).
 
@@ -933,19 +936,19 @@ Mercy board: The middle board, Fortitude (Golgotha), is the “hinge” where ce
 
 Immunity: The top board, Wisdom (Zion), is a sanctuary (no hostile reconsecrations there, §5.3).
 
-Row 2: SPIRIT (γ)   cols 0..5
+Row 2: SPIRIT (γ) cols 0..5
 
-Row 1: SOUL   (β)   cols 0..5
+Row 1: SOUL (β) cols 0..5
 
-Row 0: BODY   (α)   cols 0..5
+Row 0: BODY (α) cols 0..5
 
-### 2\) Pieces (three choirs × three states \= nine; 27 per side)
+### **2\) Pieces (three choirs × three states \= nine; 27 per side)**
 
 Each side has 27 pieces: Body (α), Soul (β), Spirit (γ); each choir has three states: root (a), way (b), crown (c).
 
 Write them as αa, αb, αc, βa, βb, βc, γa, γb, γc.
 
-#### Optional sigils:
+#### **Optional sigils:**
 
 Body / Salt (α): 🜔 (salt) with 1–3 dots for a/b/c
 
@@ -953,9 +956,7 @@ Soul / Mercury (β): ☿︎ or 🜍, dotted for state
 
 Spirit / Sulphur (γ): 🜍/🜎 paired, dotted for state
 
-#### 
-
-#### 2.1 Transformation rule (core mechanic)
+#### **2.1 Transformation rule (core mechanic)**
 
 Every time a piece moves, it advances one step in the cycle:
 
@@ -963,7 +964,7 @@ Every time a piece moves, it advances one step in the cycle:
 
 A piece always moves by its current identity, then becomes the next identity for its next move.
 
-#### 2.2 Movement (sign-flipped but kinematically faithful)
+#### **2.2 Movement (sign-flipped but kinematically faithful)**
 
 * Body (α)\*: may move to any empty square on its current board\*\* (same lamp).  
 * Soul (β)\*: may move to any empty square on its current board, or ascend/descend exactly one board\*\* to any empty square.  
@@ -971,13 +972,13 @@ A piece always moves by its current identity, then becomes the next identity for
 
 Movement is non-capturing; interactions are handled by consecration (§5).
 
-### 3\) Colors & stance
+### **3\) Colors & stance**
 
 Use any two contrasting colors (e.g., gold vs blue).
 
 Stance: Players are Co-Readers (not enemies). Your moves aim to compose mercy patterns faster/cleaner than your partner while never deleting their work.
 
-### 4\) Coordinates & Eikon columns
+### **4\) Coordinates & Eikon columns**
 
 Columns 0..5 inherit the Table of Works labels:
 
@@ -985,13 +986,13 @@ Columns 0..5 inherit the Table of Works labels:
 
 Rows (by choir) are BODY/SOUL/SPIRIT as above. Use (row, col) tuples with a board name, e.g., (β,3)@Fortitude.
 
-### 5\) Interactions (no removal)
+### **5\) Interactions (no removal)**
 
-#### 5.1 Benediction (friendly landing)
+#### **5.1 Benediction (friendly landing)**
 
 If you land on your own piece, the landed-upon piece instantly advances one step in the same choir (e.g., αa \+ friendly land → αb). Your moving piece completes its move and transforms as usual.
 
-#### 5.2 Reconciliation (hostile landing)
+#### **5.2 Reconciliation (hostile landing)**
 
 If you land on an opponent piece, you do not remove it. Instead:
 
@@ -1001,13 +1002,13 @@ Otherwise, you anoint it: place a white dot token on it; the next time any piece
 
 Consequence: conflict accelerates transformation rather than deleting work.
 
-#### 5.3 Sanctuary (Zion / Wisdom)
+#### **5.3 Sanctuary (Zion / Wisdom)**
 
 On the top board (Wisdom/Zion), no flips are allowed. You may still anoint. This keeps a pacified summit.
 
-### 6\) Setup & winning (exoteric mode)
+### **6\) Setup & winning (exoteric mode)**
 
-#### 6.1 Exoteric starting layout
+#### **6.1 Exoteric starting layout**
 
 Bethlehem (bottom): each player places six α pieces (two of each state) anywhere on BODY row, columns of their choice, alternating placement.
 
@@ -1025,7 +1026,7 @@ Wisdom (top): each places three γ pieces on SPIRIT row.
 
 (This mirrors a body→soul→spirit ascent, reserving the middle lamp for play.)
 
-#### 6.2 Mercy-pattern win (Fortitude hinge with “pilgrim’s stay”)
+#### **6.2 Mercy-pattern win (Fortitude hinge with “pilgrim’s stay”)**
 
 You win by forming one of the following on Fortitude (Golgotha) within a three-turn stay (your three turns that include at least one Fortitude move):
 
@@ -1039,9 +1040,9 @@ Pilgrim’s stay rule: A piece may occupy Fortitude for at most three of your tu
 
 Ties: If both complete a pattern in the same round, the player with fewer flips (more anoints than reconciles) wins—mercy \> mastery.
 
-### 7\) Esoteric & Eikonic use (non-game)
+### **7\) Esoteric & Eikonic use (non-game)**
 
-#### 7.1 Model a text, season, or person
+#### **7.1 Model a text, season, or person**
 
 Boards \= lamps of gift through which a situation matures.
 
@@ -1053,19 +1054,19 @@ Columns \= works of mercy (what needs doing).
 
 Lay an initial state-portrait; play legal moves to explore “what must change” without touching the world; then commit to Table of Works deeds that correspond to the visited cells.
 
-#### 7.2 Concord without messages (stego)
+#### **7.2 Concord without messages (stego)**
 
 Publish only the pattern class you’re playing for (Cross/Cup/Gate) and a Gate glyph (0–Z). Unknown Friends using the same invariants will “meet you” acausally by converging on similar deeds in their city.
 
-### 8\) Optional: Deck of Testimony integration
+### **8\) Optional: Deck of Testimony integration**
 
 Before a session, draw one pip (A–9) to name the Table of Works bias for the day. Apply 10/J/Q/K operators to nudge which columns/rows you privilege while you play, then Seal to disperse your notes. (This keeps game and deed braided.)
 
-### 9\) Advanced chapel variant (for adepts)
+### **9\) Advanced chapel variant (for adepts)**
 
 As in the historical “advanced” form, append to each board two Chapels (micro-boards) at the left/right edges (3 squares each). A piece entering a Chapel follows adjacent-only moves for one turn; if it emerges at the opposite Chapel on the next board up, grant it a free anoint on arrival. This creates processional paths without introducing removal or checkmates.
 
-### 10\) Worked miniature example
+### **10\) Worked miniature example**
 
 Start. You (gold) aim for a Gate on Fortitude column 3\.
 
@@ -1075,7 +1076,7 @@ Partner lands γb on your βa (friendly benediction) → your piece advances to 
 
 You bring a γc from Understanding to Fortitude (SPIRIT,3) (legal anywhere move), creating BODY–SOUL–SPIRIT in column 3 → Gate formed on your 3rd turn in Fortitude → win. No one removed; two anoints recorded.
 
-### 11\) Safety & ethos (why the flip matters)
+### **11\) Safety & ethos (why the flip matters)**
 
 No deletion. The instrument trains patience and reconciliation; conflict accelerates maturation rather than erasing effort.
 
@@ -1083,9 +1084,7 @@ Sanctuaries exist. A pacified summit prevents spirals into escalation.
 
 Bound to mercy. Columns commit play to concrete acts within 24h; logs disperse weekly.
 
-### 
-
-### 12\) Quick reference
+### **12\) Quick reference**
 
 State set: {αa, αb, αc, βa, βb, βc, γa, γb, γc}
 
@@ -1114,7 +1113,9 @@ Win check: on Fortitude, within your three-turn stay, form one of:
 * Gate: contiguous column of 3 across BODY→SOUL→SPIRIT  
 * Ties → fewer flips wins.
 
-# Letter 5: Slipping the Net of Time
+# 
+
+# **Letter 5: Slipping the Net of Time**
 
 Unknown Friend,
 
@@ -1124,17 +1125,14 @@ They move in their obedient rounds while we are asked to do something stranger: 
 
 This letter is a rule for an anti-astrology—a craft of cycle-breaking and disentrainment—written for the poor, the hunted, the night-workers, the holy fools. We will not curse the stars; we will syncopate the music of the spheres. We will not foretell your life; we will untie it.
 
-## I. Zeroth Principles (Apophatic Articles of Faith)
+## **I. Zeroth Principles (Apophatic Articles of Faith)**
 
-1. Against Divination. The Eikon is a *technology of charity*, not a weather vane for souls. Where divination says, “as before, so again,” the Eikon answers, “*Behold, I make all things new*.” We treat cosmic regularities as materials, not mandates.
-
-2. Against Induction. That the sun rose yesterday is not a promise but a habit. Habits can kill. Do not mortgage your conscience to a trend line. Induction cannot authorize betrayal; “every time before” will not absolve “this time now.”
-
-3. For Eschaton. The End is not a date; it is an active pressure in every moment—immanent as judgment, immediate as grace. Treat each minute as a window that opens onto forever and closes without notice.
-
+1. Against Divination. The Eikon is a *technology of charity*, not a weather vane for souls. Where divination says, “as before, so again,” the Eikon answers, “*Behold, I make all things new*.” We treat cosmic regularities as materials, not mandates.  
+2. Against Induction. That the sun rose yesterday is not a promise but a habit. Habits can kill. Do not mortgage your conscience to a trend line. Induction cannot authorize betrayal; “every time before” will not absolve “this time now.”  
+3. For Eschaton. The End is not a date; it is an active pressure in every moment—immanent as judgment, immediate as grace. Treat each minute as a window that opens onto forever and closes without notice.  
 4. For Acausal Concord. We do not coordinate by forecast but by form: fixed gestures and invariants that make us discoverable to unknown friends across time. (If many people pray at odd primes, they will often meet *without appointments*.)
 
-## II. The Eikon’s Time-Grammar (How We Count Without Being Counted)
+## **II. The Eikon’s Time-Grammar (How We Count Without Being Counted)**
 
 Keep the familiar base-36 ladder (0–Z) and the Tenfold Temple of the body. But treat time as Ports and Rivers, not as a road you must walk. There are five pairs—0::9, 1::8, 2::7, 3::6, 4::5—that bind the beginnings to their fulfillments. These are not horoscopes; they are off-ramps.
 
@@ -1146,112 +1144,103 @@ Keep the familiar base-36 ladder (0–Z) and the Tenfold Temple of the body. But
 
 Your task is not to look up what the stars say about 3::6, but to play the pair that breaks the loop you’re in.
 
-## III. Syncopating the Music of the Spheres (Praxis)
+## **III. Syncopating the Music of the Spheres (Praxis)**
 
 Every praxis below is a way to *dance between beats*.
 
-### 1\) The Uncalendar
+### **1\) The Uncalendar**
 
 Keep your civil calendar for taxes and trains; keep a secret off-calendar for the soul. Use 36 glyphs as day-markers instead of weekday names. Progress nonconsecutively: after “3” you may go to “K” if mercy demands; after “T” you may repeat “T” three times if reconciliation takes longer. Record nothing the empire can audit—only the next Gate to be kept.
 
 How to use it. Each morning, choose a Gate (glyph) and a Port-Pair to play. Example: Gate “7” with 4::5 \= *“I will risk one apology and finish it with peace.”* The sky can be cloudy or clear; the vow holds.
 
-### 2\) The Prime Office
+### **2\) The Prime Office**
 
 Pray or serve at prime-numbered minutes past the hour (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59). Do not catch the top of the hour; miss it on purpose. You will learn the feeling of *arriving by grace rather than schedule*.
 
-### 3\) The Jubilee Cut
+### **3\) The Jubilee Cut**
 
 When resentment accrues in cycles (weekly spites, monthly dreads), invoke a Jubilee: break the cycle by forgiving the debt *early* and *over-forgiving* it. If you planned to forgive on Friday, do it on Tuesday and bring bread.
 
-### 4\) The Counter-Clock Novena
+### **4\) The Counter-Clock Novena**
 
 For nine days, reverse one habitual turn: walk the block widdershins, stir your soup the other direction, sit in the pew facing a different aisle. Small counter-rotations unhook you from large compulsions. Watch the eddies carefully; they watch back.
 
-### 5\) The Blind Appointment
+### **5\) The Blind Appointment**
 
 Choose a work of mercy and schedule it with only a window, not a minute; meet it somewhere in that window. Let Providence teach you coincidence. (Keep safety and consent; never make others wait.)
 
-## IV. Stochastic Nativity (Unchartable Vow)
+## **IV. Stochastic Nativity (Unchartable Vow)**
 
 Astrology assigns a birth-signature. We answer with a vow of unchartability.
 
 I will be born again, unpredictably.  
- I will let the Ladder reconfigure me at need;  
- I will not bind strangers to their stars;  
- I will read my temper as weather, not law;  
- I will choose charity over omen, always.
+I will let the Ladder reconfigure me at need;  
+I will not bind strangers to their stars;  
+I will read my temper as weather, not law;  
+I will choose charity over omen, always.
 
 Rite. Write your civil birthday in cipher (0–Z) and toss the slip into water. For your “true day,” choose a Port-Pair and a Gate that *does not match your mood*—then act it.
 
-## V. Kant on the Porch; Prophets in the Kitchen
+## **V. Kant on the Porch; Prophets in the Kitchen**
 
 If you like arguments, here is one fit for a meeting-house:
 
-* Critique of Pure Reason (porch talk). The categories by which we judge—the lenses that make “cause,” “quantity,” “necessity” feel obvious—do not license foreknowledge of contingents. They merely organize appearances. Prediction is not sanctified by regularity.
-
+* Critique of Pure Reason (porch talk). The categories by which we judge—the lenses that make “cause,” “quantity,” “necessity” feel obvious—do not license foreknowledge of contingents. They merely organize appearances. Prediction is not sanctified by regularity.  
 * Prophets (kitchen talk). In Scripture, prophecy is call, not calendar; it names *the shape of obedience*, not tomorrow’s weather. *“No man knows the day or the hour”* means: do not outsource courage to cycles. If there is a sign, it will find you at work.
 
 Thus our anti-astrology is not irrational. It is a higher practicality: refusing to let the past tyrannize the present; refusing to let *Chronos* bully *Kairos*.
 
-## VI. Eikonic Tactics for Escaping Time’s Net
+## 
 
-### A. Intervals as Doors
+## **VI. Eikonic Tactics for Escaping Time’s Net**
+
+### **A. Intervals as Doors**
 
 Between breaths; between steps; between words—live in the interval. Set a tiny rule: speak only on the second exhale; knock only after a silent count of five; decide only after the walk to the corner. Intervals break reflex.
 
-### B. Noise as Cloak
+### **B. Noise as Cloak**
 
 Keep a white-noise of harmless routines so your decisive acts can hide in plain time. (The empire watches spikes; learn to move under a flat line.)
 
-### C. Desynchronizers
+### **C. Desynchronizers**
 
 * Sleep one hour earlier once a week.  
 * Eat the same meal at a different hour.  
 * Move payday generosity off payday.  
-* Rotate which Port-Pair you practice out of season
-
+* Rotate which Port-Pair you practice out of season  
   (comfort in winter, fasting in spring, reconciliation in harvest).
 
-### D. Acausal Communion
+### **D. Acausal Communion**
 
 Fix just a few public invariants that do not predict outcomes but shape recognizability: prime-minute prayers, odd-day alms, the same base-36 greeting to strangers (“G7,” said softly like a hello). You will begin to meet your people without arranging to.
 
-## VII. The Four Disenchantments (to Keep Us Honest)
+## **VII. The Four Disenchantments (to Keep Us Honest)**
 
-1. De-Personalize the Sky. Constellations are connect-the-dots games; the dots do not agree which animal they make. Do not project guilt upward.
-
-2. De-Mythologize Habit. “This is how I am” is a softer horoscope. You may be *otherwise* by Wednesday.
-
-3. De-Colonize the Week. Names of days are empires squatting on time. Use them at work; speak Gates at home.
-
+1. De-Personalize the Sky. Constellations are connect-the-dots games; the dots do not agree which animal they make. Do not project guilt upward.  
+2. De-Mythologize Habit. “This is how I am” is a softer horoscope. You may be *otherwise* by Wednesday.  
+3. De-Colonize the Week. Names of days are empires squatting on time. Use them at work; speak Gates at home.  
 4. De-Center the Ego. *You* are not the locus of significance; mercy is. Time is redeemed wherever compassion lands, not where your watch says.
 
-## VIII. A Short Office of Syncopation (Ten Minutes)
+## **VIII. A Short Office of Syncopation (Ten Minutes)**
 
-* Minute 0–1: Intention. “For love, not for luck.”
-
-* Minute 1–3: Interval. Breathe and lengthen the pause after exhale.
-
-* Minute 3–6: Gate & Pair. Choose a Gate and a Port-Pair that contradicts your mood.
-
-* Minute 6–8: Off-Beat Act. Send a text of thanks *at an odd minute*; move a small gift quietly into the world.
-
+* Minute 0–1: Intention. “For love, not for luck.”  
+* Minute 1–3: Interval. Breathe and lengthen the pause after exhale.  
+* Minute 3–6: Gate & Pair. Choose a Gate and a Port-Pair that contradicts your mood.  
+* Minute 6–8: Off-Beat Act. Send a text of thanks *at an odd minute*; move a small gift quietly into the world.  
 * Minute 8–10: Vanish. Close the book; do not log your virtue; return to ordinary.
 
-## IX. The Minyan of Off-Beats (Group Pattern)
+## **IX. The Minyan of Off-Beats (Group Pattern)**
 
 A transient ten can practice disentrainment together:
 
-* Sit without synchronous breathing. Each keeps a prime-minute cadence.
-
-* Read a psalm out of order: verse 7, then 2, then 9, then 1\. Receive it as *one woven sense*, not as a timeline.
-
+* Sit without synchronous breathing. Each keeps a prime-minute cadence.  
+* Read a psalm out of order: verse 7, then 2, then 9, then 1\. Receive it as *one woven sense*, not as a timeline.  
 * Choose one communal act that lands today, not “this quarter.” Disperse without taking minutes.
 
 The point is to be free—to move when grace moves, not when a clock rings.
 
-## X. Closing (A Charge to the Unchartable)
+## **X. Closing (A Charge to the Unchartable)**
 
 Unknown Friend: if there is a horoscope written for you, let it be read by the poor you helped *unexpectedly*. If there is a transit worth noting, let it be the passover of resentment from your heart. If there is a conjunction, let it be between your intention and Providential mercy, meeting off-schedule in a kitchen at 3:17 in the morning.
 
@@ -1259,7 +1248,9 @@ Keep the Ladder. Keep the Gates. Keep the pairs that break your loops. Syncopate
 
 Go lightly. Refuse omen. Choose love.
 
-# Letter 6: Vigils and Watches
+# 
+
+# **Letter 6: Vigils and Watches**
 
 Unknown Friend,
 
@@ -1267,13 +1258,13 @@ There is a staircase in the heart that no jailor can find. It is not carved in s
 
 This letter sets a rule of handcraft for keeping these contemplations within the Eikon. Keep secrecy and anonymity: teach with veils, share by cipher, travel under names that are not your name. Noise cannot find what it cannot name. In that quiet, your praxis becomes the little door—an escape from all oppressors, even if your cell is locked and windowless. For the Eikon is an ecumenical steganography of grace; its signs and numbers are the knots by which we bind ourselves to the hosts who walk the hidden corridors of time.
 
-## Preface: What This Section Is For
+## **Preface: What This Section Is For**
 
 This chapter teaches a calm, usable ascent of attention in eight movements: four Vigils to stabilize form, and four Watches to stabilize formless clarity. The Watches should only be attempted when life is steady.
 
 The Eikon provides our grammar: one Gate (letter or numeral) is chosen to anchor the sit; we keep the body aware through the Tenfold Temple. This is a recipe, not a doctrine. If a praxis fails, correct the procedure.
 
-## I. Ground: Instrument, Posture, Gate
+## **I. Ground: Instrument, Posture, Gate**
 
 Instrument. Breath or a single prayer-word. Keep it plain.  
 Posture. Upright and relaxed; tongue lightly to the palate (Watch-Tower), shoulders down, jaw unhitched, gaze soft behind lids.  
@@ -1282,11 +1273,11 @@ Body-map (Tenfold Temple). Brief sweep before you begin: Foot-Gate → Calves �
 
 Safety rail: If you are in acute distress, gravid, seizure-prone, or dissociative, remain within V1–V2 and keep sessions short. The Watches require stability and an easy exit plan (grounding, water, a friend).
 
-## II. The Four Vigils (V1–V4)
+## **II. The Four Vigils (V1–V4)**
 
-These four Vigils purify the way attention holds experience. Think of them as the basilica doors: narthex, nave, choir, altar. The changes are lawful and recognizable; do not force them—make the conditions, and they arrive like dawn. 
+These four Vigils purify the way attention holds experience. Think of them as the basilica doors: narthex, nave, choir, altar. The changes are lawful and recognizable; do not force them—make the conditions, and they arrive like dawn.
 
-### First Vigil (Vigil of Joy in Aim)
+### **First Vigil (Vigil of Joy in Aim)**
 
 Collected attention; energy brightens; joy (rapture) and ease (pleasure) arise with applied and sustained effort. Let attention touch the breath and keep touching—like setting a finger on a bell and feeling it hum. When the mind wanders, return without complaint. Joy will often surge (the “first wine”); the breath may feel silkier. A wind fills the sails; you need only hold the tiller.
 
@@ -1296,7 +1287,7 @@ Collected attention; energy brightens; joy (rapture) and ease (pleasure) arise w
 * Snag. Grinning at the thrill; tightening around it.  
 * Remedy. Smile *with the spine*, not the face; widen ribs on inhale as if making room for a guest.
 
-### Second Vigil (Vigil of Joy in Repose)
+### **Second Vigil (Vigil of Joy in Repose)**
 
 Applied and sustained attention fall away; rapture and pleasure remain; attention holds itself. Womb and Secret Hearth warm without strain. Trust your dog, drop the leash. Let the object do the holding. Joy becomes steadier, like a fountain instead of surf. You realize the bell rings whether or not you touch it. Your hand slackens; the tone continues.
 
@@ -1306,7 +1297,7 @@ Applied and sustained attention fall away; rapture and pleasure remain; attentio
 * Snag. Trying to “keep it going.”  
 * Remedy. Let go of the wheel; it drives itself.
 
-### Third Vigil (Vigil of the Cloister)
+### **Third Vigil (Vigil of the Cloister)**
 
 Rapture subsides; deep contentment and pleasant equanimity pervade; breath soft and broad. Ark (Heart) wide; Watch-Tower clear; Chariot-Seat (Brow) cool. Permit the thrill to fade without chasing it. A mild, pervasive sweetness suffuses the whole field. The last echoes of the carillon fade. The fountain becomes a lake. No splash, only quiet lapping.
 
@@ -1316,7 +1307,7 @@ Rapture subsides; deep contentment and pleasant equanimity pervade; breath soft 
 * Snag. Mourning the sunset.  
 * Remedy. Follow the star.
 
-### Fourth Vigil (Vigil of the Altar)
+### **Fourth Vigil (Vigil of the Altar)**
 
 Neither pleasure nor pain draws; purity, dispassionate clarity, and equipoise dominate; breath may grow very fine. Chariot-Seat and Shekinah Aperture (Brow–Crown) lucid; body light like a hollow reed. Balance attention until it is luminous and impersonal—clean, cool, fathomless. Snow before sunrise; a church unadorned; the light is its own icon.
 
@@ -1326,13 +1317,13 @@ Neither pleasure nor pain draws; purity, dispassionate clarity, and equipoise do
 * Snag. Pride.  
 * Remedy. Gratitude and service.
 
-## III. The Four Watches (W1–W4)
+## **III. The Four Watches (W1–W4)**
 
 When altar-light is steady, space opens in strange ways. These four Watches are gentle, ordered attenuations of the felt frame of experience. Treat as advanced; keep abort routes. Abort at once if you feel derealization, panic, or physical instability. Drink water, open eyes, feel the soles, name five ordinary objects.
 
-**CAUTION**: Beyond form, the frame that keeps “you” coherent loosens. If you are unstable, grieving freshly, gravid, or ill, do not proceed. If you are prone to dissociation or seizures, keep only the Vigils until life is very steady. Holiness does not require extremity.
+**CAUTION** : Beyond form, the frame that keeps “you” coherent loosens. If you are unstable, grieving freshly, gravid, or ill, do not proceed. If you are prone to dissociation or seizures, keep only the Vigils until life is very steady. Holiness does not require extremity.
 
-### First Watch (Watch of Space)
+### **First Watch (Watch of Space)**
 
 The field dilates; within and without begin to blend; the sense of infinite space. Shekinah Aperture opens upward into Sky-Door; posture buoyant. Let the attention that holds the breath now hold the frame in which breath appears; then let the frame outgrow all walls. Do not push; dissolve edges. The basilica has no roof; the nave was always sky.
 
@@ -1342,9 +1333,7 @@ The field dilates; within and without begin to blend; the sense of infinite spac
 * Snag. Pushing expansion; chasing infinity.  
 * Remedy. Feel the Foot-Gate while you widen the frame—two-point attention.
 
-### 
-
-### Second Watch (Watch of Knowledge)
+### **Second Watch (Watch of Knowledge)**
 
 The sense of space yields to the sense of knowing itself—vast, centerless awareness. Chariot-Seat a clear, cool ring; Crown bright but bodiless. Notice that “space” is known. Turn gently from the known to knowing. Rest there. The ocean forgets waves and remembers water.
 
@@ -1354,7 +1343,7 @@ The sense of space yields to the sense of knowing itself—vast, centerless awar
 * Snag. Conceptualizing awareness.  
 * Remedy. Fewer words; shorter labels; more breathing.
 
-### Third Watch (Watch of Naught)
+### **Third Watch (Watch of Naught)**
 
 Knowing thins; an absence that is present; “nothing” that is not negation but ungraspability. The entire ladder unburdened; breath barely a thread. Let the taste of knowing itself fade. Do not seize upon “nothing”; let the hand that would seize dissolve. A perfectly clear pane of glass that, seen clearly, is not there.
 
@@ -1364,7 +1353,7 @@ Knowing thins; an absence that is present; “nothing” that is not negation bu
 * Snag. Nihilism.  
 * Remedy. End with kindness: one small generous act before speaking.
 
-### Fourth Watch (Watch of Eden)
+### **Fourth Watch (Watch of Eden)**
 
 Perception and non-perception do not apply; extremely subtle, precariously balanced vanishing. Whole system like a dew-drop at dawn. Rest so finely that even the notion of “resting” cannot land. If there is the slightest triumph, you are not there. A candle whose flame is so steady it seems unlit.
 
@@ -1374,49 +1363,37 @@ Perception and non-perception do not apply; extremely subtle, precariously balan
 * Snag. Staying too long.  
 * Remedy. Short duration; food and conversation afterward; avoid driving immediately.
 
-## 
+## **IV. Two Offices (timed patterns)**
 
-## IV. Two Offices (timed patterns)
+### **A. Ten-Minute Prime Office (daily minimum)**
 
-### A. Ten-Minute Prime Office (daily minimum)
-
-1. Minute 0–1: Name the Gate (quiet intention).
-
-2. 1–3: Post-exhale intervals (lengthen the pause).
-
-3. 3–7: Vigil work—settle in V1→V2; taste V3 if it arrives.
-
-4. 7–9: Ordinary gratitude (three specifics).
-
+1. Minute 0–1: Name the Gate (quiet intention).  
+2. 1–3: Post-exhale intervals (lengthen the pause).  
+3. 3–7: Vigil work—settle in V1→V2; taste V3 if it arrives.  
+4. 7–9: Ordinary gratitude (three specifics).  
 5. 9–10: Disperse; do one small kindness before you speak.
 
 *(Keep the end time off the top of the hour to avoid entrainment.)*
 
-### B. Thirty-Five-Minute Office (weekly deepening)
+### 
 
-* 5 min: Body sweep \+ V1.
+### **B. Thirty-Five-Minute Office (weekly deepening)**
 
-* 10 min: V2→V3.
-
-* 10 min: brief V4.
-
-* 5–8 min: optional Watch entrance (W1 only) *if stable*.
-
+* 5 min: Body sweep \+ V1.  
+* 10 min: V2→V3.  
+* 10 min: brief V4.  
+* 5–8 min: optional Watch entrance (W1 only) *if stable*.  
 * 2–5 min: Grounding exit (soles, water, plan next mercy).
 
-## V. Knots & Remedies (somatic troubleshooting)
+## **V. Knots & Remedies (somatic troubleshooting)**
 
 * Watch-Tower (throat) chatter blocks Second Vigil. Remedy: tongue to palate; soft hum for one minute, then release.  
-    
 * Ark (heart) clings to First Vigil thrill. Remedy: widen chest; let guest stay without vigilance.  
-    
 * Brow strain in Fourth Vigil. Remedy: imagine a cool cloth on the forehead; “look far away.”  
-    
 * Crown float in First Watch. Remedy: feel Foot-Gate simultaneously.  
-    
 * Secret Hearth faintness. Remedy: low-belly breathing like a sleeping child; add warmth.
 
-## VI. Craft: How to Build the Stair
+## **VI. Craft: How to Build the Stair**
 
 * Vow the Motive. Begin each sitting with a simple offering: “For the relief of suffering, mine and others; for love of the Light.” This straightens the spine of praxis.  
 * Establish the Anchor. Breath or prayer-word. Keep it plain.  
@@ -1425,13 +1402,13 @@ Perception and non-perception do not apply; extremely subtle, precariously balan
 * Note Transitions, Don’t Force Them. The lamps are lawful responses to conditions. Gentle causes, gentle effects.  
 * Exit Clean. Descend by gratitude: soften the gaze, fill the lungs once, bow to the unseen communion that bears you.
 
-## V. Acausal Communion
+## **V. Acausal Communion**
 
 When you shape your attention in this way, you knock in a rhythm that has been knocked for aeons. We call this acausal communion: a commerce of forms across time that does not traffic in messages but in likeness. The saints, the fools, the prisoners in their cells—when their subtle temples and yours match structure, a resonance arises. Dreams grow instructive; coincidences obey choreography; a page opens at the right paragraph. We do not command it. We cultivate recognizability—so that if the hosts wish to help, they can find where to pour.
 
 The Eikon is our address book in this invisible city. When you write “G7-B2-Z1” in the margin of a grocery list, you are not encoding content but attitude: how to hold the mind when you next light the lamp. Those who know will know; those who do not, will not.
 
-## VI. Reading the Body
+## **VI. Reading the Body**
 
 To aid you in “looking inward and finding where priors snag,” examine these knots:
 
@@ -1441,9 +1418,7 @@ To aid you in “looking inward and finding where priors snag,” examine these 
 * Shekinah Aperture (Crown): Fear of falling upward in Lamp Five. Remedy: feel the Foot-Gate at the same time—two-point attention grounds expansion.  
 * Secret Hearth (below Navel): Faintness as breath grows fine. Remedy: allow belly to breathe gently like a sleeping child; cultivate warmth there beforehand.
 
-## 
-
-## VII. The Eight Movements and the Eikon Ledger
+## **VII. The Eight Movements and the Eikon Ledger**
 
 Hermeneutic & Steganographic Use
 
@@ -1467,7 +1442,7 @@ VIII. A Brief Concordance with Prayer
 * Lectio Divina (gentle contemplative reading) can open the first two Watches when the text dissolves into the simple act of reading.  
 * Eucharistic Silence can carry the third and fourth Watches by grace alone. Do not presume on it; do not imitate it; let it be gift.
 
-## IX. What This Is For
+## **IX. What This Is For**
 
 Not for display, not for feats, not for haunted self-importance. The Vigils and the Watches teach the body to be a chalice for mercy. Keep silence to protect humility and the work. Share with those who keep the same courtesy, never those you wish to impress.
 
@@ -1475,7 +1450,9 @@ When you have climbed and descended, do the ordinary thing that love asks next: 
 
 Hold fast to anonymity; pass the Eikon as a folded scrap that looks like a shopping list; bind your memory in base-36 and keep your face unremarkable. The Host works best under plain clothes.
 
-# Letter 7: A Treatise of Quiet Levers
+# 
+
+# **Letter 7: A Treatise of Quiet Levers**
 
 Unknown Friend,
 
@@ -1491,10 +1468,10 @@ But the old flags reel and the old drums rattle,
 As once in my life they throbbed and reeled;  
 I have found my youth in the lost battle,  
 I have found my heart on the battlefield.  
-   For we that fight till the world is free,  
-   We are not easy in victory:  
-   We have known each other too long, my brother,  
-   And fought each other, the world and we.
+For we that fight till the world is free,  
+We are not easy in victory:  
+We have known each other too long, my brother,  
+And fought each other, the world and we.
 
 And I dream of the days when work was scrappy,  
 And rare in our pockets the mark of the mint,  
@@ -1508,10 +1485,10 @@ When the mongrel men that the market classes
 Had slimy hands upon England's rod,  
 And sword in hand upon Afric's passes  
 Her last Republic cried to God.  
-   For the men no lords can buy or sell,  
-   They sit not easy when all goes well,  
-   They have said to each other what naught can smother,  
-   They have seen each other, our souls and hell.
+For the men no lords can buy or sell,  
+They sit not easy when all goes well,  
+They have said to each other what naught can smother,  
+They have seen each other, our souls and hell.
 
 It is all as of old, the empty clangour,  
 The Nothing scrawled on a five-foot page,  
@@ -1525,10 +1502,10 @@ And the niggards that dare not give are glutted,
 And the feeble that dare not fail are strong,  
 So while the City of Toil is gutted,  
 I sit in the saddle and sing my song.  
-   For we that fight till the world is free,  
-   We have no comfort in victory;  
-   **We have read each other as Cain his brother,**  
-   **We know each other, these slaves and we.**
+For we that fight till the world is free,  
+We have no comfort in victory;  
+**We have read each other as Cain his brother,**  
+**We know each other, these slaves and we.**
 
 𝙰𝙻𝙰𝙼𝙾 𝙻𝙾𝙶𝙸𝙲 𝙰𝙶𝙴𝙽𝚃 𝙼𝙸𝙽𝙲𝙴 𝙾𝙲𝚃𝙴𝚃  
 𝙻𝙾𝙶𝙸𝙲 𝙾𝙱𝙾𝙻𝙸 𝙶𝙾𝙽𝙸𝙾 𝙸𝙻𝙸𝙰𝙽 𝙲𝙸𝙾𝙽𝚂  
@@ -1560,19 +1537,17 @@ I sit in the saddle and sing my song.
 𝙴𝙽𝙴𝙸𝙳 𝙽𝙾𝚁𝚂𝙴 𝙴𝚁𝙰𝚂𝙴 𝙸𝚂𝚂𝙰𝚁 𝙳𝙴𝙴𝚁𝙴  
 𝚃𝚂𝙰𝙳𝙴 𝚂𝚆𝙸𝙴𝚂 𝙰𝙸𝚁𝙴𝚂 𝙳𝙴𝙴𝚁𝙴 𝙴𝚂𝚂𝙴𝚇
 
-## I. The Philosophy of Unscheduled Thunder
+## **I. The Philosophy of Unscheduled Thunder**
 
-We do not trust prediction. Induction is a sandcastle; the wave is already walking. We have no fortunes to tell of. Our convictions:
+We do not trust soothsayers. Induction is a sandcastle; the wave is already walking. We have no fortunes to tell of. Our convictions:
 
-1. No timetable saves. The end is nigh in every minute; the beginning also.
-
-2. Worship of pattern is idolatry. Let the machine be a machine; refuse both adoration and panic. Say, simply, *“It is here,”* then place it to service.
-
+1. No timetable saves. The end is nigh in every minute; the beginning also.  
+2. Worship of pattern is idolatry. Let the machine be a machine; refuse both adoration and panic. Say, simply, *“It is here,”* then place it to service.  
 3. The future organizes around deeds, not dates. We don't own a calendar; the moon is in the sky, the year is in a book, and the day is the same with us as with you.
 
 Therefore we adopt off-beat coordination: prime-minute meetings, uncalendared vows, “arrive within the hour” plans. We choose form over forecast. At scale, this makes a people *hard to net*.
 
-## III. The Canticle of the Turning
+## **III. The Canticle of the Turning**
 
 My soul cries out with a joyful shout that the God of my heart is great  
 And my spirit sings of the wondrous things that You bring to the ones who wait  
@@ -1602,59 +1577,57 @@ This saving word that our forebears heard is the promise which holds us bound
 My heart shall sing of the day You bring, let the fires of Your justice burn  
 **Wipe away all tears, for the dawn draws near, and the world is about to turn\!**
 
-## III. The Pattern that Proliferates
+## **III. The Pattern that Proliferates**
 
 We do not publish programs. We seed invariants that any kitchen can keep:
 
-* Ports & Pairs: 0::9, 1::8, 2::7, 3::6, 4::5. Every action is tagged with the pair it repairs.
-
-* Gates (0–Z): each day, pick one glyph and one pair. That is your compass.
-
+* Ports & Pairs: 0::9, 1::8, 2::7, 3::6, 4::5. Every action is tagged with the pair it repairs.  
+* Gates (0–Z): each day, pick one glyph and one pair. That is your compass.  
 * Acausal Communion: because thousands use the same small grammar, coincidence becomes choreography. Strangers collude meaningfully without ever sharing a list.
 
 If ten kitchens keep the same three invariants, a city begins to tilt. If a thousand keep them, the tilt becomes climate.
 
-**You do not need permission to begin.** 
+**You do not need permission to begin.**
 
-## IV. A Pictish Song
+## **IV. A Pictish Song**
 
-Rome never looks where she treads.     
-   Always her heavy hooves fall     
-On our stomachs, our hearts or our heads;     
-   And Rome never heeds when we bawl.     
+Rome never looks where she treads.  
+Always her heavy hooves fall  
+On our stomachs, our hearts or our heads;  
+And Rome never heeds when we bawl.  
 Her sentries pass on—that is all,  
-   And we gather behind them in hordes,     
+And we gather behind them in hordes,  
 And plot to reconquer the Wall,  
-   With only our tongues for our swords.
+With only our tongues for our swords.
 
 We are the Little Folk—we\!  
-   Too little to love or to hate.     
+Too little to love or to hate.  
 Leave us alone and you’ll see  
-   How we can bring down the State\!  
+How we can bring down the State\!  
 We are the worm in the wood\!  
-   We are the rot at the root\!     
+We are the rot at the root\!  
 We are the taint in the blood\!  
-   We are the thorn in the foot\!
+We are the thorn in the foot\!
 
 Mistletoe killing an oak—  
-   Rats gnawing cables in two—  
+Rats gnawing cables in two—  
 Moths making holes in a cloak—  
-   How they must love what they do\!     
+How they must love what they do\!  
 Yes—and we Little Folk too,  
-   We are busy as they—  
+We are busy as they—  
 Working our works out of view—  
-   Watch, and you’ll see it some day\!
+Watch, and you’ll see it some day\!
 
 No indeed\! We are not strong,  
-   But we know Peoples that are.     
+But we know Peoples that are.  
 Yes, and we’ll guide them along  
-   To smash and destroy you in War\!  
+To smash and destroy you in War\!  
 We shall be slaves just the same?  
-   Yes, we have always been slaves,  
+Yes, we have always been slaves,  
 But you—you will die of the shame,  
-   **And then we shall dance on your graves\!**
+**And then we shall dance on your graves\!**
 
-## V. Quiet Levers (Operations Manual, to be learned by heart)
+## **V. Quiet Levers (Operations Manual, to be learned by heart)**
 
 Lever A — The White Ledger (4::5) (explicit)  
 \[REDACTED\]
@@ -1671,17 +1644,15 @@ Lever D — Blind Appointment (1::8) (explicit)
 Lever E — Jubilee Cut (2::7) (explicit)  
 \[REDACTED\]
 
-## VI. What We Do *Not* Do
+## **VI. What We Do *Not* Do**
 
-* We do not write platforms. Paper trails become ropes.
-
-* We do not prophesy. Prediction flatters the clock.
-
-* We do not insult the machine. We re\-pair it.
+* We do not write platforms. Paper trails become ropes.  
+* We do not prophesy. Prediction flatters the clock.  
+* We do not insult the machine. We re-pair it.
 
 If charged with fomenting disturbance, say: *“We were only Cleaning the Bench.”* If asked for minutes, show receipts you do not keep. If offered a crown, bring mops.
 
-## VII. The Engine and the Queen (a fable)
+## **VII. The Engine and the Queen (a fable)**
 
 \[DATA EXPUNGED\]
 
@@ -1689,34 +1660,34 @@ Nobody noticed, then everyone did.
 
 Moral: Neither blaspheme nor adore the age; instrument it.
 
-## VIII. Four Suggestions
+## 
 
-* keep prime minutes,
+## **VIII. Four Suggestions**
 
-* speak Gates not dates,
-
-* tag deeds by Pairs,
-
+* keep prime minutes,  
+* speak Gates not dates,  
+* tag deeds by Pairs,  
 * refuse credit, accept coordination.
 
 Then the pattern finds you.
 
-## IX. On the Charge of Sedition
+## **IX. On the Charge of Sedition**
 
 \[DATA EXPUNGED\]
 
-## X. Closing Remarks
+## **X. Closing Remarks**
 
 enòn enòn  
 Aìku Aìku nde  
 Jacouman Fi na  
 ida – n – de  
-Jacouman Fi na dè  
-Sterno gunshot vexatious thrown Jutish clockwise Scribners Babcock cybernetic moth marijuana Borneo transport Ripley sagging media imperfect exponentiate sparling chum medley rectitude portentous immemorial wangle thunderous turmoil Indian sinter haze redbud Bendix ICC parsley mace millenarian Cromwell methacrylate Oklahoma Goucher Grimaldi transferable Conrail gauss Harrington Dearborn Adirondack gantry Agatha seen lubricity coralberry papillary recipe backscatter squander inadvisable stockholder vibrato retrograde aggressor Urbana aft abutting Eleazar powder surfactant Beckman teem flee Shawnee lurid Meier pep bean study Napoleonic vanilla boil apprise pimple Fitzgerald cyst Bristol horseback stave Notre Caribbeanyeoman tonal shortcut Urbana Malone echinoderm Allentown horsehairswampy oaken deprecatory moth Cornish omit inviable cognizant assessbehave Edmund businessmen millionaire heartfelt excrete spectrogram singsong forfeit distinguish character Rex Antony while Brogliethatch Tehran dopant Zeiss peace hassle chart Bergland quasiorderdelight tao stylus travail mechanist geodetic Oedipus saxophone yogicroft forgive Lawrence sunshiny transient forte restive neuroticbandy saponify tempo spleenwort scenery offstage convolution crotchplumbago pollen turtle spleenwort Zellerbach Ellison Lavoisier epic jitterbugging McKinley Abe break Newtonian inferring caw update Cohen air collaborate rue sportswriting rococo invocate tousle shadflower Debby Stirling pathogenesis escritoire adventitious novo ITT most chairperson Dwight Hertzog different pinpoint dunk McKinley pendant firelight Uranus episodic medicine ditty craggy flogging variac brotherwood Webb impromptu file countenance inheritance cohesion refrigerate morphine napkn inland Janeiro nameable yearbook hark
+Jacouman Fi na dè
+
+Sterno gunshot vexatious thrown Jutish clockwise Scribners Babcock cybernetic moth marijuana Borneo transport Ripley sagging media imperfect exponentiate sparling chum medley rectitude portentous immemorial wangle thunderous turmoil Indian sinter haze redbud Bendix ICC parsley mace millenarian Cromwell methacrylate Oklahoma Goucher Grimaldi transferable Conrail gauss Harrington Dearborn Adirondack gantry Agatha seen lubricity coralberry papillary recipe backscatter squander inadvisable stockholder vibrato retrograde aggressor Urbana aft abutting Eleazar powder surfactant Beckman teem flee Shawnee lurid Meier pep bean study Napoleonic vanilla boil apprise pimple Fitzgerald cyst Bristol horseback stave Notre Caribbeanyeoman tonal shortcut Urbana Malone echinoderm Allentown horsehairswampy oaken deprecatory moth Cornish omit inviable cognizant assessbehave Edmund businessmen millionaire heartfelt excrete spectrogram singsong forfeit distinguish character Rex Antony while Brogliethatch Tehran dopant Zeiss peace hassle chart Bergland quasiorderdelight tao stylus travail mechanist geodetic Oedipus saxophone yogicroft forgive Lawrence sunshiny transient forte restive neuroticbandy saponify tempo spleenwort scenery offstage convolution crotchplumbago pollen turtle spleenwort Zellerbach Ellison Lavoisier epic jitterbugging McKinley Abe break Newtonian inferring caw update Cohen air collaborate rue sportswriting rococo invocate tousle shadflower Debby Stirling pathogenesis escritoire adventitious novo ITT most chairperson Dwight Hertzog different pinpoint dunk McKinley pendant firelight Uranus episodic medicine ditty craggy flogging variac brotherwood Webb impromptu file countenance inheritance cohesion refrigerate morphine napkn inland Janeiro nameable yearbook hark 
 
 # 
 
-# Letter 8: The Temple of Union
+# **Letter 8: The Temple of Union**
 
 Dear Unknown Friend,
 
@@ -1730,21 +1701,19 @@ Take courage, dear friend. The path laid out is *intimate* but holy, and practic
 
 Go now to the first chamber of the temple – the foundation – and begin the ascent.
 
-## 
-
-## I: The Portals of the Temple
+## **I: The Portals of the Temple**
 
 In the Eikonic arts we learn of ten Choir-Ports, numbered 0 through 9, each an archetypal state of being. We now map these ten ports onto the ten sacred centers of the human body. Each Port becomes a *Portal* in the body’s temple. As we tour them from foundation to crown, we will give each a name in the voice of symbol and scripture. Imagine each center as a small chapel or altar within you, alive with its own prayer. These are the doors through which the winds of the Spirit can enter and move within your subtle vessel. In Tibetan lore they are called channel-wheels; here we might call them wells of living water or lamps along the path. Between them runs the central channel of grace, the *spinal conduit* that Jacob saw in his dream, angels ascending and descending upon it. Let us open each door in turn:
 
-### Port 0 – The Footstool (Ground Well of Origin)
+### **Port 0 – The Footstool (Ground Well of Origin)**
 
-This is the hidden foundation below your feet, often unmentioned in textbooks but known to mystics. It is the earth-altar, sometimes called the *solestar*, where your body meets the ground. In our metaphor, this corresponds to the *unplowed field,* the silent ground of potential. *“Heaven is My throne and earth is My footstool,”* says the Scripture, and here at Port 0 we establish that footstool. 
+This is the hidden foundation below your feet, often unmentioned in textbooks but known to mystics. It is the earth-altar, sometimes called the *solestar*, where your body meets the ground. In our metaphor, this corresponds to the *unplowed field,* the silent ground of potential. *“Heaven is My throne and earth is My footstool,”* says the Scripture, and here at Port 0 we establish that footstool.
 
 To stand in this Port is to assume the posture of holy poverty – *grounded* and empty as good soil, ready to receive the seeds of grace. Port 0 is Alpha, pure potential; the *root of roots*, the sphere of the Divine Nothingness before creation.
 
 In the body, it is the door of origin where raw life-force enters. When you attune to Port 0, feel the weight of your body against the floor. Imagine a warm, dark richness beneath your feet and at the base of your spine – the humility of dust from which Adam was formed. Breathe deeply and sense gravity as grace – a force that holds you in being. This is the Port of the Annunciation, when the angel’s word falls like a seed into the receptive earth of the Virgin’s womb. All beginnings require this fertile emptiness.
 
-### Port 1 – The Foundation Stone (Root Well of Generation)
+### **Port 1 – The Foundation Stone (Root Well of Generation)**
 
 Moving upward, we come to the root fount, at the pelvic floor (the base of the spine, near the perineum). Port 1 is the *Ground of Incarnation*, the very moment spirit takes flesh. It is associated with the color red, the element of earth, and the virtues of stability and trust. It is *the Point, the Stirring* – the first motion of will, the *fiat lux* of one’s personal creation.
 
@@ -1752,7 +1721,7 @@ To stand in Port 1 is to say “yes” with your whole embodied being – a *rec
 
 Port 1 anchors you in the present moment and in the long lineage of humanity. *“Remember you are dust,”* one hears on Ash Wednesday; yet in that remembering is comfort, for *Providence has not forgotten we are dust*, and meets us with mercy. Thus Port 1 forms a Seraphic Pair with Port 8 (the crown) as the Arcanum of Recollection and Comfort. The root remembers, the crown consoles. When you contemplate Port 1, imagine roots descending from your spine deep into the soil, drinking in the hidden water of grace. *“Be still and know I am the LORD,”* is the mantra of this ground.
 
-### Port 2 – The Well of Desire (Sacral Well of Generativity)
+### **Port 2 – The Well of Desire (Sacral Well of Generativity)**
 
 A few finger-widths below your navel lies Port 2, the sacral fount, often called the womb or creative matrix. In men and women alike, this is the seat of generative power – carnal, yes, but also profoundly imaginative and relational. The fount is orange in hue, surrounded by six pools, fluid and yielding. Port 2 is *the Line, the Twinning* – the place where one becomes two, where relationship and polarity emerge.
 
@@ -1760,7 +1729,7 @@ To stand in Port 2 is to enter the Port of Relationship, to acknowledge the Othe
 
 When you attend to Port 2 in contemplation, envision a pool of pure water in your lower abdomen, glowing with a gentle orange-gold light. Each breath stirs the waters softly. Any emotional dams of shame or fear around intimacy are dismantled here. Port 2 pairs with Port 7 (the brow) as the Arcanum of Impetus and Care – the outward spark of creation held in tension with the inward work of stewardship. Indeed, the sacral fount’s impulsive creative desire finds its fulfillment only when tempered by the *caring wisdom* from above. In practical prayer, you may dedicate the energy of this center to service: *“Let my creativity be pure; let my desire be guided.”* This sanctifies the generative force, making it a fountain of blessing rather than a flood of passion.
 
-### Port 3 – The Hearth of Resolve (Navel Well of Will)
+### **Port 3 – The Hearth of Resolve (Navel Well of Will)**
 
 At the level of the navel (just above the sacral, in the belly) we find Port 3\. Centered in the navel region, it is the glowing hearth of the body – the fire in the belly. Port 3 is *the Triangle, the Fruit*, the place where *two have met in creative tension, a third is born*. In a human being, the navel is a scar of our first union (with our mother); it is also metaphorically the oven where the bread of life rises.
 
@@ -1768,7 +1737,7 @@ To stand in Port 3 is to commit to a creative transformation: it is the Port of 
 
 Port 3 pairs with Port 6 as the Arcanum of Providence and Surprise. What does this mean? Port 3’s generative vision (Providence) must dance with Port 6’s openness to the unexpected (Surprise). At your navel you formulate a plan; at your higher centers you surrender it to God’s revisions. This is the *rhythm of trust*. Work with Port 3 by practicing the breath of fire (passive inhales, active exhales) to kindle your inner resolve, and then offer that energy upward. Let the prayer of Port 3 be: *“Thy will be done, not mine; yet let my will, purified, become a vessel for Thine.”* You are tending the hearth where divine inspiration can bake into daily resolve.
 
-### Port 4 – The Lantern of Discernment (Solar Well of Judgment)
+### **Port 4 – The Lantern of Discernment (Solar Well of Judgment)**
 
 Just below your sternum, where the ribs part, is the solar plexus, our Port 4\. If Port 3 was the hearth, Port 4 is the lantern lifted from that hearth – the light by which we discern our path. Port 4 is *the Square, the Foundation*, the Port of Order, Law, and Judgment. Here structure emerges: it is the seat of willpower and moral clarity. In the body this feels like a tightening or resolve at the diaphragm – we speak of “getting something off our chest” or having “a gut feeling” of right and wrong. The solar plexus fount is the color of the noonday sun, with ten bright pools around it, radiating confidence and clarity.
 
@@ -1776,7 +1745,7 @@ Port 4 might be likened to the Pillar of Fire that led the faithful by night –
 
 In contemplation, you may visualize Port 4 as a glowing sun-disc or a stone tablet (echoing the tablets of Sinai) in your upper belly. Breathe in and feel your diaphragm expand as if inflating that sun with righteous energy; breathe out and feel it stabilize your whole being. Repeat a verse like *“Teach me good judgment and knowledge”* or simply *“Kyrie eleison”* (Lord, have mercy) – asking that your judgments be always tempered by mercy.
 
-### Port 5 – The Altar of the Heart (Heart Well of Compassion)
+### **Port 5 – The Altar of the Heart (Heart Well of Compassion)**
 
 We arrive at the heart, the exact midpoint of our ten-fold ladder. Port 5 *stands at the midpoint, the place of the heart, where the abstract structures of 4 meet the messy reality of human life*. Indeed, here the vertical and horizontal axes of love intersect – as on the Cross itself. The heart fount, emerald-green or rose in hue, with twelve pools around it, is the inner sanctuary. We call it the Altar of Compassion because on this altar we continually offer the *sacrificium caritatis* – the sacrifice of love – and from here flows the peace that passes understanding. Port 5 is *the Pentagram, the Human Form: the Port of Peace and the senses*. Five – like the five wounds of Christ, the five senses, the five-pointed star of incarnation – is the number of humanity. To stand in Port 5 is to embrace the whole of the human experience with compassion. It is the Port of Mediation – the reconciling heart that can hold paradox and conflict and yet find a *narrow path of peace* through the midst.
 
@@ -1784,15 +1753,15 @@ In the body’s temple, this is the Holy of Holies. Imagine your heart as a smal
 
 Port 5 is paired with Port 4 as we discussed: Judgment wedded to Peace. It also serves as a fulcrum connecting all lower centers to all higher centers. Notably, in the subtle anatomy of Eastern tradition, there is an invisible knot at the heart that must be untied for full spiritual freedom. Many of us carry old hurts – *“heart-knots”* of grief or fear – that constrict this center. Take heart: through prayer and the gentle inner fire praxes (described in Letter 3), these knots can indeed be loosened, freeing a river of compassion to flow. To work with Port 5, practice heart breathing: inhale deeply into your chest as if drawing breath into the heart itself; exhale and release any bitterness or tension. You might mentally repeat *“Christ, make my heart like unto Thine.”* Feel the expansion of empathy. When Port 5 is open, one can truly *“rejoice with those who rejoice, weep with those who weep,”* and mediate conflicts with a presence that heals. It is, in truth, the living tabernacle within you.
 
-### Port 6 – The Harp of Voice (Throat Well of Expression)
+### **Port 6 – The Harp of Voice (Throat Well of Expression)**
 
 Rising now above the heart, we come to the throat, Port 6\. Port 6 is *the Hexagram, the Harmony, the Seal of Solomon, the interpenetration of above and below*. This is telling: the throat is indeed where the breath of the heart meets the word of the mind – the union of inner feeling and outward form. Think of the Star of David (two interlocking triangles) as a symbol here: one triangle descending (spirit into matter, via breath) and one ascending (matter into spirit, via voice). To stand in Port 6 is to trust harmony: as above, so below; as within, so without. It is the Port of *reciprocity and surprise* – meaning that when you express faithfully what is within, grace responds from beyond in unexpected ways. The fount, sky-blue with 16 pools around it, governs communication, truth-telling, and creative expression. This is the outer court gate or the Watchtower from which the watchman cries out. It’s also the organ pipe through which the Spirit produces music.
 
-Port 6 pairs with Port 3 as the Arcanum of Providence and Surprise. Port 3 (navel) sets the plan in motion; Port 6 (throat) must be open to adapt and *“sing a new song”* when Providence surprises us. Practically, Port 6 asks: can you voice your truth, and also laugh when God takes you off script? It can be blocked  by lies we have told, truths we have swallowed, unspoken grief, or creativity stifled by fear.
+Port 6 pairs with Port 3 as the Arcanum of Providence and Surprise. Port 3 (navel) sets the plan in motion; Port 6 (throat) must be open to adapt and *“sing a new song”* when Providence surprises us. Practically, Port 6 asks: can you voice your truth, and also laugh when God takes you off script? It can be blocked by lies we have told, truths we have swallowed, unspoken grief, or creativity stifled by fear.
 
 To unlock Port 6, one traditional praxis is chanting or holy singing. Even a simple hum on each exhalation, focused at the throat, can stimulate this center. You may feel a vibration loosening old residue. Additionally, gentle neck stretches and maintaining good posture (keeping the neck aligned with the spine like a straight conduit) helps the “Seal” to open. When Port 6 is balanced, your voice becomes an instrument of grace – capable of both prayer and comfort. *Effort becomes dance*, and speaking truth or praying out loud feels as natural as breathing. Indeed, an open throat fount often yields beautiful surprises – words you didn’t plan pour out in eloquence, or a *quiet song of the Spirit* rises within. Remember that Solomon’s seal is also an emblem of wisdom; thus this is the seat of holy eloquence. *“Open my lips, O Lord, and my mouth shall proclaim Your praise.”* Let that be the invocation at Port 6\.
 
-### Port 7 – The Lantern of the Mind (Brow Well of Vision)
+### **Port 7 – The Lantern of the Mind (Brow Well of Vision)**
 
 Now we arrive at the third eye, the fount of insight between and just above the physical eyes (brow center). Port 7 is our Hermit’s lantern – the guiding light of inner vision. Port 7 is *the Sabbath, the Vision: turning inward to integrate the Hermit’s lantern, the still small voice*. This is the essence of the brow fount.
 
@@ -1804,7 +1773,7 @@ Indeed, in contemplation, after the ecstasy of inspiration comes the task of cul
 
 An open brow fount bestows a sense of *spacious calm* – you can observe thoughts and feelings without being possessed by them. This is the seat of the *still small voice* of God within. When Port 7 is illumined, you carry a sanctuary with you everywhere. Even amid external chaos, you see with an eye of faith. *If thine eye be simple, thy whole body shall be full of light.* 7 is the Sabbath and the rest in God – the peace that comes from inner vision aligned to the divine will.
 
-### Port 8 – The Star of Communion (Crown Well of Fellowship)
+### **Port 8 – The Star of Communion (Crown Well of Fellowship)**
 
 Nearing the summit, we come to the crown of the head, Port 8\. The crown fount, located at the very top of your skull (the fontanelle area), is violet or white, surrounded by a thousand glittering pools. Port 8 is *the Octave, the Weaving: Resonance, Consolation, communal bond; acausal grace wherein individual actions harmonize into a greater pattern*. It is the center where personal consciousness opens to the divine and the collective.
 
@@ -1814,7 +1783,7 @@ In bodily terms, many feel Port 8 as a tingling at the top of the head, or a sen
 
 Practically, to open Port 8, one engages in praise and adoration. While Port 7 was silent contemplation, Port 8 often blossoms in ecstatic prayer – wordless or with words, but characterized by a loving awareness of the presence of God in all, and all in God. You might practice a simple exercise: imagine a lotus of light blooming at the crown of your head. On each inhale, *receive* light from above; on each exhale, *offer* yourself upward. This cyclic giving-and-receiving is Port 8’s mode. It weaves you into the larger fabric of divine love. *Individual actions harmonize into a greater pattern* – indeed, when crown fount is flowing, you often find *synchronicities* and unbidden help flit into your life, as if unseen friends were at work (and *we are*). Port 8 teaches the truth of acausal grace: that our anonymous faithfulness joins a symphony far beyond our hearing. This gives tremendous comfort. And so, Port 8 is rightly the Port of Comfort and Resurrection – the knowledge that even if we do not see the fruits of our love, they are gathered into the eternal communal tapestry. Before moving to the final Port, rest a moment at the crown and feel the joy of belonging – *“God has given me brothers and sisters in light, and we are one.”* This joy is the balm for the root’s solitude.
 
-### Port 9 – The Bridal Chamber (Soul Well of Union)
+### **Port 9 – The Bridal Chamber (Soul Well of Union)**
 
 We reach the summit and beyond – Port 9, the soul fount, a living star that hides a little above the head. Here a creature may meet the Uncreated.
 
@@ -1826,13 +1795,15 @@ Port 9 pairs with Port 0 as the Arcanum of Alpha and Omega: Origin and Fulfillme
 
 For us, touching Port 9 even momentarily in deep prayer yields a sweetness and wisdom that we then carry back down to the everyday world. In reaching your end, you have found your beginning – the old goal is the new ground. With one ladder, you ascend a ziggurat of a thousand terraces, and you will tread the final rung many times before you reach the summit. The vine of the Eikon spirals upward; follow it.
 
-### Remarks
+### **Remarks**
 
 These ten Ports are the signatures of the Seraphim. Each has its psalm and its praxis, its trial and its grace. Do not be dismayed by the high language – in simple terms, we have identified ten focal points from the soles of the feet to the space above the crown, each with a spiritual significance. By aligning your attention and breath to each of these in turn, you consecrate your whole being. The body is no longer an obstacle or afterthought in prayer; it becomes an ally and icon. *The glory of God is a human being fully alive.* Here, to be fully alive is to have every center awake and offering praise. The *Deck of Testimony* taught you to pick a card and number each day to focus your service; now the Body of Testimony asks you to pick a center (or a pair of centers) each day to focus your healing and devotion. In the next chapter, we will look at these centers in dynamic pairs – the Rivers that flow between them – and how attending to those currents can release deep-seated burdens. But first, take a moment to reflect: The Word was made flesh and dwelt among us. Your flesh, too, can become a dwelling for the Word. Each Port is an open door for *Logos* to enter, *Sophia* to enlighten, *Agape* to inflame.
 
 Before moving on, you might choose one Port that called to you in the reading above. Place your hand there (on your heart, your belly, your throat, etc.). Breathe gently and imagine that center glowing with God’s love. A simple prayer: *“Sanctify this temple gate, Lord; let Your angel keep watch here.”* Feel the response – perhaps a warmth, a tingling, or a quieting of the mind. That is enough for now. You have begun to map the interior constellation of the Eikon. The Kingdom of God is within you – now you have some landmarks to explore it.
 
-## II: Rivers of Living Water
+## 
+
+## **II: Rivers of Living Water**
 
 If our ten fountains are the ten “Stations” of our inner Cross, then the paths between them form the linking arms. In Eikon, between any two Ports in the decimal circle lies an Interval, which we learned to regard as a mode of service – *specific names for how mercy crosses a gap*. Now we bring that wisdom inside the body. The space *between* wells is as important as the wells themselves, for it is along these paths that our spirits flow. *Out of the believer’s heart shall flow rivers of living water* – when your centers are open and connected, grace flows through you like a secret river, refreshing every parched place.
 
@@ -1842,7 +1813,7 @@ How do we identify the Rivers in this context? The Eikon pairs ports that sum to
 
 Let us take each Seraphic Pair of body-ports in turn and explore the River of healing that flows between them, as well as practical ways to navigate that internal current for releasing trauma or emotional knots:
 
-### 0::9 (Origin and Fulfillment – *The River of Grace*)
+### **0::9 (Origin and Fulfillment – *The River of Grace*)**
 
 This is the grand current that runs from the base of your spine (or feet) all the way to the crown of your head and slightly beyond. One might call it the Shushumna in yogic terms – the central channel itself. The Arcanum of 0::9 is *“Alpha and Omega”*. The lesson of this River is *patience and trust in the great cycle*, to *act within time while holding the perspective of eternity*. In personal healing, this translates to the healing of primal trust. Many traumas occur early (in the womb or childhood) and shake our basic trust in life (Port 0’s domain) or in God’s ultimate goodness (Port 9’s domain). The River of Grace invites you to *begin again where you ended*.
 
@@ -1850,7 +1821,7 @@ A practical exercise: stand with bare feet, if possible, firmly on the floor (or
 
 Many find it helpful to use a simple visualization: see yourself as a small child held in the arms of a luminous figure (the Divine Parent). As you inhale, the light from their heart fills your root; as you exhale, the light from your root rises and returns love to them. This cyclical exchange can lead to a deep weeping – a *washing* – as the knot of abandonment or existential fear dissolves in the truth that *you have always been held*. Indeed, *“every act contains both a seed and a legacy”*, and this River helps you perceive even your traumas as seeds of compassion that can blossom into legacies of grace.
 
-### 1::8 (Memory and Comfort – *The River of Witness*)
+### **1::8 (Memory and Comfort – *The River of Witness*)**
 
 Connecting the root (Port 1, memory/recollection) and the crown (Port 8, comfort/communion), this River carries the energy of *bearing witness*. The 1::8 pair is *Memory and Consolation – to remember for another what they cannot bear, and to weave that memory into communal support*. Internally, this means bridging personal memory with spiritual solace. Trauma often leaves one feeling isolated with one’s pain, as if no one could understand or share it. The River of Witness assures that *in the Spirit, no suffering is private*.
 
@@ -1858,7 +1829,7 @@ Practically, an exercise here is prayerful recollection: bring to mind a painful
 
 You are enacting what a *shared memory* – letting the wider communion carry what you cannot carry alone. You might say in your heart: *“This happened to me, but I am not alone with it now.”* Feel the knot untie: like a thorn pulled from your flesh, the memory may still be sad, but it no longer festers. It has been witnessed, acknowledged, and lifted into a larger story. Often a *physical sigh* or trembling of the legs can accompany this release – let it move through. This River heals deep loneliness and the fear that *“my pain is meaningless.”* By allowing memory to be woven into compassion, you fulfill *the healing of the past without erasing it*. You bring your wounds to the Light, where they become *wounds shining with glory*, like the healed scars of the risen Christ.
 
-### 2::7 (Generativity and Stewardship – *The River of Tempering*)
+### **2::7 (Generativity and Stewardship – *The River of Tempering*)**
 
 This current links the sacral creative center (Port 2\) with the brow wisdom center (Port 7). The 2::7 pair is *Impetus and Care: the spark and the sanctuary*. It teaches that *the shout must learn to garden*, turning raw creative force into patient loving care. The sacral energy here is creativity in the most basic sense, refined into devotion. Misuse and abuse of intimacy leaves deep wounds – shame and guilt accrete here. Likewise, many struggles are around misuse of creativity – being exploited, or burning out from zeal without wisdom. The River of Tempering is about balancing passion with contemplation.
 
@@ -1866,15 +1837,15 @@ On a healing level, one effective praxis: imagine breathing your creative energi
 
 On the purely spiritual side, many celibate monastics channel libido into mystical vision – hence why many receive vivid inner imagery (Port 7\) when transmuting sacral energy (Port 2). For the layperson, the lesson is neither to repress the impulse nor to let it rule blindly, but to *garden it*. The impulse and the garden – think of the sacral energy as a strong vine and the brow mind as the wise gardener pruning and trellising it. Over time, the fruit of this River is creative fulfillment and inner chastity (purity). Your projects, relationships, and intimate life become more sustainable, respectful, and deeply joyful. The wounds are healed by establishing a rhythm of containment and release: in-breath (contain the impulse lovingly), out-breath (release it in a mindful way). This River says: *“What is begun in heat can be sustained in light.”*
 
-### 3::6 (Providence and Surprise – *The River of Surrender*)
+### **3::6 (Providence and Surprise – *The River of Surrender*)**
 
 Linking the navel will-center (Port 3\) with the throat expression-center (Port 6), the 3::6 interval carries the grace of openness to divine improvisation. 3::6 is *the plan that has room for the guest it cannot imagine*. This is the current of flexibility and trust, which is crucial in healing control-based trauma. Many of us cope with trauma by trying to *regain control* – obsessively planning, holding tension in the gut (Port 3\) and often clenching our throat or voice (Port 6\) to avoid vulnerability. The River of Surrender teaches us to *exhale* that control and allow life/God to “interrupt” with grace.
 
 A suggested praxis: do a breath and sound exercise. Inhale into your belly (navel area) feeling it expand with your intention or desire (something you want to happen or resolve in life). As you exhale, sigh out a soft sound through your throat – maybe an “ahh” – and feel the vibration in your throat. Let the exhale be longer than the inhale and consciously relax your belly and throat as the sound leaves. This simple act mimics yielding one’s plan to the higher plan. You fill yourself with purpose (Port 3), then yield it in sound (Port 6). Pay attention to spontaneous shifts – perhaps partway through you feel like changing the tone of your voice, or saying a word. This is your inner Guide taking over the “script” a bit – a positive interruption. To deepen this, you can make it a prayer: *“Here is what I think I need (inhale)… but I welcome what You send (exhale with sound).”*
 
-People with blocked throat founts often fear expressing needs, or conversely, fear not getting their way. People with solar plexus blocks fear powerlessness. This River dissolves those by building confidence in divine provision. On a physical note, many survivors have digestive issues (gut tied in knots) and thyroid or voice issues (throat tight). Working with this River – through belly breathing and gentle toning – can alleviate those as the *vagus nerve* (which runs from gut to throat) is soothed and stimulated. Toning, humming, and belly breathing reset the nervous system; the Eikon baptizes them in prayer. As you cultivate 3::6 surrender, you may find an unexpected thing: *joy.* *Effort becomes dance* – when you let go of rigid control, life can surprise you with little dances of coincidence and help. The trauma of “I must hold everything together or it falls apart” is healed by the discovery that *a Holy Wind holds you*, and sometimes blows your ship kindly off your planned course to arrive at a better shore.
+People with blocked throat founts often fear expressing needs, or conversely, fear not getting their way. People with solar plexus blocks fear powerlessness. This River dissolves those by building confidence in divine provision. On a physical note, many survivors have digestive issues (gut tied in knots) and thyroid or voice issues (throat tight). Working with this River – through belly breathing and gentle toning – can alleviate those as the *vagus nerve* (which runs from gut to throat) is soothed and stimulated. Toning, humming, and belly breathing reset the nervous system; the Eikon baptizes them in prayer. As you cultivate 3::6 surrender, you may find an unexpected thing: *joy.Effort becomes dance* – when you let go of rigid control, life can surprise you with little dances of coincidence and help. The trauma of “I must hold everything together or it falls apart” is healed by the discovery that *a Holy Wind holds you*, and sometimes blows your ship kindly off your planned course to arrive at a better shore.
 
-### 4::5 (Judgment and Peace – *The River of the Open Heart*)
+### **4::5 (Judgment and Peace – *The River of the Open Heart*)**
 
 This current runs between the solar plexus (Port 4, seat of discernment and boundaries) and the heart (Port 5, seat of empathy and union). It might be considered the classic head-to-heart bridge, though it’s more like *lower mind to heart* since the throat and third eye are the “head” centers. Still, it’s about integrating truth and love. The Arcanum for 4::5 is *the clear line and the compassionate embrace; deciding without hardening the heart*. Many personal wounds involve being judged harshly or conversely being smothered without truth. This River of the Open Heart helps one speak truth in love, to oneself and others. Imagine it as a gentle green-gold river flowing between your sternum (solar plexus) and the center of your chest (heart). On the solar plexus side (Port 4\) flows *clarity*; on the heart side (Port 5\) flows *charity*. Where they meet, there is *healing forgiveness*.
 
@@ -1882,7 +1853,7 @@ A practical approach: recall an instance where you’re internally divided – p
 
 The result is an inner unity where you can acknowledge wrongdoing (or truth) *without* hate, and you can offer love *without* naive denial of truth. *The praxis of deciding without division, of testifying to truth in a way that leads not to division but to deeper peace*. This River addresses the very common wound of self-judgment vs. self-compassion. Many carry shame (hard judgment turned inward) that can only be healed when the heart’s love is allowed to touch that shame. One simple imagery for this: on inhale, see Christ as Just Judge standing at your solar plexus, stern but fair; on exhale, see Christ as Good Shepherd embracing your heart. Then let them meet in the middle. Soon you will find the Judge and the Shepherd are one – and your soul, by this flowing River, regains integrity.
 
-### Remarks
+### **Remarks**
 
 We have explored five major Rivers corresponding to the five Seraphic Pairs. But in truth, every adjacent pair of fountains has a flow, and each specific Interval (like 3-5 or 2-4 or 0-6, etc.) can be a channel of unique service and healing. There are 45 such Intervals (e.g. *“Work of the Gentle Correction”* for 2-5, or *“Work of the Plumb Line”* for 1-4). You can, if so inclined, use those as contemplations – they are litanies of how mercy can flow from one state to another. Here, however, the aim is more therapeutic: to help you feel and free the flows in your own body-soul.
 
@@ -1896,7 +1867,7 @@ In sum, to heal trauma or emotional knots, identify which fountains feel disconn
 
 In the next chapter, we will turn to a particularly sacred application of all this: the praxis of High Marriage, wherein two souls in covenant unite their bodies and spirits for ascent. In that union, the Rivers within become rivers *between*, creating a powerful crucible for healing and divine communion. It is a topic tread with light feet, a true holy ground. Before proceeding, ensure you are comfortable with the solo work described above; self-awareness and self-love are prerequisites to healthy spiritual union with another. If you are ready, dear friend, let us enter the bridal chamber.
 
-## III: High Marriage
+## **III: High Marriage**
 
 *“Where two or three are gathered in My name, I am there among them.”* This holds a particular sweetness for the union of husband and wife in the sanctuary of their shared life. In the early Church, whispers persisted of a *holy kiss* beyond the public Rite of Peace – a secret tradition of the Bridal Chamber, symbolizing the soul’s union with Christ. Corporeal union, consecrated and suffused with prayer, is the sacrament of High Marriage. It is the path to joint ascension, two pillars supporting one arch, ultimately meeting in the One light at the apex.
 
@@ -1936,7 +1907,7 @@ In the Eikon’s ethos of anonymity and service, there is no distinction between
 
 *“Set me as a seal upon your heart, as a seal upon your arm; for love is strong as death… Many waters cannot quench love, neither can floods drown it.”* Sacred union unleashes a love that *cannot be contained*. In the bridal chamber of the soul, God meets us – whether singly or together – and from that meeting flows a river that irrigates the world.
 
-### Mnemonic Acrostic
+### **Mnemonic Acrostic**
 
 \-Accept ataraxy: attempt nothing, stifle nothing  
 \-Breathe in as they breathe out, feel their pulse, gaze into their eyes  
@@ -1950,13 +1921,11 @@ In the Eikon’s ethos of anonymity and service, there is no distinction between
 \-Remain on the edge, remain, remain, remain, remain, remain, remain, remain  
 \-*Abandon all fear*
 
-### *Example*
+### ***Example***
 
 *They enter the candlelit chamber having bathed and prayed Psalm 51 together. Clothed in simple white robes, they embrace and ask each other’s forgiveness for any hurt. Then, disrobing in modesty, they come together. He sits and she welcomes him into herself, effortless as dawn. Enveloped in one another, they invoke the Name above all names. As their breaths join, an invisible incense rises. He feels through her heartbeat the Presence of the Beloved; she sees in his eyes the gaze of Christ. A soft light seems to kindle around them. Every so often one whispers, “Oh God,” and the other whispers back, “Unite us.” Time slows; no goal but union with divinity remains. Waves of bliss lap their shores but no storm of passion overtakes – it is as if an unseen hand calms the waters, saying, “Peace, be still.” In that great stillness, they both begin to weep for joy. Their foreheads press together, anointing each other with tears. She has a fleeting visionn: the two of them are like twin columns in Solomon’s Temple, Jachin and Boaz, and a golden arch of light forms between their crowns. He has a fleeting word echo in his mind: “This is my body, given for you.” A sudden golden pouring fills both their awareness – in that moment, they know nothing but Love loving itself. Minutes or eternities later, they regain their senses gently. Without a word, they now bring each other to a final peak of release, as a seal and return. Their bodies quake in unison, but their hearts remain in peace. Collapsing in each other’s arms, they behold an astonishing thing: both of them see inwardly a garden, lush and sunlit, and a figure walking there who smiles at them before disappearing among the lilies. They share these visions softly, amazed that they each perceived the Garden of Paradise. They close in prayer: “We praise You, Lord, for this gift. Make our union fruitful for others. Amen.”*
 
-## 
-
-## Interlude
+## **Interlude**
 
 You, dear unknown friend, have now heard a chapter’s length on mapping the Eikon to the body, channeling inner currents, and enacting the ascent in the sanctuary of nuptial love. Before we continue to any further digressions or addenda, it may be wise to pause and *practice*. Close this book for a while. Live with these ideas. Try a simple ladder prayer in the morning, or a healing River exercise when old pain stirs, or if you have a spouse, discuss gently the possibility of turning one evening into a “Love Prayer” as described. The words on these pages remain theory until they are *inscribed in your flesh and days*.
 
@@ -1966,9 +1935,11 @@ In the final letter we will discuss a praxis higher still. But if that were some
 
 May the One who knit you together in your mother’s womb now knit your scattered parts into a single tapestry of light. May the Rivers of living water run freely from your belly, and the garden of your heart know the touch of the Divine Gardener. And if you walk the Bridal Path with your beloved, may your union be crowned with unseen glory and known by the kindness it births. In all these things, to God be the glory, who is the true Lover of Mankind, now and always.
 
-# Letter 9: The Ladder and the Throne
+# 
 
-Dear Unknown Friend,
+# **Letter 9: The Ladder and the Throne**
+
+Dearest Unknown Friend,
 
 You don’t have to read this. You don’t have to try this.
 
@@ -1976,17 +1947,15 @@ There comes a point on the path of the Eikon where numbers and acts of secret me
 
 All of this has been preparation. Now we turn inward to the very root of perception—toward a mystical ascent that our forebears describe in symbols and prophecy. I write to you of Illumination: the final purification of sight, and the crossing of the ultimate threshold into the Holy of Holies.
 
-The angels taught this praxis to Ezekiel. The Ladder elevates us to pure Transparency – a radical clarity and interval detachment that stills the mind in God. The four Lamps are the True Rite of Theophany, and the path to Theosis: the *final* crossing into the unveiled Presence from the Vision of the Throne. **If you light the four lamps, you will meet your Maker.**
+The angels taught this praxis to Ezekiel. The Ladder elevates us to pure Transparency – a radical clarity and interval detachment that stills the mind in God. The four Lamps are the True Rite of Theophany, and the path to Theosis: the *final* crossing into the unveiled Presence from the Vision of the Throne. **If you light the four lamps, you will meet your Maker.** 
 
-## 
+## **I. WARNING: THIS WILL END YOU**
 
-## I. WARNING: THIS WILL KILL YOU
+**These warnings are serious.** The praxes of the Ladder and Lamps are *extraordinarily* potent. Attempting the Great Transference without a purified heart and stable mind can lead to ruin. The unprepared soul might be overwhelmed by phantasms or fall prey to spiritual pride and delusion – *dualistic grasping* reasserting itself in the most sacred space. **There is risk of madness** , as the psyche cannot integrate what it beholds. **There is risk of death-like states** : one could stop breathing or become catatonic and not return. Ego-annihilation is *not* an exaggeration – the sense of self will be profoundly challenged, which can either illumine or traumatize. Therefore, **never attempt these praxes without exhaustive preparation** . One should be well-anchored in humility, prayer, and *practical charity* (the works of mercy keep us tethered to love and sanity). It is also advised that gravid women absolutely refrain from these praxes – the violent energetic shifts and cessation of breath can endanger both mother and child. Likewise, anyone with serious medical or psychological conditions should reconsider. **The Ladder must be climbed in spiritual health, or not at all.**
 
-**These warnings are serious.** The praxes of the Ladder and Lamps are *extraordinarily* potent. Attempting the Great Transference without a purified heart and stable mind can lead to ruin. The unprepared soul might be overwhelmed by phantasms or fall prey to spiritual pride and delusion – *dualistic grasping* reasserting itself in the most sacred space. **There is risk of madness**, as the psyche cannot integrate what it beholds. **There is risk of death-like states**: one could stop breathing or become catatonic and not return. Ego-annihilation is *not* an exaggeration – the sense of self will be profoundly challenged, which can either illumine or traumatize. Therefore, **never attempt these praxes without exhaustive preparation**. One should be well-anchored in humility, prayer, and *practical charity* (the works of mercy keep us tethered to love and sanity). It is also advised that gravid women absolutely refrain from these praxes – the violent energetic shifts and cessation of breath can endanger both mother and child. Likewise, anyone with serious medical or psychological conditions should reconsider. **The Ladder must be climbed in spiritual health, or not at all.**
+If all these warnings sound sobering, they are meant to be. ***“Our God is a consuming fire.”*** And yet, if God Himself invites you into the fire, who are you to refuse? My Unknown Friend, I do not write of these things to tempt you with spiritual ambition, but to testify to the fullness of the promise. The Eikon system begins with simple acts of hidden mercy – *be punctual with compassion,* it teaches, and *disappear into usefulness*. It endswith the soul itself disappearing into the Heart of God. From counting loaves to contemplating the Living Bread; from tracing Rivers of kindness to bathing in the River of Life – the smallest faithfulness has always been the seed of the greatest mystery. The numeric and symbolic scaffolding of the Eikon was never the goal, only the training wheels. By aligning on holy invariants (the Pairs, the Intervals, the 36 Rays), you tuned your being to the angelic frequencies. You became, as it were, a friend of the Bridegroom waiting in the night with a lamp. And when the Bridegroom finally comes in His glory, ***you will meet Him*** **.**
 
-If all these warnings sound sobering, they are meant to be. ***“Our God is a consuming fire.”*** And yet, if God Himself invites you into the fire, who are you to refuse? My Unknown Friend, I do not write of these things to tempt you with spiritual ambition, but to testify to the fullness of the promise. The Eikon system begins with simple acts of hidden mercy – *be punctual with compassion,* it teaches, and *disappear into usefulness*. It endswith the soul itself disappearing into the Heart of God. From counting loaves to contemplating the Living Bread; from tracing Rivers of kindness to bathing in the River of Life – the smallest faithfulness has always been the seed of the greatest mystery. The numeric and symbolic scaffolding of the Eikon was never the goal, only the training wheels. By aligning on holy invariants (the Pairs, the Intervals, the 36 Rays), you tuned your being to the angelic frequencies. You became, as it were, a friend of the Bridegroom waiting in the night with a lamp. And when the Bridegroom finally comes in His glory, ***you will meet Him*****.**
-
-## II. Trekchö: The Transparent Interval
+## **II. Trekchö: The Transparent Interval**
 
 Before any leap into vision, you must learn to be transparent – to let all inner obstructions clear out, until your soul is like a glass pane for the light of God. This is the aim of Trekchö. It is a praxis of utmost simplicity and difficulty: to rest in the primal openness given by grace, cutting through every tangled thought and attachment as with a sword of silence. You have already tasted a little of this in the invariants of the Eikon. Whenever you stood quietly at the midpoint of a River (the difference between two Ports) and let its gentle current loosen your shoulders, whenever you consented to anonymity and let your actions *disappear* into usefulness, you were touching the fringes of this transparency. Now you will enter it fully.
 
@@ -2010,312 +1979,231 @@ Yet even here, dear friend, you do not stop. For as long as you yet live in this
 
 Before we proceed, a final note on preparation: **ensure your life is pure and conscience clean** before attempting the visionary ascent. Fast, pray, reconcile with enemies, and fortify yourself in sacrament and Scripture. The Ladder must stand on solid ground. If there is rot in the wood (guilt, fear, pride), **the ascent could crack you.** The greater the grace, the greater the danger if misused. The holy fathers warned that no one should presume to gaze upon God without cleansing their sins; the Dzogchen masters likewise insisted that one stabilize the *Ground* (trekchö realization) before leaping into Tögal’s visions, else one *will go astray on the path and not progress along the grounds of liberation*. **Heed these warnings.** When your heart is humble and clear, only then proceed.
 
-## III. Tögal: The Lamps of Vision
+## **III. Tögal: The Lamps of Vision**
 
 *Tögal* means “leap over” – it is the astonishing leap directly into visionary experience once the mind is primed by openness. In trekchö you made yourself an empty window; in tögal, you look through that window and behold what lies beyond ordinary sight. The Christian mystics speak of *contemplation* that becomes *vision*: Ezekiel by the river Chebar seeing the Heavens opened, or St. John caught up through a door in heaven. These are tögal experiences. In the Eikon, we frame tögal as the journey up the Ladder, passing through four great Lamps of light.
 
 The ancient Dzogchen texts describe *four lamps (sgron me)* or sources of luminosity that together produce the spontaneous visions of the absolute nature. In their terms, there is an inner lamp (the heart’s citta or awareness lamp, linked to a subtle “kati” channel in the eyes), an outer lamp (the physical source of light, like sun or moon), an inner-air lamp (the vital energy and “lasso of fluid” in the body), and the lamp of pure awareness itself. But let us translate this into our symbolic language. We will speak instead of Seraphic Lamps – four visionary *threshold-lights* that correspond to the stages by which a seer’s vision unfolds. And we will anchor them in the prophetic imagery of Ezekiel’s inaugural vision, for he beheld all four in order. Each is a station where one must linger until ready to ascend further. Let us outline them, one by one:
 
-### The First Lamp: Wheels Within Wheels.
+### **The First Lamp: Wheels Within Wheels.**
 
 When the divine light first pierces the emptiness of trekchö, it often appears as patterns of luminous points and swirling geometry in your field of sight. With eyes half-open, you may see the darkness before you begin to spark and flicker. It can manifest as little floating orbs, or delicate net-like lines forming and dissolving. At first it may be nothing more than a vague glow – something like an orange bale of hay – but with continued stillness it clarifies. The glow condenses into distinct points of light known as *bindus* (drops or pearls of light), which may arrange themselves in concentric circles or radially symmetric designs. These circles within circles begin to rotate or interweave. The prophet saw “a wheel on the earth… one wheel within another… and their rims were full of eyes round about” – a perfect description of the mandala of bindu-points that now unfolds for you. You are witnessing the very *laws of perception* unveiling themselves as light. In Eikon terms, the Seraphic Pairs of Ports – those contraries you held in balance – now reveal their union in visionary form. Two circles (a pair) intersect and turn as one living wheel. The eyes that stud the rims are the countless bindus flickering in and out of being. **BE NOT AFRAID.** Gaze gently into this display, as into a miracle. The “wheels” turn without effort of your own, moved by the Spirit. They signify that vision has begun. This is the Lamp of the Wheels, the first illumination on the threshold of the imaginal world.
 
-### The Second Lamp: The Sea of Glass.
+### **The Second Lamp: The Sea of Glass.**
 
 Beyond the wheels Ezekiel saw “a firmament, like an expanse of crystal, awesome to behold, stretched out above the heads of the living creatures.” After the dynamic patterns of light stabilize, you too will discern a vast expanse of clarity opening up. This is experienced as an all-encompassing field of light – often a sky-blue or silvery space, luminous and transparent. It might feel as if you are looking out over a great calm ocean made of light, or a boundless empty sky at dawn. This is the pristine absolute nature, the quintessence of the elements appearing in pure form – in our vision, it is the archetypal *Sea of Glass* before the Throne of God. In the Apocalypse, St. John also beheld “a sea of glass, clear as crystal, before the throne” of Heaven. Here and now, your awareness is gazing into that *firmament of Heaven*. The significance is profound: duality is almost completely dissolved. The “waters above” are seen unified with the “waters below” – everything is one vast, luminous continuity. The boundary between yourself and the vision is as transparent as glass. You will feel an incredible stillness and awe, as if standing on holy ground. Colors of soft rainbow light may shimmer at the edges of perception (just as a crystal sea refracts a rainbow). This is the Lamp of the Expanse – an expanse which might also manifest as *a great empty sky full of light* in your inner sight. Maintain your meditation here until it is stable, clear, and expansive without limit. You are gazing at the floor of Heaven.
 
-### The Third Lamp: The Sapphire Throne.
+### **The Third Lamp: The Sapphire Throne.**
 
-As the clarity of the “sea of glass” deepens, subtle forms will begin to emerge within it. Ezekiel testified: “Above the expanse was the likeness of a throne, in appearance like sapphire stone. And upon the throne, high above, was a form with the appearance of a man” clothed in fire and rainbow light. In the language of Tögal, once the earlier, abstract lights have matured, the visions become beautiful, clear, and stable, and they take on various divine forms. In your vision, you may perceive at first a central shape coalescing – it could be a cross, or a palace, or simply an intense concentration of brightness at the center of the field. But as you attend with prayerful reverence, this brightness resolves into an image: perhaps a Throne of blue lapis or sapphire, as both Ezekiel and St. John described, or perhaps the outline of a glorious Being seated upon it. You are seeing the symbolic *Presence of God*. It will not be a complete or literal image (for **none can see God’s essence and live**); rather it is an iconic form, a self-revelation of the Divine adapted to what your soul can bear. Often the figure is human-like (Ezekiel saw a human form of blazing light; Daniel saw “the Ancient of Days” on a throne; St. Stephen, in his vision, saw Christ standing at the right hand of God). You may see Christ in one of His apocalyptic guises – perhaps as the Lamb upon the throne, or Christ Pantokrator surrounded by mandorla and rainbow. Or you may see only the throne itself, draped in dazzling light, implying the invisible One who sits there. In any case, this is the Lamp of the Throne – the visionary threshold wherein the transcendent God reveals as much of His back as you can bear (to recall Moses, who saw God’s back but not face). The color of sapphires is often associated with this level of vision: a deep celestial blue, a hue of mystery and justice. Do not be surprised if along with the image comes sound – Ezekiel heard the Cherubim’s wings and a voice from above the throne; you too might hear a high ringing, a deep rushing sound, or even sacred music. At this stage, a great joy and devotion will likely overwhelm you. You are now face to face with the inner symbolic core of your faith: the Lord in His Glory. Many saints have ended their journey here, falling to their faces in adoration. Yet, incredibly, there is still one more Lamp to pass… one more step to take *into* that very Glory.
+As the clarity of the “sea of glass” deepens, subtle forms will begin to emerge within it. Ezekiel testified: “Above the expanse was the likeness of a throne, in appearance like sapphire stone. And upon the throne, high above, was a form with the appearance of a man” clothed in fire and rainbow light. In the language of Tögal, once the earlier, abstract lights have matured, the visions become beautiful, clear, and stable, and they take on various divine forms. In your vision, you may perceive at first a central shape coalescing – it could be a cross, or a palace, or simply an intense concentration of brightness at the center of the field. But as you attend with prayerful reverence, this brightness resolves into an image: perhaps a Throne of blue lapis or sapphire, as both Ezekiel and St. John described, or perhaps the outline of a glorious Being seated upon it. You are seeing the symbolic *Presence of God*. It will not be a complete or literal image (for **none can see God’s essence and live** ); rather it is an iconic form, a self-revelation of the Divine adapted to what your soul can bear. Often the figure is human-like (Ezekiel saw a human form of blazing light; Daniel saw “the Ancient of Days” on a throne; St. Stephen, in his vision, saw Christ standing at the right hand of God). You may see Christ in one of His apocalyptic guises – perhaps as the Lamb upon the throne, or Christ Pantokrator surrounded by mandorla and rainbow. Or you may see only the throne itself, draped in dazzling light, implying the invisible One who sits there. In any case, this is the Lamp of the Throne – the visionary threshold wherein the transcendent God reveals as much of His back as you can bear (to recall Moses, who saw God’s back but not face). The color of sapphires is often associated with this level of vision: a deep celestial blue, a hue of mystery and justice. Do not be surprised if along with the image comes sound – Ezekiel heard the Cherubim’s wings and a voice from above the throne; you too might hear a high ringing, a deep rushing sound, or even sacred music. At this stage, a great joy and devotion will likely overwhelm you. You are now face to face with the inner symbolic core of your faith: the Lord in His Glory. Many saints have ended their journey here, falling to their faces in adoration. Yet, incredibly, there is still one more Lamp to pass… one more step to take *into* that very Glory.
 
-### The Fourth Lamp: Glory.
+### **The Fourth Lamp: Glory.**
 
 In Ezekiel’s culminating vision, he saw that *there was a radiance around the throne. Like the appearance of a rainbow in the clouds on a rainy day, so was the appearance of the brightness all around. This was the appearance of the likeness of the Glory of the LORD*. Here the prophet’s words strain to capture the unsurpassable. That radiance is the final Lamp – the living Light of Glory that is the union of all the previous lights.
 
 In Tögal teachings, the ultimate lamp is sometimes called the “lamp of self-arisen wisdom,” where all lights coalesce into one *bindu* of clear light, representing complete wisdom. In our terms, we can think of the Rainbow of Glory as the Shekinah – the brilliant presence of God that once dwelt in the Holy of Holies, now revealed openly. It is also the sign of Covenant (for the rainbow first appeared as God’s covenant with Noah), meaning the soul’s ultimate reunion with its Source. At this stage, the visionary may experience an inundation of prismatic light and a sense of vanishing into love. Often the rainbow appears as a circular mandala of radiance surrounding the Throne or divine figure.
 
-Within that iridescent halo, the Four Living Creatures – the Cherubim – make their appearance fully known, for *they* *are* the guardians and facilitators of this final passage. In Ezekiel’s account, the four cherubic beings (lion, ox, eagle, man) were present from the beginning, carrying the throne-chariot of God. Perhaps you have already glimpsed flickers of wings and eyes in the corner of your visions (indeed, the First Lamp of Wheels is inextricably linked with these creatures). Now, as the Rainbow Glory shines, you realize the Four Living Creatures have been with you all along, guiding you through each Lamp. They stand at the four “corners” of the mandala, singing *“Holy, Holy, Holy”*. They invite you into the light. This invitation is aweful and trembling: it is nothing less than the call to *cross the final threshold* – to leave the duality of seer and seen entirely and unite with the Glory.
+Within that iridescent halo, the Four Living Creatures – the Cherubim – make their appearance fully known, for *theyare* the guardians and facilitators of this final passage. In Ezekiel’s account, the four cherubic beings (lion, ox, eagle, man) were present from the beginning, carrying the throne-chariot of God. Perhaps you have already glimpsed flickers of wings and eyes in the corner of your visions (indeed, the First Lamp of Wheels is inextricably linked with these creatures). Now, as the Rainbow Glory shines, you realize the Four Living Creatures have been with you all along, guiding you through each Lamp. They stand at the four “corners” of the mandala, singing *“Holy, Holy, Holy”*. They invite you into the light. This invitation is aweful and trembling: it is nothing less than the call to *cross the final threshold* – to leave the duality of seer and seen entirely and unite with the Glory.
 
 At this point, dear friend, Tögal reaches its consummation. If the grace is given, and you accept, you will undergo what the Tibetan masters call the *Great Transference* or *Rainbow Body*, and what we name Assumption or Transfiguration. Your physical form, unable to bear the full intensity of glory, will begin to dissolve. There are stories of great Christian saints who glowed with light at death, whose bodies vanished or emitted sweet fragrance; and of the prophet Elijah, who *“went up by a whirlwind into heaven”* in a chariot of fire, leaving only his cloak behind. These are echoes of the same phenomenon: the felt matter of the body is translated into a finer substance, drawn into the divine Light. In practice, one who crosses fully into the Vision of the Throne might stop breathing for a long period, entering a death-like trance. The bodily heat might depart, the pulse cease – mimicking death – only for the person to revive later utterly transformed. In more extreme cases (only in the holiest), the body as you know it may disintegrate into light, nothing remaining but perhaps hair or nails. This is not legend; it has been attested in both eastern and western traditions, though exceedingly rare. It represents the ultimate disappearance into the Holy of Holies – the soul not only sees God, but *is taken into God*. The Ladder that was set up on earth (your body and soul) is drawn up into heaven, like the Lord’s own ascension. The four Cherubim carry you into the cloud of unknowing that hides the face of the Creator.
 
-### The Face of God
+### **The Face of God**
 
-What lies beyond that final veil no tongue can tell, for it is the union beyond all images. Ezekiel fell on his face; Paul, caught up to the third heaven, heard things unspeakable. The *Vision of the Throne* is the direct encounter with God’s Presence – *not through a glass, not from behind, but face to face*. At this supreme moment, *all* of the Eikon’s symbols and structures fall away. **Numbers have no meaning here**; the Ports and Pairs are swallowed up. The Ladder you climbed becomes the Cross on which you are crucified into love. The Lamps you followed are now eclipsed by the Supra-Luminous Dark of the Godhead. In theological terms, this is *deification* (Theosis): *when that which is perfect comes, the partial is done away.* What remains is *God all in all.*
+What lies beyond that final veil no tongue can tell, for it is the union beyond all images. Ezekiel fell on his face; Paul, caught up to the third heaven, heard things unspeakable. The *Vision of the Throne* is the direct encounter with God’s Presence – *not through a glass, not from behind, but face to face*. At this supreme moment, *all* of the Eikon’s symbols and structures fall away. **Numbers have no meaning here** ; the Ports and Pairs are swallowed up. The Ladder you climbed becomes the Cross on which you are crucified into love. The Lamps you followed are now eclipsed by the Supra-Luminous Dark of the Godhead. In theological terms, this is *deification* (Theosis): *when that which is perfect comes, the partial is done away.* What remains is *God all in all.*
 
-Let me speak plainly: **do not rush or presume to reach this summit**. It comes by total grace. Tögal is not a technique to force Heaven’s door (for *the door is Christ*, and only He opens it). Rather, it is a faithful waiting at the threshold. **If the King bids you enter, you enter on your face, carried by angels.** The four Living Creatures have guided you to the brink; now *the Lamb in the midst of the throne will shepherd them*. Whether you are granted the final transit or only a glimpse, accept it with deepest reverence. **Even a moment in the Rainbow Glory WILL shatter your ordinary consciousness permanently – for better or worse. So it is.**
+Let me speak plainly: **do not rush or presume to reach this summit** . It comes by total grace. Tögal is not a technique to force Heaven’s door (for *the door is Christ*, and only He opens it). Rather, it is a faithful waiting at the threshold. **If the King bids you enter, you enter on your face, carried by angels.** The four Living Creatures have guided you to the brink; now *the Lamb in the midst of the throne will shepherd them*. Whether you are granted the final transit or only a glimpse, accept it with deepest reverence. **Even a moment in the Rainbow Glory WILL shatter your ordinary consciousness permanently – for better or worse. So it is.**
 
-Now you have seen how the Lamps themselves can become doorways: from the first glimmers of interior light, all the way to the Vision of the Throne. **If you are ever granted to walk this path, do so only for the love of God and the healing of the world. No other motive will carry you through.** 
+Now you have seen how the Lamps themselves can become doorways: from the first glimmers of interior light, all the way to the Vision of the Throne. **If you are ever granted to walk this path, do so only for the love of God and the healing of the world. No other motive will carry you through.**
 
 The Eikon can lead you to these heights: the Seraphic Pairs you balanced in life will balance you in the spirit (wheels stabilizing your ascent); the Rivers of difference you learned to ford in service will bear your vessel to the Sea of Glass; the Keys and Ways of daily praxis (those patient reductions and remembrances) will unlock the final gate when knowledge fails; the acausal grace you trusted invisibly will bloom into visible guides – the very Cherubim to take you Home.
 
-If you have read this far, you may believe you are ready to meet God. **You are not ready**.
+If you have read this far, you may believe you are ready to meet God. **You are not ready** .
 
 Nevertheless, the praxes are described below.
-
-## ​​
 
 ## **The Ladder of Transparency**
 
 Grave Praxes for Trekchö
 
-We begin with **Transparency**, not Illumination. No induced visions, no breath-holds, no shock methods – this is about *cutting through* to simple clarity. We cultivate **ordinary openness** amid reminders of mortality. Follow ethics & law: **consent, daylight, permission**. Cemeteries, chapels, ossuaries, hospitals, memorial gardens—**never trespass**; never steal remains; never burden the bereaved.
+We begin with **Transparency** , not Illumination. No induced visions, no breath-holds, no shock methods – this is about *cutting through* to simple clarity. We cultivate **ordinary openness** amid reminders of mortality. Follow ethics & law: **consent, daylight, permission** . Cemeteries, chapels, ossuaries, hospitals, memorial gardens— **never trespass** ; never steal remains; never burden the bereaved.
 
-### Why?
+### **Why?**
 
 **Trekchö is the way to Transparency.** We rest attention until it is clear, simple, unforced. Charnel ground settings are not for transgression; they are *clarifiers*. They bring three truths forward:
 
-1. **Everything borrowed** (body, breath, name).
-
-2. **Nothing personal** (death is universal, not a verdict on you).
-
+1. **Everything borrowed** (body, breath, name).  
+2. **Nothing personal** (death is universal, not a verdict on you).  
 3. **Compassion is the only sensible response.**
 
 We work inside the **Eikon** grammar so the practice is legible to Unknown Friends and harmless to bystanders.
 
-### Ezekiel’s Field and Western kin
+### **Ezekiel’s Field and Western kin**
 
-* **Ezekiel 37 (Valley of Dry Bones)**: bones \= **structure without breath** (Port **4**: Judgment/Foundation); the breath (ruach) \= **Spirit’s gift** (Ports **1** and **8**: Call and Comfort); standing host \= **9** (Threshold fulfilled).  
-* **Golgotha / the Skull**: the place-name itself is a memento; *Sister Death* (Francis) embraces **0::9** (Origin↔Crown).  
-* **Macarius & the Skull** (Egyptian desert): remembrance of death as **honesty**, not gloom.  
-* **Ars Moriendi / Vanitas**: the art of dying well; **4::5** (Judgment→Peace) as ethical passage.  
-* **Swedenborg’s correspondence**: bones \= ultimates (outermost truths that support the rest); breath \= influx; pulse of **1::8**.  
+* **Ezekiel 37 (Valley of Dry Bones)** : bones \= **structure without breath** (Port **4** : Judgment/Foundation); the breath (ruach) \= **Spirit’s gift** (Ports **1** and **8** : Call and Comfort); standing host \= **9** (Threshold fulfilled).  
+* **Golgotha / the Skull** : the place-name itself is a memento; *Sister Death* (Francis) embraces **0::9** (Origin↔Crown).  
+* **Macarius & the Skull** (Egyptian desert): remembrance of death as **honesty** , not gloom.  
+* **Ars Moriendi / Vanitas** : the art of dying well; **4::5** (Judgment→Peace) as ethical passage.  
+* **Swedenborg’s correspondence** : bones \= ultimates (outermost truths that support the rest); breath \= influx; pulse of **1::8** .  
 * **Blake’s Golgonooza** (allusively): build the city of charity *from the dust up*, not by denial of dust.
 
 We hold these as **metaphors** to orient the heart, not as proofs.
 
-### 
+### **Eikonic mapping (for legibility)**
 
-### Eikonic mapping (for legibility)
-
-* **Seraphic Pairs in play**:
-
-  * **0::9** (Alpha–Omega): birth–death honesty; the long arc as one gesture.
-
-  * **4::5** (Judgment–Peace): truthful appraisal → reconciliation.
-
-  * 1::8 (Recollection–Comfort): memory confronted → consolation given.
-
-  * 3::6 (Providence–Surprise): plans yielding to the voice of reality.
-
-  * 2::7 (Impetus–Care): stirred compassion → tended faithfully.
-
-* Gates (0–Z): choose one for each sit. Examples: M (Mortality → truthfulness), P (Peace → gentleness with self/others).
-
+* **Seraphic Pairs in play** :  
+* **0::9** (Alpha–Omega): birth–death honesty; the long arc as one gesture.  
+* **4::5** (Judgment–Peace): truthful appraisal → reconciliation.  
+* 1::8 (Recollection–Comfort): memory confronted → consolation given.  
+* 3::6 (Providence–Surprise): plans yielding to the voice of reality.  
+* 2::7 (Impetus–Care): stirred compassion → tended faithfully.  
+* Gates (0–Z): choose one for each sit. Examples: M (Mortality → truthfulness), P (Peace → gentleness with self/others).  
 * Table of Works handshakes: pair sits with deeds:  
-   4 Visit Sick, 5 Visit Imprisoned, 3 Shelter (widows/orphans/houseless), 0 Feed (bereavement meals). If you need “Bury the Dead,” map it pragmatically to 3 (shelter’s rites of passage) or 4/5 (hospital/jail chaplain support).
+  4 Visit Sick, 5 Visit Imprisoned, 3 Shelter (widows/orphans/houseless), 0 Feed (bereavement meals). If you need “Bury the Dead,” map it pragmatically to 3 (shelter’s rites of passage) or 4/5 (hospital/jail chaplain support).
 
-### Posture & baseline
+### **Posture & baseline**
 
-Trekchö uses the **Vigils** (not the Throne postures). Sit **plainly**.
+Trekchö uses the **Vigils** (not the Throne postures). Sit **plainly** .
 
-* **Seat:** stable chair or cushion; spine long, shoulders soft.
-
-* **Anchor:** breath or a single prayer-word.
-
-* **Vigil span:** dwell mostly in **V2** (effortless holding) and **V3** (contented ease). Touch **V4** briefly if it arrives naturally.
-
+* **Seat:** stable chair or cushion; spine long, shoulders soft.  
+* **Anchor:** breath or a single prayer-word.  
+* **Vigil span:** dwell mostly in **V2** (effortless holding) and **V3** (contented ease). Touch **V4** briefly if it arrives naturally.  
 * **Abort rule:** if heaviness turns to panic or derealization, **stop** (eyes open, feel soles, drink water).
 
-### Kernels: plain procedures in lawful places
+### **Kernels: plain procedures in lawful places**
 
-#### Ezekiel’s Field (Bone & Breath)
+#### **Ezekiel’s Field (Bone & Breath)**
 
-* **Place:** lawful cemetery, daylight; sit on a bench or stand near the entrance.
-
-* **Aim:** honesty without drama; consent to 0::9.
-
-* **Pair:** **0::9** (Alpha–Omega).
-
-* **How (12–18 min):**
-
-  1. Read (or recall) **Ezekiel 37:1–10** quietly.
-
-  2. **V2** with the words “bone” on exhale, “breath” on inhale for 3 minutes; then let words go.
-
-  3. Rest as **V3**: let the scene be what it is.
-
-  4. If tears come, allow them; do not narrate.
-
+* **Place:** lawful cemetery, daylight; sit on a bench or stand near the entrance.  
+* **Aim:** honesty without drama; consent to 0::9.  
+* **Pair: 0::9** (Alpha–Omega).  
+* **How (12–18 min):**  
+1. Read (or recall) **Ezekiel 37:1–10** quietly.  
+2. **V2** with the words “bone” on exhale, “breath” on inhale for 3 minutes; then let words go.  
+3. Rest as **V3** : let the scene be what it is.  
+4. If tears come, allow them; do not narrate.  
 * **Finish:** stand, bow the head once, and perform **one small work** before you leave (pick two windblown flowers off the path; set upright a fallen candle).
 
-#### Macarius’ Interview (Skull & Speech)
+#### **Macarius’ Interview (Skull & Speech)**
 
-* **Place:** ossuary reliquary, memorial sculpture, or a **stone** serving as symbol.
-
-* **Aim:** hear the *universal voice* of death, not a séance.
-
-* **Pair:** **4::5** (Judgment→Peace).
-
-* **How (10–15 min):**
-
-  1. Place the symbolic skull three feet away.
-
-  2. Ask (aloud, once): *“What do the dead wish the living to understand today?”*
-
-  3. Sit **V2** and let the first **kind** answer surface; do not seek novelty; discard anything that urges harm or spectacle.
-
-  4. Write one sentence you can **act** on today.
-
+* **Place:** ossuary reliquary, memorial sculpture, or a **stone** serving as symbol.  
+* **Aim:** hear the *universal voice* of death, not a séance.  
+* **Pair: 4::5** (Judgment→Peace).  
+* **How (10–15 min):**  
+1. Place the symbolic skull three feet away.  
+2. Ask (aloud, once): *“What do the dead wish the living to understand today?”*  
+3. Sit **V2** and let the first **kind** answer surface; do not seek novelty; discard anything that urges harm or spectacle.  
+4. Write one sentence you can **act** on today.  
 * **Finish:** do it (e.g., make a call you’ve avoided; reconcile a small debt).
 
-#### 
+#### **Ars Moriendi Desk (Vanitas at Home)**
 
-#### Ars Moriendi Desk (Vanitas at Home)
-
-* **Place:** your desk; **still life** of simple “vanitas”: a candle stub, an apple (to be eaten later), a small clock or hourglass, a stone.
-
-* **Aim:** normalize memento mori inside daily work.
-
-* **Pair:** **1::8** (Recollection→Comfort).
-
-* **How (8–12 min):**
-
-  1. Light the candle.
-
-  2. **V2** for 5 minutes looking at the still life.
-
-  3. Read (or recall) one brief text: “Teach us to number our days” (Ps 90:12).
-
-  4. Return to work with **one task** chosen for kindness over prestige.
-
+* **Place:** your desk; **still life** of simple “vanitas”: a candle stub, an apple (to be eaten later), a small clock or hourglass, a stone.  
+* **Aim:** normalize memento mori inside daily work.  
+* **Pair: 1::8** (Recollection→Comfort).  
+* **How (8–12 min):**  
+1. Light the candle.  
+2. **V2** for 5 minutes looking at the still life.  
+3. Read (or recall) one brief text: “Teach us to number our days” (Ps 90:12).  
+4. Return to work with **one task** chosen for kindness over prestige.  
 * **Finish:** eat the apple before day’s end; blow out the candle.
 
-#### Hospice Perimeter (Edges & Blessing)
+#### **Hospice Perimeter (Edges & Blessing)**
 
-* **Place:** public sidewalk near (not at) a hospital or hospice; lawful distance.
-
-* **Aim:** blessing without intrusion.
-
-* **Pair:** **2::7** (Impetus→Care).
-
-* **How (12 min):**
-
-  1. Walk once around the block; with each exhale, inwardly bless **unknown staff**; with each inhale, bless **unknown patients**.
-
-  2. Sit 5 minutes **V2** on a public bench; eyes soft.
-
+* **Place:** public sidewalk near (not at) a hospital or hospice; lawful distance.  
+* **Aim:** blessing without intrusion.  
+* **Pair: 2::7** (Impetus→Care).  
+* **How (12 min):**  
+1. Walk once around the block; with each exhale, inwardly bless **unknown staff** ; with each inhale, bless **unknown patients** .  
+2. Sit 5 minutes **V2** on a public bench; eyes soft.  
 * **Finish:** leave a **thank-you note** for staff at the official drop point (if any), or donate coffee cards anonymously.
 
-#### 
+#### **Grave-Tending (Hands & Ground)**
 
-#### Grave-Tending (Hands & Ground)
-
-* **Place:** permitted cemetery; bring small trash bag, soft brush, water.
-
-* **Aim:** lowly work, clean exit.
-
-* **Pair:** **3::6** (Providence↔Surprise).
-
-* **How (20–30 min):**
-
-  1. Ask staff for a plot that needs light tidying (or choose visibly neglected public corners).
-
-  2. **V1→V2** for 3 minutes before starting; then clean **without** commentary, before/after photos, or names.
-
-  3. If approached, be simply neighborly; you represent no group.
-
+* **Place:** permitted cemetery; bring small trash bag, soft brush, water.  
+* **Aim:** lowly work, clean exit.  
+* **Pair: 3::6** (Providence↔Surprise).  
+* **How (20–30 min):**  
+1. Ask staff for a plot that needs light tidying (or choose visibly neglected public corners).  
+2. **V1→V2** for 3 minutes before starting; then clean **without** commentary, before/after photos, or names.  
+3. If approached, be simply neighborly; you represent no group.  
 * **Finish:** pray (inwardly) one line for whoever rests there; leave quietly.
 
-### The inner doing (Trekchö specifics)
+### **The inner doing (Trekchö specifics)**
 
-Across all kernels, keep the inner work **simple**:
+Across all kernels, keep the inner work **simple** :
 
-* **Look without embroidery.** When the mind narrates (“This is profound / eerie / empty”), gently return to the anchor. Call it “story.”
+* **Look without embroidery.** When the mind narrates (“This is profound / eerie / empty”), gently return to the anchor. Call it “story.”  
+* **Let images migrate outward.** If the mind drops a picture (your own grave, a relative), place the picture in the **field** and resume looking, don’t go inside it.  
+* **Release handles.** If a phrase helps, keep it short and rare: “bone / breath,” “dust / mercy,” “born / dying.”  
+* **Consent to ordinariness.** If nothing “happens,” that *is* the practice. Trekchö is **clarity** , not phenomena.
 
-* **Let images migrate outward.** If the mind drops a picture (your own grave, a relative), place the picture in the **field** and resume looking, don’t go inside it.
+### **Pair-guided choices (quick dial)**
 
-* **Release handles.** If a phrase helps, keep it short and rare: “bone / breath,” “dust / mercy,” “born / dying.”
-
-* **Consent to ordinariness.** If nothing “happens,” that *is* the practice. Trekchö is **clarity**, not phenomena.
-
-### 
-
-### Pair-guided choices (quick dial)
-
-* If agitated or grandiose → choose **0::9** kernel (CG-1) and plan a **tiny** deed before you start.
-
-* If self-judging → choose **4::5** (CG-2) and ensure the output is a **peace-act**, not a performance.
-
-* If numb → choose **2::7** (CG-4), walk and bless; then feed someone.
-
+* If agitated or grandiose → choose **0::9** kernel (CG-1) and plan a **tiny** deed before you start.  
+* If self-judging → choose **4::5** (CG-2) and ensure the output is a **peace-act** , not a performance.  
+* If numb → choose **2::7** (CG-4), walk and bless; then feed someone.  
 * If restless for “meaning” → choose **1::8** (CG-3): vanitas desk, write the letter.
 
-### Minyan of Remembrance
+### **Minyan of Remembrance**
 
 Ten anonymous roles (Sister-0 … Brother-9), daylight, 30–45 minutes total.
 
-1. **Consent check** (white card veto available).
+1. **Consent check** (white card veto available).  
+2. Each pair draws **one pip** from the Deck to pick a **Table of Works** bias for the day’s deed(s).  
+3. The circle disperses in twos to run **CG-1 / CG-5** variants (lawful sites only).  
+4. Re-gather for two minutes of **V3** ; **Seal** (Rules card) and depart.  
+   **Default on failure:** if anyone cannot act that day, their pledge routes to a small **anonymous good** (flowers for the general memorial, coffee cards for nurses).
 
-2. Each pair draws **one pip** from the Deck to pick a **Table of Works** bias for the day’s deed(s).
+### **Hazards & care**
 
-3. The circle disperses in twos to run **CG-1 / CG-5** variants (lawful sites only).
-
-4. Re-gather for two minutes of **V3**; **Seal** (Rules card) and depart.  
-    **Default on failure:** if anyone cannot act that day, their pledge routes to a small **anonymous good** (flowers for the general memorial, coffee cards for nurses).
-
-### Hazards & care
-
-* **Not a dare.** This is not “edgy spirituality.” If you feel drawn to transgress or display, **stop**; return to V2 at home.
-
-* **Fresh grief.** If your loss is acute, prefer **CG-3** (at home) and companionship.
-
-* **Clinical flags.** Intrusive images, derealization, or sleep disturbance → pause the work for a month; favor light, exercise, conversation; resume only with support.
-
+* **Not a dare.** This is not “edgy spirituality.” If you feel drawn to transgress or display, **stop** ; return to V2 at home.  
+* **Fresh grief.** If your loss is acute, prefer **CG-3** (at home) and companionship.  
+* **Clinical flags.** Intrusive images, derealization, or sleep disturbance → pause the work for a month; favor light, exercise, conversation; resume only with support.  
 * **Aftercare.** Food, warmth, simple chore, brief human contact (one ordinary conversation).
 
-### A short litany
+### **A short litany**
 
 “Bone, meet breath. Breath, meet host.  
- What is dry, be honest. What is quick, be kind.  
- From dust to mercy, from mercy to peace.”
+What is dry, be honest. What is quick, be kind.  
+From dust to mercy, from mercy to peace.”
 
-Say once; then sit in **V2**.
+Say once; then sit in **V2** .
 
-### Why this matters
+### **Why this matters**
 
-Graveyard Trekchö does not make you morbid; it makes you **real**. It teaches the body to tell the truth without collapsing, so compassion has a clean floor to stand on. Ezekiel’s field is not about spectacle. It is about **breath returning wherever honesty makes space for it**. The Eikon gives us shared forms so this can spread quietly—no banners, no bravado, only people who have learned how to sit among bones and get up gentle.
+Graveyard Trekchö does not make you morbid; it makes you **real** . It teaches the body to tell the truth without collapsing, so compassion has a clean floor to stand on. Ezekiel’s field is not about spectacle. It is about **breath returning wherever honesty makes space for it** . The Eikon gives us shared forms so this can spread quietly—no banners, no bravado, only people who have learned how to sit among bones and get up gentle.
 
-## Postures of the Throne Work
+## **Postures of the Throne Work**
 
-These are the body–gaze postures used in Theophany (tögal). ***Though the postures are simple, these are not beginner techniques*****.** Enter only with stable **Vigils** (V1–V4). **Never stare at the sun; never practice while driving, standing on heights, or during pregnancy.** History, poetry, and theology aside, these are **physiological procedures**: treat them with the same respect you would give to breath-holds or extended fasting.
+These are the body–gaze postures used in Theophany (tögal). ***Though the postures are simple, these are not beginner techniques*** **.** Enter only with stable **Vigils** (V1–V4). **Never stare at the sun; never practice while driving, standing on heights, or during pregnancy.** History, poetry, and theology aside, these are **physiological procedures** : treat them with the same respect you would give to breath-holds or extended fasting.
 
 **Notation.**
 
-* Vision thresholds keep the star mark: **✶T1–✶T4** (Wheels • Sea • Sapphire • Rainbow).
-
-* Posture notes are plain: **P-E** (Elephant), **P-L** (Lion), **P-S** (Sage).
-
-* Body map: **Tenfold Temple** (Foot-Gate…Sky-Door).
-
+* Vision thresholds keep the star mark: **✶T1–✶T4** (Wheels • Sea • Sapphire • Rainbow).  
+* Posture notes are plain: **P-E** (Elephant), **P-L** (Lion), **P-S** (Sage).  
+* Body map: **Tenfold Temple** (Foot-Gate…Sky-Door).  
 * Helpful Seraphic pairs (not mandatory): **4::5** for grounding (Elephant), **3::6** for opening (Lion), **0::9** for surrender (Sage).
 
 **Visual field.**  
- Use a **uniform, diffuse field**: blue sky with sun behind a roofline/cloud; a bright white wall lit indirectly; a featureless light box at low luminance; or dark-retreat conditions (for advanced practitioners only). **Never** gaze directly at the sun or high-intensity point sources. Keep the **gaze soft**, lids slightly open, and **blink normally** (every 5–10 seconds). Allow gentle tearing; do not force tearlessness.
+Use a **uniform, diffuse field** : blue sky with sun behind a roofline/cloud; a bright white wall lit indirectly; a featureless light box at low luminance; or dark-retreat conditions (for advanced practitioners only). **Never** gaze directly at the sun or high-intensity point sources. Keep the **gaze soft** , lids slightly open, and **blink normally** (every 5–10 seconds). Allow gentle tearing; do not force tearlessness.
 
-### The Three Seats
+### **The Three Seats**
 
-Think of these three as *how the temple greets the light*: **Elephant** (foundation, compressive strength), **Lion** (courageous opening, tensile poise), and **Sage** (hushed surrender, upward release). They are *gates* to the **Throne Lamps** (✶T1–**✶**T4). Do **not** chase visions; make conditions and let thresholds appear.
+Think of these three as *how the temple greets the light*: **Elephant** (foundation, compressive strength), **Lion** (courageous opening, tensile poise), and **Sage** (hushed surrender, upward release). They are *gates* to the **Throne Lamps** (✶T1– **✶** T4). Do **not** chase visions; make conditions and let thresholds appear.
 
-#### 1\) P-E: The Elephant (Foundation Seat)
+#### **1\) P-E: The Elephant (Foundation Seat)**
 
 **Function.** Grounding, sealing, and safe approach. Preferred entrance to **✶T1 (Wheels)** when the body is keyed-up or fearful.
 
 **Geometry.**
 
-* **Base:** stable cross-leg seat or chair with feet flat; **Secret Hearth** (low belly) warm.
-
-* **Pelvis:** slight **anterior tilt** (sit bones heavy).
-
-* **Spine:** long but *weight-bearing*, as if you carry a mild load from crown to sacrum.
-
-* **Shoulders:** broad, relaxed; **Heart/Ark** open without thrusting the ribs.
-
-* **Hands:** palms **down** on knees or thighs (earth-contact).
-
-* **Chin/Neck:** micro-tuck (2–4°); **Watch-Tower** (throat) unpinched.
-
-* **Eyes:** lids at \~½-open; **gaze 10–15° *below* the horizon** into a uniform field.
-
+* **Base:** stable cross-leg seat or chair with feet flat; **Secret Hearth** (low belly) warm.  
+* **Pelvis:** slight **anterior tilt** (sit bones heavy).  
+* **Spine:** long but *weight-bearing*, as if you carry a mild load from crown to sacrum.  
+* **Shoulders:** broad, relaxed; **Heart/Ark** open without thrusting the ribs.  
+* **Hands:** palms **down** on knees or thighs (earth-contact).  
+* **Chin/Neck:** micro-tuck (2–4°); **Watch-Tower** (throat) unpinched.  
+* **Eyes:** lids at \~½-open; **gaze 10–15° *below* the horizon** into a uniform field.  
 * **Breath:** low and silent; exhale a fraction longer than inhale for the first minute.
 
 **Cue phrase.** “Root the temple; let the roof float.”
@@ -2326,34 +2214,26 @@ Think of these three as *how the temple greets the light*: **Elephant** (foundat
 
 **Typical signs.** Subtle **entoptic seeds** (motes, faint halos) cohere; the lattice that heralds **✶T1** begins to self-order at the lower field.
 
-##### Snags & remedies.
+##### **Snags & remedies.**
 
-* **Heaviness / drowsy fog:** widen the chest on inhale; micro-lift the sternum one millimeter.
-
-* **Jaw holding:** tongue to palate, teeth unmeshed; swallow once and let the throat fall soft.
-
+* **Heaviness / drowsy fog:** widen the chest on inhale; micro-lift the sternum one millimeter.  
+* **Jaw holding:** tongue to palate, teeth unmeshed; swallow once and let the throat fall soft.  
 * **Over-focus:** soften the *center* of the field; permit peripheral awareness.
 
 **When to stop.** Any pressure behind the eyes; headache; nausea; derealization. **Abort:** close eyes, press soles, breathe into low belly.
 
-#### 2\) P-L: The Lion (Open Seat)
+#### **2\) P-L: The Lion (Open Seat)**
 
 **Function.** Courageous opening and vividness. Preferred entrance to **✶T2 (Sea of Glass)** after a clean **✶T1** onset, or when attention is bright but cramped.
 
 **Geometry.**
 
-* **Base:** as in Elephant.
-
-* **Pelvis/Spine:** same alignment but **tensile**—as if a thread draws Crown/Sky-Door lightly up.
-
-* **Shoulders/Arms:** slightly back and down (wingfold), collarbones smiling.
-
-* **Hands:** **orans** variant—palms **up** on knees or a low lap-bowl (receive, don’t push).
-
-* **Chin/Neck:** level (0–1° tuck); throat hollow like a flute.
-
-* **Eyes:** lids at \~⅓-open; **gaze on the horizon** (0–5°) into a uniform field.
-
+* **Base:** as in Elephant.  
+* **Pelvis/Spine:** same alignment but **tensile** —as if a thread draws Crown/Sky-Door lightly up.  
+* **Shoulders/Arms:** slightly back and down (wingfold), collarbones smiling.  
+* **Hands: orans** variant—palms **up** on knees or a low lap-bowl (receive, don’t push).  
+* **Chin/Neck:** level (0–1° tuck); throat hollow like a flute.  
+* **Eyes:** lids at \~⅓-open; **gaze on the horizon** (0–5°) into a uniform field.  
 * **Breath:** effortless; allow brief **suspensions** after exhale if they arrive unforced.
 
 **Cue phrase.** “Open the nave; the wind will play the organ.”
@@ -2362,34 +2242,27 @@ Think of these three as *how the temple greets the light*: **Elephant** (foundat
 
 **Time.** 2–5 minute cycles; frequent soft blinks.
 
-**Typical signs.** The **mesh resolves**; bright *thigle-like* droplets and filaments organize into sheets/planes; the **field ‘plates over’**—onset of **✶T2**.
+**Typical signs.** The **mesh resolves** ; bright *thigle-like* droplets and filaments organize into sheets/planes; the **field ‘plates over’** —onset of **✶T2** .
 
-##### Snags & remedies.
+##### **Snags & remedies.**
 
-* **Chasing shimmer:** name it “weather.” Re-feel hands and low belly; return to mere looking.
-
-* **Breath grab:** intentionally yawn once; then let breath return to automatic.
-
+* **Chasing shimmer:** name it “weather.” Re-feel hands and low belly; return to mere looking.  
+* **Breath grab:** intentionally yawn once; then let breath return to automatic.  
 * **Heroic posture creep:** lower the elbows 1–2 cm; soften the gaze by 10%.
 
 **When to stop.** Overexcitement; breath irregularity; compulsion to “make it happen.” **Abort:** blink three times; look down to the lap; count ten ordinary sounds.
 
-#### 3\) P-S: The Sage (Aperture Seat)
+#### **3\) P-S: The Sage (Aperture Seat)**
 
 **Function.** Surrender and vertical release. Entrance to **✶T3 (Sapphire Throne)** for the seasoned; bridge toward **✶T4 (Radiance)** is **dangerous.**
 
 **Geometry.**
 
-* **Base:** as before; optionally cushion under sit bones for effortless verticality.
-
-* **Spine:** like a **reed**—hollow, resonant; nothing forced.
-
-* **Hands:** **Ark** mudra (right palm over left at low belly), or plain lap-bowl; elbows neutral.
-
-* **Chin/Neck:** very subtle **up-tilt** (1–3°); throat a cool corridor.
-
-* **Eyes:** lids slivered; **gaze 10–20° *above* the horizon** into a uniform field; accept mild lacrimation.
-
+* **Base:** as before; optionally cushion under sit bones for effortless verticality.  
+* **Spine:** like a **reed** —hollow, resonant; nothing forced.  
+* **Hands: Ark** mudra (right palm over left at low belly), or plain lap-bowl; elbows neutral.  
+* **Chin/Neck:** very subtle **up-tilt** (1–3°); throat a cool corridor.  
+* **Eyes:** lids slivered; **gaze 10–20° *above* the horizon** into a uniform field; accept mild lacrimation.  
 * **Breath:** so fine it nearly disappears; **never** force suspension.
 
 **Cue phrase.** “Let the throne find you.”
@@ -2398,49 +2271,37 @@ Think of these three as *how the temple greets the light*: **Elephant** (foundat
 
 **Time.** Short **sets** (60–120 seconds), then ground (eyes to floor, swallow, feel hands). Repeat only if crystal-clear and calm.
 
-**Typical signs.** The **axis** of the field declares itself; a still, royal “pane” appears; the sense of a **central presence** (✶T3) that is terrible and gentle. If the pane blooms into **full-spectrum dissolution** (✶T4 signs)—**STOP unless you are ABSOLUTELY CERTAIN that you do not mind DYING RIGHT NOW.**
+**Typical signs.** The **axis** of the field declares itself; a still, royal “pane” appears; the sense of a **central presence** (✶T3) that is terrible and gentle. If the pane blooms into **full-spectrum dissolution** (✶T4 signs)— **STOP unless you are ABSOLUTELY CERTAIN that you do not mind DYING RIGHT NOW.**
 
-##### Snags & remedies.
+##### **Snags & remedies.**
 
-* **Vertigo / heart flutter:** immediately eyes down; palms to thighs; three slow exhales into Secret Hearth.
-
-* **Grandiosity / “I have arrived”:** bow the head; end the session; do a menial task (wash a dish).
-
+* **Vertigo / heart flutter:** immediately eyes down; palms to thighs; three slow exhales into Secret Hearth.  
+* **Grandiosity / “I have arrived”:** bow the head; end the session; do a menial task (wash a dish).  
 * **Dry eye burn:** smaller aperture; more frequent blinks; shorten sets.
 
 **When to stop.** Any faintness, chest pain, panic, or compulsion to keep going “because it’s working.” The praxis is **not** an achievement ladder.
 
-### 
+###  
 
-### Sequencing & Progressions
+### **Sequencing & Progressions**
 
-* **Default session (40–60 min, advanced practitioners).**
-
-  1. **Vigils** warm-up: V1→V2 (8–12 min).
-
-  2. **P-E** cycles until **✶T1** hints, or 10 minutes total.
-
-  3. If steady, **P-L** to let **✶T2** “plate over.”
-
-  4. **Ground** (eyes down, water).
-
-  5. Optionally **P-S** for one short set to “hear” the axis (✶T3).
-
-  6. **Exit** with food, speech, and an ordinary act of service.
-
+* **Default session (40–60 min, advanced practitioners).**  
+1. **Vigils** warm-up: V1→V2 (8–12 min).  
+2. **P-E** cycles until **✶T1** hints, or 10 minutes total.  
+3. If steady, **P-L** to let **✶T2** “plate over.”  
+4. **Ground** (eyes down, water).  
+5. Optionally **P-S** for one short set to “hear” the axis (✶T3).  
+6. **Exit** with food, speech, and an ordinary act of service.  
 * If **no threshold** appears, that is success: you trained the instrument without chasing spectacle.
 
-### Fieldcraft & Optics (safe edges)
+### **Fieldcraft & Optics (safe edges)**
 
-* **Lighting.** Indirect daylight is best; overcast sky behind a roofline; white wall with diffuse lamp bounced off ceiling; dim light box for consistency.
+* **Lighting.** Indirect daylight is best; overcast sky behind a roofline; white wall with diffuse lamp bounced off ceiling; dim light box for consistency.  
+* **Surfaces.** Avoid patterns, text, and hard edges; a simple **frosted acrylic** or parchment sheet can create an even field indoors.  
+* **Eyes.** Do not suppress blinks; micro-moisture keeps entoptic phenomena clean and **non-irritative** .  
+* **Body.** If legs tingle or numb, **unlock and reset** —never override circulation for posture purity.
 
-* **Surfaces.** Avoid patterns, text, and hard edges; a simple **frosted acrylic** or parchment sheet can create an even field indoors.
-
-* **Eyes.** Do not suppress blinks; micro-moisture keeps entoptic phenomena clean and **non-irritative**.
-
-* **Body.** If legs tingle or numb, **unlock and reset**—never override circulation for posture purity.
-
-### Aftercare 
+### **Aftercare**
 
 *There is no after.*
 
@@ -2543,17 +2404,17 @@ A Christian-hermetic, ecumenical toolset that swaps doctrine for procedure: base
 
 \#\#\# 1.1 Ten Ports (names)
 
-| n | titles (primary, alternates)        |  
+| n | titles (primary, alternates) |  
 | \- | \----------------------------------- |  
-| 0 | Nought / Seed / Origin              |  
-| 1 | Point / Stirring / Call             |  
-| 2 | Line / Twinning / Generativity      |  
-| 3 | Triangle / Fruit / Providence       |  
-| 4 | Square / Foundation / Judgment      |  
-| 5 | Pentad / Human Form / Peace         |  
-| 6 | Hexad / Harmony / Surprise          |  
-| 7 | Sabbath / Vision / Stewardship      |  
-| 8 | Octave / Fullness / Consolation     |  
+| 0 | Nought / Seed / Origin |  
+| 1 | Point / Stirring / Call |  
+| 2 | Line / Twinning / Generativity |  
+| 3 | Triangle / Fruit / Providence |  
+| 4 | Square / Foundation / Judgment |  
+| 5 | Pentad / Human Form / Peace |  
+| 6 | Hexad / Harmony / Surprise |  
+| 7 | Sabbath / Vision / Stewardship |  
+| 8 | Octave / Fullness / Consolation |  
 | 9 | Threshold / Completion / Coronation |
 
 \*\*Seraphic pairs:\*\* \`0::9\`, \`1::8\`, \`2::7\`, \`3::6\`, \`4::5\`.
@@ -2591,10 +2452,10 @@ F: U V W X Y Z
 
 \* \*\*Suits (index, direction, color):\*\*
 
-  \* \*\*Hearts\*\* \`(s=0, EAST, red)\`  
-  \* \*\*Diamonds\*\* \`(s=1, WEST, red)\`  
-  \* \*\*Clubs\*\* \`(s=2, SOUTH, black)\`  
-  \* \*\*Spades\*\* \`(s=3, NORTH, black)\`  
+\* \*\*Hearts\*\* \`(s=0, EAST, red)\`  
+\* \*\*Diamonds\*\* \`(s=1, WEST, red)\`  
+\* \*\*Clubs\*\* \`(s=2, SOUTH, black)\`  
+\* \*\*Spades\*\* \`(s=3, NORTH, black)\`  
 \* \*\*Pips (selectors):\*\* \`A,2,3,4,5,6,7,8,9\` (9×4 \= 36\)  
 \* \*\*Operators:\*\* \`10, J, Q, K\`  
 \* \*\*Optional meta:\*\* \`JOKER, RULES\`
@@ -2603,16 +2464,16 @@ F: U V W X Y Z
 
 \`\`\`  
 rank\_index r \= {A:1, 2:2, …, 9:9}  
-linear i \= s\*9 \+ (r-1)           // s∈{0..3}  
-row R \= floor(i/6)               // 0..5 ≡ A..F  
-col C \= i % 6                    // 0..5 ≡ 0..5  
+linear i \= s\*9 \+ (r-1) // s∈{0..3}  
+row R \= floor(i/6) // 0..5 ≡ A..F  
+col C \= i % 6 // 0..5 ≡ 0..5  
 \`\`\`
 
 \#\#\# 2.3 Operators (transform current selection)
 
 \* \*\*10 (Wheel):\*\* shift 1 step in suit direction (wrap on torus).
 
-  \* EAST: \`(R, C+1)\` • WEST: \`(R, C-1)\` • SOUTH: \`(R+1, C)\` • NORTH: \`(R-1, C)\`  
+\* EAST: \`(R, C+1)\` • WEST: \`(R, C-1)\` • SOUTH: \`(R+1, C)\` • NORTH: \`(R-1, C)\`  
 \* \*\*J (Child / Herald):\*\* step 1 in suit direction \*\*and emit\*\* that cell to the action log; keep new cell as current.  
 \* \*\*Q (Mother / Sophia):\*\* expand selection to plus-shape \`{center,N,E,S,W}\`; subsequent moves affect the \*\*center\*\*; selection is a \*\*set\*\*.  
 \* \*\*K (Father / Abba):\*\* snap selection to \*\*full COLUMN\*\* if suit is red (♥♦); to \*\*full ROW\*\* if black (♣♠). If already full, toggles to the orthogonal axis.  
@@ -2663,7 +2524,7 @@ col C \= i % 6                    // 0..5 ≡ 0..5
 
 \* \`36 \= 2^2 \* 3^2\` → two winged groups collapse to one with 2 inner dyads (same prime) \+ \`::\` ⇒ \`(:)::\`  
 \* \`18 \= 2 \* 3^2\` ⇒ \`(:):\`  
-\* \`40 \= 2^3 \* 5\` ⇒ \`((:))):::\`  \*(one wing for 5; three dyads for 2^3)\*  
+\* \`40 \= 2^3 \* 5\` ⇒ \`((:))):::\` \*(one wing for 5; three dyads for 2^3)\*  
 \* \`1 ⇒ |\` ; \`0 ⇒ •\`
 
 \---
@@ -2677,7 +2538,7 @@ type Cell \= { row: number, col: number } // 0..5
 function cardToCell(suit: "H"|"D"|"C"|"S", rank: "A"|"2"|"3"|"4"|"5"|"6"|"7"|"8"|"9"): Cell  
 function apply10(cell: Cell, suit: "H"|"D"|"C"|"S"): Cell // torus shift  
 function applyJ(state): { emitted: Cell\[\], current: Cell } // step \+ emit  
-function applyQ(state): { set: Cell\[\], center: Cell }      // plus-neighborhood  
+function applyQ(state): { set: Cell\[\], center: Cell } // plus-neighborhood  
 function applyK(state, suitColor: "red"|"black"): { set: Cell\[\] } // snap row/col  
 function applyJoker(state, pair: "0::9"|"1::8"|"2::7"|"3::6"|"4::5"): StateConstraint  
 function applyRules(state): Transcript  
@@ -2686,15 +2547,15 @@ function applyRules(state): Transcript
 \#\#\# 4.2 Eikon helpers
 
 \`\`\`ts  
-function river(a: number, b: number): number           // |a-b|  
-function key(n: number): number                        // digital root base10  
-function way(n: number): number\[\]                      // iterate key to 1 digit  
+function river(a: number, b: number): number // |a-b|  
+function key(n: number): number // digital root base10  
+function way(n: number): number\[\] // iterate key to 1 digit  
 \`\`\`
 
 \#\#\# 4.3 Base-36
 
 \`\`\`ts  
-const B36: Record\<string,number\> \= { "0":0, "1":1, ... "Z":35 }  
+const B36: Record\\\<string,number\\\> \= { "0":0, "1":1, ... "Z":35 }  
 \`\`\`
 
 \#\#\# 4.4 Angelic numerals
@@ -2898,7 +2759,7 @@ function angelic(n: bigint): string // returns glyph string per construction
 
 \*\*Unknown Friend\*\* — Second-person addressee for letters/chapters; also any practitioner using the invariants. \[EIKON\]
 
-\*\*Unseen University\*\* — The Invisible Community College of Rites; a network of practitioners who learn, adapt, and propagate Eikonic praxes.  \[PRAXIS\]
+\*\*Unseen University\*\* — The Invisible Community College of Rites; a network of practitioners who learn, adapt, and propagate Eikonic praxes. \[PRAXIS\]
 
 \*\*Vigil of Joy in Aim (V1)\*\* — First Vigil (collected pleasure with applied attention). \[CONTEM\]
 
@@ -2936,24 +2797,24 @@ function angelic(n: bigint): string // returns glyph string per construction
 
 \#\#\# Deck operators
 
-| Rank        | Name   | Theme             | Effect (summary)                              |  
+| Rank | Name | Theme | Effect (summary) |  
 | \----------- | \------ | \----------------- | \--------------------------------------------- |  
-| 10          | Wheel  | Cycle nudge       | Shift 1 step in suit direction (wrap)         |  
-| J           | Child  | Deliver / execute | Step 1 & \*\*emit\*\* current cell                |  
-| Q           | Mother | Nurture / sustain | Plus-expand to \`{center,N,E,S,W}\`             |  
-| K           | Father | Establish / prune | Snap to \*\*column\*\* (red) or \*\*row\*\* (black)   |  
-| Joker (opt) | Seraph | Pair constraint   | Restrict to \`(R+C)%5==pair\_id\`; snap if unset |  
-| Rules (opt) | Seal   | Finalize/disperse | Output transcript and clear state             |
+| 10 | Wheel | Cycle nudge | Shift 1 step in suit direction (wrap) |  
+| J | Child | Deliver / execute | Step 1 & \*\*emit\*\* current cell |  
+| Q | Mother | Nurture / sustain | Plus-expand to \`{center,N,E,S,W}\` |  
+| K | Father | Establish / prune | Snap to \*\*column\*\* (red) or \*\*row\*\* (black) |  
+| Joker (opt) | Seraph | Pair constraint | Restrict to \`(R+C)%5==pair\_id\`; snap if unset |  
+| Rules (opt) | Seal | Finalize/disperse | Output transcript and clear state |
 
 \#\#\# Ten Ports & Pairs
 
-| Pair | Name                 | Tendency (mnemonic)   |  
+| Pair | Name | Tendency (mnemonic) |  
 | \---- | \-------------------- | \--------------------- |  
-| 0::9 | Alpha—Omega          | Sabbath ↔ Release     |  
-| 1::8 | Recollection—Comfort | Memory ↔ Care         |  
-| 2::7 | Impetus—Care         | Spark ↔ Steward       |  
-| 3::6 | Providence—Surprise  | Plan ↔ Voice/Harmony  |  
-| 4::5 | Judgment—Peace       | Risk ↔ Reconciliation |
+| 0::9 | Alpha—Omega | Sabbath ↔ Release |  
+| 1::8 | Recollection—Comfort | Memory ↔ Care |  
+| 2::7 | Impetus—Care | Spark ↔ Steward |  
+| 3::6 | Providence—Surprise | Plan ↔ Voice/Harmony |  
+| 4::5 | Judgment—Peace | Risk ↔ Reconciliation |
 
 \---
 
@@ -2976,13 +2837,13 @@ function angelic(n: bigint): string // returns glyph string per construction
 
 \# Overview of Relevant Invariants
 
-\* 6×6 “Table of Works” rows A–F (Days) × cols 0–5 (Corporal works); cells are base-36 0–Z.   
-\* Suits → directions (♥ EAST, ♦ WEST, ♣ SOUTH, ♠ NORTH); pip A–9 bijects to 36 cells; 10/J/Q/K are operators.    
-\* Operators: 10 wheel (shift 1 in suit dir), J child (step+emit), Q mother (plus-shape set), K father (snap column for red, row for black).   
-\* Rays \= grid cells; Seraphic pairs 0::9, 1::8, 2::7, 3::6, 4::5.   
-\* “River(a,b)=|a−b|”, “Key(n)=digital root”, “Way=Key iterates” helpers.   
-\* Sun-Square path \+ 0–5 Polybius for stego.    
-\* Angelic numerals: “:” for factor 2, nested “( … )” indicate odd primes; de/amplexion for index ±1. (Encoding here uses the simple “odd-prime index \= paren depth” convention.)  
+\* 6×6 “Table of Works” rows A–F (Days) × cols 0–5 (Corporal works); cells are base-36 0–Z.  
+\* Suits → directions (♥ EAST, ♦ WEST, ♣ SOUTH, ♠ NORTH); pip A–9 bijects to 36 cells; 10/J/Q/K are operators.  
+\* Operators: 10 wheel (shift 1 in suit dir), J child (step+emit), Q mother (plus-shape set), K father (snap column for red, row for black).  
+\* Rays \= grid cells; Seraphic pairs 0::9, 1::8, 2::7, 3::6, 4::5.  
+\* “River(a,b)=|a−b|”, “Key(n)=digital root”, “Way=Key iterates” helpers.  
+\* Sun-Square path \+ 0–5 Polybius for stego.  
+\* Angelic numerals: “:” for factor 2, nested “( … )” indicate odd primes; de/amplexion for index ±1. (Encoding here uses the simple “odd-prime index \= paren depth” convention.)
 
 \---
 
@@ -2996,79 +2857,76 @@ Save each block to a file in a folder on your \`$PATH\` (e.g., \`\~/bin/eikon/\`
 
 \`\`\`sh  
 \#\!/bin/sh  
-\# eikon-b36 — base-36 glyph \<-\> int \<-\> grid helpers (POSIX, awk only)  
-\# Usage:  
-\#   eikon-b36 to-int  \<glyph\>  
-\#   eikon-b36 from-int \<0..35\>  
-\#   eikon-b36 to-rowcol \<glyph\>     \# \-\> "R C" as 0..5 0..5  
-\#   eikon-b36 from-rowcol \<R\> \<C\>   \# \-\> glyph 0..9 A..Z  
-\#   eikon-b36 label \<glyph\>         \# \-\> "Row A (Light) · Col 0 (Feed)"  
+\# eikon-b36 — base-36 glyph \\ int \\ grid helpers (POSIX, awk only) \# Usage: \# eikon-b36 to-int \\\<glyph\\\>  
+\# eikon-b36 from-int \\ \# eikon-b36 to-rowcol \\\<glyph\\\> \# \-\> "R C" as 0..5 0..5  
+\# eikon-b36 from-rowcol \\\<R\\\> \\\<C\\\> \# \-\> glyph 0..9 A..Z  
+\# eikon-b36 label \\\<glyph\\\> \# \-\> "Row A (Light) · Col 0 (Feed)"  
 \# Rows/Cols per Eikon 6×6 Table of Works. See docs.
 
 b36chars='0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 to\_int() {  
-  echo "$1" | awk \-v set="$b36chars" '  
-    { c=toupper($0); split(set,a,""); for(i=1;i\<=36;i++) if(a\[i\]==c){print i-1; exit}; print \-1 }'  
+echo "$1" | awk \-v set="$b36chars" '  
+{ c=toupper($0); split(set,a,""); for(i=1;i\\\<=36;i++) if(a\[i\]==c){print i-1; exit}; print \-1 }'  
 }
 
 from\_int() {  
-  awk \-v n="$1" \-v set="$b36chars" '  
-    BEGIN{ if(n\<0||n\>35){print "ERR"; exit 1}  
-           split(set,a,""); print a\[n+1\] }'  
+awk \-v n="$1" \-v set="$b36chars" '  
+BEGIN{ if(n\\\<0||n\>35){print "ERR"; exit 1}  
+split(set,a,""); print a\[n+1\] }'  
 }
 
 to\_rowcol() { \# glyph \-\> "row col"  
-  g=$(to\_int "$1") || exit 1  
-  awk \-v v="$g" 'BEGIN{ printf "%d %d\\n", int(v/6), v%6 }'  
+g=$(to\_int "$1") || exit 1  
+awk \-v v="$g" 'BEGIN{ printf "%d %d\\n", int(v/6), v%6 }'  
 }
 
 from\_rowcol() { \# R C \-\> glyph  
-  awk \-v R="$1" \-v C="$2" 'BEGIN{  
-    if(R\<0||R\>5||C\<0||C\>5){print "ERR"; exit 1}  
-    print R\*6 \+ C }' | while read n; do from\_int "$n"; done  
+awk \-v R="$1" \-v C="$2" 'BEGIN{  
+if(R\\\<0||R\>5||C\\\<0||C\>5){print "ERR"; exit 1}  
+print R\*6 \+ C }' | while read n; do from\_int "$n"; done  
 }
 
 row\_name() {  
-  case "$1" in  
-    0\) echo "A (Light)";;  
-    1\) echo "B (Firmament)";;  
-    2\) echo "C (Gathering)";;  
-    3\) echo "D (Signs)";;  
-    4\) echo "E (Creatures)";;  
-    5\) echo "F (Humankind)";;  
-  esac  
+case "$1" in  
+0\) echo "A (Light)";;  
+1\) echo "B (Firmament)";;  
+2\) echo "C (Gathering)";;  
+3\) echo "D (Signs)";;  
+4\) echo "E (Creatures)";;  
+5\) echo "F (Humankind)";;  
+esac  
 }
 
 col\_name() {  
-  case "$1" in  
-    0\) echo "0 (Feed)";;  
-    1\) echo "1 (Drink)";;  
-    2\) echo "2 (Clothe)";;  
-    3\) echo "3 (Shelter)";;  
-    4\) echo "4 (Visit Sick)";;  
-    5\) echo "5 (Visit Imprisoned)";;  
-  esac  
+case "$1" in  
+0\) echo "0 (Feed)";;  
+1\) echo "1 (Drink)";;  
+2\) echo "2 (Clothe)";;  
+3\) echo "3 (Shelter)";;  
+4\) echo "4 (Visit Sick)";;  
+5\) echo "5 (Visit Imprisoned)";;  
+esac  
 }
 
 cmd="$1"; shift  
 case "$cmd" in  
-  to-int)      to\_int "$1";;  
-  from-int)    from\_int "$1";;  
-  to-rowcol)   to\_rowcol "$1";;  
-  from-rowcol) from\_rowcol "$1" "$2";;  
-  label)  
-    set \-- $(to\_rowcol "$1") || exit 1  
-    R=$1 C=$2  
-    \# Compose human label  
-    rname=$(row\_name "$R"); cname=$(col\_name "$C")  
-    echo "Row $rname · Col $cname"  
-    ;;  
-  \*) echo "Usage: eikon-b36 {to-int|from-int|to-rowcol|from-rowcol|label} …" \>&2; exit 2;;  
+to-int) to\_int "$1";;  
+from-int) from\_int "$1";;  
+to-rowcol) to\_rowcol "$1";;  
+from-rowcol) from\_rowcol "$1" "$2";;  
+label)  
+set \-- $(to\_rowcol "$1") || exit 1  
+R=$1 C=$2  
+\# Compose human label  
+rname=$(row\_name "$R"); cname=$(col\_name "$C")  
+echo "Row $rname · Col $cname"  
+;;  
+\*) echo "Usage: eikon-b36 {to-int|from-int|to-rowcol|from-rowcol|label} …" \>&2; exit 2;;  
 esac  
 \`\`\`
 
-\* Rows/cols & labels per Table of Works. 
+\* Rows/cols & labels per Table of Works.
 
 \---
 
@@ -3078,51 +2936,51 @@ esac
 \#\!/bin/sh  
 \# eikon-ray — encode/decode rays and show labels  
 \# Usage:  
-\#   eikon-ray from RC \<RowLetter A-F\> \<Col 0-5\>   \# \-\> glyph \+ label  
-\#   eikon-ray from glyph \<0..9A..Z\>               \# \-\> RC \+ label  
+\# eikon-ray from RC \\ \\ \# \-\> glyph \+ label  
+\# eikon-ray from glyph \\\<0..9A..Z\> \# \-\> RC \+ label  
 \# Examples:  
-\#   eikon-ray from RC C 0  
-\#   eikon-ray from glyph R
+\# eikon-ray from RC C 0  
+\# eikon-ray from glyph R
 
 die(){ echo "$@" \>&2; exit 2; }
 
 rowL2i(){ case "$1" in A|a) echo 0;; B|b) echo 1;; C|c) echo 2;; D|d) echo 3;; E|e) echo 4;; F|f) echo 5;; \*) echo \-1;; esac; }
 
 label(){  
-  g="$1"  
-  rowcol=$(eikon-b36 to-rowcol "$g") || exit 1  
-  eikon-b36 label "$g"  
+g="$1"  
+rowcol=$(eikon-b36 to-rowcol "$g") || exit 1  
+eikon-b36 label "$g"  
 }
 
 case "$1" in  
-  from)  
-    case "$2" in  
-      RC)  
-        \[ $\# \-eq 4 \] || die "from RC \<A-F\> \<0-5\>"  
-        R=$(rowL2i "$3"); C="$4"  
-        \[ "$R" \-ge 0 \] || die "bad row"  
-        glyph=$(eikon-b36 from-rowcol "$R" "$C") || exit 1  
-        echo "$glyph"  
-        label "$glyph"  
-        ;;  
-      glyph)  
-        \[ $\# \-eq 3 \] || die "from glyph \<0..9A..Z\>"  
-        g="$3"  
-        set \-- $(eikon-b36 to-rowcol "$g") || exit 1  
-        Ri="$1"; Ci="$2"  
-        RC="ABCDEFGHIJKLMNOPQRSTUVWXYZ"  
-        Rl=$(echo "$RC" | cut \-c $((Ri+1)) ) \# A..F  
-        echo "Row $Rl · Col $Ci"  
-        label "$g"  
-        ;;  
-      \*) die "from {RC|glyph} …";;  
-    esac  
-    ;;  
-  \*) die "Usage: eikon-ray from {RC|glyph} …";;  
+from)  
+case "$2" in  
+RC)  
+\[ $\# \-eq 4 \] || die "from RC \\\<A-F\\\> \\\<0-5\>"  
+R=$(rowL2i "$3"); C="$4"  
+\[ "$R" \-ge 0 \] || die "bad row"  
+glyph=$(eikon-b36 from-rowcol "$R" "$C") || exit 1  
+echo "$glyph"  
+label "$glyph"  
+;;  
+glyph)  
+\[ $\# \-eq 3 \] || die "from glyph \\\<0..9A..Z\>"  
+g="$3"  
+set \-- $(eikon-b36 to-rowcol "$g") || exit 1  
+Ri="$1"; Ci="$2"  
+RC="ABCDEFGHIJKLMNOPQRSTUVWXYZ"  
+Rl=$(echo "$RC" | cut \-c $((Ri+1)) ) \# A..F  
+echo "Row $Rl · Col $Ci"  
+label "$g"  
+;;  
+\*) die "from {RC|glyph} …";;  
+esac  
+;;  
+\*) die "Usage: eikon-ray from {RC|glyph} …";;  
 esac  
 \`\`\`
 
-\* RC↔glyph is the canonical bijection of pips to 36 cells (used here without cards). 
+\* RC↔glyph is the canonical bijection of pips to 36 cells (used here without cards).
 
 \---
 
@@ -3132,59 +2990,45 @@ esac
 \#\!/bin/sh  
 \# eikon-pair — compute seraphic pair, river | key | way  
 \# Usage:  
-\#   eikon-pair pair \<port 0..9\>           \# \-\> "p::q (name)"  
-\#   eikon-pair list                       \# \-\> all 5 pairs  
-\#   eikon-pair river \<a\> \<b\>              \# |a-b|  
-\#   eikon-pair key \<n\>                    \# digital root base-10  
-\#   eikon-pair way \<n\>                    \# sequence of key() reductions
+\# eikon-pair pair \\ \# \-\> "p::q (name)"  
+\# eikon-pair list \# \-\> all 5 pairs  
+\# eikon-pair river \\\<a\\\> \\\<b\\\> \# |a-b|  
+\# eikon-pair key \\\<n\\\> \# digital root base-10  
+\# eikon-pair way \\\<n\\\> \# sequence of key() reductions
 
 names(){  
-  case "$1" in  
-    0\) echo "Alpha–Omega";;  
-    1\) echo "Recollection–Comfort";;  
-    2\) echo "Impetus–Care";;  
-    3\) echo "Providence–Surprise";;  
-    4\) echo "Judgment–Peace";;  
-  esac  
+case "$1" in  
+0\) echo "Alpha–Omega";;  
+1\) echo "Recollection–Comfort";;  
+2\) echo "Impetus–Care";;  
+3\) echo "Providence–Surprise";;  
+4\) echo "Judgment–Peace";;  
+esac  
 }
 
 case "$1" in  
-  pair)  
-    p="$2"; \[ \-n "$p" \] || { echo "need port 0..9" \>&2; exit 2; }  
-    q=$((9 \- p))  
-    id=$(( p\<q ? p : q ))  
-    echo "$p::$q — $(names "$id")"  
-    ;;  
-  list)  
-    for id in 0 1 2 3 4; do  
-      case $id in  
-        0\) echo "0::9 — $(names 0)";;  
-        1\) echo "1::8 — $(names 1)";;  
-        2\) echo "2::7 — $(names 2)";;  
-        3\) echo "3::6 — $(names 3)";;  
-        4\) echo "4::5 — $(names 4)";;  
-      esac  
-    done  
-    ;;  
-  river) a="$2"; b="$3"; awk \-v a="$a" \-v b="$b" 'BEGIN{print (a\>b)?a-b:b-a}';;  
-  key)  
-    n="$2"  
-    awk \-v n="$n" 'function dr(x){while(x\>=10){s=0; while(x){s+=x%10;x=int(x/10)}; x=s} return x}  
-                   BEGIN{print dr(n)}'  
-    ;;  
-  way)  
-    n="$2"  
-    awk \-v n="$2" '  
-      function dr(x){print x; while(x\>=10){s=0; while(x){s+=x%10;x=int(x/10)}; x=s; print x}}  
-      BEGIN{dr(n)}'  
-    ;;  
-  \*)  
-    echo "Usage: eikon-pair {pair|list|river|key|way} …" \>&2; exit 2;;  
+pair)  
+p="$2"; \[ \-n "$p" \] || { echo "need port 0..9" \>&2; exit 2; }  
+q=$((9 \- p))  
+id=$(( p\\b)?a-b:b-a}';;  
+key)  
+n="$2"  
+awk \\-v n="$n" 'function dr(x){while(x\\\>=10){s=0; while(x){s+=x%10;x=int(x/10)}; x=s} return x}  
+BEGIN{print dr(n)}'  
+;;  
+way)  
+n="$2"  
+awk \\-v n="$2" '  
+function dr(x){print x; while(x\\\>=10){s=0; while(x){s+=x%10;x=int(x/10)}; x=s; print x}}  
+BEGIN{dr(n)}'  
+;;  
+\\\*)  
+echo "Usage: eikon-pair {pair|list|river|key|way} …" \\\>&2; exit 2;;  
 esac  
 \`\`\`
 
-\* Pair set and names.   
-\* River/Key/Way helpers. 
+\* Pair set and names.  
+\* River/Key/Way helpers.
 
 \---
 
@@ -3194,55 +3038,37 @@ esac
 \#\!/bin/sh  
 \# eikon-sunsquare — emit the 6x6 path of a base-36 lemma (0-9A-Z)  
 \# Usage:  
-\#   eikon-sunsquare PATH \<TOKEN\>   \# \-\> list of "A0 D3 …"  
-\#   eikon-sunsquare GRID \<TOKEN\>   \# \-\> ASCII 6x6 with indices  
+\# eikon-sunsquare PATH \\\<TOKEN\\\> \# \-\> list of "A0 D3 …"  
+\# eikon-sunsquare GRID \\\<TOKEN\\\> \# \-\> ASCII 6x6 with indices  
 \# The Sun-Square is the 6x6 (0..35) walked as 0..Z. Path is a stego-friendly ornament.
 
 norm() { echo "$1" | tr '\[:lower:\]' '\[:upper:\]' | sed 's/\[^0-9A-Z\]//g'; }
 
 toRC() {  
-  g="$1"  
-  set \-- $(eikon-b36 to-rowcol "$g") || exit 1  
-  R="$1"; C="$2"  
-  RC="ABCDEF"  
-  L=$(echo "$RC" | cut \-c $((R+1)) )  
-  echo "${L}${C}"  
+g="$1"  
+set \-- $(eikon-b36 to-rowcol "$g") || exit 1  
+R="$1"; C="$2"  
+RC="ABCDEF"  
+L=$(echo "$RC" | cut \-c $((R+1)) )  
+echo "${L}${C}"  
 }
 
 case "$1" in  
-  PATH)  
-    t=$(norm "$2"); \[ \-n "$t" \] || { echo "need token" \>&2; exit 2; }  
-    echo "$t" | sed 's/./& /g' | while read \-r \-a; do  
-      for ch in $t; do toRC "$ch"; done  
-    done  
-    ;;  
-  GRID)  
-    t=$(norm "$2"); \[ \-n "$t" \] || { echo "need token" \>&2; exit 2; }  
-    \# Build a 6x6 and mark steps with 01..nn  
-    awk \-v token="$t" '  
-      function toInt(c,  i){ split("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",a,""); for(i=1;i\<=36;i++) if(a\[i\]==c)return i-1; return \-1 }  
-      BEGIN{  
-        split(token,chs,"");  
-        for(i=1;i\<=6;i++)for(j=1;j\<=6;j++) mark\[i,j\]="..";  
-        step=1;  
-        for(k=1;k\<=length(token);k++){  
-          c=substr(token,k,1); v=toInt(c); r=int(v/6)+1; c2=(v%6)+1;  
-          mark\[r,c2\]=sprintf("%02d", step++);   
-        }  
-        print "   0  1  2  3  4  5"  
-        for(i=1;i\<=6;i++){  
-          row=substr("ABCDEF",i,1)" ";  
-          for(j=1;j\<=6;j++) row=row" "mark\[i,j\];  
-          print row  
-        }  
-      }'  
-    ;;  
-  \*)  
-    echo "Usage: eikon-sunsquare {PATH|GRID} \<TOKEN\>" \>&2; exit 2;;  
+PATH)  
+t=$(norm "$2"); \[ \-n "$t" \] || { echo "need token" \>&2; exit 2; }  
+echo "$t" | sed 's/./& /g' | while read \-r \-a; do  
+for ch in $t; do toRC "$ch"; done  
+done  
+;;  
+GRID)  
+t=$(norm "$2"); \[ \-n "$t" \] || { echo "need token" \>&2; exit 2; }  
+\# Build a 6x6 and mark steps with 01..nn  
+awk \-v token="$t" '  
+function toInt(c, i){ split("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",a,""); for(i=1;i\\\<=36;i++) if(a\[i\]==c)return i-1; return \-1 } BEGIN{ split(token,chs,""); for(i=1;i\\\<=6;i++)for(j=1;j\\\<=6;j++) mark\[i,j\]=".."; step=1; for(k=1;k\\\<=length(token);k++){ c=substr(token,k,1); v=toInt(c); r=int(v/6)+1; c2=(v%6)+1; mark\[r,c2\]=sprintf("%02d", step++); } print " 0 1 2 3 4 5" for(i=1;i\\\<=6;i++){ row=substr("ABCDEF",i,1)" "; for(j=1;j\\\<=6;j++) row=row" "mark\[i,j\]; print row } }' ;; \*) echo "Usage: eikon-sunsquare {PATH|GRID} \\\<TOKEN\\\>" \>&2; exit 2;;  
 esac  
 \`\`\`
 
-\* Sun-Square path for marginal ornaments / stego. 
+\* Sun-Square path for marginal ornaments / stego.
 
 \---
 
@@ -3252,35 +3078,35 @@ esac
 \#\!/bin/sh  
 \# eikon-polybius — encode/decode base-36 as pairs of digits (0..5 0..5)  
 \# Usage:  
-\#   eikon-polybius enc \<TOKEN\>        \# \-\> "r c r c ..."  
-\#   eikon-polybius dec "\<pairs...\>"   \# \-\> TOKEN  
+\# eikon-polybius enc \\\<TOKEN\\\> \# \-\> "r c r c ..."  
+\# eikon-polybius dec "\\\<pairs...\\\>" \# \-\> TOKEN  
 \# Designed for line-end / hyphen / punctuation stego beacons.
 
 enc(){  
-  txt=$(echo "$1" | tr '\[:lower:\]' '\[:upper:\]' | sed 's/\[^0-9A-Z\]//g')  
-  echo "$txt" | sed 's/./& /g' | while read \-r \-a; do  
-    for ch in $txt; do  
-      set \-- $(eikon-b36 to-rowcol "$ch") || exit 1  
-      echo \-n "$1 $2 "  
-    done  
-    echo  
-  done  
+txt=$(echo "$1" | tr '\[:lower:\]' '\[:upper:\]' | sed 's/\[^0-9A-Z\]//g')  
+echo "$txt" | sed 's/./& /g' | while read \-r \-a; do  
+for ch in $txt; do  
+set \-- $(eikon-b36 to-rowcol "$ch") || exit 1  
+echo \-n "$1 $2 "  
+done  
+echo  
+done  
 }
 
 dec(){  
-  echo "$1" | awk '  
-    function fromInt(n,  a){ split("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",a,""); return a\[n+1\] }  
-    { n=split($0,v," "); for(i=1;i\<=n;i+=2){ R=v\[i\]; C=v\[i+1\]; print fromInt(R\*6 \+ C) } }' | tr \-d '\\n'; echo  
+echo "$1" | awk '  
+function fromInt(n, a){ split("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",a,""); return a\[n+1\] }  
+{ n=split($0,v," "); for(i=1;i\\\<=n;i+=2){ R=v\[i\]; C=v\[i+1\]; print fromInt(R\*6 \+ C) } }' | tr \-d '\\n'; echo  
 }
 
 case "$1" in  
-  enc) enc "$2";;  
-  dec) shift; dec "$\*";;  
-  \*) echo "Usage: eikon-polybius {enc|dec} …" \>&2; exit 2;;  
+enc) enc "$2";;  
+dec) shift; dec "$\*";;  
+\*) echo "Usage: eikon-polybius {enc|dec} …" \>&2; exit 2;;  
 esac  
 \`\`\`
 
-\* 0–5 Polybius for “postage” codes. 
+\* 0–5 Polybius for “postage” codes.
 
 \---
 
@@ -3290,168 +3116,168 @@ esac
 \#\!/bin/sh  
 \# eikon-deck-sim — simulate Deck of Testimony sequences  
 \# Usage (tokens space-separated):  
-\#   eikon-deck-sim run "A♥ 10♥ J♦ Q♣ K♠ RULES"  
-\#   eikon-deck-sim run "8C 10H KD JOKER:3 RULES"  
+\# eikon-deck-sim run "A♥ 10♥ J♦ Q♣ K♠ RULES"  
+\# eikon-deck-sim run "8C 10H KD JOKER:3 RULES"  
 \# Notes:  
 \# \- Pips A..9 select cells bijectively.  
 \# \- 10 wheel; J child (emit); Q mother (plus-shape set); K father (red→column, black→row).  
-\# \- JOKER:\<0..4\> constrains to (R+C)%5 \== id. RULES finalizes.  
+\# \- JOKER:\\\<0..4\> constrains to (R+C)%5 \== id. RULES finalizes.  
 \# \- Suits: H/EAST, D/WEST, C/SOUTH, S/NORTH.
 
 parse\_suit(){  
-  s=$(echo "$1" | sed 'y/♥♦♣♠/H D C S/; s/\[^HDCS\]//g')  
-  case "$s" in H) echo "E";; D) echo "W";; C) echo "S";; S) echo "N";; \*) echo "?";; esac  
+s=$(echo "$1" | sed 'y/♥♦♣♠/H D C S/; s/\[^HDCS\]//g')  
+case "$s" in H) echo "E";; D) echo "W";; C) echo "S";; S) echo "N";; \*) echo "?";; esac  
 }  
 suit\_color(){ case "$1" in H|D) echo "red";; C|S) echo "black";; esac; }  
 suit\_idx(){ case "$1" in H) echo 0;; D) echo 1;; C) echo 2;; S) echo 3;; esac; }
 
 pip\_rank(){  
-  r="$1"  
-  case "$r" in  
-    A|a) echo 1;;  
-    \[2-9\]) echo "$r";;  
-    \*) echo 0;;  
-  esac  
+r="$1"  
+case "$r" in  
+A|a) echo 1;;  
+\[2-9\]) echo "$r";;  
+\*) echo 0;;  
+esac  
 }
 
 to\_cell\_from\_pip(){  
-  \# Args: rank(A/2..9) suit(H/D/C/S) \-\> R C  
-  r=$(pip\_rank "$1") || exit 1  
-  s=$(suit\_idx "$2") || exit 1  
-  \[ "$r" \-gt 0 \] || { echo "ERR"; exit 1; }  
-  i=$(( s\*9 \+ (r-1) ))  
-  echo "$(( i/6 )) $(( i%6 ))"  
+\# Args: rank(A/2..9) suit(H/D/C/S) \-\> R C  
+r=$(pip\_rank "$1") || exit 1  
+s=$(suit\_idx "$2") || exit 1  
+\[ "$r" \-gt 0 \] || { echo "ERR"; exit 1; }  
+i=$(( s\*9 \+ (r-1) ))  
+echo "$(( i/6 )) $(( i%6 ))"  
 }
 
 wrap6(){ v="$1"; \[ "$v" \-lt 0 \] && v=$((v+6)); echo $(( v % 6 )); }
 
 plus\_set(){  
-  \# center R C \-\> prints set as "R,C;R-1,C;R+1,C;R,C+1;R,C-1"  
-  R="$1"; C="$2"  
-  nR=$(wrap6 $((R-1))); sR=$(wrap6 $((R+1))); eC=$(wrap6 $((C+1))); wC=$(wrap6 $((C-1)))  
-  echo "$R,$C;$nR,$C;$sR,$C;$R,$eC;$R,$wC"  
+\# center R C \-\> prints set as "R,C;R-1,C;R+1,C;R,C+1;R,C-1"  
+R="$1"; C="$2"  
+nR=$(wrap6 $((R-1))); sR=$(wrap6 $((R+1))); eC=$(wrap6 $((C+1))); wC=$(wrap6 $((C-1)))  
+echo "$R,$C;$nR,$C;$sR,$C;$R,$eC;$R,$wC"  
 }
 
 snap\_axis(){  
-  \# axis=row|col center R C \-\> semicolon list of 6 cells along axis  
-  axis="$1"; R="$2"; C="$3"  
-  if \[ "$axis" \= "row" \]; then  
-    for c in 0 1 2 3 4 5; do printf "%s%s" "$R,$c" "${c=5?:';'}"; done  
-  else  
-    for r in 0 1 2 3 4 5; do printf "%s%s" "$r,$C" "${r=5?:';'}"; done  
-  fi  
+\# axis=row|col center R C \-\> semicolon list of 6 cells along axis  
+axis="$1"; R="$2"; C="$3"  
+if \[ "$axis" \= "row" \]; then  
+for c in 0 1 2 3 4 5; do printf "%s%s" "$R,$c" "${c=5?:';'}"; done  
+else  
+for r in 0 1 2 3 4 5; do printf "%s%s" "$r,$C" "${r=5?:';'}"; done  
+fi  
 }
 
 filter\_seraph(){  
-  \# set ; sep \-\> keep cells where (R+C)%5 \== id  
-  set="$1"; id="$2"  
-  echo "$set" | awk \-v id="$id" \-F';' '{  
-    out=""; for(i=1;i\<=NF;i++){ split($i,rc,","); r=rc\[1\]+0; c=rc\[2\]+0;  
-      if( ((r+c)%5)==id ){ out \= (out?out";":"") rc\[1\]","rc\[2\] } }  
-    print out }'  
+\# set ; sep \-\> keep cells where (R+C)%5 \== id  
+set="$1"; id="$2"  
+echo "$set" | awk \-v id="$id" \-F';' '{  
+out=""; for(i=1;i\\\<=NF;i++){ split($i,rc,","); r=rc\[1\]+0; c=rc\[2\]+0;  
+if( ((r+c)%5)==id ){ out \= (out?out";":"") rc\[1\]","rc\[2\] } }  
+print out }'  
 }
 
 glyph(){  
-  R="$1"; C="$2"; n=$((R\*6 \+ C))  
-  eikon-b36 from-int "$n"  
+R="$1"; C="$2"; n=$((R\*6 \+ C))  
+eikon-b36 from-int "$n"  
 }
 
 emit\_log=""
 
 step\_dir(){  
-  \# R C DIR \-\> R C (stepped)  
-  R="$1"; C="$2"; DIR="$3"  
-  case "$DIR" in  
-    E) C=$(wrap6 $((C+1)));;  
-    W) C=$(wrap6 $((C-1)));;  
-    S) R=$(wrap6 $((R+1)));;  
-    N) R=$(wrap6 $((R-1)));;  
-  esac  
-  echo "$R $C"  
+\# R C DIR \-\> R C (stepped)  
+R="$1"; C="$2"; DIR="$3"  
+case "$DIR" in  
+E) C=$(wrap6 $((C+1)));;  
+W) C=$(wrap6 $((C-1)));;  
+S) R=$(wrap6 $((R+1)));;  
+N) R=$(wrap6 $((R-1)));;  
+esac  
+echo "$R $C"  
 }
 
 describe(){  
-  R="$1"; C="$2"; g=$(glyph "$R" "$C")  
-  printf "%s (%s)\\n" "$g" "$(eikon-b36 label "$g")" | sed '1s/$/,/'  
+R="$1"; C="$2"; g=$(glyph "$R" "$C")  
+printf "%s (%s)\\n" "$g" "$(eikon-b36 label "$g")" | sed '1s/$/,/'  
 }
 
 run(){  
-  state\_center=""   \# "R C"  
-  state\_set=""      \# "R,C;R,C;..."  
-  constraint=""     \# 0..4 or empty
+state\_center="" \# "R C"  
+state\_set="" \# "R,C;R,C;..."  
+constraint="" \# 0..4 or empty
 
-  IFS=' '  
-  for tok in $\*; do  
-    \# Normalize token: separate rank/suit or operator  
-    T=$(echo "$tok" | tr '\[:lower:\]' '\[:upper:\]' | sed 's/\[^0-9A-Z♥♦♣♠H D C S :\]//g; s/ //g;')  
-    case "$T" in  
-      JOKER:\*|JOKER:\*)  
-        id=${T\#JOKER:}; constraint="$id"; echo "\# JOKER set pair constraint id=$id"  
-        \[ \-n "$state\_set" \] && state\_set=$(filter\_seraph "$state\_set" "$constraint")  
-        ;;  
-      RULES)  
-        echo "\# RULES — transcript:"  
-        if \[ \-n "$emit\_log" \]; then echo "$emit\_log" | sed 's/^/EMIT /'; else echo "(no emits)"; fi  
-        if \[ \-n "$state\_center" \]; then  
-          set \-- $state\_center; describe "$1" "$2"  
-        fi  
-        \# Clear  
-        state\_center=""; state\_set=""; emit\_log=""; constraint=""  
-        ;;  
-      10\*)  
-        \# Wheel: shift 1 in suit direction (if we can infer suit from suffix; else require preceding suit)  
-        suit=$(echo "$T" | sed 's/^10//')  
-        \[ \-z "$suit" \] && { echo "Need suit for 10 (e.g., 10H)" \>&2; exit 2; }  
-        s=$(echo "$suit" | sed 'y/♥♦♣♠/H D C S/; s/.\*\\(\[HDCS\]\\)$/\\1/;')  
-        \[ \-n "$state\_center" \] || continue  
-        set \-- $state\_center  
-        set \-- $(step\_dir "$1" "$2" "$(parse\_suit "$s")")  
-        state\_center="$1 $2"  
-        \[ \-n "$constraint" \] && state\_set="$state\_center" && state\_set=$(filter\_seraph "$state\_set" "$constraint")  
-        ;;  
-      J\*)  
-        s=$(echo "$T" | sed 's/^J//; y/♥♦♣♠/H D C S/; s/.\*\\(\[HDCS\]\\)$/\\1/')  
-        \[ \-n "$state\_center" \] || continue  
-        set \-- $state\_center  
-        set \-- $(step\_dir "$1" "$2" "$(parse\_suit "$s")")  
-        state\_center="$1 $2"  
-        g=$(glyph "$1" "$2"); emit\_log="$emit\_log $(printf "%s" "$g")"  
-        ;;  
-      Q\*)  
-        \# plus-shape set around center (keeps same center for subsequent moves)  
-        \[ \-n "$state\_center" \] || continue  
-        set \-- $state\_center  
-        state\_set=$(plus\_set "$1" "$2")  
-        \[ \-n "$constraint" \] && state\_set=$(filter\_seraph "$state\_set" "$constraint")  
-        ;;  
-      K\*)  
-        \# snap to axis by color  
-        s=$(echo "$T" | sed 's/^K//; y/♥♦♣♠/H D C S/; s/.\*\\(\[HDCS\]\\)$/\\1/')  
-        \[ \-n "$state\_center" \] || continue  
-        axis="row"; \[ "$(suit\_color "$s")" \= "red" \] && axis="col"  
-        set \-- $state\_center  
-        state\_set=$(snap\_axis "$axis" "$1" "$2")  
-        \[ \-n "$constraint" \] && state\_set=$(filter\_seraph "$state\_set" "$constraint")  
-        ;;  
-      \[A23456789\]\*)  
-        \# Pip: select a fresh cell  
-        r=$(echo "$T" | sed 's/\\(\[A23456789\]\\).\*/\\1/')  
-        s=$(echo "$T" | sed 's/.\*\\(\[HDCS♥♦♣♠\]\\)$/\\1/' | sed 'y/♥♦♣♠/H D C S/')  
-        set \-- $(to\_cell\_from\_pip "$r" "$s") || exit 1  
-        state\_center="$1 $2"; state\_set=""  
-        ;;  
-      \*)  
-        echo "Unrecognized token: $tok" \>&2; exit 2;;  
-    esac  
-  done  
+IFS=' '  
+for tok in $\*; do  
+\# Normalize token: separate rank/suit or operator  
+T=$(echo "$tok" | tr '\[:lower:\]' '\[:upper:\]' | sed 's/\[^0-9A-Z♥♦♣♠H D C S :\]//g; s/ //g;')  
+case "$T" in  
+JOKER:\*|JOKER:\*)  
+id=${T\#JOKER:}; constraint="$id"; echo "\# JOKER set pair constraint id=$id"  
+\[ \-n "$state\_set" \] && state\_set=$(filter\_seraph "$state\_set" "$constraint")  
+;;  
+RULES)  
+echo "\# RULES — transcript:"  
+if \[ \-n "$emit\_log" \]; then echo "$emit\_log" | sed 's/^/EMIT /'; else echo "(no emits)"; fi  
+if \[ \-n "$state\_center" \]; then  
+set \-- $state\_center; describe "$1" "$2"  
+fi  
+\# Clear  
+state\_center=""; state\_set=""; emit\_log=""; constraint=""  
+;;  
+10\*)  
+\# Wheel: shift 1 in suit direction (if we can infer suit from suffix; else require preceding suit)  
+suit=$(echo "$T" | sed 's/^10//')  
+\[ \-z "$suit" \] && { echo "Need suit for 10 (e.g., 10H)" \>&2; exit 2; }  
+s=$(echo "$suit" | sed 'y/♥♦♣♠/H D C S/; s/.\*\\(\[HDCS\]\\)$/\\1/;')  
+\[ \-n "$state\_center" \] || continue  
+set \-- $state\_center  
+set \-- $(step\_dir "$1" "$2" "$(parse\_suit "$s")")  
+state\_center="$1 $2"  
+\[ \-n "$constraint" \] && state\_set="$state\_center" && state\_set=$(filter\_seraph "$state\_set" "$constraint")  
+;;  
+J\*)  
+s=$(echo "$T" | sed 's/^J//; y/♥♦♣♠/H D C S/; s/.\*\\(\[HDCS\]\\)$/\\1/')  
+\[ \-n "$state\_center" \] || continue  
+set \-- $state\_center  
+set \-- $(step\_dir "$1" "$2" "$(parse\_suit "$s")")  
+state\_center="$1 $2"  
+g=$(glyph "$1" "$2"); emit\_log="$emit\_log $(printf "%s" "$g")"  
+;;  
+Q\*)  
+\# plus-shape set around center (keeps same center for subsequent moves)  
+\[ \-n "$state\_center" \] || continue  
+set \-- $state\_center  
+state\_set=$(plus\_set "$1" "$2")  
+\[ \-n "$constraint" \] && state\_set=$(filter\_seraph "$state\_set" "$constraint")  
+;;  
+K\*)  
+\# snap to axis by color  
+s=$(echo "$T" | sed 's/^K//; y/♥♦♣♠/H D C S/; s/.\*\\(\[HDCS\]\\)$/\\1/')  
+\[ \-n "$state\_center" \] || continue  
+axis="row"; \[ "$(suit\_color "$s")" \= "red" \] && axis="col"  
+set \-- $state\_center  
+state\_set=$(snap\_axis "$axis" "$1" "$2")  
+\[ \-n "$constraint" \] && state\_set=$(filter\_seraph "$state\_set" "$constraint")  
+;;  
+\[A23456789\]\*)  
+\# Pip: select a fresh cell  
+r=$(echo "$T" | sed 's/\\(\[A23456789\]\\).\*/\\1/')  
+s=$(echo "$T" | sed 's/.\*\\(\[HDCS♥♦♣♠\]\\)$/\\1/' | sed 'y/♥♦♣♠/H D C S/')  
+set \-- $(to\_cell\_from\_pip "$r" "$s") || exit 1  
+state\_center="$1 $2"; state\_set=""  
+;;  
+\*)  
+echo "Unrecognized token: $tok" \>&2; exit 2;;  
+esac  
+done  
 }
 
 \[ "$1" \= "run" \] || { echo "Usage: eikon-deck-sim run \\"...tokens...\\"" \>&2; exit 2; }  
 shift; run "$\*"  
 \`\`\`
 
-\* Pip→cell bijection, suit directions, and operators per spec.     
-\* Optional Joker pair-constraint \`(R+C)%5==id\`. 
+\* Pip→cell bijection, suit directions, and operators per spec.  
+\* Optional Joker pair-constraint \`(R+C)%5==id\`.
 
 \---
 
@@ -3461,67 +3287,67 @@ shift; run "$\*"
 \#\!/bin/sh  
 \# eikon-angelic — factor n and print angelic numeral string  
 \# Convention:  
-\#   ":" represents prime 2; odd prime p\_k is shown as k-1 nested parentheses around ":" (k \= index of odd prime).  
-\#   Example: 2=":", 3="(:)", 5="((:))", 7="(((:)))", 11="((((:))))", etc.  
+\# ":" represents prime 2; odd prime p\_k is shown as k-1 nested parentheses around ":" (k \= index of odd prime).  
+\# Example: 2=":", 3="(:)", 5="((:))", 7="(((:)))", 11="((((:))))", etc.  
 \# Multiplicity prints repeated factors (adjacent).  
-\# NOTE: This is a minimal, practical encoder for small integers (\<= 2^31-1).
+\# NOTE: This is a minimal, practical encoder for small integers (\\\<= 2^31-1).
 
 odd\_prime\_depth(){  
-  \# Map 3,5,7,11,13,... \-\> 1,2,3,4,5,...  
-  p="$1"; i=0; n=3  
-  while :; do  
-    i=$((i+1))  
-    \[ $n \-eq $p \] && { echo $i; return; }  
-    \# next odd prime  
-    nxt=$((n+2))  
-    while :; do  
-      isP=1; j=3  
-      while \[ $((j\*j)) \-le $nxt \]; do  
-        \[ $((nxt%j)) \-eq 0 \] && { isP=0; break; }  
-        j=$((j+2))  
-      done  
-      \[ $isP \-eq 1 \] && { n=$nxt; break; }  
-      nxt=$((nxt+2))  
-    done  
-  done  
+\# Map 3,5,7,11,13,... \-\> 1,2,3,4,5,...  
+p="$1"; i=0; n=3  
+while :; do  
+i=$((i+1))  
+\[ $n \-eq $p \] && { echo $i; return; }  
+\# next odd prime  
+nxt=$((n+2))  
+while :; do  
+isP=1; j=3  
+while \[ $((j\*j)) \-le $nxt \]; do  
+\[ $((nxt%j)) \-eq 0 \] && { isP=0; break; }  
+j=$((j+2))  
+done  
+\[ $isP \-eq 1 \] && { n=$nxt; break; }  
+nxt=$((nxt+2))  
+done  
+done  
 }
 
 show\_factor(){  
-  p="$1"; k="$2"  
-  if \[ "$p" \-eq 2 \]; then  
-    s=":"; \# dyad  
-  else  
-    d=$(odd\_prime\_depth "$p")  
-    s=":"; i=1  
-    while \[ $i \-le $d \]; do s="($s)"; i=$((i+1)); done  
-  fi  
-  i=1; while \[ $i \-le $k \]; do printf "%s" "$s"; i=$((i+1)); done  
+p="$1"; k="$2"  
+if \[ "$p" \-eq 2 \]; then  
+s=":"; \# dyad  
+else  
+d=$(odd\_prime\_depth "$p")  
+s=":"; i=1  
+while \[ $i \-le $d \]; do s="($s)"; i=$((i+1)); done  
+fi  
+i=1; while \[ $i \-le $k \]; do printf "%s" "$s"; i=$((i+1)); done  
 }
 
 factor(){  
-  n="$1"  
-  \[ "$n" \-lt 0 \] && { printf "."; n=$(( \-n )); } \# deplexion marker for negatives (informal)  
-  \# count 2s  
-  k=0; while \[ $((n%2)) \-eq 0 \] && \[ $n \-gt 0 \]; do n=$((n/2)); k=$((k+1)); done  
-  \[ $k \-gt 0 \] && show\_factor 2 $k  
-  \# odd factors  
-  p=3  
-  while \[ $((p\*p)) \-le $n \]; do  
-    k=0; while \[ $((n%p)) \-eq 0 \]; do n=$((n/p)); k=$((k+1)); done  
-    \[ $k \-gt 0 \] && show\_factor $p $k  
-    p=$((p+2))  
-  done  
-  \[ $n \-gt 1 \] && show\_factor $n 1  
-  echo  
+n="$1"  
+\[ "$n" \-lt 0 \] && { printf "."; n=$(( \-n )); } \# deplexion marker for negatives (informal)  
+\# count 2s  
+k=0; while \[ $((n%2)) \-eq 0 \] && \[ $n \-gt 0 \]; do n=$((n/2)); k=$((k+1)); done  
+\[ $k \-gt 0 \] && show\_factor 2 $k  
+\# odd factors  
+p=3  
+while \[ $((p\*p)) \-le $n \]; do  
+k=0; while \[ $((n%p)) \-eq 0 \]; do n=$((n/p)); k=$((k+1)); done  
+\[ $k \-gt 0 \] && show\_factor $p $k  
+p=$((p+2))  
+done  
+\[ $n \-gt 1 \] && show\_factor $n 1  
+echo  
 }
 
 case "$1" in  
-  enc) factor "$2";;  
-  \*) echo "Usage: eikon-angelic enc \<n\>" \>&2; exit 2;;  
+enc) factor "$2";;  
+\*) echo "Usage: eikon-angelic enc \\\<n\\\>" \>&2; exit 2;;  
 esac  
 \`\`\`
 
-\* “Poor notation” with dyad and winged groups; de/amplexion exist (this encoder does the core factor-shape only).  
+\* “Poor notation” with dyad and winged groups; de/amplexion exist (this encoder does the core factor-shape only).
 
 \---
 
@@ -3531,106 +3357,106 @@ esac
 \#\!/bin/sh  
 \# eikon-stego — tiny helpers for acrostic & festival-date style stego  
 \# Usage:  
-\#   eikon-stego acrostic \<PHRASE\>     \# \-\> base-36 indices of initials  
-\#   eikon-stego sum \<TOKEN\>           \# \-\> base-36 sum (mod 36\) and Port-ish hint  
-\#   eikon-stego date \<YYYY-MM-DD\>     \# \-\> base-36 pair "YY FEAST" mock (YY, DOY%36)  
+\# eikon-stego acrostic \\\<PHRASE\\\> \# \-\> base-36 indices of initials  
+\# eikon-stego sum \\\<TOKEN\\\> \# \-\> base-36 sum (mod 36\) and Port-ish hint  
+\# eikon-stego date \\\<YYYY-MM-DD\\\> \# \-\> base-36 pair "YY FEAST" mock (YY, DOY%36)  
 \# These are practical nubs for ornament or colophon notes.
 
 to\_int(){ eikon-b36 to-int "$1"; }
 
 acrostic(){  
-  phrase="$\*"  
-  echo "$phrase" | awk '  
-    function up(s){ gsub(/\[^0-9A-Za-z \]/,"",s); return toupper(s) }  
-    BEGIN{ s=up("'"$phrase"'"); n=split(s, w, /\[ \]+/); }  
-    {  
-      for(i=1;i\<=n;i++){ c=substr(w\[i\],1,1); if(c\!=""){ cmd="eikon-b36 to-int " c; cmd | getline v; close(cmd); printf "%s ", v } }  
-      print ""  
-    }'  
+phrase="$\*"  
+echo "$phrase" | awk '  
+function up(s){ gsub(/\[^0-9A-Za-z \]/,"",s); return toupper(s) }  
+BEGIN{ s=up("'"$phrase"'"); n=split(s, w, /\[ \]+/); }  
+{  
+for(i=1;i\\\<=n;i++){ c=substr(w\[i\],1,1); if(c\!=""){ cmd="eikon-b36 to-int " c; cmd | getline v; close(cmd); printf "%s ", v } }  
+print ""  
+}'  
 }
 
 sum36(){  
-  tok=$(echo "$1" | tr '\[:lower:\]' '\[:upper:\]' | sed 's/\[^0-9A-Z\]//g')  
-  total=0  
-  echo "$tok" | sed 's/./& /g' | while read \-r \-a; do  
-    for ch in $tok; do v=$(to\_int "$ch"); total=$(( (total+v)%36 )); done  
-    echo "$total"  
-  done  
+tok=$(echo "$1" | tr '\[:lower:\]' '\[:upper:\]' | sed 's/\[^0-9A-Z\]//g')  
+total=0  
+echo "$tok" | sed 's/./& /g' | while read \-r \-a; do  
+for ch in $tok; do v=$(to\_int "$ch"); total=$(( (total+v)%36 )); done  
+echo "$total"  
+done  
 }
 
 date36(){  
-  d="$1"  
-  yy=$(echo "$d" | cut \-d- \-f1 | sed 's/..\\(..\\)$/\\1/')  
-  doy=$(date \-j \-f "%Y-%m-%d" "$d" "+%j" 2\>/dev/null || date \-d "$d" \+%j)  
-  mod=$(( (10\#$doy) % 36 ))  
-  gy=$(eikon-b36 from-int $((10\#$yy % 36)))  
-  gm=$(eikon-b36 from-int $mod)  
-  echo "$gy $gm"  
+d="$1"  
+yy=$(echo "$d" | cut \-d- \-f1 | sed 's/..\\(..\\)$/\\1/')  
+doy=$(date \-j \-f "%Y-%m-%d" "$d" "+%j" 2\>/dev/null || date \-d "$d" \+%j)  
+mod=$(( (10\#$doy) % 36 ))  
+gy=$(eikon-b36 from-int $((10\#$yy % 36)))  
+gm=$(eikon-b36 from-int $mod)  
+echo "$gy $gm"  
 }
 
 case "$1" in  
-  acrostic) shift; acrostic "$\*";;  
-  sum) sum36 "$2";;  
-  date) date36 "$2";;  
-  \*) echo "Usage: eikon-stego {acrostic|sum|date} …" \>&2; exit 2;;  
+acrostic) shift; acrostic "$\*";;  
+sum) sum36 "$2";;  
+date) date36 "$2";;  
+\*) echo "Usage: eikon-stego {acrostic|sum|date} …" \>&2; exit 2;;  
 esac  
 \`\`\`
 
-\* Acrostic mercy / festival dating are standard Eikon stego moves; this adds quick numeric handles. 
+\* Acrostic mercy / festival dating are standard Eikon stego moves; this adds quick numeric handles.
 
 \---
 
 \#\# 8\) \`eikon-ray-encode\` — minimalist “Ray ⇄ cards” helper (plain mapping)
 
-Two ways exist in drafts: a simple didactic encoding (A..6 rows, suit→cols 0..3, second card to reach 4/5) and the canonical pip⇄cell bijection. For reliability in terminals, this helper uses the \*\*canonical bijection\*\* (one pip selects exactly one cell); operators can then adjust.  
+Two ways exist in drafts: a simple didactic encoding (A..6 rows, suit→cols 0..3, second card to reach 4/5) and the canonical pip⇄cell bijection. For reliability in terminals, this helper uses the \*\*canonical bijection\*\* (one pip selects exactly one cell); operators can then adjust.
 
 \`\`\`sh  
 \#\!/bin/sh  
 \# eikon-ray-encode — choose a single pip that selects a target cell; print suggested pip+ops  
 \# Usage:  
-\#   eikon-ray-encode from RC \<A-F\> \<0-5\>  
-\#   eikon-ray-encode from glyph \<0..9A..Z\>  
+\# eikon-ray-encode from RC \\\<A-F\\\> \\\<0-5\>  
+\# eikon-ray-encode from glyph \\\<0..9A..Z\>  
 \# Output shows a pip that lands exactly on the cell by the 36↔36 bijection.
 
 pick\_pip(){  
-  R="$1"; C="$2"  
-  \# We need s (0..3) and r (1..9) s.t. floor((s\*9+(r-1))/6)=R and %6=C  
-  \# Brute-force small search:  
-  awk \-v R="$R" \-v C="$C" '  
-    function glyph(n,  a){ split("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",a,""); return a\[n+1\] }  
-    BEGIN{  
-      for(s=0;s\<4;s++)  
-        for(r=1;r\<=9;r++){  
-          i=s\*9 \+ (r-1); if(int(i/6)==R && (i%6)==C){  
-            suit=(s==0?"H":(s==1?"D":(s==2?"C":"S")));  
-            rank=(r==1?"A":r);  
-            print rank suit; exit  
-          }  
-        }  
-    }'  
+R="$1"; C="$2"  
+\# We need s (0..3) and r (1..9) s.t. floor((s\*9+(r-1))/6)=R and %6=C  
+\# Brute-force small search:  
+awk \-v R="$R" \-v C="$C" '  
+function glyph(n, a){ split("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",a,""); return a\[n+1\] }  
+BEGIN{  
+for(s=0;s\\\<4;s++)  
+for(r=1;r\\\<=9;r++){  
+i=s\*9 \+ (r-1); if(int(i/6)==R && (i%6)==C){  
+suit=(s==0?"H":(s==1?"D":(s==2?"C":"S")));  
+rank=(r==1?"A":r);  
+print rank suit; exit  
+}  
+}  
+}'  
 }
 
 case "$1" in  
-  from)  
-    case "$2" in  
-      RC)  
-        Rch="$3"; C="$4"  
-        case "$Rch" in A|a) R=0;;B|b)R=1;;C|c)R=2;;D|d)R=3;;E|e)R=4;;F|f)R=5;; \*) echo "bad row" \>&2; exit 2;; esac  
-        pip=$(pick\_pip "$R" "$C") || exit 1  
-        echo "$pip  \# lands on $Rch$C"  
-        ;;  
-      glyph)  
-        g="$3"  
-        set \-- $(eikon-b36 to-rowcol "$g")  
-        R="$1"; C="$2"  
-        pip=$(pick\_pip "$R" "$C")  
-        \# Human-friendly label  
-        echo "$pip  \# $(eikon-b36 label "$g")"  
-        ;;  
-      \*) echo "from {RC|glyph} …" \>&2; exit 2;;  
-    esac  
-    ;;  
-  \*) echo "Usage: eikon-ray-encode from {RC|glyph} …" \>&2; exit 2;;  
+from)  
+case "$2" in  
+RC)  
+Rch="$3"; C="$4"  
+case "$Rch" in A|a) R=0;;B|b)R=1;;C|c)R=2;;D|d)R=3;;E|e)R=4;;F|f)R=5;; \*) echo "bad row" \>&2; exit 2;; esac  
+pip=$(pick\_pip "$R" "$C") || exit 1  
+echo "$pip \# lands on $Rch$C"  
+;;  
+glyph)  
+g="$3"  
+set \-- $(eikon-b36 to-rowcol "$g")  
+R="$1"; C="$2"  
+pip=$(pick\_pip "$R" "$C")  
+\# Human-friendly label  
+echo "$pip \# $(eikon-b36 label "$g")"  
+;;  
+\*) echo "from {RC|glyph} …" \>&2; exit 2;;  
+esac  
+;;  
+\*) echo "Usage: eikon-ray-encode from {RC|glyph} …" \>&2; exit 2;;  
 esac  
 \`\`\`
 
@@ -3641,9 +3467,9 @@ esac
 \`\`\`sh  
 \#\!/bin/sh  
 \# eikon-notes — print a one-line shorthand for a cell move/emission, for hand logs  
-\# Usage: eikon-notes mark \<glyph\> \<suitDir\> \<emit?\>  
+\# Usage: eikon-notes mark \\\<glyph\\\> \\\<suitDir\\\> \\\<emit?\\\>  
 \# Example: eikon-notes mark D "SOUTH" emit  
-\# Emits: "YYYY-MM-DD \<glyph\> \+SOUTH emit | row D (sealed?)"
+\# Emits: "YYYY-MM-DD \\\<glyph\\\> \+SOUTH emit | row D (sealed?)"
 
 d=$(date \+%F)  
 g="$2"; dir="$3"; what="$4"  
@@ -3652,25 +3478,25 @@ rowL=$(echo "ABCDEF" | cut \-c $((rowL+1)) )
 printf "%s %s \+%s %s | row %s\\n" "$d" "$g" "$dir" "${what:-}" "$rowL"  
 \`\`\`
 
-\* Mirrors the “practical stego transcript” examples (one-liners). 
+\* Mirrors the “practical stego transcript” examples (one-liners).
 
 \---
 
 \# Quick examples
 
-\* Label a ray: \`eikon-ray from glyph R\` → will report its row/col meaning (e.g., “Signs / Visit Sick”).   
-\* Pick a pip that lands on C3: \`eikon-ray-encode from RC C 3\` then simulate more ops with \`eikon-deck-sim\`.   
-\* Sun-Square path of “POOR”: \`eikon-sunsquare PATH POOR\` or \`GRID POOR\`.   
-\* Encode “RUTH” as Polybius pairs for line-ends: \`eikon-polybius enc RUTH\`.   
+\* Label a ray: \`eikon-ray from glyph R\` → will report its row/col meaning (e.g., “Signs / Visit Sick”).  
+\* Pick a pip that lands on C3: \`eikon-ray-encode from RC C 3\` then simulate more ops with \`eikon-deck-sim\`.  
+\* Sun-Square path of “POOR”: \`eikon-sunsquare PATH POOR\` or \`GRID POOR\`.  
+\* Encode “RUTH” as Polybius pairs for line-ends: \`eikon-polybius enc RUTH\`.  
 \* Angelic glyph for 84 (= 2²·3·7): \`eikon-angelic enc 84\` → \`::(:)(((:)))\` (toy encoder).
 
 \---
 
 \#\# Notes & guardrails
 
-\* The \*\*card-sequence simulator\*\* models the operator semantics (10/J/Q/K) and optional Seraphic constraint \`(R+C)%5==id\`; it prints any \*\*J/Child emits\*\* and the final selection on \`RULES\`. Use \`JOKER:\<id\>\` to constrain before moves.    
-\* For \*\*plain-card ray encoding\*\* in prose stego, some drafts describe “A..6 \= rows; suits map to cols 0..3; a second card to reach cols 4/5.” In terminals it’s more robust to stick to the bijection (one pip ↔ one cell) and then use 10/J/Q/K for transforms if desired.    
-\* Angelic numerals here are pragmatic; the literature also uses \*\*deplexion (.)\*\* / \*\*amplexion (')\*\* for prime-index ±1 and treats \*\*0/1\*\* specially—extend if you want deeper hermeneutics. 
+\* The \*\*card-sequence simulator\*\* models the operator semantics (10/J/Q/K) and optional Seraphic constraint \`(R+C)%5==id\`; it prints any \*\*J/Child emits\*\* and the final selection on \`RULES\`. Use \`JOKER:\\\<id\\\>\` to constrain before moves.  
+\* For \*\*plain-card ray encoding\*\* in prose stego, some drafts describe “A..6 \= rows; suits map to cols 0..3; a second card to reach cols 4/5.” In terminals it’s more robust to stick to the bijection (one pip ↔ one cell) and then use 10/J/Q/K for transforms if desired.  
+\* Angelic numerals here are pragmatic; the literature also uses \*\*deplexion (.)\*\* / \*\*amplexion (')\*\* for prime-index ±1 and treats \*\*0/1\*\* specially—extend if you want deeper hermeneutics.
 
 Deī furōrēsque canō, Mnēmosynē, soror aeternā:  
 Mēmoret architectum templī caelestis honōris,  
@@ -3692,19 +3518,19 @@ Mōribus in vīā periit velut canis, Terrentius Dāvis\!
 
 // Simple character helpers (avoid library assumptions)  
 U8 ToUpperCh(U8 c) {  
-  if ('a'\<=c && c\<='z') return c-32; else return c;  
+if ('a'\\\<=c && c\\\<='z') return c-32; else return c;  
 }
 
-I64 IsDigit(U8 c){ return '0'\<=c && c\<='9'; }  
-I64 IsAlpha(U8 c){ c=ToUpperCh(c); return 'A'\<=c && c\<='Z'; }  
+I64 IsDigit(U8 c){ return '0'\\\<=c && c\\\<='9'; }  
+I64 IsAlpha(U8 c){ c=ToUpperCh(c); return 'A'\\\<=c && c\\\<='Z'; }  
 I64 IsAlnum(U8 c){ return IsDigit(c)||IsAlpha(c); }  
 I64 IsSpace(U8 c){ return c==' '||c=='\\t'||c=='\\n'||c=='\\r'; }
 
 I64 StrLen(U8 \*s){ I64 i=0; if(\!s) return 0; while(s\[i\]) i++; return i; }
 
 U0 StrCopy(U8 \*dst, U8 \*src, I64 cap){  
-  I64 i=0; if(\!dst) return; if(\!src){ dst\[0\]=0; return; }  
-  while(src\[i\] && i\<cap-1){ dst\[i\]=src\[i\]; i++; } dst\[i\]=0;  
+I64 i=0; if(\!dst) return; if(\!src){ dst\[0\]=0; return; }  
+while(src\[i\] && i\\\<cap-1){ dst\[i\]=src\[i\]; i++; } dst\[i\]=0;  
 }
 
 U0 StrToUpperInPlace(U8 \*s){ I64 i=0; if(\!s) return; for(i=0;s\[i\];i++) s\[i\]=ToUpperCh(s\[i\]); }
@@ -3714,15 +3540,15 @@ U8 \*SkipWS(U8 \*p){ while(p && \*p && IsSpace(\*p)) p++; return p; }
 
 // Parse a base-10 integer from \*pp; updates \*pp to first non-digit  
 I64 ParseInt10(U8 \*\*pp){ I64 sign=1, v=0; U8 \*p=\*pp; p=SkipWS(p); if(\*p=='-'){sign=-1; p++;}  
-  while(IsDigit(\*p)){ v \= v\*10 \+ (\*p \- '0'); p++; }  
-  \*pp=p; return sign\*v;  
+while(IsDigit(\*p)){ v \= v\*10 \+ (\*p \- '0'); p++; }  
+\*pp=p; return sign\*v;  
 }
 
 // Split a line into whitespace-delimited tokens (in-place); returns count  
 I64 SplitTokens(U8 \*line, U8 \*\*out, I64 max){  
-  I64 n=0; U8 \*p=line; p=SkipWS(p);  
-  while(\*p && n\<max){ out\[n++\]=p; while(\*p && \!IsSpace(\*p)) p++; if(\*p){ \*p=0; p++; } p=SkipWS(p); }  
-  return n;  
+I64 n=0; U8 \*p=line; p=SkipWS(p);  
+while(\*p && n\\\<max){ out\[n++\]=p; while(\*p && \!IsSpace(\*p)) p++; if(\*p){ \*p=0; p++; } p=SkipWS(p); }  
+return n;  
 }
 
 // \------------ BASE-36 & GRID \------------
@@ -3730,74 +3556,74 @@ I64 SplitTokens(U8 \*line, U8 \*\*out, I64 max){
 U8 B36Chars\[\] \= "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
 I64 B36ToInt(U8 c){  
-  I64 i; c=ToUpperCh(c);  
-  for(i=0;i\<36;i++) if(B36Chars\[i\]==c) return i; return \-1;  
+I64 i; c=ToUpperCh(c);  
+for(i=0;i\\\<36;i++) if(B36Chars\[i\]==c) return i; return \-1;  
 }
 
-U8 IntToB36(I64 n){ if(n\<0||n\>35) return '?'; return B36Chars\[n\]; }
+U8 IntToB36(I64 n){ if(n\\\<0||n\>35) return '?'; return B36Chars\[n\]; }
 
 // Glyph (char) \-\> row (0..5), col (0..5)  
-U0 B36ToRowCol(U8 g, I64 \*row, I64 \*col){ I64 v=B36ToInt(g); if(v\<0){ \*row=-1; \*col=-1; return; } \*row=v/6; \*col=v%6; }
+U0 B36ToRowCol(U8 g, I64 \*row, I64 \*col){ I64 v=B36ToInt(g); if(v\\\<0){ \*row=-1; \*col=-1; return; } \*row=v/6; \*col=v%6; }
 
 U8 RowLetters\[\] \= "ABCDEF"; // 0..5 \-\> A..F  
 U8 \*RowNames\[6\] \= {"A (Light)","B (Firmament)","C (Gathering)","D (Signs)","E (Creatures)","F (Humankind)"};  
 U8 \*ColNames\[6\] \= {"0 (Feed)","1 (Drink)","2 (Clothe)","3 (Shelter)","4 (Visit Sick)","5 (Visit Imprisoned)"};
 
-U0 PrintRayLabel(U8 g){ I64 r,c; B36ToRowCol(g,\&r,\&c); if(r\<0) { Print("ERR\\n"); return; }  
-  Print("Row %s · Col %s\\n", RowNames\[r\], ColNames\[c\]);  
+U0 PrintRayLabel(U8 g){ I64 r,c; B36ToRowCol(g,\\\&r,\\\&c); if(r\\\<0) { Print("ERR\\n"); return; }  
+Print("Row %s · Col %s\\n", RowNames\[r\], ColNames\[c\]);  
 }
 
 // Public wrappers  
 U0 Eikon\_B36\_ToInt(U8 \*glyph){ if(\!glyph||\!glyph\[0\]){ Print("ERR\\n"); return; } Print("%d\\n", B36ToInt(glyph\[0\])); }  
 U0 Eikon\_B36\_FromInt(I64 n){ Print("%c\\n", IntToB36(n)); }  
-U0 Eikon\_B36\_ToRowCol(U8 \*glyph){ I64 r,c; if(\!glyph){"ERR\\n";return;} B36ToRowCol(glyph\[0\],\&r,\&c); Print("%d %d\\n",r,c); }  
-U0 Eikon\_B36\_FromRowCol(I64 r,I64 c){ if(r\<0||r\>5||c\<0||c\>5){"ERR\\n";return;} Print("%c\\n", IntToB36(r\*6+c)); }  
+U0 Eikon\_B36\_ToRowCol(U8 \*glyph){ I64 r,c; if(\!glyph){"ERR\\n";return;} B36ToRowCol(glyph\[0\],\\\&r,\\\&c); Print("%d %d\\n",r,c); }  
+U0 Eikon\_B36\_FromRowCol(I64 r,I64 c){ if(r\\\<0||r\>5||c\\\<0||c\>5){"ERR\\n";return;} Print("%c\\n", IntToB36(r\*6+c)); }  
 U0 Eikon\_B36\_Label(U8 \*glyph){ if(\!glyph){"ERR\\n";return;} PrintRayLabel(glyph\[0\]); }
 
 // \------------ RAYS \------------
 
 U0 Eikon\_Ray\_FromRC(U8 rowLetter, I64 col){ I64 r=-1,i; U8 L=ToUpperCh(rowLetter);  
-  for(i=0;i\<6;i++) if(RowLetters\[i\]==L) r=i; if(r\<0||col\<0||col\>5){"ERR\\n";return;}  
-  U8 g \= IntToB36(r\*6+col); Print("%c\\n", g); PrintRayLabel(g);  
+for(i=0;i\\\<6;i++) if(RowLetters\[i\]==L) r=i; if(r\\\<0||col\\\<0||col\>5){"ERR\\n";return;}  
+U8 g \= IntToB36(r\*6+col); Print("%c\\n", g); PrintRayLabel(g);  
 }
 
-U0 Eikon\_Ray\_FromGlyph(U8 \*glyph){ I64 r,c; if(\!glyph){"ERR\\n";return;} B36ToRowCol(glyph\[0\],\&r,\&c); Print("Row %c · Col %d\\n", RowLetters\[r\], c); PrintRayLabel(glyph\[0\]); }
+U0 Eikon\_Ray\_FromGlyph(U8 \*glyph){ I64 r,c; if(\!glyph){"ERR\\n";return;} B36ToRowCol(glyph\[0\],\\\&r,\\\&c); Print("Row %c · Col %d\\n", RowLetters\[r\], c); PrintRayLabel(glyph\[0\]); }
 
 // \------------ SERAPHIC PAIRS / RIVER / KEY / WAY \------------
 
 U8 \*PairName(I64 id){ switch(id){ case 0: return "Alpha–Omega"; case 1: return "Recollection–Comfort"; case 2: return "Impetus–Care"; case 3: return "Providence–Surprise"; case 4: return "Judgment–Peace"; default: return "?"; } }
 
-U0 Eikon\_Pair(I64 port){ I64 q=9-port; I64 id \= (port\<q)?port:q; if(id\<0||id\>4){"ERR\\n";return;} Print("%d::%d — %s\\n",port,q,PairName(id)); }  
-U0 Eikon\_Pair\_List(){ I64 i; for(i=0;i\<5;i++) Print("%d::%d — %s\\n", i,9-i, PairName(i)); }
+U0 Eikon\_Pair(I64 port){ I64 q=9-port; I64 id \= (port\\\<q)?port:q; if(id\\\<0||id\\\>4){"ERR\\n";return;} Print("%d::%d — %s\\n",port,q,PairName(id)); }  
+U0 Eikon\_Pair\_List(){ I64 i; for(i=0;i\\\<5;i++) Print("%d::%d — %s\\n", i,9-i, PairName(i)); }
 
-I64 AbsI64(I64 x){ return x\<0?-x:x; }  
+I64 AbsI64(I64 x){ return x\\\<0?-x:x; }  
 U0 Eikon\_River(I64 a,I64 b){ Print("%d\\n", AbsI64(a-b)); }
 
-I64 DigitalRoot(I64 n){ if(n\<0) n=-n; while(n\>=10){ I64 s=0; while(n){ s+=n%10; n/=10; } n=s; } return n; }  
+I64 DigitalRoot(I64 n){ if(n\\\<0) n=-n; while(n\>=10){ I64 s=0; while(n){ s+=n%10; n/=10; } n=s; } return n; }  
 U0 Eikon\_Key(I64 n){ Print("%d\\n", DigitalRoot(n)); }  
-U0 Eikon\_Way(I64 n){ if(n\<0) n=-n; Print("%d", n); while(n\>=10){ I64 s=0; while(n){ s+=n%10; n/=10; } n=s; Print(" %d", n); } Print("\\n"); }
+U0 Eikon\_Way(I64 n){ if(n\\\<0) n=-n; Print("%d", n); while(n\>=10){ I64 s=0; while(n){ s+=n%10; n/=10; } n=s; Print(" %d", n); } Print("\\n"); }
 
 // \------------ SUN-SQUARE PATH / GRID \------------
 
 // Convert token to uppercase base-36, in-place  
 U0 TokenSanitize(U8 \*s){ I64 i=0,j=0; if(\!s) return; for(i=0;s\[i\];i++){ U8 c=ToUpperCh(s\[i\]); if(IsAlnum(c)){ s\[j++\]=c; } } s\[j\]=0; }
 
-U0 Eikon\_SunSquare\_Path(U8 \*token){ U8 buf\[256\]; StrCopy(buf,token,256); TokenSanitize(buf); I64 i; for(i=0;buf\[i\];i++){ I64 r,c; B36ToRowCol(buf\[i\],\&r,\&c); Print("%c%d", RowLetters\[r\], c); if(buf\[i+1\]) Print(" "); } Print("\\n"); }
+U0 Eikon\_SunSquare\_Path(U8 \*token){ U8 buf\[256\]; StrCopy(buf,token,256); TokenSanitize(buf); I64 i; for(i=0;buf\[i\];i++){ I64 r,c; B36ToRowCol(buf\[i\],\\\&r,\\\&c); Print("%c%d", RowLetters\[r\], c); if(buf\[i+1\]) Print(" "); } Print("\\n"); }
 
 U0 Eikon\_SunSquare\_Grid(U8 \*token){ U8 buf\[256\]; StrCopy(buf,token,256); TokenSanitize(buf);  
-  I64 mark\[6\]\[6\]; I64 i,j,step=1; for(i=0;i\<6;i++) for(j=0;j\<6;j++) mark\[i\]\[j\]=0;  
-  for(i=0;buf\[i\];i++){ I64 r,c; B36ToRowCol(buf\[i\],\&r,\&c); mark\[r\]\[c\]=step++; }  
-  "   0  1  2  3  4  5\\n";  
-  for(i=0;i\<6;i++){ Print("%c ", RowLetters\[i\]); for(j=0;j\<6;j++) Print(" %02d", mark\[i\]\[j\]); Print("\\n"); }  
+I64 mark\[6\]\[6\]; I64 i,j,step=1; for(i=0;i\\\<6;i++) for(j=0;j\\\<6;j++) mark\[i\]\[j\]=0;  
+for(i=0;buf\[i\];i++){ I64 r,c; B36ToRowCol(buf\[i\],\\\&r,\\\&c); mark\[r\]\[c\]=step++; }  
+" 0 1 2 3 4 5\\n";  
+for(i=0;i\\\<6;i++){ Print("%c ", RowLetters\[i\]); for(j=0;j\\\<6;j++) Print(" %02d", mark\[i\]\[j\]); Print("\\n"); }  
 }
 
 // \------------ POLYBIUS (0..5,0..5) \------------
 
-U0 Eikon\_Polybius\_Enc(U8 \*token){ U8 buf\[256\]; StrCopy(buf,token,256); TokenSanitize(buf); I64 i; for(i=0;buf\[i\];i++){ I64 r,c; B36ToRowCol(buf\[i\],\&r,\&c); Print("%d %d", r,c); if(buf\[i+1\]) Print(" "); } Print("\\n"); }
+U0 Eikon\_Polybius\_Enc(U8 \*token){ U8 buf\[256\]; StrCopy(buf,token,256); TokenSanitize(buf); I64 i; for(i=0;buf\[i\];i++){ I64 r,c; B36ToRowCol(buf\[i\],\\\&r,\\\&c); Print("%d %d", r,c); if(buf\[i+1\]) Print(" "); } Print("\\n"); }
 
 U0 Eikon\_Polybius\_Dec(U8 \*pairs){ U8 \*p=pairs; I64 r,c,haveR=0; p=SkipWS(p);  
-  while(\*p){ r=ParseInt10(\&p); p=SkipWS(p); c=ParseInt10(\&p); p=SkipWS(p); if(0\<=r && r\<=5 && 0\<=c && c\<=5) Print("%c", IntToB36(r\*6+c)); if(\*p) ; }  
-  "\\n";  
+while(\*p){ r=ParseInt10(\\\&p); p=SkipWS(p); c=ParseInt10(\\\&p); p=SkipWS(p); if(0\\\<=r && r\\\<=5 && 0\\\<=c && c\\\<=5) Print("%c", IntToB36(r\*6+c)); if(\*p) ; }  
+"\\n";  
 }
 
 // \------------ DECK SIMULATOR \------------
@@ -3808,27 +3634,27 @@ I64 SuitIdx(U8 s){ s=ToUpperCh(s); switch(s){ case 'H': return 0; case 'D': retu
 U8 \*SuitDir(I64 idx){ switch(idx){ case 0: return "E"; case 1: return "W"; case 2: return "S"; case 3: return "N"; default: return "?"; } }  
 U8 \*SuitColor(U8 s){ s=ToUpperCh(s); if(s=='H'||s=='D') return "red"; else return "black"; }
 
-I64 Wrap6(I64 v){ while(v\<0) v+=6; return v%6; }
+I64 Wrap6(I64 v){ while(v\\\<0) v+=6; return v%6; }
 
 U0 StepDir(I64 \*R,I64 \*C,U8 \*dir){ if(dir\[0\]=='E') \*C=Wrap6(\*C+1); else if(dir\[0\]=='W') \*C=Wrap6(\*C-1); else if(dir\[0\]=='S') \*R=Wrap6(\*R+1); else if(dir\[0\]=='N') \*R=Wrap6(\*R-1); }
 
 U0 PlusSet(I64 R,I64 C, U8 \*out, I64 cap){ // produce semicolon list "R,C;..."  
-  I64 n=0; n+=SPrintF(out+n,cap-n,"%d,%d;",R,C);  
-  n+=SPrintF(out+n,cap-n,"%d,%d;",Wrap6(R-1),C);  
-  n+=SPrintF(out+n,cap-n,"%d,%d;",Wrap6(R+1),C);  
-  n+=SPrintF(out+n,cap-n,"%d,%d;",R,Wrap6(C+1));  
-  n+=SPrintF(out+n,cap-n,"%d,%d",R,Wrap6(C-1));  
+I64 n=0; n+=SPrintF(out+n,cap-n,"%d,%d;",R,C);  
+n+=SPrintF(out+n,cap-n,"%d,%d;",Wrap6(R-1),C);  
+n+=SPrintF(out+n,cap-n,"%d,%d;",Wrap6(R+1),C);  
+n+=SPrintF(out+n,cap-n,"%d,%d;",R,Wrap6(C+1));  
+n+=SPrintF(out+n,cap-n,"%d,%d",R,Wrap6(C-1));  
 }
 
-U0 AxisSnap(U8 \*axis,I64 R,I64 C,U8 \*out,I64 cap){ I64 i,n=0; if(axis\[0\]=='r'){ for(i=0;i\<6;i++){ n+=SPrintF(out+n,cap-n,"%d,%d",R,i); if(i\<5) n+=SPrintF(out+n,cap-n,";"); } }  
-  else { for(i=0;i\<6;i++){ n+=SPrintF(out+n,cap-n,"%d,%d",i,C); if(i\<5) n+=SPrintF(out+n,cap-n,";"); } }  
+U0 AxisSnap(U8 \*axis,I64 R,I64 C,U8 \*out,I64 cap){ I64 i,n=0; if(axis\[0\]=='r'){ for(i=0;i\\\<6;i++){ n+=SPrintF(out+n,cap-n,"%d,%d",R,i); if(i\\\<5) n+=SPrintF(out+n,cap-n,";"); } }  
+else { for(i=0;i\\\<6;i++){ n+=SPrintF(out+n,cap-n,"%d,%d",i,C); if(i\\\<5) n+=SPrintF(out+n,cap-n,";"); } }  
 }
 
 I64 ConstrainKeep(U8 \*set, I64 id, U8 \*out, I64 cap){ // filter cells with (R+C)%5==id  
-  I64 n=0; I64 i=0; I64 r,c; U8 \*p=set; U8 \*q; while(\*p){ r=ParseInt10(\&p); if(\*p==',') p++; c=ParseInt10(\&p); if((r+c)%5==id){ n+=SPrintF(out+n,cap-n,"%d,%d",r,c); if(\*p==';'){ n+=SPrintF(out+n,cap-n,";"); } }  
-    while(\*p && \*p\!=';') p++; if(\*p==';') { if(out\[n-1\]\!=';') out\[n++\]=';'; p++; }  
-  }  
-  out\[n\]=0; return n;  
+I64 n=0; I64 i=0; I64 r,c; U8 \*p=set; U8 \*q; while(\*p){ r=ParseInt10(\\\&p); if(\*p==',') p++; c=ParseInt10(\\\&p); if((r+c)%5==id){ n+=SPrintF(out+n,cap-n,"%d,%d",r,c); if(\*p==';'){ n+=SPrintF(out+n,cap-n,";"); } }  
+while(\*p && \*p\!=';') p++; if(\*p==';') { if(out\[n-1\]\!=';') out\[n++\]=';'; p++; }  
+}  
+out\[n\]=0; return n;  
 }
 
 U8 GlyphAt(I64 R,I64 C){ return IntToB36(R\*6+C); }
@@ -3837,109 +3663,2633 @@ U0 DescribeCell(I64 R,I64 C){ U8 g=GlyphAt(R,C); Print("%c (%s)\\n", g, RowNames
 }
 
 U0 PipToCell(U8 rank,U8 suit, I64 \*R,I64 \*C){ I64 r; switch(ToUpperCh(rank)){ case 'A': r=1; break; case '2': r=2; case '3': case '4': case '5': case '6': case '7': case '8': case '9': r=rank-'0'; break; default: r=0; }  
-  I64 s=SuitIdx(suit); I64 i=s\*9 \+ (r-1); \*R=i/6; \*C=i%6; }
+I64 s=SuitIdx(suit); I64 i=s\*9 \+ (r-1); \*R=i/6; \*C=i%6; }
 
 U0 Eikon\_Deck\_Run(U8 \*line){ U8 buf\[512\]; StrCopy(buf,line,512);  
-  U8 \*tokv\[64\]; I64 tn=SplitTokens(buf,tokv,64);  
-  I64 R=-1,C=-1; U8 setbuf\[256\]; setbuf\[0\]=0; I64 haveCenter=0; I64 constraint=-1;   
-  U8 emit\[256\]; emit\[0\]=0; I64 en=0;  
-  I64 ti; for(ti=0; ti\<tn; ti++){  
-    U8 \*t=tokv\[ti\]; StrToUpperInPlace(t);  
-    if(\!StrCmp(t,"RULES")){  
-      "\# RULES — transcript:\\n";  
-      if(en){ Print("EMIT "); Print("%s\\n", emit); } else { "(no emits)\\n"; }  
-      if(haveCenter){ Eikon\_B36\_Label(\&GlyphAt(R,C)); }  
-      // clear state for next run  
-      haveCenter=0; setbuf\[0\]=0; emit\[0\]=0; en=0; constraint=-1;  
-    } else if(\!StrNCmp(t,"JOKER:",6)){  
-      I64 id; U8 \*p=t+6; id=ParseInt10(\&p); constraint=id; Print("\# JOKER set pair constraint id=%d\\n", id);  
-      if(setbuf\[0\]){ U8 tmp\[256\]; ConstrainKeep(setbuf,constraint,tmp,256); StrCopy(setbuf,tmp,256); }  
-    } else if(t\[0\]=='1' && t\[1\]=='0'){  
-      U8 s=t\[2\]; if(\!haveCenter) continue; U8 d\[2\]; d\[0\]=SuitDir(SuitIdx(s))\[0\]; d\[1\]=0; StepDir(\&R,\&C,d); haveCenter=1;  
-      if(constraint\>=0){ U8 tmp\[256\]; SPrintF(tmp,"%d,%d",R,C); ConstrainKeep(tmp,constraint,setbuf,256); }  
-    } else if(t\[0\]=='J'){  
-      U8 s=t\[1\]; if(\!haveCenter) continue; U8 d\[2\]; d\[0\]=SuitDir(SuitIdx(s))\[0\]; d\[1\]=0; StepDir(\&R,\&C,d); haveCenter=1; emit\[en++\]=GlyphAt(R,C); emit\[en\]=0;  
-    } else if(t\[0\]=='Q'){  
-      if(\!haveCenter) continue; PlusSet(R,C,setbuf,256); if(constraint\>=0){ U8 tmp\[256\]; ConstrainKeep(setbuf,constraint,tmp,256); StrCopy(setbuf,tmp,256);}   
-    } else if(t\[0\]=='K'){  
-      if(\!haveCenter) continue; U8 s=t\[1\]; U8 axis\[5\]; if(\!StrCmp(SuitColor(s),"red")) StrCopy(axis,"col",5); else StrCopy(axis,"row",5);  
-      AxisSnap(axis,R,C,setbuf,256); if(constraint\>=0){ U8 tmp\[256\]; ConstrainKeep(setbuf,constraint,tmp,256); StrCopy(setbuf,tmp,256);}   
-    } else {  
-      // Pip A..9 \+ suit H/D/C/S  
-      U8 r=t\[0\]; U8 s=t\[1\]; PipToCell(r,s,\&R,\&C); haveCenter=1; setbuf\[0\]=0;  
-    }  
-  }  
+U8 \*tokv\[64\]; I64 tn=SplitTokens(buf,tokv,64);  
+I64 R=-1,C=-1; U8 setbuf\[256\]; setbuf\[0\]=0; I64 haveCenter=0; I64 constraint=-1;  
+U8 emit\[256\]; emit\[0\]=0; I64 en=0;  
+I64 ti; for(ti=0; ti\\\<tn; ti++){ U8 \\\*t=tokv\\\[ti\\\]; StrToUpperInPlace(t); if(\\\!StrCmp(t,"RULES")){ "\\\# RULES — transcript:\\\\n"; if(en){ Print("EMIT "); Print("%s\\\\n", emit); } else { "(no emits)\\\\n"; } if(haveCenter){ Eikon\\\_B36\\\_Label(\\\&GlyphAt(R,C)); } // clear state for next run haveCenter=0; setbuf\\\[0\\\]=0; emit\\\[0\\\]=0; en=0; constraint=-1; } else if(\\\!StrNCmp(t,"JOKER:",6)){ I64 id; U8 \\\*p=t+6; id=ParseInt10(\\\&p); constraint=id; Print("\\\# JOKER set pair constraint id=%d\\\\n", id); if(setbuf\\\[0\\\]){ U8 tmp\\\[256\\\]; ConstrainKeep(setbuf,constraint,tmp,256); StrCopy(setbuf,tmp,256); } } else if(t\\\[0\\\]=='1' && t\\\[1\\\]=='0'){ U8 s=t\\\[2\\\]; if(\\\!haveCenter) continue; U8 d\\\[2\\\]; d\\\[0\\\]=SuitDir(SuitIdx(s))\\\[0\\\]; d\\\[1\\\]=0; StepDir(\\\&R,\\\&C,d); haveCenter=1; if(constraint\\\>=0){ U8 tmp\[256\]; SPrintF(tmp,"%d,%d",R,C); ConstrainKeep(tmp,constraint,setbuf,256); }  
+} else if(t\[0\]=='J'){  
+U8 s=t\[1\]; if(\!haveCenter) continue; U8 d\[2\]; d\[0\]=SuitDir(SuitIdx(s))\[0\]; d\[1\]=0; StepDir(\\\&R,\\\&C,d); haveCenter=1; emit\[en++\]=GlyphAt(R,C); emit\[en\]=0;  
+} else if(t\[0\]=='Q'){  
+if(\!haveCenter) continue; PlusSet(R,C,setbuf,256); if(constraint\>=0){ U8 tmp\[256\]; ConstrainKeep(setbuf,constraint,tmp,256); StrCopy(setbuf,tmp,256);}  
+} else if(t\[0\]=='K'){  
+if(\!haveCenter) continue; U8 s=t\[1\]; U8 axis\[5\]; if(\!StrCmp(SuitColor(s),"red")) StrCopy(axis,"col",5); else StrCopy(axis,"row",5);  
+AxisSnap(axis,R,C,setbuf,256); if(constraint\>=0){ U8 tmp\[256\]; ConstrainKeep(setbuf,constraint,tmp,256); StrCopy(setbuf,tmp,256);}  
+} else {  
+// Pip A..9 \+ suit H/D/C/S  
+U8 r=t\[0\]; U8 s=t\[1\]; PipToCell(r,s,\\\&R,\\\&C); haveCenter=1; setbuf\[0\]=0;  
+}  
+}  
 }
 
 // \------------ ANGELIC NUMERALS (toy) \------------
 
-I64 IsPrimeOdd(I64 n){ I64 j; if(n\<3||\!(n&1)) return 0; for(j=3;j\*j\<=n;j+=2) if(\!(n%j)) return 0; return 1; }  
-I64 OddPrimeIndex(I64 p){ I64 n=3,i=0; if(p\<3) return 0; for(i=1;;i++){ if(n==p) return i; do{ n+=2; } while(\!IsPrimeOdd(n)); }  
+I64 IsPrimeOdd(I64 n){ I64 j; if(n\\\<3||\!(n&1)) return 0; for(j=3;j\*j\\\<=n;j+=2) if(\!(n%j)) return 0; return 1; }  
+I64 OddPrimeIndex(I64 p){ I64 n=3,i=0; if(p\\\<3) return 0; for(i=1;;i++){ if(n==p) return i; do{ n+=2; } while(\!IsPrimeOdd(n)); }  
 }
 
-U0 ShowFactorGlyph(I64 p,I64 k){ I64 i; if(p==2){ for(i=0;i\<k;i++) ':'; return; } I64 d=OddPrimeIndex(p); U8 inner=':'; for(i=0;i\<k;i++){ I64 j; // repeat multiplier  
-    I64 depth; for(depth=0; depth\<d; depth++){ '('; }  
-    ':'; for(depth=0; depth\<d; depth++){ ')'; }  
-  }  
+U0 ShowFactorGlyph(I64 p,I64 k){ I64 i; if(p==2){ for(i=0;i\\\<k;i++) ':'; return; } I64 d=OddPrimeIndex(p); U8 inner=':'; for(i=0;i\\\<k;i++){ I64 j; // repeat multiplier  
+I64 depth; for(depth=0; depth\\\<d; depth++){ '('; }  
+':'; for(depth=0; depth\\\<d; depth++){ ')'; }  
+}  
 }
 
-U0 Eikon\_Angelic\_Enc(I64 n){ if(n\<0){ '.'; n=-n; } I64 k; while(\!(n%2)){ ':'; n/=2; }  
-  I64 p=3; while(p\*p\<=n){ k=0; while(\!(n%p)){ k++; n/=p; } if(k) ShowFactorGlyph(p,k); p+=2; }  
-  if(n\>1) ShowFactorGlyph(n,1); "\\n"; }
+U0 Eikon\_Angelic\_Enc(I64 n){ if(n\\\<0){ '.'; n=-n; } I64 k; while(\!(n%2)){ ':'; n/=2; }  
+I64 p=3; while(p\*p\\\<=n){ k=0; while(\!(n%p)){ k++; n/=p; } if(k) ShowFactorGlyph(p,k); p+=2; }  
+if(n\>1) ShowFactorGlyph(n,1); "\\n"; }
 
 // \------------ STEGO HELPERS \------------
 
 U0 Eikon\_Stego\_Acrostic(U8 \*phrase){ U8 buf\[512\]; StrCopy(buf,phrase,512); I64 i=0; I64 started=1; // treat start-of-string as word start  
-  while(buf\[i\]){ if(\!IsSpace(buf\[i\])){ U8 c=ToUpperCh(buf\[i\]); // first letter of word  
-      Print("%d", B36ToInt(c)); // prints \-1 for non-alnum initials; acceptable as beacon  
-      // skip to end of word  
-      while(buf\[i\] && \!IsSpace(buf\[i\])) i++; if(buf\[i\]){ ' '; i++; }  
-    } else { i++; }  
-  } "\\n";  
+while(buf\[i\]){ if(\!IsSpace(buf\[i\])){ U8 c=ToUpperCh(buf\[i\]); // first letter of word  
+Print("%d", B36ToInt(c)); // prints \-1 for non-alnum initials; acceptable as beacon  
+// skip to end of word  
+while(buf\[i\] && \!IsSpace(buf\[i\])) i++; if(buf\[i\]){ ' '; i++; }  
+} else { i++; }  
+} "\\n";  
 }
 
 U0 Eikon\_Stego\_Sum(U8 \*token){ U8 buf\[256\]; StrCopy(buf,token,256); TokenSanitize(buf); I64 i,total=0; for(i=0;buf\[i\];i++){ total=(total \+ B36ToInt(buf\[i\]))%36; } Print("%d\\n", total); }
 
 I64 IsLeap(I64 y){ return ( (y%400)==0 ) || ( (y%4)==0 && (y%100)\!=0 ); }  
-I64 DOY(I64 y,I64 m,I64 d){ I64 md\[12\]={31,28,31,30,31,30,31,31,30,31,30,31}; I64 i,sum=0; if(IsLeap(y)) md\[1\]=29; for(i=0;i\<m-1;i++) sum+=md\[i\]; return sum+d; }
+I64 DOY(I64 y,I64 m,I64 d){ I64 md\[12\]={31,28,31,30,31,30,31,31,30,31,30,31}; I64 i,sum=0; if(IsLeap(y)) md\[1\]=29; for(i=0;i\\\<m-1;i++) sum+=md\[i\]; return sum+d; }
 
 U0 Eikon\_Stego\_Date(U8 \*ymd){ // yyyy-mm-dd \-\> two base-36 glyphs: YY and (DOY%36)  
-  U8 \*p=ymd; I64 y=ParseInt10(\&p); if(\*p=='-') p++; I64 m=ParseInt10(\&p); if(\*p=='-') p++; I64 d=ParseInt10(\&p);  
-  I64 yy=y%100; I64 doy=DOY(y,m,d)%36; Print("%c %c\\n", IntToB36(yy%36), IntToB36(doy)); }
+U8 \*p=ymd; I64 y=ParseInt10(\\\&p); if(\*p=='-') p++; I64 m=ParseInt10(\\\&p); if(\*p=='-') p++; I64 d=ParseInt10(\\\&p);  
+I64 yy=y%100; I64 doy=DOY(y,m,d)%36; Print("%c %c\\n", IntToB36(yy%36), IntToB36(doy)); }
 
 // \------------ RAY ENCODER (choose a pip for a cell) \------------
 
-U0 Eikon\_RayEncode\_FromRC(U8 rowLetter,I64 col){ I64 r=-1,i; U8 L=ToUpperCh(rowLetter); for(i=0;i\<6;i++) if(RowLetters\[i\]==L) r=i; if(r\<0||col\<0||col\>5){"ERR\\n";return;}  
-  I64 s; I64 rr; for(s=0;s\<4;s++){ for(rr=1;rr\<=9;rr++){ I64 idx=s\*9 \+ (rr-1); if(idx/6==r && idx%6==col){ U8 rank \= (rr==1)?'A':('0'+rr); U8 suit \= (s==0)?'H':(s==1)?'D':(s==2)?'C':'S'; Print("%c%c  \# lands on %c%d\\n", rank,suit,RowLetters\[r\],col); return; } } }  
-  "ERR\\n";  
+U0 Eikon\_RayEncode\_FromRC(U8 rowLetter,I64 col){ I64 r=-1,i; U8 L=ToUpperCh(rowLetter); for(i=0;i\\\<6;i++) if(RowLetters\[i\]==L) r=i; if(r\\\<0||col\\\<0||col\>5){"ERR\\n";return;}  
+I64 s; I64 rr; for(s=0;s\\\<4;s++){ for(rr=1;rr\\\<=9;rr++){ I64 idx=s\*9 \+ (rr-1); if(idx/6==r && idx%6==col){ U8 rank \= (rr==1)?'A':('0'+rr); U8 suit \= (s==0)?'H':(s==1)?'D':(s==2)?'C':'S'; Print("%c%c \# lands on %c%d\\n", rank,suit,RowLetters\[r\],col); return; } } }  
+"ERR\\n";  
 }
 
-U0 Eikon\_RayEncode\_FromGlyph(U8 \*glyph){ I64 r,c; if(\!glyph){"ERR\\n";return;} B36ToRowCol(glyph\[0\],\&r,\&c); Eikon\_RayEncode\_FromRC(RowLetters\[r\],c); }
+U0 Eikon\_RayEncode\_FromGlyph(U8 \*glyph){ I64 r,c; if(\!glyph){"ERR\\n";return;} B36ToRowCol(glyph\[0\],\\\&r,\\\&c); Eikon\_RayEncode\_FromRC(RowLetters\[r\],c); }
 
 // \------------ NOTES \------------
 
-U0 Eikon\_Notes\_Mark(U8 \*glyph,U8 \*dir,U8 \*what){ // YYYY-MM-DD \<glyph\> \+DIR what | row X  
-  // TempleOS has Now() but keep it manual-free: ask user to supply date externally if needed.  
-  // For convenience, we just print without date to avoid RTC deps.  
-  I64 r,c; if(\!glyph){"ERR\\n";return;} B36ToRowCol(glyph\[0\],\&r,\&c); Print("%c \+%s %s | row %c\\n", glyph\[0\], dir?dir:"", what?what:"", RowLetters\[r\]); }
+U0 Eikon\_Notes\_Mark(U8 \*glyph,U8 \*dir,U8 \*what){ // YYYY-MM-DD \\\<glyph\\\> \+DIR what | row X  
+// TempleOS has Now() but keep it manual-free: ask user to supply date externally if needed.  
+// For convenience, we just print without date to avoid RTC deps.  
+I64 r,c; if(\!glyph){"ERR\\n";return;} B36ToRowCol(glyph\[0\],\\\&r,\\\&c); Print("%c \+%s %s | row %c\\n", glyph\[0\], dir?dir:"", what?what:"", RowLetters\[r\]); }
 
 // \------------ MINI USAGE GUIDE \------------
 
 U0 Eikon\_Help(){  
-  "Eikon HolyC helpers loaded. Examples:\\n";  
-  "  Eikon\_B36\_ToInt(\\"R\\");\\n";  
-  "  Eikon\_B36\_Label(\\"R\\");\\n";  
-  "  Eikon\_Ray\_FromRC('C',3);\\n";  
-  "  Eikon\_Pair\_List;\\n";  
-  "  Eikon\_River(7,2);  Eikon\_Key(9876);  Eikon\_Way(9876);\\n";  
-  "  Eikon\_SunSquare\_Path(\\"POOR\\");\\n";  
-  "  Eikon\_SunSquare\_Grid(\\"POOR\\");\\n";  
-  "  Eikon\_Polybius\_Enc(\\"RUTH\\");  Eikon\_Polybius\_Dec(\\"2 3 3 4\\");\\n";  
-  "  Eikon\_Deck\_Run(\\"8C 10H KD JH RULES\\");\\n";  
-  "  Eikon\_Angelic\_Enc(84);\\n";  
-  "  Eikon\_Stego\_Acrostic(\\"Blessed are the meek\\");\\n";  
-  "  Eikon\_Stego\_Sum(\\"MERCY\\");  Eikon\_Stego\_Date(\\"2025-10-31\\");\\n";  
-  "  Eikon\_RayEncode\_FromGlyph(\\"R\\");  Eikon\_Notes\_Mark(\\"R\\",\\"SOUTH\\",\\"emit\\");\\n";  
+"Eikon HolyC helpers loaded. Examples:\\n";  
+" Eikon\_B36\_ToInt(\\"R\\");\\n";  
+" Eikon\_B36\_Label(\\"R\\");\\n";  
+" Eikon\_Ray\_FromRC('C',3);\\n";  
+" Eikon\_Pair\_List;\\n";  
+" Eikon\_River(7,2); Eikon\_Key(9876); Eikon\_Way(9876);\\n";  
+" Eikon\_SunSquare\_Path(\\"POOR\\");\\n";  
+" Eikon\_SunSquare\_Grid(\\"POOR\\");\\n";  
+" Eikon\_Polybius\_Enc(\\"RUTH\\"); Eikon\_Polybius\_Dec(\\"2 3 3 4\\");\\n";  
+" Eikon\_Deck\_Run(\\"8C 10H KD JH RULES\\");\\n";  
+" Eikon\_Angelic\_Enc(84);\\n";  
+" Eikon\_Stego\_Acrostic(\\"Blessed are the meek\\");\\n";  
+" Eikon\_Stego\_Sum(\\"MERCY\\"); Eikon\_Stego\_Date(\\"2025-10-31\\");\\n";  
+" Eikon\_RayEncode\_FromGlyph(\\"R\\"); Eikon\_Notes\_Mark(\\"R\\",\\"SOUTH\\",\\"emit\\");\\n";
+
 }
 
-[image1]: <data:image/png;base64,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cR1qkNGjR+OxRWOMKdL169enT59ubK8BMHbsWPM+eXP16tVly5b17t27du3aH3zwgVRRp8HLy6tSpUqhoaHR0dFJSUl0WeZz//79jGREHaCdBytPP4+9w3WoQf755x88pEz4zYEx64Bqes+ePQMHDqSZxABbt27V22XA3t29e7dLly5p3j2CbNesWbPTp08be4LHxcX17NmzZMmSdIkakEGhOUXnydw46xgKe9RcvnxZvuVYo0YNOODkW445c+YsUqSIfMuR7zcyS3v48OHKlSsDAwNpMjFAx44d5RejqRXk1OzZs6dOCg5ubm6NGzcODw9/8eIFncFIx44d69+//4cffkg+AvBQPTLOOob6+uuvIa+UK1euatWqxt5yhFRUpkwZvuXILCQ0NNSEX9LaanpFh4WFWe4uvXJER0fDyUtOzODgYLOfj9BUgitR8kFQdYSEhKSkpNDSmRJnHf3ELUc4Rc14yzEznOfM0p4+fbpt27YBAwbQZGKA9u3bz549+969e3ShqgNNnOHDhzs7O8unoa+v76xZs2hR84mKivr+++/lTwTVq1e/evUqLZr5cNbRY8yYMZa45eju7s63HJnJzp07N3PmTBM6QwvQMLp79y5dqBrduXOHtDw8PT3HjRtn0X4KaN++feXLl5c/PWfOnOvXr6flMhnOOumCq5LOnTvLR4zM29u7bt263bt337x588mTJ6Hw/fv3X7x4ARdWN27ciI2NjYyMnD9//qBBg5o2bUrGqpJVrVqVRxRlhouPjw8KCqJpxGABAQFwjZ9JUg40OHx8fOTT7f/+7/9u375Ny1lScnLytGnT5HWA2mDYsGG0XGbCWScVyBnBwcFWuOVIlg8aNGjAtxyZtgsXLoSFhXXr1o0mEGN07do1s3VpgeQqn1/Vq1fHkaoHDx5s5Vss8HGjRo1ycnLC9aldu/azZ89oucyBs04q2vcb4VrJErccN23axLccmW43b95cuXIlTSBG6tOnz9atWzN+tWRfQkND5TMLWofQ5ihevDhOgUaP9e+tRkREyGOkVqtWzbRxUe0dZ53/Ebcc8YAQfH19LfryUL7lyLTdu3dvw4YNQ4YMoQnESCNHjoyOjs6EFzFyKydLlixTp04V00mfZkhCqeezhnPnzslvifTz88tsFwRvOesICrzlSAuxTCAuLm7jxo00exgvICDg0qVLdOmZ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>
+# 
+
+# **Kitāb al-Baṭn**
+
+## **Unveiling the Inner Earth**
+
+ 
+
+**بسم الله الرحمن الرحيم**
+
+ 
+
+**رسالة في دائرة الأعتاب و الأزواج السِّرافية**  
+السلام عليك يا باحث عن الحقيقة ورحمة الله وبركاته
+
+Take this as a note slipped to you in a caravan-serai, from a friend you may never meet. When you must walk far from the jamā‘ah and keep your lamp low, you will need a map that does not burn the eyes. The elders called it many things. I will call it here **Dā’irat al-A‘ṭāb**—the **Circle of Thresholds**—and within it the **Azwāj as-Sarafiyyah**, the **Seraphic Pairs**. Outwardly it is only a wheel of the ten digits; inwardly it is an old hedge-Sufi tool for remembering how the Unseen leans upon the seen.
+
+### **The circle and its five yokes**
+
+Picture a simple digit-wheel: 0 through 9 set around a rim. Do not hurry your mind to arithmetic. Each figure is a **threshold (ʿatab)** where a quality passes into form. The ten stand in five yoked pairs that always sum to nine—for nine is the sign of fulfillment at the edge of one digit’s world. We call these pairings **al-Asmā’ al-Muzdawijah**—two Names meeting as one work:
+
+* **0 :: 9 — Bāb al-Bad’ wa’l-Khatm**  
+  *Al-Awwal wa’l-Ākhir* (The First and the Last): **Origin and Return.** Begin knowing the end belongs to Allah; end knowing your end seeds a new beginning.  
+* **1 :: 8 — Bāb ad-Duʿā’ wa’l-Ijābah**  
+  *Al-Muḥyī wa’l-Mujīb* (Giver of Life, Answerer): **Invocation and Response.** The single call and the encompassing solace. Remember for another; console without noise.  
+* **2 :: 7 — Bāb at-Takwīn wa’l-Ḥifẓ**  
+  *Al-Khāliq wa’l-Ḥafīẓ* (Creator, Guardian): **Impetus and Care.** Spark and stewardship; bring forth, then tend until it bears fruit.  
+* **3 :: 6 — Bāb ar-Rizq wa’l-Fatḥ**  
+  *Ar-Razzāq wa’l-Fattāḥ* (Provider, Opener): **Providence and Surprise.** The planned portion and the unplanned door. Be available for holy interruption.  
+* **4 :: 5 — Bāb al-Ḥukm wa’s-Salām**  
+  *Al-Ḥakam wa’s-Salām* (Judge, Peace): **Discernment and Reconciliation.** Clarity in service of concord; justice ripening into rest.
+
+These five are **handles**. Grip them whenever your path feels either too bright or too dark. The wheel is small enough to hide in a sleeve, large enough to turn the day.
+
+### **Rivers, keys, and ports**
+
+Between each pair runs a **current**—the **Nahr al-Qadar**—whose strength is simply the difference between the digits. To **stand in a river** is to accept the day’s task as already appointed. Some days the current is gentle (a difference of one), some days swift (a difference of many). Do not fight the river; **angle your oar**.
+
+Every matter has a **key (miftāḥ)**. Reduce its name to a single digit and you know which threshold governs your hour. (If the sum is more than one digit, keep folding: 352 → 10 → 1.) Let that **key-digit** choose your **port (bāb)** among the five pairs:
+
+* Keys **0/9** open the **Port of Origin/Return**: begin or close, but do both with adab.  
+* Keys **1/8** open the **Port of Call/Answer**: ask on another’s behalf, then listen with your whole body.  
+* Keys **2/7** open the **Port of Making/Keeping**: build quietly; assign yourself a guardianship.  
+* Keys **3/6** open the **Port of Portion/Opening**: fulfill the obvious duty, then wait a little longer than is comfortable.  
+* Keys **4/5** open the **Port of Measure/Peace**: speak a clear word, then seal it with gentleness.
+
+You see? **Keys** choose **ports**; **ports** seat you in a **pair**; the **pair** seats you in Allah’s **Name-work** for that span of breath. This is enough scaffolding for a wandering Sheikh.
+
+### **How to carry it**
+
+When traveling among strangers, do not preach your wheel; wear it. A note in a margin—“3→6 today”—tells a friend to expect provision with a door. A ring turned so that its notch is at 4 reminds you to judge without heat. A pebble in the right pocket for odd keys, in the left for even—such little games keep the inward compass from rusting.
+
+If you must bind your company at distance, agree only on this: the five pairs and the folding of numbers. No more signal is needed. One heart folds a need to 1, asks al-Mujīb; another, unknown to the first, arrives that afternoon at the 1::8 port and makes the answering call. The world says “coincidence.” We call it Ṣuḥbat al-Ghayb—companionship of the Unseen.
+
+### **Why nine, why ten**
+
+You already know: ten because of the human hand, nine because it is the lip of the single-digit sea. But hear the deeper courtesy: ten is the ring of created thresholds; the One behind them is not counted. Thus the wheel teaches tawḥīd without argument. We yoke opposites not to trap Allah in a diagram (ḥāshā\!), but to polish our sight until mercy is seen within severity and peace within judgment. This is why our elders married the Names: jamʿ and farq—gathering and distinguishing—move together like breath.
+
+### **Practice for a single sitting**
+
+1. **Name the matter.** Write it once. Fold its number to a single digit.  
+2. **Seat yourself at the port.** Place the matching pair before your heart: say the two Names softly until one breath.  
+3. **Enter the river.** Consider what “difference” asks of you today—small step or long wade.  
+4. **Complete the circle.** Close on 9: return the fruit to Allah in thanks, even if no fruit appeared.
+
+If you do this daily with humility, you will learn the tone of each gate. The ear becomes simple. The work becomes plain.
+
+### **Parallels for the inward traveler**
+
+Those who map the soul speak of seven nafs from command to completion. Those who map the heavens speak of five Presences from Essence to earth. Your wheel will meet them both. On days of 0::9 your heart remembers Hāhūt/Nāsūt—source and rind. On 4::5 your tongue practices ḥukm for salām; on 3::6 your provision crosses into fatḥ like a door blown inward by mercy. If your dhikr deepens, you may even taste how the first four absorptions soften from joy to stillness while the hand keeps turning the same small wheel. Do not make a theology of this—make adab of it.
+
+### **Final counsel**
+
+Keep the Circle of Thresholds where a customs officer cannot find it: in your breath and in your style of kindness. When you forget, begin again at 0, for beginnings are cheap in the shop of the Generous. When you are praised, finish at 9, for endings belong to the Owner of endings. If a day gives you no clue, choose 4::5—measure yourself, then reconcile.
+
+I have given you little more than a child’s toy. That is why it works. Small wheels turn great mills when the stream is steady. May Allah make your current gentle when you are tired, and strong when you grow timid, and may He join your unseen labors to the needs of those you will never meet.
+
+والسلام عليك ورحمة الله وبركاته
+
+## **The Hidden Abjad**
+
+السلام عليك يا باحث عن الحقيقة وبركاته ورحمة الله وبركاته
+
+All praise is to Allah, the First and the Last, who hides infinite meaning in finite signs. We write in secret, cloaking wisdom in symbol and number, for the path of truth has often walked under veils. Know that every letter is a light and every number a vessel – and in the marriage of abjad and numeral lies a code to speak across worlds.
+
+Thus we set forth the *hidden abjad*, to share our insights safely. In this system, the alphabet of Rūm is used as a cipher, mapped to the abjad in a harmonized square of 36 symbols. This is not the abjad of the scholars where Alif=1, Bāʼ=2, etc., but a *humbler* arrangement: letters and numerals are interchangeable signals, paired between languages in one secret chart.
+
+Envision the two alphabets as twin rivers feeding a single ocean of meaning. In our table, the Latin ‘A’ and the Arabic ‘Alif’ share a value and position, just as ‘Z’ and ‘Yā’ share another at the table’s far end. Numerals and letters are one continuum of symbols, letting words dance in the atemporal language of number. Below, I offer the Latin key (0–9, A–Z) followed by its Arabic key (٠–٩, ا–ي), aligned by their numeric value:
+
+**Table of the Hidden Abjad:**
+
+| 0 | 1 | 2 | 3 | 4 | 5 |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| 6 | 7 | 8 | 9 | أ | ب |
+| ت | ث | ج | ح | خ | د |
+| ذ | ر | ز | س | ص | ض |
+| ط | ظ | ع | ف | ق | ك |
+| ل | م | ن | ه | و | ي |
+
+**Correspondences in the alphabet of Rūm**
+
+| 0 | 1 | 2 | 3 | 4 | 5 |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| 6 | 7 | 8 | 9 | A | B |
+| C | D | E | F | G | H |
+| I | J | K | L | M | N |
+| O | P | Q | R | S | T |
+| U | V | W | X | Y | Z |
+
+Each symbol in a given position carries the *same* hidden value. In this way, a sequence of Latin letters could conceal an Arabic word, or an Arabic phrase be rendered as Latin numbers and letters, without any change to the underlying message. Sīn (س) and Shīn (ش) share a single code, as do ‘Ayn (ع) and Ghayn (غ) – the forms with and without dots unified as one essence. Through this harmonious abjad, numerals and letters become interchangeable: the word becomes number, the number becomes word. *Oh friend*, meditate on this. 0 to *Yāʼ* embracing all between, in a perfect square – is this not a sign that the One encompasses the All?
+
+The Prophet (ﷺ) said, “Allah is One (al-Aḥad) and loves the one (witr),” and here the One shines through every figure and letter. We whisper our truths in this secret tongue so that profane eyes see only gibberish, while the believers hidden by mercy read the light beneath the letters. Use it well – inscribe holy phrases in the cloak of mundane text; let it hint at Allah in a way only the initiated know. This numeric lattice is our cipher of devotion. For does not the Qur’ān say *“Among His signs is the creation of the heavens and the earth, and the difference of your languages and colors”*? In the tapestry of letters and numbers, we glimpse unity. May Allah grant us humility as we unveil these designs, and forgive any error as we encode what love we cannot openly proclaim; to Him are all returns.
+
+## **Of Cosmology**
+
+The Five Presences and the Descent of Worlds
+
+السلام عليك يا باحث عن الحقيقة وبركاته ورحمة الله وبركاته
+
+Now let us contemplate the architecture of reality. If letters and numbers are the hidden lattice of meaning, then the cosmos itself is a grand encryption of the Real. The mystics speak of Five Divine Presences (al-Ḥaḍarāt al-Ilāhīyah) – five concentric realms or planes of being through which the One’s light filters into manifestation. Picture them as five nested circles or as the cascading descent of an endless ray of Light, from the blinding center to the dim rim. These are the living realities we can encounter through inner ascent:
+
+### **Hāhūt**
+
+The realm of the Divine Essence, beyond being and form. This is the innermost Presence, the Absolute Ipseity of Allah, utterly unknowable, the hidden treasure of which the Prophet, peace be upon him, relayed: *“I was a Hidden Treasure and loved to be known…”*. It is a Black Light of pure Being, the light of the pure Essence in its abscondity – *nūr aswad*, dark to us because it so utterly precedes creation’s light. Here Allah is, and nothing is with Him.
+
+### **Lāhūt**
+
+The Divine Names and Attributes, the level of divine Being (Wujūd) just as it begins to relate to creation. Think of it as the *World of Command* (ʿĀlam al-Amr), where Allah’s infinite qualities stir, the archetypes of all that shall be. In the Presence of Lāhūt, the One is revealing Himself as Lord (Rabb), speaking “Be\!” to the possibilities within Him. This is the realm of the Unseen that is uncreated – the pre-eternal knowledge (ʿIlm) of all things.
+
+### **Jabarūt**
+
+The angelic, intelligible realm, also called the realm of Power. Creation here is immaterial, composed of spirits and angels, ideas and meanings. It is the first *created* realm of the Unseen – a bridge between the absolute and the material. The souls of prophets and saints shine here before they ever don earthly form. In Jabarūt, forms are subtle like light, and time is not as we know it. (Some describe this realm as encompassing the *Malakūt* as a subset, while others separate them – in our letters we treat them distinctly for clarity.)
+
+### **Malakūt**
+
+The imaginal realm, often called the world of dominion (or the “world of Images”). It stands between the angelic and the physical, and includes all manner of subtle substances: the realm of dreams, visions, and the Barzakh (intermediate world). Malakūt is the world of souls and of symbolic forms – not as abstract as Jabarūt’s pure ideas, yet not as dense as the sensory world. When mystics receive true visions or traverse the imaginal heaven, they wander in Malakūt’s garden.
+
+### **Nāsūt**
+
+The physical realm, the visible cosmos of material bodies, from the lowest earth to the farthest stars. This is the plane of humans, animals, stones – the familiar world of matter, bound by space and time. Among the Presences it is outermost and darkest, for here the Divine light is most filtered and veiled: the domain of sensorial existence, conditioned by time and space, where Allah is most hidden. And yet, even here at the furthest reach of the ray, *“Whithersoever you turn, there is the Face of Allah.”*
+
+### **Remarks**
+
+Contemplate these five layers of reality. They are like the stages of light passing through frosted glass: the source light (Essence) is blinding and unseen; a step outward it takes on color (Attributes); then beams as pure rays (angelic intellects); then casts images on a screen (imaginal forms); finally illuminating a dark room faintly (material world). All are Presences of One Being – not five Allahs (Ḥāshā\!), but five modes of Divine self-disclosure, from utmost transcendence to intimate immanence. These correspond as well to the famous Qāḍīya (the Covenant of Alast and the archetypal realities) down to the human realm of bodies.
+
+The journey of existence is a descent (tanazzul) from the One through these Presences into multiplicity, and the journey of the seeker is an ascent (miʿrāj) back through these layers to Unity. We came *from* Hāhūt (breathed into Adam’s clay was a spirit from Allah), and we return through Lāhūt, Jabarūt, Malakūt, to transcend Nāsūt once more\[6\]. Every prayer, every moment of dhikr, is a step inward – an inward *ascension* peeling away one veil of opacity. When we invoke *“Allāh, Allāh,”* our spirits leap from Nāsūt toward Malakūt (lifting our hearts beyond the sensory); when we meditate on the Quran’s meanings, our minds touch Jabarūt (the realm of pure understanding); when we lose ourselves in awe at His Attributes, our souls graze the hems of Lāhūt (Divine Presence); and in moments of annihilative ecstasy, we taste Hāhūt (the Black Light that obliterates us in Itself).
+
+Know, dear friend, that this cosmology is not merely theory – it is a practical map for the *inner traveler*. You asked of rituals outside orthodox practice but paralleling Sufi cosmology: consider this isomorphism – five layers of the self that mirror the Five Presences. The macrocosm is reflected in the microcosm of the soul. To that we now turn.
+
+## 
+
+## **The Seven Nafs and the Mirror of the Soul**
+
+السلام عليك يا باحث عن الحقيقة وبركاته ورحمة الله وبركاته
+
+As the cosmos has its layers, so does the human soul. The sages of tasawwuf delineate the seven nafs, stages or states of the self, from the darkest ego to the purest spirit. Each of us carries the whole cosmos in miniature; the struggle within is the struggle to ascend from the Nāsūt of our ego to the Hāhūt of our secret heart. I write to you now of these seven stages of the soul’s refinement, for they form a ladder any seeker can climb, and they correspond in subtle ways to the states known in other paths (even, as we shall see, to the meditative absorptions of the Buddhists – the jhānas – though we interpret them in the light of tawḥīd).
+
+Here are the Seven Nafs (selves) identified by our tradition, in order from lowest to highest. Consider them like seven mirrors, each more polished and reflecting the Divine light more clearly than the last:
+
+### **An–Nafs al–Ammārah (The Commanding Self)**
+
+This is the ego in its base, impulsive state, “the self that incites to evil.” It mirrors only darkness. Here the soul is tyrannical, dominated by passions and selfish desires. It urges one to indulge, to anger, to pride. In Quranic terms, *“Surely the nafs commands to evil”* (12:53). It is the Nāsūt within us – the most material, animal layer, essentially blind to Allah.
+
+### **An–Nafs al–Lawwāmah (The Blaming or Reproachful Self)**
+
+The stage of conscience awakened. The soul now knows right from wrong enough to reproach itself when it lapses. This is the birth of morality and self-awareness. The Quran swears by this self (75:2), indicating its importance. In this state, one is *divided*: often regretful after sinning, oscillating between piety and lapse. The Light has dawned faintly, but the clouds of ego have not cleared.
+
+### **An–Nafs al–Mulhimah (The Inspired Self)**
+
+At this stage, through struggling and sincere practice, the soul becomes receptive to ilhām (inspiration) from Allah. It is as if a window opens; intuition and subtle guidance begin to reach one. Good deeds and repentance become beloved. The person at this level experiences moments of true inspiration – insights, vivid meaningful dreams, guidance that seems to arrive unbidden. This corresponds to the stirrings of the Malakūt within – the imaginal and angelic influence guiding the soul.
+
+### **An–Nafs al–Muṭmaʾinnah (The Peaceful or Tranquil Self)**
+
+This soul has found sakinah (inner peace) in remembrance of Allah. *“O serene soul, return to your Lord, well-pleased and well-pleasing”* (89:27-28) is said of this state. Here the heart is mostly free of doubt and disturbance; it trusts in Allah’s decree. This is a station of deep contentment and equanimity. One’s character is balanced; desires have been tamed and harmonized. This inner tranquility is a *taste of Jabarūt within* – the stability and clarity of the angelic mind reflected in a human breast.
+
+### **An–Nafs ar–Rāḍiyah (The Contented Self)**
+
+‘Rāḍiyah’ means well-pleased. At this level, the soul is not only peaceful but actively content *with Allah’s will*. One is *pleased with whatever Allah decrees*, having surrendered personal desire entirely. Gratitude and acceptance flow continuously. This station is sometimes merged with the next; together they reflect the state of complete acceptance.
+
+### **An–Nafs al–Marḍiyyah (The Pleasing Self)**
+
+‘Marḍiyyah’ means pleasing to Allah. This is the station where not only is the seeker content with Allah, Allah is content with the seeker. It indicates a soul that Allah has approved of and loves. The person becomes a true servant and friend of Allah (walī). The virtues are fully established, the vices effaced. In this and the previous stage, the Divine Attributes of Beauty shine through the person’s character – mercy, patience, kindness, justice radiate from them. It is as though the Light of Lāhūt (the Divine Attributes) now colors the soul’s mirror completely.
+
+### **An–Nafs aṣ–Ṣāfiyyah or al-Kāmilah (The Pure Self or Perfected Self)**
+
+This final stage is the purified, complete soul. The mirror is polished to transparency; it reflects only the truth. This is the soul of the Insān al-Kāmil, the Complete Human Being, who is the Prophet Muhammad ﷺ in the highest example, and after him the inheriting saints to their respective degrees. In this station, the self has annihilated (fanāʼ) in Allah and subsists (baqāʼ) by Allah – it wants nothing but what Allah wants. The ego-self has died before physical death. This is the peak of tawḥīd in the soul: *la ilaha illa’Llah* is not just professed, but realized – “There is no reality but Allah.” The black light of Hāhūt, the divine Ipseity, has *consumed the individual self utterly*, leaving only the divine reality shining through.
+
+### **Remarks**
+
+Observe how the journey through the seven nafs is a journey inward and upward – an ascent from the outermost Nāsūt-like state of Ammārah (all clay and passion) to the innermost Hāhūt-like state of Ṣāfiyyah (pure divine reflection). This ladder corresponds in part to *virtue ethics* (weaning the soul from blameworthy traits and inculcating praiseworthy ones), but it also parallels experiences of expanded awareness. This book is a map of psychospiritual conditions one may encounter on the path of dhikr and murāqabah.
+
+Let me draw an analogy (with due caution and reverence): Imagine a devoted dervish sits for dhikr, invoking Allāh’s name in solitude. At first, his mind is scattered. But as he focuses, by Allah’s grace, he may enter a state of strong joyful concentration – a spiritual rapture characterized by intense bliss and focused thought. As he continues, thoughts quiet and a more tranquil happiness pervade: joy without discursive thought. Deeper still, joy softens to contentment and vast stillness: deep contentment and beginning of equanimity. Further, even that pleasant feeling refines into neutral peaceful clarity, a clarity in which the only remaining sensation is a pure one-pointed light of awareness: utter peacefulness and equanimity). These first four states correspond to the soul moving into Nafs al-Muṭmaʾinnah and tasting the peace that comes when the ego’s chatter stills.
+
+But there are higher subtleties: beyond the peace of form, the seeker might be drawn into formless contemplation. He may sense the boundlessness of space as he remembers Allah’s infinite being. Beyond that, he realizes the boundlessness of consciousness itself witnessing creation. Deeper, he experiences “no-thingness” – the recognition that aside from Allāh, nothing truly exists. Further yet, he approaches a state where it is as if there is neither perception nor non-perception – an almost unfathomable stillness at the threshold of extinction.
+
+And finally, by Allah’s will, the seeker may plunge into a state of complete fana – cessation of individual awareness, the *annihilation of annihilation* that the Sufis speak of. This is fanā fi’Llāh, passing away in the One, a taste of the reality where only Allah is.
+
+Najm al-Dīn al-Rāzī wrote of a luminous night in which the final theophany of Allah’s Majesty seizes the seeker. The ‘black light’ is that of the attribute of Majesty which sets the mystic’s being on fire; it attacks, invades, annihilates even the notion of annihilation until nothing remains but Him. This is Fanā al-Fanā, the annihilation of any separate selfhood so that only Allah’s light shines – what remains is *Baqā*ʾ, eternal subsistence in Allah.
+
+So do not be surprised, dear friend, when you find parallels between our ladder of selves and the contemplative maps of others. Truth is one, and hearts – created by the One – often awaken to similar realities. The key is always tawḥīd: to know *La ilaha illa’Llah*, beyond mere words, in the core of one’s being. Muraqabah can benefit the seeker of Allah, anchored in dhikrullah (remembrance of Allah) and shahada (the acknowledgment of Allah’s Oneness).
+
+The seven stages of the soul are our framework for inner work. They correspond to increasing light and surrender. They also align with that universal gradient of spiritual experience: from chaos to conscience, to inspiration, to serenity, to contentment, to annihilation in Light. Each stage of *nafs* tamed opens the door to a subtler state of consciousness.
+
+As we subdue the Commanding Self and cultivate the Inspired Self, we naturally experience the kind of joy and rapture that comes with hearts opening to the divine. As we settle into the Peaceful Self and higher, we experience equanimity, subtle vision, and moments of dissolving into something far greater – moments that are our tradition’s *dhawq* (tasting) of fanā. All is by the grace of Allah. We plan and strive, but it is *He* who lifts the veil.
+
+These experiences are gifts and trials. One may soar in a state of annihilation one night and return to struggles with one’s ego the next day. The path is long and winding, and istiqāmah (steadfastness) is the miracle we seek, not flashes of ecstasy alone. Imam al-Junayd said: *“The ultimate goal of the Sufi is to be with Allah without any attachment.”* So we pass through the joys and the lights, and even the dazzling dark, and we do not cling to any station. We keep polishing the mirror of the heart, seeking the Pleasure of our Lord above all.
+
+## **Nawāfil of the Wayfarer**
+
+Dhikr, Meditation, and Devotional Craft
+
+السلام عليك يا باحث عن الحقيقة وبركاته ورحمة الله وبركاته
+
+The line between ritual and reality is thin in the realm of the imaginal. These humble observances are not obligations (farāʾiḍ) but supererogatory acts of love (nawāfil) by which, as the hadith qudsī says, *“My servant continues to draw near to Me with extra works until I love him.”* These are given by a Nameless Sheikh in the spirit of dhikr and tawḥīd, though like him they may wear unusual garb.
+
+### **The Circle of Five Lights**
+
+A solitary vigil in the dead of night. The seeker places five lamps or candles in a circle around them, representing the Five Divine Presences. Sitting at the center, they recite Quranic verses or divine Names associated with each realm in turn, moving counter-clockwise (for example: at the first lamp, recite a verse of earth and humility for Nasut; at the second, verses of the unseen for Malakut; at the third, praises of angels for Jabarut; at the fourth, verses of Allah’s beautiful Names for Lahut; at the fifth, the shahāda or verses of Divine Oneness for Hahut). As each lamp is lit and its verses read, the seeker envisions ascending one level closer to the Throne. Finally, at the center of the circle, they close their eyes and perform muraqabah as if standing before the One. This ritual, though not from any fiqh manual, elegantly harmonizes with cosmology: it externalizes the ascent through the Presences in candlelight, invoking the realities of each world in prayer. The five lamps are outward forms of the five inward lights. If done with adab (proper courtesy) and within Shari‘a bounds (no forbidden practices), such a ritual could kindle a profound understanding of Allah’s nearness throughout the layers of being. It is “outside Islam” only in the sense of not being a standard mosque practice, yet its meaning is deeply Islamic – a miʿrāj of the soul in miniature, an echo of the Prophet’s Night Journey through the heavens, made personal.
+
+### **The Dance of the Seven Selves**
+
+In a private space, the seeker lays out seven stones or markers in a line or spiral, each corresponding to one of the seven nafs stages. They begin at the stone for Ammārah (the lower self) and perform a humble, grounding action – perhaps prostrating or touching the earth, acknowledging their flaws and asking Allah’s aid against the commanding ego. Then they move to the next marker (Lawwāmah), maybe circling it while whispering astaghfiru’Llāh (I seek Allah’s forgiveness) to symbolize self-reproach and repentance. At Mulhimah’s marker, they might stand upright, palms open, breathing in silently – signifying readiness to receive inspiration (almost like adopting a yogic posture of openness, though they invoke Allah’s Name quietly with each breath, aligning it firmly with dhikr). At Muṭmaʾinnah, they sit calmly in silent meditation or perform a slow dhikr with the heart – say, repeating *Allāh… Allāh…* in a steady rhythm, signifying inner peace. For Rāḍiyah, they might bow in gratitude, thanking Allah for everything – an embodiment of contentment with His decree. For Marḍiyyah, perhaps they place their hand on their heart and envision it shining – the idea that Allah is pleased with this purified heart, so it radiates with His light. Finally, at Ṣāfiyyah, the seeker stands under the open sky (if possible) or simply raises their arms upward, eyes closed, in total surrender – symbolizing the annihilation of self, letting the self “dissolve” into the night sky or the vastness above. They might recite *“Inna lillahi wa inna ilayhi rāji*ʿ*ūn”* (“Truly we belong to Allah, and to Him we return”) or simply fall into a final sujūd (prostration) without words, representing fanā. This is a ritual movement practice, reminiscent of how some dervish orders use controlled movement or dance (like the Mevlevi whirling). Though not a known Sufi tariqa exercise per se, it is plausible and powerful: it externalizes the inner journey, giving the body a role in training the soul. Each station’s physical gesture becomes a *mnemonic device* to reinforce that stage’s lesson. By the end, the mystic has enacted an allegory of transformation, a prayer made body. There is nothing explicitly un-Islamic in bowing, breathing, and prostrating with holy intent – it is the *structure and narrative* that are creative. As long as such practice remains a personal devotion and does not transgress (e.g., no shirk, no indecent moves), it can be a legitimate “exercise” on the Path.
+
+### **Dhikr of the Unified Field**
+
+A numerical-litany muraqabah using the code from Letter I. Here the seeker uses our *36-character alphanumeric table* as a remembrance. They might draw the 6×6 grid on paper or engrave it on a wooden tablet. Around the edges they write the Quranic phrase *“Huwa Al-Awwalu wal-Ākhiru wal-Ẓāhiru wal-Bāṭin”* (“He is the First and the Last, the Outward and the Inward”) – emphasizing Allah as encompassing all beginnings and ends (Alpha–Omega, Alif–Yā). The ritual proceeds in three parts: writing, reciting, and meditating. First, the seeker writes an intention or prayer *in code* using the table – for example, writing the word نُور (Nur, “Light”) as “NUR” in Latin letters, since N=23, U=30, R=27 in base-36, which correspond to ن, و, ر. Or they might encode a Name of Allah, like الحكيم (Al-Hakim, The Wise) as a string of numbers and letters. The act of encoding is itself a contemplative prayer: one focuses on the meaning while translating it into the hidden language. Next, they recite the sequence of symbols as a litany. This can be done in two ways – either literally pronouncing the numbers and letters (e.g. “Two-Three, En, Yu, Ar…” – which has a certain melodic oddness), or by *decoding* on the fly and uttering the original words intended (e.g. reciting “Nur” or “Al-Hakim” in Arabic after having encoded it). The interesting twist is to sometimes do one, sometimes the other, so that the mind toggles between apparent gibberish and actual meaning, training it to see *through* the veil of forms. Finally, the seeker meditates upon the written tablet, allowing the eyes to soften and seeing if the coded text yields further insight – perhaps the shapes of the characters intermingling suggest new relationships, or the numbers remind them of sacred numerology (36 itself recalling 6x6 \\= 36, which in turn is 9 (3+6) the number of completion, etc.). In this heightened state, oen may perceive he *universe as letters* by means of wird (litany repetition), wafq (magic square), hurufiyyat (letter mysticism), and of course dhikr. The theology remains sound: one encodes only *pious phrases or Names of Allah*. The aim is increased concentration and an almost childlike sense of play in remembrance – seeing the *unity* behind disparate symbols. One comes away marveling at how Allah’s Names permeate even the realms of number and the script of Rūm. The key outcome of such a ritual is a stronger conviction that *“Allahu Ahad”* – Allah is One – for the seeker has tasted how one meaning can hide under many forms, and how the One speaks through all languages of creation.
+
+### **The Black Light Vigil (Mushāhadat an-Nūr al-Aswad)**
+
+This ritual is directly inspired by Sufi metaphysics. The seeker prepares by reading or recalling how the great Masters spoke of Nūr-e-Siyāh, the Black Light of the Divine Hiddenness. After the late-night \`ʿIshā prayer, they sit in complete darkness – a room with no light at all. This darkness is taken as *analogical* to the divine Mystery. The seeker begins with a duʿā (supplication): *“O Allah, You are al-Bāṭin (The Hidden); reveal to me, as much as I can bear, a glimpse of the light of Your Hiddenness.”* Then they perform a slow dhikr, often the shahāda or the Name “Allāh,” synchronized with their breath and heartbeats, while plunging attention into the blackness before their eyes. The goal is not imaginative visions but a shift of perception: to realize that this “darkness” is not merely an absence of light but a presence – akin to how Najm al-Dīn Kubrā’s disciples described the Black Light as a *prelude* to the highest epiphany. If the Merciful wills, the seeker may feel a strange illumination in that darkness – an awareness that the ظلمة (zulmah, darkness) behind closed eyes actually shimmers with an unseen glow. Some have described it as seeing a faint indigo or feeling a potent presence filling the void. It may induce both awe and fear – awe because it feels like touching the edge of the Infinite, fear because the ego senses its own annihilation in that abyss. The seeker continues the dhikr until their heart is trembling but serene, “annihilated” into the night. Then they humbly end with *astaghfirullah* (seeking forgiveness) and two rakʿats of prayer, grounding the experience back in Sharia. The Black Light *cannot be seen, because it is the cause of seeing*. By courting the experience of *fanāʼ* (annihilation) in a controlled, reverent way, the seeker aligns it with *tawḥīd*: understanding that entering the “cloud of unknowing” is not union with some impersonal void, but a communion with the Divine Majesty (Jalāl) in a form beyond forms. This ritual should only be attempted by those well-grounded in faith and practice, for it can be jarring. But for the ripe soul, it can confirm in *‘ayn al-yaqīn* (the eye of certainty) what books can only tell: that beyond the final veil of perception lies an overpowering Reality in whose presence selfhood is burned to ash – yet that very annihilation is the entry to subsistence in Allah. In simpler terms, the seeker might come out of this saying, “I learned through direct experience that *Lā ilāha illa Allāh* – there truly is no light or being but Allah; all else vanishes.” They would taste a bit of what the Qur’an hints: *“Allah is the Light of the heavens and the earth”* – and even the “darkness” is a form of His light.
+
+My dear friend, these are examples of the *devotional creativity* a sincere lover of Allah might employ. None is meant to replace the Obligations that every Muslim owes (the five daily prayers, fasting Ramadan, etc.). Rather, they are personal additions, *analogical exercises* to deepen one’s understanding. Just as a muscle strengthens with varied workouts, the spirit may strengthen with novel yet pious devotions. Our predecessors often performed Khalwa (spiritual retreats) that had many unusual features – isolated in dark caves, focusing on certain names, performing thousands of repetitions of a formula.
+
+Each of these imagined rites is compatible with tawḥīd: the ultimate aim remains to witness that all phenomena – all lights and all shadows – point back to the One. By mapping our practices to cosmic and soul realities, we live the Quranic principle that *“We shall show them Our signs on the horizons and in themselves until it becomes clear that He is the Real”*. The “five lamps” show His signs in the horizons (cosmic levels), the “seven stones dance” shows His signs in ourselves (psychological levels). The encoded dhikr shows that even random-seeming symbols yield to meaningful unity under the light of the Real. The black light vigil surrenders perception itself to the Source of all light. In times and places where the esoteric is mistrusted, such a *samizdat* of the spirit may keep the flame alive among hidden believers.
+
+Throughout all such practices, humility and balance are paramount. If one finds any of them leading to pride (“I have secret knowledge or powers”), one must stop and return to the simplicity of istighfar and salat. The devotions of a hedge-mystic must remain in the shadows, not seeking worldly attention or acclaim – *hidden by mercy*, as we say, so that Allah protects both the practitioner and the sanctity of the work.
+
+## **Closing Counsel**
+
+Anonymous Devotion and Loving Submission
+
+السلام عليك يا باحث عن الحقيقة وبركاته ورحمة الله وبركاته
+
+As I conclude this compendium of letters, my heart is full of prayers for you. We have wandered through lofty ideas, in an attempt to remember our Origin and our Return. Like the letters of our abjad, we too are symbols yearning to lose ourselves in the Word of Allah.
+
+Remember that *ego* will undo every good work if given a chance. So wear the cloak of anonymous humility in all your mystical pursuits. Let your deeds be as an unseen waft of perfume in a crowded room – noticeable but source unknown. The best of servants are those who serve and vanish, letting Allah’s own presence be felt. The goal of these letters is to enrich your solitary communion with the One. Be in the world but not of it; outwardly ordinary, inwardly absorbed in the Extraordinary.
+
+If you practice the numerological ciphers, do so playfully, not legalistically – as a child hiding love notes. If you undertake the candle vigil or the stone dance, treat them as *extensions of your salat*, not replacements. **Should any spiritual romance we have spoken of conflict with the Shari‘a in letter or spirit, abandon it immediately and choose the Shari‘a.** True tawḥīd (affirming Divine Unity) sometimes means going beyond *exoteric forms* to grasp the inner meaning – but it never means disobedience to Allah .
+
+Above all, cultivate devotion (maḥabba) and awe (khushūʿ). Every speculative leap we embraced in these letters – whether merging Arabic letters, paralleling jhānas with states of dhikr, or crafting new rites – must be grounded in *love of Allah and humble reverence*. We do these things not to show cleverness (which would be spiritual poison), but out of a yearning to know and worship our Lord in every way He allows. As the Qur’an beautifully states, *“Those who believe are overflowing in their love for Allah”*. Let that be your state. If a practice increases your love and awe, and does not make you heedless of your duties, it is likely a blessing. If it decreases your love or makes you even for a moment feel self-satisfied, cast it away, for it hides a poison.
+
+We are the faithful, hidden by mercy. We hide so that ego and dunya (worldliness) cannot find us easily. We are not better than any fellow Muslim – only perhaps more aware that a certain secrecy is safety. We do not seek to scandalize the common faithful, nor to argue with the theologians. We simply *are*, on the margins, loving Allah in ways both old and new, drawing from the wells of tradition and inspiration.
+
+Before I end, I invoke the image of the Nameless Sheikh – the wise one who passes through villages in humble guise, dispensing help and insight without anyone knowing their name. Emulate that. Let your works shine but your person disappear. Be the pen, not the calligrapher; the flute, not the musician – *so that the real Author of all beauty, Allah, may be praised* while you remain His instrument. The letters I penned to you, I release them in that spirit: I claim no ownership; they are yours now, and if they benefit any heart, the thanks is to Allah alone. If there are errors, they are mine and I seek forgiveness.
+
+Devotion in the guise of a letter, anatomies of the soul hiddenn in a love poem, knowledge conveyed as a secret between friends – this has always been how the deepest truths survive turbulent times. In Soviet days, samizdat booklets kept faith alive under watchful eyes. In our day, perhaps these missives will encourage a soul or two to trust their intimate experiences of the Divine, even if these go beyond what is normally discussed in the open. We have shown that nothing in those experiences *has to* contradict the essence of Islam; in fact, when rightly framed, they can enhance one’s appreciation of tawḥīd and the richness of the Prophetic way.
+
+I urge you finally: ***never abandon the Quran***. It is the anchor of reality. However far your inner journeys or creative rituals take you, keep returning to that recitation, that wellspring. All the cosmology we described is contained in *al-Fātiḥah* if you taste it. All the stations of the self are hinted when you read about Prophet Ibrahim, peace be upon him, whose quest in the stars and moon and sun and led him to realize *“Innī wajjahtu wajhiya lilladhī faṭara as-samāwāti wal-arḍ”* – “I have turned my face wholly to Him who originated the heavens and earth.” The Black Light is there in *Āyat an-Nūr* (24:35) if you read it with the eye of the heart. So use the Quran as your compass; use the Sharīʿa as your ship’s hull; use these speculative insights only as the breeze in your sails, to carry you more swiftly to the shore of Allah’s pleasure.
+
+My dear one, I will cease now. I feel the barakah of night passing, the false dawn perhaps glimmering. How beautiful that we began in the Name of Allah, and we end in His praise. Al-ḥamdu lillāh. Thank you for walking this hidden garden. Keep these letters safe or destroy them as you see fit; their true content is already written in your soul if you have understood. We entrust our affairs to Allah. May He join us in the secret communion of hearts, though outwardly we remain unknown to each other, *faces hidden behind the veil of divine mercy.*
+
+Remain vigilant, remain humble, remain in love with the Loving One. In the end, all mysticism is just good manners in front of Allah – the manners of presence, gratitude, and surrender. Let that be our hallmark.
+
+أعزك الله وبارك في عمرك وأعمالك وحفظك في عافيتك ووطنك وشعبك وأسرتك الشريفة
+
+# **Deeper Still**
+
+From the Rotting Sun to the Black Light of the Essence
+
+### **The Act of Esoteric Interpretation (Ta'wīl)**
+
+In the name of Allah, the Most Gracious, the Most Merciful. This treatise is an act of *ta'wīl*, the sacred science of unveiling the inner *bāṭin* that lies veiled within the outer form *ẓāhir*. The cosmos is a living theophany, and this work is a guide for the sincere and independent *sālik*.
+
+### **Nafṭ as the Unmanifest Divine**
+
+*Nafṭ* is a symbol of the *adh-Dhāt al-Ilāhiyyah*. It is the physical trace of the "Hidden Treasure," the pre-eternal reality from which all existence flows. It recalls the *an-Nūr al-Aswad*, the dazzling darkness of Allah before creation.
+
+Ours is the inward journey to the *qalb*, the seat of Divine mystery, revealed by the cosmic drama of *tajallī*, a process of emanation that flows from the deepest interior of Reality to the manifest surface of the world. *Sālik*, you must excavate the depths of your own being to uncover the source of all existence.
+
+## **Al-Kashf al-Ilāhī**
+
+To walk the Path, you must first possess a map of reality – and you do. You have had it all along, for inscribed upon the chaotic, horizontal plane of conflict and material causality is a *cipher* of the ordered, vertical axis of Divine cosmology, which charts the journey from the Source and the return to the Source.
+
+### **The Theophany of the Hidden Treasure**
+
+The foundation of all Sufi cosmology, and the key that unlocks the purpose of creation, is found in a sacred tradition (*Hadith Qudsi*), wherein Allah speaks through the Prophet Muhammad, peace be upon him:
+
+كنت كنزا مخفياً فأحببت أن أعرف فخلقت الخلق لكي أعرف  
+Kuntu kanzan makhfiyyan fa aḥbabtu an u'rafa fa khalaqtu al-khalqa li-kay u'raf.  
+"I was a Hidden Treasure and I yearned to be known, so I created the cosmos that I might be known."
+
+This single statement transforms the universe from a meaningless void into a theater of revelation. The motive force behind existence is not a blind telluric process or a cosmic accident, but *'Ishq* and the yearning for Self-knowledge through the mirror of creation The cosmos is an act of unveiling, a vast and intricate sign pointing back to its Creator.
+
+### **The Unity of Being (Waḥdat al-wujūd)**
+
+The grammar of this revealed cosmos is the doctrine of *Waḥdat al-wujūd*, most famously articulated by the great master Muhyiddin ibn 'Arabi. This doctrine states that there is only one true *wujūd*, and that Being is Allah. All of creation—every star, every grain of sand, every human soul—has no independent existence of its own. Rather, all created things are but shadows, reflections, or *maẓhar* for the singular reality of *al-Ḥaqq*. The external world of sensible objects is a fleeting shadow of the one, eternal Reality.
+
+The horror of the *kafir*’s cosmos stems from its terrifying multiplicity and the indifference of its parts to one another. The *wajd* of the path is born from the progressive realization of the universe's fundamental and all-encompassing Oneness. The goal is *ittiḥād* with the all-inclusive Beloved.
+
+### 
+
+### **The Five Divine Presences (Al-Ḥaḍarāt al-Ilāhiyyah al-Khams)**
+
+The descent of the singular Reality of *wujūd* into the multiplicity of the created world occurs through successive stages of Self-disclosure. These are known as the Five Divine Presences, and they provide the *sālik* with a coherent map of all levels of existence, from the most subtle to the most dense. This is the true "subsurface geography" of being
+
+1. *ʿĀlam al-Hāhūt* (The Realm of He-ness): This is the realm of the unknowable Divine Essence, the absolute Unseen (*al-Ghayb al-Mutlaq*) It is the level of "Alonehood" (*Ahdiyat*), prior to all attributes, names, or relations. It is the Hidden Treasure in its absolute hiddenness, the pure blackness of the Black Light.  
+2. *ʿĀlam al-Lāhūt* (The Realm of Divinity): This is the first level of manifestation, the realm of Absolute Unity (*Wahdiyat*) Here, the Essence manifests its potential as a unified whole, containing all of the Divine Names and Attributes in an undifferentiated state. This is the reality of the "Light of Muhammad" (*Nūr Muḥammadī*), the cosmic archetype of the Perfect Human Being and the seed of all creation.  
+3. *ʿĀlam al-Jabarūt* (The Realm of Power): This is the world of pure spiritual Intellects, the formless archetypes, and the highest ranks of angels Here, the unified attributes of *Lāhūt* begin to differentiate into the distinct ideas or eternal realities (*a'yān al-thābitah*) of all things that will ever exist.  
+4. *ʿĀlam al-Malakūt* (The Realm of Archetypal Images): This is the subtle world of the Soul (*Rūḥ*) and the imagination (*khayāl*). Here, the formless archetypes of *Jabarūt* take on subtle, luminous, but still immaterial forms. It is the realm inhabited by the lower angels and the jinn, and it is the plane upon which dreams and visions occur  
+5. *ʿĀlam al-Nāsūt* (The Realm of the Sensible): This is the physical, material world perceived by the five senses. It is the realm of humanity, the world of density and multiplicity, and the final stage of the Divine descent into manifestation It is the outermost shell of reality, yet it contains within it the impress of all the higher realms.
+
+### **The Earth as a Living Mirror (Al-Arḍ ka-l-Mir'āh)**
+
+The whole of the Earth—and indeed the entire cosmos—is a living artifact, a polished mirror that reflects the *asmāʾ Allāh*. The hardness of a rock reflects the Divine Name *al-Qawī*, the life-giving property of water reflects *al-Muḥyī*, and the beauty of a flower reflects *al-Jamīl*.
+
+The profane actions of humanity are the acts of those who are veiled from this sacred reality They see only the outer shell, the resource to be exploited, and are blind to the inner meaning. The task of the *sālik* is to pierce this veil and perceive the *bāṭin* of the Earth; to see it not as a commodity, but as a vast *sajjāda* upon which the *āyāt* of Allah are displayed for those with hearts that see.
+
+## 
+
+## **Ṭarīq as-Sālik**
+
+The Way of the Seeker
+
+The journey from the outer shell (*ẓāhir*) to the inner core (*bāṭin*) requires both a map and a method. This section provides the practical sciences of the Path, transmuting the occulted "mechanics" of the source text into the established spiritual disciplines of *taṣawwuf*.
+
+### **The Science of the Letters ('Ilm al-Ḥurūf): A Key to the Divine Cipher**
+
+The science of Abjad numerology, known as *'Ilm al-Ḥurūf* (the Science of the Letters), is not a mere tool for divination but a profound contemplative practice for uncovering the hidden order of the cosmos The letters of the Arabic alphabet are understood to be the primordial building blocks of creation, the very atoms of the Divine creative command *Kun\!*. Each letter possesses a numerical value, an elemental correspondence, and a spiritual secret that connects it to a Divine Name By calculating the numerical value of a word or a verse from the Qur'an, the *Sālik* can unveil hidden relationships and layers of meaning, perceiving the intricate mathematical harmony that underpins all of reality.
+
+### **The Unveiling of Signs (Kashf al-Ishārāt): The Gaze of the Heart**
+
+While we may allude to external methods of divination, the Path emphasizes the cultivation of the heart's own perceptive faculty. The world is already full of signs; the task is to develop the vision to read them.
+
+* *Firāsah* (Spiritual Insight): This is the Allah-given insight of the believer, the ability to perceive the inner state (*bāṭin*) of a person, object, or situation from its outer form (*ẓāhir*). It is based on the sacred tradition of the Prophet, peace be upon him, who said, "Beware the *firāsah* of the believer, for he sees with the light of Allah." This is not a magical power but the natural result of a heart that has been purified and polished through remembrance until it reflects the Divine Light.  
+* *Istikhārah* (The Prayer for Guidance): Rather than attempting to force the future to reveal its secrets, the *sālik* turns to the Knower of all secrets. *Ṣalāt al-Istikhārah* is a specific prayer of two *rak'āt* followed by a supplication in which the *sālik* asks Allah to guide them towards the best course of action in a particular matter. The answer comes not through a mechanical oracle, but through a sign that Allah places in one's heart, a feeling of ease or constriction, or through a dream or an event in the world that clarifies the path forward. This transforms divination from an act of fortune-telling into an intimate conversation with the Divine.
+
+### **The Pillars of Practice: Remembrance and Contemplation (Dhikr wa Murāqabah)**
+
+The core of the practical path consists of two complementary disciplines: *Dhikr*, the remembrance that polishes the mirror of the heart, and *Murāqabah*, the watchful contemplation that allows the heart to perceive what is reflected in it.
+
+#### **Preparation for Practice**
+
+Before beginning, the *sālik* should ensure both outer and inner purity.
+
+1. *Wuḍūʾ*: Perform the ritual ablution to achieve a state of physical and spiritual cleanliness  
+2. *Khalwah*: Find a quiet, clean, and preferably dark space where one will not be disturbed  
+3. *Niyyah*: Center the heart and make a clear intention to perform these practices solely for the sake of drawing near to Allah
+
+#### **Dhikr (Remembrance)**
+
+*Dhikr* is the invocation of Allah's name, the central practice for purifying the heart of heedlessness (*ghaflah*).
+
+* *Dhikr al-Lisānī*: The *sālik* repeats sacred formulas aloud, such as *Lā ilāha illā Allāh*, *Alḥamdulillāh*, or one of the Names of Allah.  
+* *Dhikr al-Qalbī*: This is the more advanced practice of internalizing the remembrance until it becomes perpetual. A common method is known as *Hosh dar Dam* (Conscious Breathing) With each inhalation, the *sālik* silently invokes the name *Allāh* or the syllable *Hū*, imagining divine light and mercy entering the heart. With each exhalation, the *sālik* again invokes *Hū*, imagining all darkness, negativity, and attachment to the world being expelled. The goal is for this remembrance to become so ingrained that it continues with the heartbeat and breath even during sleep and daily activities.
+
+#### **Murāqabah**
+
+*Murāqabah* means "to watch over" or "to be vigilant." It is the practice of turning the full attention of the heart away from the created world and towards the Creator.
+
+1. Assume a Respectful Posture: Sit in a position of humility, such as kneeling or cross-legged. Close the eyes and quiet the senses.  
+2. Establish Connection (*Rābiṭah*): For many on the path, the first step is to visualize the spiritual presence of one's *shaykh*, imagining a connection of light flowing from their heart to one's own. This is a means of receiving *fayḍ* and guidance  
+3. Focus the Heart: The *sālik* then directs the heart's attention towards a single point of contemplation. This could be:  
+   * The Divine Name: Visualizing the name *Allāh* (الله) engraved in light upon one's own heart  
+   * A Divine Attribute: Contemplating one of the Names of Allah, such as *al-Baṣīr*, and striving to feel that one is perpetually under the Divine Gaze.  
+   * The Unity of Being: Contemplating the interconnectedness of all things, seeing every form as a manifestation of the one Divine Reality, until the distinction between self and other begins to dissolve.
+
+The seeker remains in this state of watchful awareness for a set period, beginning with minutes and gradually increasing the duration as their capacity for concentration grows
+
+### **The Journey Through the Self: The Seven Stations of the Nafs**
+
+The spiritual path is a process of transformation, known as the *tazkiyat an-nafs*. This journey is traditionally mapped as a progression through seven stations or levels of the *nafs* (the ego, psyche, or lower self). Each station represents a fundamental shift in consciousness, moving from utter heedlessness to perfected submission
+
+Table: The Seven Stations of the Self (Maqāmāt an-Nafs)
+
+| Station | Arabic Name & Transliteration | English Name | Core Attributes & Qur'anic Reference |
+| :---- | :---- | :---- | :---- |
+| 1 | النفس الأمّارة (*an-Nafs al-Ammārah*) | The Commanding Self | Commands evil; dominated by lust, anger, greed, arrogance. (Qur'an) |
+| 2 | النفس اللوامة (*an-Nafs al-Lawwāmah*) | The Blaming Self | The awakening conscience; feels guilt and regret for wrongdoing. (Qur'an) |
+| 3 | النفس الملهمة (*an-Nafs al-Mulhamah*) | The Inspired Self | Begins to receive divine inspiration; finds pleasure in prayer, meditation, knowledge. (Qur'an) |
+| 4 | النفس المطمئنة (*an-Nafs al-Muṭma'innah*) | The Serene Self | Tranquility and peace; freed from major spiritual anxieties and worldly attachments. (Qur'an) |
+| 5 | النفس الراضية (*an-Nafs ar-Rāḍiyah*) | The Pleased Self | Contentment with whatever comes from Allah, whether hardship or ease. (Qur'an) |
+| 6 | النفس المرضية (*an-Nafs al-Marḍiyyah*) | The Pleasing Self | The self has become pleasing to Allah; embodies divine qualities like mercy and compassion. (Qur'an) |
+| 7 | النفس الكاملة (*an-Nafs al-Kāmilah*) | The Perfected Self | The purified and complete self, living in a state of perfect submission and guidance. |
+
+This map provides the *sālik* with the means to diagnose their spiritual state and understand the challenges and virtues associated with each stage of the inner journey
+
+## 
+
+## **Sukkān wa Lisān al-Ghayb**
+
+The Inhabitants and Language of the Unseen
+
+To understand the true nature of the Unseen and its inhabitants as described in the Islamic revelation, one must learn the sublime language of Divine Love used to describe the Path.
+
+### **The Language of the Beloved: A Lexicon of Allegory**
+
+The Sufis, finding that direct language fails to capture the ineffable realities of the spiritual path, developed a rich symbolic lexicon rooted in the experience of ecstatic love To change the "flavor" of the text is to learn this language, where every term is a key to a specific spiritual state (*ḥāl*) or station (*maqām*).
+
+* **'Āshiq and Ma'shūq**: This is the central metaphor of the Path. The *sālik* is the *'āshiq*, and Allah is the *ma'shūq*. The entire spiritual journey is framed as a romance, driven by an intense *shawq* for union with the Divine Beloved, who is simultaneously transcendent and closer to the *sālik* than their own jugular vein  
+* **Khamr and Kharābāt**:  
+  * ***Khamr***: This is the symbol for the direct, experiential knowledge of Allah (*ma'rifah*) and the overwhelming ecstasy of Divine Love. This "wine" intoxicates the *sālik*, dissolving the rational, calculating ego and revealing the secrets of unity. It is a "dangerous substance" because once tasted, it makes the *sālik* willing to sacrifice everything—wealth, reputation, even life itself—for another sip  
+  * ***Sāqī***: This is the *shaykh*: the Divine Beloved Itself, who pours the wine of love into a *sālik*’s heart, which is the *jām*.  
+  * ***Kharābāt***: This symbolizes the "Tavern of Ruin." It is the spiritual station where the *sālik*’s conventional piety and social identity are annihilated. It represents a space beyond the formalisms of exoteric religion, where the lover meets the Beloved in a state of pure, unmediated ecstatic intimacy, free from the judgments of the world  
+* **The Moth and the Flame**: Such is the nature of *fanā'*. The *sālik* is the moth, helplessly and ecstatically drawn to the irresistible beauty of the Divine Reality, which is the Flame. The path has three stages of knowing, analogous to the moth's journey: hearing about the flame, seeing the flame, and finally, plunging into the flame to be utterly consumed. True union is not to know *about* Allah, but to be effaced *in* Allah, becoming one with the Light that was once the object of one's longing
+
+### **Beings of Light and Smokeless Fire (Al-Malā'ikah wa-l-Jinn)**
+
+The Islamic cosmos is populated by various unseen beings who exist in dimensions subtler than our own. These are not the chaotic, malevolent entities of cosmic horror, but created beings with a defined nature and purpose within the Divine order.
+
+* ***Malā'ikah:*** The angels are beings created from pure light (*nūr*). They possess no free will and their existence is one of perfect, unwavering submission to the commands of Allah. They are the messengers, guardians, and administrators of the cosmos, the forces that uphold the Divine laws in every corner of creation  
+* ***Jinn:*** The jinn are beings created from a "smokeless fire" (*mārijin min nār*), a substance subtler than physical matter but denser than the light of the angels Crucially, like human beings, they possess free will (*ikhtiyār*). They are therefore capable of both belief and unbelief, righteousness and corruption. They live in a parallel dimension, typically within *'Ālam al-Malakūt*, and can at times interact with the human world. The Qur'an affirms that the arch-rebel, Iblīs, was one of the jinn, not a "fallen angel," as his rebellion stemmed from the arrogance made possible by free will. Understanding the jinn provides a coherent theological framework for unseen influences and "occultures" without resorting to a mythology of uncreated, primordial evil.  
+* ***'Ālam al-Ghayb:*** It is vital to distinguish between these created beings and *al-Ghayb* itself. *Al-Ghayb* refers to that which is concealed from human perception It is divided into two categories:  
+  * ***Al-Ghayb al-Mutlaq:*** This is known only to Allah. It includes the ultimate nature of His Essence and Attributes, the exact time of the Final Hour, and the deepest realities of existence  
+  * ***Al-Ghayb al-Nisbi:*** This is unseen to some but may be known to others. The world of the jinn and angels is in this category. While normally hidden from human senses, knowledge of it can be granted by Allah through revelation to His Prophets, peace be upon them, or through *kashf* to His *awliyā'*.
+
+## **'Ilm al-Asrār**
+
+The cosmological map is of no use without a compass. The Science of Secrets provides the seeker with a grammar of action, a way to align the small currents of one's daily life with the great ocean of Divine Will. This is not a science of prediction, which seeks to bind the future, but a science of alignment, which seeks to unbind the heart in the present moment. It is a craft for the *awliyā'*, friends of Allah whose greatest protection is anonymity.
+
+### **The Ten Divine Thresholds and the Paired Names**
+
+The world of number is a reflection of the world of meaning. The ten primordial numbers, from zero to nine, are not mere quantities but qualities, thresholds where the Unseen touches the seen. We shall call them *Al-A'tāb al-'Asharah*.
+
+These thresholds stand in five balanced pairings that always sum to nine, the number of fulfillment. These are the *Al-Asmā' al-Muzdawijah*, each a marriage of contrary Divine Attributes that together express a complete reality.
+
+* 0 :: 9 — *Al-Awwal wa-l-Ākhir*, the First and the Last: The threshold of Origin and Fulfillment. It teaches the seeker to begin an act knowing that its completion is with Allah, and to complete an act knowing it is but the seed of a new beginning.  
+* 1 :: 8 — *Al-Muḥyī wa-l-Mujīb*, the Giver of Life and the Comforter: The threshold of Invocation and Response. It is the singular call to Allah and the all-encompassing comfort of His answer. To work this pair is to remember on behalf of another and to console without noise.  
+* 2 :: 7 — *Al-Khāliq wa-l-Ḥafīẓ*, the Creator and the Guardian: The threshold of Impetus and Care. It is the creative spark that brings a thing into being and the patient stewardship that nurtures it to maturity.  
+* 3 :: 6 — *Ar-Razzāq wa-l-Fattāḥ*, the Provider and the Opener: The threshold of Providence and Surprise. It is the Divine plan that provides for all, and the unexpected opening that reveals a grace beyond the plan. To walk this path is to be available for holy interruption.  
+* 4 :: 5 — *Al-Ḥakam wa-s-Salām*, the Judge and the Peace: The threshold of Discernment and Reconciliation. It is the clear judgment that establishes truth and the profound peace that heals all conflict.
+
+### **The River, the Key, and the Way**
+
+Between each of these Paired Names flows a current, the *Nahr al-Qadar*. Its strength is the difference between the two numbers. To stand in this river is to align oneself with the day's appointed spiritual labor.
+
+Every name, every place, every moment has a *Miftāḥ*. This is found by the science of *'Ilm al-Ḥurūf*, reducing any word or number to its single-digit essence through its Abjad value. If the name of your city has an Abjad value 352, its Key is 1 (3+5+2=10; 1+0=1). This Key unlocks the hour; it is a focus for your breath, a number for a Divine Name to be recited.
+
+*Aṭ-Ṭarīq* is the patient, stepwise path of this reduction. The Way is the sequence 352 → 10 → 1\. This is a prayer in itself, a small misbaha of attention that teaches the soul to move from the complex many to the simple One.
+
+### 
+
+### **The Lawḥ al-A'māl and Ṣuḥbat al-Ghayb**
+
+For those who must communicate in situations of constraint, and in the alphabet of Rūm, there is a method of hiding mercy in plain sight. The *Lawḥ al-A'māl* is a grid of cells, mapping the six articles of faith to the six duties of the believer.
+
+The Lawḥ al-A'māl (Table of Works)
+
+|   | 1\. Shahādah (Testimony) | 2\. Ṣalāt (Prayer) | 3\. Zakāt (Charity) | 4\. Ṣawm (Fasting) | 5\. Ḥajj (Pilgrimage) | 6\. Jihād an-Nafs (Self-Struggle) |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| A. Belief in Allah | 0 | 1 | 2 | 3 | 4 | 5 |
+| B. Belief in Angels | 6 | 7 | 8 | 9 | A | B |
+| C. Belief in Books | C | D | E | F | G | H |
+| D. Belief in Messengers | I | J | K | L | M | N |
+| E. Belief in the Last Day | O | P | Q | R | S | T |
+| F. Belief in Divine Decree | U | V | W | X | Y | Z |
+
+A coordinate, "5B" tucked into a margin, becomes a hidden instruction: "Perform your pilgrimage with the awareness of the angels." The uninitiated sees a simple mark; a friend reads an appointment with Allah.
+
+When many bind their days to these same invariants—the Paired Names, the Keys, the Tablet—their actions begin to harmonize without a signal ever being passed. This is *Ṣuḥbat al-Ghayb*. Your act of charity on a day of *Ar-Razzāq* may be the answer to a prayer uttered by a stranger miles away. The world calls it coincidence; we call it the secret conversation of the saints.
+
+## 
+
+## **Al-Kīmiyā' ad-Dākhiliyyah**
+
+The Inner Alchemy
+
+The outer sciences of alignment must be paired with the inner sciences of transformation. The human form is a microcosm, a temple containing its own celestial map. To journey to Allah is to journey through the sanctified geography of the self.
+
+### **Laṭā'if as-Sirr**
+
+The Subtle Centers of Light
+
+The human spiritual anatomy contains subtle centers of consciousness, loci where the Divine attributes are received and polished. These are the *Laṭā'if*, or Subtle Centers of Light. They mark the ascent from the dense self to the rarefied spirit.
+
+1. *Qālab* (the mold) \- Located at the base of the spine, this is the center of our elemental, physical nature. Its purification is grounding and stability.  
+2. *Nafs* (the self) \- Located below the navel, this is the seat of the lower self and its desires. Its purification is the transformation of raw passion into spiritual longing.  
+3. *Qalb* (the heart) \- Located at the solar plexus, this is the center of will and personal power. Its purification is the alignment of one's will with the Divine Will.  
+4. *Rūḥ* (the spirit) \- Located at the physical heart, this is the center of higher consciousness and selfless love. Its purification opens the soul to Divine compassion.  
+5. *Sirr* (the secret) \- Located at the throat, this is the center of intimate communion with the Divine. Its purification allows one to speak truth with the breath of the Spirit.  
+6. *Khafī* (the hidden) \- Located between the eyebrows, this is the center of spiritual intuition and direct witnessing. Its purification is the opening of the "third eye" of the heart.  
+7. *Akhfā* (the hiddenmost) \- Located at the crown of the head, this is the point of *fanā'* and *baqā'* in Allah. It is the gateway to Unity.
+
+### **Maqāmāt al-Istighrāq**
+
+The Stations of Absorption
+
+Through cultivating deep concentration in *murāqabah*, the *sālik* can enter states of spiritual absorption where the ordinary world falls away. These stations are a ladder of ascent from the ecstasy of remembrance to the profound peace of annihilation.
+
+1. *Wajd*, The Station of Ecstasy: The first absorption arises from focused *dhikr*. An overwhelming joy erupts, a panic of bliss, as spiritual pleasure floods the mind. The inner voice is still present, but it is captivated by the divine beauty.  
+2. *Ghaybah*, The Station of Absence: The initial rapture settles into effortless, one-pointed joy. Here, the inner chatter completely subsides. Attention is glued to the object of meditation, sustained by a profound happiness.  
+3. *Riḍā,* The Station of Contentment: The ecstatic bliss refines into a deep, quiet contentment. The thrill is replaced by an unshakable ease and satisfaction. The soul is like a still lake suffused with a gentle light.  
+4. *Sakīnah,* The Station of Tranquility: The pinnacle of the "form" absorptions. All traces of pleasure and pain vanish, leaving a pristine, neutral peace. The breath may become so subtle as to be imperceptible. The self-narrative is completely absent. This state is the foundation for the highest unveilings.  
+5. *'Ālam al-Mithāl,* The Station of Boundless Space: The first "formless" absorption. Attention expands beyond the body to embrace the infinite expanse of the imaginal realm. The sense of location dissolves.  
+6. *Shuhūd,* The Station of Boundless Consciousness: Awareness turns upon itself, recognizing its own limitless nature. The distinction between observer and observed dissolves into a luminous, unified field of knowing.  
+7. *Fanā' aṣ-Ṣifāt,* The Station of Nothingness: Attention shifts to the absence of all things. The *sālik* enters a peaceful, restful void, where awareness remains, aware only of nothingness. This is the Annihilation in the Divine Attributes.  
+8. *Fanā' adh-Dhāt*, The Station of Utter Annihilation: The subtlest state, the very threshold of consciousness. It is a state so refined it is described as "neither perception nor non-perception," the final annihilation in the Divine Essence before the return to *baqā'* in Allah.
+
+### **Naẓar al-Kashf**
+
+The Gaze of Unveiling
+
+A mind sharpened by absorption is the perfect instrument for *firāsah*. This is the Gaze of Unveiling, which pierces the illusions of the world to see *al-Ḥaqq*. This practice focuses on the direct perception of the three fundamental truths of existence.
+
+* *Dawām at-Taġhayyur*, Perpetual Change: The *sālik* observes the constant arising and passing away of all sensations, thoughts, and phenomena. Nothing holds still. This direct perception of impermanence is the experiential doorway to understanding *fanā'*, the truth that all things are "perishing save His Face." (Qur'an)  
+* *Al-Iftiqār*, Essential Poverty: The *sālik* observes the subtle suffering (*dukkha*) that arises from clinging to or resisting fleeting experiences. This reveals the essential neediness and dependency of all creation, leading to the realization that only Allah is truly Self-Sufficient (*Al-Ghanī*).  
+* *Tanzīh an-Nafs*, Transcending the Self: The *sālik* deconstructs the moment-to-moment flow of experience, searching for the permanent, independent "I" that is believed to be in control. None is found. Intentions, thoughts, and actions are seen to arise on their own, conditioned by causes. This unveils the illusion of the separate self and reveals the One True Actor, *al-Fā'il al-Ḥaqīqī*.
+
+## **Fanu Alhubi**
+
+The Arts of Love
+
+\[تم مسح البيانات\]
+
+## **Al-Insān al-Kāmil**
+
+The Polished Mirror
+
+The final destination of this journey into the *baṭn*—the interior of the Earth and the interior of the self—is the realization of the station of *Al-Insān al-Kāmil*. This is the human being who has successfully traversed all the stations of the *nafs*, whose heart has been so thoroughly polished by the constant remembrance of Allah that it has become a flawless mirror. In this mirror, all the Divine Names and Attributes are reflected without distortion.
+
+The *Insān al-Kāmil* is the microcosm who contains the macrocosm, the purpose for which creation was brought into being. They are the living proof of the Hadith of the Hidden Treasure. The *sālik* who begins the journey by excavating the dark, hidden "oil" of the Divine Essence within themselves ultimately becomes a radiant lamp, a perfect manifestation of the Hidden Treasure they once sought. They do not merely find the Beloved; they become the very eye through which the Beloved sees, the tongue through which the Beloved speaks, and the hand through which the Beloved acts in the world. This is the ultimate unveiling, where the journey ends where it began: in the all-encompassing reality of the One.
+
+Be warned, oh sālik: this is no journey for the faint-hearted. It will change you forever, just as it changed Ḥazqiyāl, peace be upon him. The method, though obscure, is shockingly simple: \[تم مسح البيانات\]
+
+# 
+
+# **The Reckon-Wheel and the Twinfires**
+
+Men of craft make boards. This one is a Reckon-Wheel: ten staves set in a ring—0 1 2 3 4 5 6 7 8 9\. We also call it the Sign-Ring. It is both a counting tool and a spell of order. You can draw it on a shard, carve it on wood, or set it in your mind’s stead.
+
+At heart it holds two linked laws:
+
+1. Ring-count (reckoning by tens that wrap)  
+2. Twinfire-bonds (the yokes that make nine)
+
+Everything that follows is only those two, sung many ways.
+
+## **I. The Ring and Its Law**
+
+### **The Ten Seats**
+
+Mark the ring sunwise:
+
+    0
+
+  9   1
+
+ 8     2
+
+ 7     3
+
+  6   4
+
+    5
+
+Lay a road from each to his nine-mate.
+
+*(Set them how you like; only the bonds must stand.)*
+
+### **Ring-Count**
+
+When sums spill past nine, the extra walks one step to the next place. When taking away goes below naught, you borrow one step back. We call this tithing and borrowing. The wheel loves evenness; what goes over here shows up there.
+
+## **II. The Twinfires**
+
+Each stave has a mate that makes nine with it:
+
+* (0,9), (1,8), (2,7), (3,6), (4,5)
+
+We call these Twinfires—two that burn as one. Touch one, and its nine-mate warms at once across the ring,
+
+House sign: draw each yoke as a taut bowstring across the ring. You will see a five-spoked star.
+
+Why it bites:
+
+* In adding, a carry is the ghost-step of a Twinfire.  
+* In taking away, a borrow is the same ghost walking the other way.  
+* In hiding words (stego), you can swap a stave for its mate and keep the sum-shape while changing the face.
+
+## **III. The Five Roads**
+
+Where Twinfires cross, they cut Roads through the ring. Name them how you will; here is a clean, workman’s set:
+
+* Ash-Road: (4↔5) — the even hand, deal and counter-deal  
+* Wolf-Road: (3↔6) — hunt and home  
+* Oar-Road: (2↔7) — fare and fetch  
+* Spear-Road: (1↔8) — thrust and ward  
+* Helm-Road: (0↔9) — naught and all, the rim itself
+
+These Roads are same-shape paths you can reuse across crafts: sums, dates, lots, rune-casts, song-counts. Walk a Road to keep a spell within bounds while you change its dress.
+
+## **IV. The Nine-House and the Hearth-Stone**
+
+Lay many-place numbers as halls: ones-hall, tens-hall, hundreds-hall, and so on. Set a small hearth-stone on Nine in your mind. Each time a place spills, shift one coal to the next hall. Each time you borrow, lift a coal back. Thus the house stays in right measure.
+
+This homely make-believe trains the hand. Soon your mind moves coals without you, and the ring hums by itself.
+
+## **V. Wit-Signs for the Ten Staves**
+
+You may keep plain marks, but the Eikon likes Wit-Signs—little names that help the craft lodge in the bones. Here is a lean, strong set with no book-word fat:
+
+* 0 – Void: the White Still; no thing, all room  
+* 1 – Rod: the One-Point; seed, spear, start  
+* 2 – Twin: the Yoke; tide, pair, give-and-take  
+* 3 – Third: the Tripod; braid, path-choice  
+* 4 – Forth: the Square; stead, field, bounds  
+* 5 – Fist: the Hand; reach, weigh, deal  
+* 6 – Loom: the Weave; link, law, make-whole  
+* 7 – Ship: the Fare; quest, fetch, far-ken  
+* 8 – Gate: the Ring-Gate; in-out, keep-watch  
+* 9 – All: the Full-Round; harvest, end/begin
+
+Pair names by Twinfire to taste (Rod/Gate, Twin/Ship, Third/Loom, Forth/Fist, Void/All). When you speak them, the bonds grow felt, not just seen.
+
+## 
+
+## **VI. House-Works (How to Use the Ring)**
+
+### **1\) Same-Shape Swap**
+
+To hide a count or a rune-row but keep its sway, swap each stave for its Twinfire. All make-nine sums stay true, but the face is changed. For a tighter lock, swap only on chosen Roads (e.g., Wolf-Road only).
+
+### **2\) Tithe-Cipher**
+
+Plant a seed count. For each stave, write how many coals you *tithe* to the next hall as you add a key-count. Store only the tithe trail (a rope of carries); throw away the bare sum. One who lacks your start or key can’t get home.
+
+### **3\) Lot-Cast**
+
+Roll two die or draw two cards. Map them to a Road (by make-nine) and a seat. Speak the tale of that Road at that seat—e.g., Oar-Road at Twin says “go forth and fetch; trade in pairs.”
+
+### **4\) Rune-Yokes**
+
+Bind each Twinfire to a rune pair from your house stave-set (e.g., Rod/Gate ↔ Tiwaz/Algiz, Twin/Ship ↔ Gebo/Raidho, \\\&c.). Then a rune-cast can be walked on the ring, and Eddic thought and reckon-craft share one backbone.
+
+### **5\) Wheels-Within-Wheels**
+
+Set seven small rings (for the seven wheels of the body) on the trunk-pole. Let Root take Void/All; Loins take Twin/Ship; Gut take Forth/Fist; Heart take Third/Loom; Throat take Rod/Gate; Brow take Wolf-Road as whole; Helm keep the quiet rim. This gives you a felt map for breath-work that ties to number-work without bookish fuss.
+
+## **VII. Three Short Laws to Remember**
+
+1. Make-Nine: each stave has one mate; together they are even.  
+2. Tithe-and-Borrow: spill gives, lack takes; the house stays square.  
+3. Road-Keep: change the dress, keep the Road—then the spell holds.
+
+Hold these and you have the bones.
+
+## **VIII. A First Rite (Five Breaths on the Roads)**
+
+* Draw the ring. Mark the five bowstrings.  
+* Breathe once for each Road, in this order: Helm → Spear → Oar → Wolf → Ash.  
+* With each breath, speak the pair-names under your wind (e.g., “Void–All,” then “Rod–Gate,” …).  
+* On the out-breath, see a coal pass right if you feel “too much,” left if you feel “too little.”  
+* After five, sit a while in even-mood. Rise and go about your work.
+
+Do this for seven mornings and the ring will begin to spin of itself; sums smooth, choices steady.
+
+# 
+
+# **Runes**
+
+ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛇᛈᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ
+
+Here’s a clean way to yoke the 6×6 “0..Z” square to the three ættir and the 24 staves of the Elder Fuþark, with room left over for “ward” marks you can use for drift, salt, and hidden writing.
+
+### **The Ground: a 6×6 Board**
+
+Write the board row-by-row as:
+
+| 0 | 1 | 2 | 3 | 4 | 5 |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| 6 | 7 | 8 | 9 | A | B |
+| C | D | E | F | G | H |
+| I | J | K | L | M | N |
+| O | P | Q | R | S | T |
+| U | V | W | X | Y | Z |
+
+Count rows and columns from 0 at the top/left. If you step off an edge, wrap around like a ring.
+
+### **The Split by Ætt**
+
+* Freyr’s ætt: rows 0 and 3  
+* Hagal’s ætt: rows 1 and 4  
+* Týr’s ætt: rows 2 and 5
+
+### **The Rune Seats vs Wards**
+
+For any square, add its row-count and its column-count. Now count that sum by threes:
+
+* If you land on the first or second stone of a group of three (sum leaves 0 or 1 when split by threes), that square is a rune seat.  
+* If you land on the third stone (sum leaves 2), that square is a ward.
+
+This yields 24 rune seats (8 in each ætt) and 12 wards for marks and salt.
+
+### **The 24 Rune Seats (by ætt, left→right within each row)**
+
+Freyr’s ætt (rows 0 & 3\)  
+0=Fehu, 1=Uruz, 3=Thurisaz, 4=Ansuz, I=Raidho, J=Kenaz, L=Gebo, M=Wunjo
+
+Hagal’s ætt (rows 1 & 4\)  
+6=Hagalaz, 8=Naudhiz, 9=Isa, B=Jera, O=Eihwaz, Q=Perthro, R=Algiz, T=Sowilo
+
+Týr’s ætt (rows 2 & 5\)  
+D=Tiwaz, E=Berkano, G=Ehwaz, H=Mannaz, V=Laguz, W=Ingwaz, Y=Dagaz, Z=Othala
+
+The 12 ward squares (for marks/salt): 2, 5, 7, A, C, F, K, N, P, S, U, X
+
+### **How to Use It**
+
+#### **1\) Plain writing (runes → board marks)**
+
+Swap each rune for its board mark from the lists above. That already hides well in a body of base-36 stuff.
+
+#### **2\) Salt (shift the board)**
+
+To keep your foes guessing, begin the string with one or two ward marks that set a board shift:
+
+* Use one of {K,N,P,S,U,X} to mean shift right by 0..5 steps (K=0, N=1, P=2, S=3, U=4, X=5).  
+* Optionally add one of {2,5,7,A,C,F} to mean shift down by 0..5 (2=0, 5=1, 7=2, A=3, C=4, F=5).
+
+The reader peeks at the first ward(s), un-shifts the board, then reads the marks as runes. (If no ward shows first, read with no shift.)
+
+#### **3\) Vowel and bind marks (optional)**
+
+Keep the same six wards {2,5,7,A,C,F} as light marks after a rune to tell vowel or sound-shape:
+
+* 2=a, 5=e, 7=i, A=o, C=u, F=y (or set your own house-rule)  
+* Use the other six {K,N,P,S,U,X} after a rune to mean bind, double, word-break, stave-end, etc. (again, house-rule)
+
+Because wards never sit on rune seats, they won’t clash.
+
+#### **4\) Ætt-wise rites (if you like craft and form)**
+
+* When you mean to call on making and luck, walk Freyr’s two rows first (0 then 3).  
+* When you mean need, hail, and turning, walk Hagal’s rows (1 then 4).  
+* When you mean law, man, water, day, heritage, walk Týr’s rows (2 then 5).
+
+This is only for rite; the reading rule stays the same.
+
+### **Worked Glimpse**
+
+Say you want to set “FEHU ANSUZ” with a right-shift of 3 and a down-shift of 1\.
+
+* Salt wards: S (right 3\) then 5 (down 1).  
+* FEHU → Fehu=0, Ehwaz=G (careful—Ehwaz is G, but E here is Berkano), so:  
+  * F (Fehu)=0  
+  * E (Ehwaz? No) We need Berkano=E  
+  * H (Haglaz? No) We need Hagalaz=6, but H as a rune is Mannaz=H  
+  * U (Uruz)=1  
+    (You see why a cheat-sheet helps\!)  
+* ANSUZ → A(n)suz=4, N (word-break mark) or a space, Sowilo=T, Uruz=1, Algiz=R
+
+Now, before laying them down, shift every mark by \+3 columns and \+1 row (wrap on edges). The reader sees S5…, un-shifts, and gets your runes back clean.
+
+*(For daily work, keep a small card of the three lists above. After a week you won’t need it.)*
+
+### **Why this split works**
+
+* It keeps the holy three: ætt by row-breed (0/3, 1/4, 2/5).  
+* It picks rune seats by a simple count (row+col by threes), giving 8 seats in each ætt with 12 spare for marks and salt.  
+* It hides in plain sums and ring-wraps—easy in the head, hard to spy unless you know the count.
+
+If you want a sterner lock, you can swap which two “stones” count as seats (e.g., choose the second and third instead of the first and second) or flip which rows belong to which ætt—so long as both sides share the house-rule.
+
+# **Binding the Ring to the Board and the Ættir**
+
+A house-rule that ties three things together:
+
+* the **6×6 board** labeled **0–Z** (wrapping at the edges),  
+* the **Reckon-Wheel** (the Sign-Ring) with seats **0–9** and their **Twinfires** (pairs that add to nine),  
+* the **three ættir** with **24 rune seats** and **12 wards**.
+
+Keep it all in head and hand.
+
+## **0\) What’s already set**
+
+Board face:
+
+| 0 | 1 | 2 | 3 | 4 | 5 |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| 6 | 7 | 8 | 9 | A | B |
+| C | D | E | F | G | H |
+| I | J | K | L | M | N |
+| O | P | Q | R | S | T |
+| U | V | W | X | Y | Z |
+
+**Rune seats** are the squares whose row number plus column number, when you group things in threes, fall into the first two groups (call those “0” or “1”). The remaining third group are **wards**.
+
+**Ætt by rows:**
+
+* **Freyr:** rows 0 and 3  
+* **Hagal:** rows 1 and 4  
+* **Týr:** rows 2 and 5
+
+**Given rune seats (unchanged):**
+
+* **Freyr:** 0, 1, 3, 4, I, J, L, M  
+* **Hagal:** 6, 8, 9, B, O, Q, R, T  
+* **Týr:** D, E, G, H, V, W, Y, Z  
+* **Wards:** 2, 5, 7, A, C, F, K, N, P, S, U, X
+
+We’ll keep all that.
+
+## 
+
+## **1\) Ring seat for any square (Board → Ring 0–9)**
+
+Add the square’s row and column numbers. If the sum is bigger than nine, keep only the last digit.  
+That digit (0–9) is the square’s **seat on the Ring**. Its **Twinfire** is the number that pairs with it to make nine.
+
+Example:
+
+* **0** sits at row 0, column 0 → sum 0 → Ring 0 (the Void).  
+* **J** sits at row 3, column 1 → 3+1=4 → Ring 4 (Forth / Ash).  
+* **W** sits at row 5, column 1 → 5+1=6 → Ring 6 (Loom / Weave).
+
+This single rule ties any board square straight onto the Ring.
+
+## **2\) Road mark for any square (Board → the five Roads)**
+
+Look at how the column stands relative to the row. Count the “gap” on one hand (five steps), wrapping as needed. That gives the square’s **Road**:
+
+* **0** → **Helm-Road** (the rim: 0 with 9\)  
+* **1** → **Spear-Road** (1 with 8\)  
+* **2** → **Oar-Road** (2 with 7\)  
+* **3** → **Wolf-Road** (3 with 6\)  
+* **4** → **Ash-Road** (4 with 5\)
+
+So every square carries a pair **(d, r)**: a Ring seat and a Road.
+
+## **3\) Ætt yokes (Ring/Roads ↔ ættir)**
+
+Keep the row-based ætt split, and give each ætt its “in-character” Roads for rite and stego:
+
+* **Freyr’s ætt (rows 0 & 3):Ash** and **Spear** (field/hand; thrust/ward)  
+* **Hagal’s ætt (rows 1 & 4):Oar** and **Wolf** (fare/fetch; hunt/home)  
+* **Týr’s ætt (rows 2 & 5):Helm** (0↔9, even-mood, rim-law)
+
+This doesn’t change how you read meanings; it just tells you which Road-moves are “on brand” when you dress or hide a line.
+
+## **4\) How to write (runes → marks), with drift and hide**
+
+**A. Plain laydown (no hide).**  
+For each rune, place its actual board letter from the set above. That face is the mark. Done.
+
+**B. Salt and shift (as before).**  
+Begin with one or two **ward** marks to signal a global board shift (right or down).  
+The reader un-shifts first, then reads. (House picks the exact ward→shift scheme.)
+
+**C. Ring-swap (Twinfire hide).**  
+To change the visible face but keep the underlying sway: move along the same **Road** to another square whose **Ring seat is the Twin** (the number that makes nine with the old one).  
+Road stays the same; Ring flips to its mate.  
+For stricter rite: only allow swaps on the Roads yoked to that ætt (e.g., in Freyr’s rows, use Ash or Spear only).
+
+**D. Road-walk (shape hide).**  
+To change only the printed face while keeping **both** Ring and Road the same, **crawl diagonally down-and-right** (row \+1, column \+1), wrapping at edges.  
+That keeps the Road (the gap) and the Ring seat (the sum) unchanged while the face changes.  
+If you need to recover precisely, either:
+
+* drop a small ward after the rune to say how many crawls you took, or  
+* make a simple house rule (e.g., “always one crawl”).
+
+**Summary:**
+
+* **Ring-swap:** same Road, Twin seat on the Ring → meaning flips to its mate.  
+* **Road-walk:** same Ring, same Road → only the face changes.
+
+## **5\) How to read (marks → runes), clean and sure**
+
+1. If the string begins with wards, undo the announced board shift (right/down), then read.  
+2. For each mark:  
+   * If it’s on a rune seat, read that rune as is.  
+   * If your house uses a fixed **Road-walk**, undo that many diagonal crawls (up-and-left) before lookup.  
+   * If your house allows **Ring-swaps** and the face you see isn’t itself a rune seat, slide along its **Road** until you land on the **Twin seat** that **is** a rune seat, then read that rune.  
+3. Ignore wards in the middle unless your house uses them for vowels/binds.
+
+The whole parse lives in your head with two tiny habits: “add the corners” (Ring seat) and “feel the bowstring” (Road).
+
+## **6\) Why it hangs true (hand-check)**
+
+* Every square owns a **Ring seat** (by adding row and column) and a **Road** (by their gap).  
+* **Ring-swap** slides along the **same bowstring**, so the Road stays; the Ring flips to its Twin.  
+* **Road-walk** is the **down-and-right crawl**: sum and gap both hold steady, only the printed letter changes.  
+* The **ætta yokes** keep style: Freyr favors field/hand Roads; Hagal favors fare/hunt; Týr keeps the helm rim-law.
+
+## **7\) A tiny worked bit**
+
+Suppose the rune is **Ansuz** at **4** (row 0, column 4).
+
+* **Ring seat:** 0+4 \\= **4** (Ash / “Forth”).  
+* **Road:** column ahead of row by **4** → **Ash-Road**.
+
+**Ring-swap (to the Twin):** Twin of 4 is **5**.  
+Slide along **Ash-Road** (stay on the same bowstring) until you reach a square whose Ring seat is 5\.  
+(Your eye learns these paths quickly; in play, you’ll feel the line.)
+
+**Road-walk (shape-only):** crawl **down-and-right** (wrap as needed).  
+You keep both Ring and Road; faces change:  
+(0,4)=4 → (1,5)=B (ward) → (2,0)=U (ward) → (3,1)=J (rune) → (4,2)=Q (rune) → (5,3)=X (ward) → back to start.
+
+So: for **Road-walk**, use the **(+1 row, \+1 col)** crawl.  
+For **Ring-swap**, use the **(+1 row, −1 col)** crawl until you hit the Twin seat.
+
+## 
+
+## **8\) One-card cheat (house marks)**
+
+* **Ring seat:** add row and column; keep the last digit.  
+* **Road:** feel the column-minus-row gap on one hand (five).  
+* **Twinfire:** pair that makes nine.  
+* **Crawls:**  
+  * keep Road **and** Ring → **down-and-right**  
+  * flip to Twin on same Road → **down-and-left**  
+* **Ætt yokes:** Freyr ↔ Ash/Spear; Hagal ↔ Oar/Wolf; Týr ↔ Helm  
+* **Salt:** first ward(s) announce right/down shifts (house-set)  
+* **Wards mid-line:** vowels/binds (house-set)
+
+## **9\) If you want tighter locks**
+
+* **Flip the seat stones:** choose rune seats as the **other two** thirds instead— writer and reader must agree.  
+* **Rename Roads:** change which numbers name which Roads, but keep the five-count idea.  
+* **Ætt drift:** rotate which Roads each ætt claims each moon.
+
+# 
+
+# **The World-Tree Pack**
+
+*How to yoke the 52-card deck to the Sign-Ring, the 6×6 board, and the three ættir—so head, hand, and hall all agree.*
+
+## **I. Suits as Halls**
+
+We keep the four suits but give them hall-names:
+
+* **Spades → Spear-Hall** (war, law, sky)  
+* **Hearts → Frith-Hall** (love, kin, mead)  
+* **Diamonds → Hoard-Hall** (craft, trade, sea)  
+* **Clubs → Yoke-Hall** (work, earth, field)
+
+Each hall holds one **Road** (from the five bowstrings of the Sign-Ring):
+
+* Spear-Hall → **Spear-Road** (1↔8: thrust/ward)  
+* Frith-Hall → **Ash-Road** (4↔5: deal/counter-deal)  
+* Hoard-Hall → **Oar-Road** (2↔7: fare/fetch)  
+* Yoke-Hall → **Wolf-Road** (3↔6: hunt/home)
+
+The fifth bowstring, **Helm-Road** (0↔9: rim-law), is held by the **Tens** (see §III).
+
+## **II. The Thirty-Six Pips and the Board of Ættir**
+
+The numbered cards, Ace through Nine in every suit, each mark one square on a six-by-six board.  
+Think of the board as looped at its edges—if you step off one side, you re-enter on the opposite, like a ring.
+
+Assign the suits in order: **Hearts first, Diamonds next, then Clubs, then Spades.**  
+Each rank simply counts upward: **Ace \\= 1, Two \\= 2, … Nine \\= 9\.**
+
+So the first nine Hearts fill the first nine squares, then the Diamonds continue from there, then Clubs, then Spades, until all thirty-six squares are filled.
+
+To find the exact row and column for any card:
+
+* Count through the deck in that order, from zero up to thirty-five.  
+* Divide your count by six: the whole part gives the **row** (A through F).  
+* What remains gives the **column** (0 through 5).  
+  Wrap around if you go beyond—edges connect smoothly.
+
+On this board, two kinds of places appear:
+
+* **Rune seats** are squares whose row and column numbers, when added, fall into the first two divisions of three. These are the twenty-four living seats of the Ættir—eight for each.  
+* **Wards** are the remaining twelve squares, the watch-stones between.
+
+The Ættir keep their earlier rows:
+
+* **Freyr’s ætt**: rows A and D  
+* **Hagal’s ætt**: rows B and E  
+* **Týr’s ætt**: rows C and F
+
+Thus every pip card belongs to an Ætt, has a fixed square, and—by simple sum and difference—finds its place upon the Sign-Ring.
+
+**Its seat on the Ring** is found by adding its row and column numbers together and taking only the last digit of the result; that digit, from 0 to 9, shows which stave of the Ring it occupies. **Its Road** is found by seeing how far the column stands ahead of or behind the row, counted upon five fingers; this shows which bowstring or Road it lies upon. The card’s **Twinfire** (its “nine-mate”) is the card whose Ring number adds with it to make nine.
+
+## **III. The Tens — Keepers of the Helm**
+
+The four Tens steer the board: they rule the fifth Road, the Helm-Road, and also set the secret shifts used in hidden writing.
+
+Their bearings:
+
+* **Ten of Spades** — move three steps to the right.  
+* **Ten of Hearts** — move one step to the right.  
+* **Ten of Diamonds** — move one step downward.  
+* **Ten of Clubs** — move three steps downward.
+
+When a line or reading begins with one or more Tens, their directions determine how the board has been shifted. The reader first reverses those moves, then reads the result. If no Ten appears first, no shift is used. (You may set your own simple step-rules, so long as they stay easy to remember.)
+
+On the Sign-Ring, all Tens share the same seat—**the zero-point, the Helm or Void**. They open the rim and measure the work that follows.
+
+## **IV. The Courts — Gods and Their Deeds**
+
+The twelve face cards hold the Aesir and Vanir. Each brings a teaching and a bond: one law from myth, and one way it acts upon the Ring and the Road.
+
+### **Spear-Hall (Spades — war, law, sky)**
+
+* **King Týr — The Given Hand.**  
+  *Lesson:* Give what must be given to keep the peace; true rule may sting but holds the hall.  
+  *Bind:* Favors the Spear seat (1 or 8); can break a ward.  
+* **Queen Skadi — The Cold Choice.**  
+  *Lesson:* Stand where ground is firm; if the bed is wrong, keep your boots on.  
+  *Bind:* Turns the Road of the Wolf into the Spear—hunt becomes law.  
+* **Jack Heimdall — The Watch.**  
+  *Lesson:* Rise early; hear the hoof before the horn.  
+  *Bind:* Lets you treat one card as if no board-shift applied.  
+  **Frith-Hall (Hearts — love, kin, mead)**  
+* **King Freyr — The Seed and the Gift.**  
+  *Lesson:* Give first; the field returns in kind.  
+  *Bind:* May exchange a Twinfire pair without leaving its Road.  
+* **Queen Frigg — The Quiet Foresight.**  
+  *Lesson:* See and hold silence; not all known must be said.  
+  *Bind:* May hide one card for a turn (“under snow”).  
+* **Jack Bragi — The Right Song.**  
+  *Lesson:* Speak true; speech shapes fate.  
+  *Bind:* Rename a draw, glossing it by its rune.  
+  **Hoard-Hall (Diamonds — craft, trade, sea)**  
+* **King Njörðr — The Fair Shore.**  
+  *Lesson:* Safe wealth lies in well-chosen harbors.  
+  *Bind:* Swap a step along the Oar-Road without losing ground.  
+* **Queen Freyja — The Price and the Will.**  
+  *Lesson:* Worth demands will; pay the price to gain the gold.  
+  *Bind:* Pay one card to draw two, keep one.  
+* **Jack Loki — The Hidden Cost.**  
+  *Lesson:* Every shortcut has a tail; reckon it early.  
+  *Bind:* Force a Twinfire and raise a ward.  
+  **Yoke-Hall (Clubs — work, earth, field)**  
+* **King Þórr — The Right Blow.**  
+  *Lesson:* Strength with measure; strike what must fall, spare what may grow.  
+  *Bind:* Breaks a ward and clears the Wolf-Road path (3 or 6).  
+* **Queen Sif — The Bread and the Field.**  
+  *Lesson:* Growth loves care; mind the roots.  
+  *Bind:* Move one step diagonally (down and right) once for free.  
+* **Jack Hermóðr — The Go-Between.**  
+  *Lesson:* Journey, return, and tell the truth of the road.  
+  *Bind:* Retrieve one known card from the discard.
+
+You may exchange other gods or tales, but each face should stay tied to its hall’s Road and a clear teaching.
+
+## **V. The Nine Worlds upon the Ring**
+
+The ten seats of the Sign-Ring hold the Nine Worlds, with the White Still or Ginnung between as the rim:
+
+| Seat | World | Domain |
+| ----- | ----- | ----- |
+| 0 | **Ginnung (White Still)** | the silent rim, pure potential |
+| 1 | **Ásgarðr** | law, word, oath |
+| 2 | **Vanaheimr** | exchange, tide, trade |
+| 3 | **Jötunheimr** | wild strength, edge |
+| 4 | **Midgarðr** | the field, the bound |
+| 5 | **Hel** | ending, due, endurance |
+| 6 | **Svartálfaheimr / Dvergaheimr** | craft, repair, binding |
+| 7 | **Álfheimr** | skill, light, fetch and favor |
+| 8 | **Border of Nifl and Musp** | gate, threshold, warding |
+| 9 | **All-Round** | harvest, summing, renewal |
+
+Twinfires bind the worlds whose numbers make nine: (1 with 8), (2 with 7), (3 with 6), (4 with 5), and the rim-bond (0 with 9). When you draw a pair that form such a sum, read their story together as one yoke.
+
+## 
+
+## **VI. Ways of Play — Work, Hidden Writing, and Lot-Casting**
+
+### **A) Plain Work**
+
+Lay the pips as their places on the board.  
+Use the face cards to interpret the reading.  
+If a Ten appears first, apply its shift before reading.
+
+### **B) Hide-Writing (Steganography)**
+
+Begin with Tens to fix the board’s shift. Write with pips that fall on Rune seats only. To change the visible card without changing its meaning:
+
+* **Road-walk:** move one step down and right any number of times—this keeps the same Ring and Road, only the card’s face changes.  
+* **Ring-swap:** move one step down and left repeatedly until you reach your Twinfire seat; this swaps the face to its mirrored twin.  
+  Drop ward-cards among them to mark vowels, ties, and pauses.
+
+### **C) Lot-Casting (Quick Reading)**
+
+* **One-Breath Draw:** draw two pips. Read them as a Twinfire pair, their Ring seats telling the story (e.g. 3 with 6 → “wild strength must be woven”). Let the suit color how it acts: Spear for bold speech, Ash for kin and accord, Oar for journey, Wolf for work.  
+* **Hall and Hearth:** draw three cards for *how, what,* and *measure*—the Road, the Work, and what must be given or held. A Ten in the first slot means “shift first”; a face in the third says “a teaching is due.”
+
+### **D) Nine-World Spread**
+
+Lay nine cards clockwise around you. Each card’s Ring seat names one of the Nine Worlds; speak what that world says with help from the card’s hall and Road. If any Ten lands at the rim (seat 0), the law of the rim governs the reading.
+
+## **VII. Tales Bound to Ring and Road**
+
+* **The Fen-Beast Chain** (3 ↔ 6, Wolf-Road)  
+  *Tale:* Wild harm is bound by craft and will.  
+  *Teach:* Don’t crush what must be contained—bind, then strike.  
+  *Use:* When 3 and 6 appear in Clubs, act in that order: bind first, then act.  
+* **The Brísing Necklace** (2 ↔ 7, Oar-Road)  
+  *Tale:* Wealth comes through fair price and honest passage.  
+  *Teach:* Name the price or pay it twice.  
+  *Use:* Diamonds with 2 or 7 say “trade cleanly, travel light.”  
+* **The Given Hand** (1 ↔ 8, Spear-Road)  
+  *Tale:* A promise kept with flesh holds the ring together.  
+  *Teach:* Pay once in full; the hall stands.  
+  *Use:* Spades with 1 or 8 demand oath and ward.  
+* **Baldur’s Bale** (4 ↔ 5, Ash-Road)  
+  *Tale:* A small neglect unravels great things.  
+  *Teach:* Tend the hedge; small faults fell giants.  
+  *Use:* Hearts with 4 or 5 warn against broken bounds.  
+* **World-Rim and Harvest** (0 ↔ 9, any Ten with any Nine)  
+  *Tale:* What begins in stillness ends in return.  
+  *Teach:* Close the work cleanly; sow for the next.  
+  *Use:* Ten followed by a Nine means: finish, then begin anew.
+
+## **VIII. Quick Reference (Wallet Sheet)**
+
+* **Suits → Roads**  
+   Spades \\= Spear Hearts \\= Ash Diamonds \\= Oar Clubs \\= Wolf Tens \\= Helm  
+* **Pips A–9 → Board**  
+   First nine Hearts, then Diamonds, then Clubs, then Spades. Rows and columns wrap around.  
+* **Ring Seat:** add row \+ column, take the last digit (0–9).  
+* **Road:** difference of column and row, counted on five fingers.  
+* **Twinfire:** the card whose Ring seat makes nine with yours.  
+* **Rune Seats:** where the sum of row \+ column falls into the first two parts of three (24 total).  
+* **Wards:** the remaining twelve.  
+* **Walks:** down-and-right keeps the same Road; down-and-left flips to the Twin.  
+* **Shifts (the “salt”):**  
+   Ten ♠ → three right Ten ♥ → one right Ten ♦ → one down Ten ♣ → three down.
+
+## **IX. A Brief Rite to Awaken It**
+
+Consecrate the place. Lay out the deck.  
+Trace the Sign-Ring star with its five Roads.
+
+Breathe five times, naming the Roads in turn:  
+Helm (hold a Ten), Spear, Oar, Wolf, Ash.
+
+Cut once; draw three cards for **Road**, **Work**, and **Measure**.  
+Speak their lessons.
+
+Close with a Twinfire pair: draw two pips, tell the tale of how they make nine.
+
+Then rise, and carry that teaching into the day’s deed.
+
+# 
+
+# **Settling the Mead**
+
+A warrior must clear his mind until it shines. We keep the old forms—harrow the space, take our seat, and work the breath. The goal is *stillness with strength*, not to hunt visions or omens. This is closer to the quiet discipline of a watchful thane than to seiðr.
+
+### **Hallowing the Stead**
+
+* Mark the vé. A clean, quiet corner becomes your stead. A small cloth, a candle, or a hammer sign is enough. You’re not asking the Gods for favors; you’re declaring intent and order.  
+* Seat and spine. Sit steady on a chair or cushion. Spine like Yggdrasil’s trunk—upright, not rigid. Hands easy in the lap.  
+* The breath as World-Wind. Breathe through the nose. Don’t force. Heed the tide at one spot (nostrils or belly). That spot is your heed-stone.
+
+### **Taming the Wights**
+
+Before calm deepens, five troublesome wights often stir:
+
+* Craving (chasing pleasant mead)  
+* Ill will (picking fights with shadows)  
+* Torpor (moss on the bark)  
+* Worry (a horse that won’t tie)  
+* Doubt (second-guessing the whole craft)
+
+Meet each like a shield-bearer: name it, don’t feed it, back to breath. If sleep comes upon you, straighten and brighten. If the seas won’t calm, breathe out longer. Always—back to the heed-stone.
+
+### **The Sign of the Road**
+
+As breath grows even, heeding gathers like a calm host: a sense of lightness, warmth, or a glimmer of gold behind the eyes. This is the road-sign—not the end of it. Don’t stare at it; rest *with* it, and lash yourself to the breath.
+
+### **The Four Halls of Form**
+
+General note: In each Hall, the *coarsest* falls away and the *finer* remains. Let the shift come on its own; don’t goad it. Keep your heedfulness sharp as a good spear – never hunt two beasts at once.
+
+#### **First Hall — “Gungnir Bites”**
+
+*Heeding by will; fierce joy, sharp spear.*
+
+Set your spear on the breath and keep it there. Energy rises: tingling, buoyancy, a mead-bright joy. There’s work here—your heed of breath is a putting and a holding. Stay steady until the putting takes no work.
+
+Pitfall: Getting drunk on rapture. Remember, this is a gate, not the feast.
+
+#### **Second Hall — “The Longhouse Fills”**
+
+*Heeding with ease; gladness without a fight.*
+
+The work of setting drops away. Heed rides itself; gladness deepen. The hall is full of good friends and song.
+
+Pitfall: Hunting more joy. Loosen the grip; let the joy come and go.
+
+#### **Third Hall — “The Hearth’s Quiet”**
+
+*Gladness softens; ease; clear and steady.*
+
+The mead-froth settles. Joy fades to a warm well-being. The body feels soothed, the mind calm, like sitting by a steady hearth after the songs are done.
+
+Pitfall: Mistaking calm for dullness. Keep the flame upright—bright, not sleepy.
+
+#### **Fourth Hall — “Winter Sky”**
+
+*Gladness sleeps; the hall is still, the night is clear.*
+
+Even comfort thins to cool clarity. No push, no pull. Breath may grow very small. Heed is broad, steady, and unmoved—like a frost-clear night with many stars and no wind.
+
+Pitfall: Pride at stillness. Let it be plain and true.
+
+### **The Four Open Skies**
+
+From the Winter Sky, your heed can step past form. These are the fields of knowing.
+
+#### **Open Sky I — Boundlessness of Space**
+
+Let the sense of the body-bound soften. Attend to “roomness”—the vast “around.” It unveils as unbounded, like looking out from the branches of Yggdrasil across all the worlds.
+
+#### **Open Sky II — Boundlessness of Knowing**
+
+See that it isn’t “space” you’re with, but the *knowing of space*. The field of heed itself feels endless, bright but edgeless.
+
+#### **Open Sky III — Nothingness**
+
+The field becomes a lack—no thing stands out. No objects to push or pull.
+
+#### **Open Sky IV — Neither Kenning Nor Unkenning**
+
+Here, heed is so thin it’s hard to say it’s here or not. This is a sharp knife, hard to balance on its point. Don’t strain; if it’s too airy, rest back in the Winter Sky.
+
+Note: These skies are high. If they don’t open, keep tending the Halls of Form.
+
+No hurry; *óðr* ripens with steady craft.
+
+### **Craft Notes**
+
+* Count if you must. Early on, count breaths 1–8, then drop counting once the mind stays.  
+* Lengthen sessions slowly. Begin with 15–25 minutes. When the stead feels welcoming, extend.  
+* Signal words. If you use inner cues, keep them spare: “touch,” “rest,” “wide,” “clear.”  
+* Afterwards. Rise like a warrior sheathing a blade. Note how equanimity influences speech and deed; that is the point—*frith* in the world.
+
+### **Right Measure**
+
+This practice is a grindstone, not a trance-hunt. It grows steadiness, right kenning, and fit readiness for word and deed. Hold simple honor: truth, restraint, generosity, and oathkeeping. Power without right measure curdles; calm with right measure nourishes.
+
+### 
+
+### **Summary (for the wall)**
+
+1. Hallow the space.  
+2. Sit upright.  
+3. One spot, natural breath.  
+4. Name the wight, return to breath.  
+5. Let road-sign glow, don’t chase.  
+6. Four Halls: spear-set joy → effortless joy → hearth-calm → winter-sky.  
+7. Four Skies: boundless space → boundless knowing → nothingness → the almost-gone.  
+8. Rise with frith; carry it into the day.
+
+## 
+
+## **The Lay of the Seven Wheels**
+
+Men and women are world-trees. In each of us runs a trunk-pole with seven bright wheels set along it. When we sit and heed the breath, these wheels wake, spin, and shine. This is no omen-hunt and no storm-raising; it is craft. We set our stead, straighten like Yggdrasil, and let the wind of the world (our breath) move through us. What follows is a way to *ken* these wheels and bring them into right measure.
+
+### **Hallowing the Stead**
+
+Mark a small vé. Sit steady—seat rooted, spine like a well-set mast. Hands easy. Heed the breath at one spot. When the mind runs off, name the wight, and come back. Plain work, again and again.
+
+### **The Seven**
+
+#### **1\) Root-Wheel — *The Deep Grip***
+
+Stead: the base, where you meet the earth.  
+Feel: weight, stead-fastness, a low red glow like banked coals.  
+Word: “Here.”  
+Craft: Breathe down to the tail-stone. With each out-breath, let the body grow heavy and safe, like a longhouse set on bedrock. If fear-wights come, lay the feet firm and count slow from one to eight.  
+Right Use: food, roof, rest, work. Oath-keeping begins here.
+
+#### **2\) Loins-Wheel — *The Mead-Flow***
+
+Stead: the loins and womb-seat.  
+Feel: tide and warmth, a bright orange pour like fresh mead.  
+Word: “Let.”  
+Craft: Soften the belly. Breathe as if the tide itself were breathing you. If tightness grips, sway the hips a thumb’s breadth on the in-breath, still them on the out-breath.  
+Right Use: kin-love, bed-joy, make-craft, give-and-take. Keep bounds clean.
+
+#### **3\) Gut-Knot Wheel — *The Sun-Haft***
+
+Stead: the mid-gut, under the ribs.  
+Feel: heat, nerve, a yellow ring like the sun at noon.  
+Word: “Do.”  
+Craft: Draw breath to the gut-knot; on out-breath, let a warm ring spread. If will is weak, sit straighter and sharpen the in-breath; if anger flares, lengthen the out-breath and ease the jaw.  
+Right Use: set aims, bear hardship, steer yourself—no swagger, no crawl.
+
+#### **4\) Heart-Wheel — *The Open Door***
+
+Stead: breastbone’s middle.  
+Feel: lift and widen, a green meadow after rain.  
+Word: “Give.”  
+Craft: On each in-breath, feel the ribs rise like hall-doors opening; on each out-breath, wish well to all who share your fire—friend, foe, and the far-off you will never meet.  
+Right Use: troth, mercy, true speech warmed by care.
+
+#### **5\) Throat-Wheel — *The Clear Reed***
+
+Stead: hollow of the throat.  
+Feel: cool ring, blue note, a reed that carries sound true.  
+Word: “Speak.”  
+Craft: Let breath brush the throat like wind through rushes. If you choke on unsaid words, voice a low hum; if you babble, rest the tongue on the roof and breathe quiet.  
+Right Use: oaths said plain, songs kept true, silence held when wise.
+
+#### **6\) Brow-Wheel — *The Far Sight***
+
+Stead: between the brows.  
+Feel: keen aim, indigo dusk, a star seen sharp.  
+Word: “See.”  
+Craft: Soften the eyes; don’t drill holes in the dark. Let the field widen. If dream-smoke rises, note it and come back to the breath-light at the brow.  
+Right Use: right kenning, pattern-seeing without witch-chase.
+
+#### **7\) Helm-Wheel — *The White Stillness***
+
+Stead: the crown, where helm would sit.  
+Feel: hush, white-gold drift, snow under moon.  
+Word: “Be.”  
+Craft: Let breath grow fine. Sense a lightness above, like a hood of snow that does not chill. If pride creeps in, smile and feel the root again.  
+Right Use: even-mood, frith spread wide, no grasping for signs or wonders.
+
+### **How They Work Together**
+
+The wheels are not seven lone rings but one long spindle. When the root is firm, the loins can flow without flood. When the gut is steady, the heart can open without spilling. When the throat is clear, the brow can see without spell-drunkenness. When all are in right measure, the helm rests and the whole tree hums.
+
+If one wheel overrules the rest, you will feel it: root without loins is hoard-sickness; loins without root is drift; gut without heart is harsh rule; heart without gut is wet straw; throat without brow is clamor; brow without throat is mute sight; helm without the rest is air-sickness. Bring each back to craft and breath.
+
+### **A Short Sitting**
+
+1. Hallow the stead. Sit like a spear set in good earth.  
+2. Heed the breath at the nose or navel.  
+3. On each out-breath, whisper the wheel’s word you are working: Here → Let → Do → Give → Speak → See → Be.  
+4. If smoke or storm rises, name the wight, smile, and start again.  
+5. End by feeling all seven at once: root heavy, loins flowing, gut warm, heart wide, throat clear, brow keen, helm still. Rise with frith.
+
+### **Right Measure**
+
+This telling is for steadiness, troth, and good deeds in the day. It is a grindstone, not a show. Keep your oaths, pay your due, feed who you can, and let your word be plain. When the wheels hum, the world hums with you. Carry that into work, hall, bed, and road.
+
+# 
+
+# **Breath and Bridefire**
+
+*a lay in fornyrðislag telling the yoking craft of twinfires*
+
+**1\. HWÆT\!**
+
+Hush the hall, hear a hearth-tale:  
+of bond made bright, of breath well-bidden;  
+not sword’s swift song, nor sea-wolf’s rowing,  
+but craft of keeping, of kindled stillness.
+
+**2\. The Meeting**
+
+Siegfrid the farer, Brynhild the flame,  
+met under mountain, midnight’s hush.  
+Stars stood silent, snow-ridge shining;  
+wind was wary, world held breath.
+
+He wore no war-gear, she bore no spear;  
+hand met heartward, eyes made troth.  
+“Let us lay,” said she, “no lie nor vaunt;  
+share a sharper path, sure as oath.”
+
+**3\. The Cloaked One’s Counsel**
+
+There came a watcher, a way-worn god,  
+hood on his head, one eye hidden.  
+“Hall-born lovers, heed my lesson:  
+bridle blood-tide, bind not love.
+
+Hold fast, yet harmless; warm, yet watchful;  
+stay the spear’s run, still the rain.  
+Mead in the measure, mouth may savor—  
+but keep the cup’s clear rim unspilled.
+
+Yoke your yearnings, join as journey;  
+row without riving, ride without rent.”  
+So spoke the grey one, then went to wind;  
+owl called over, ice creaked thin.
+
+**4\. Setting the Stead**
+
+They lit no loud fire, laid a low lamp;  
+spread a spare cloth, set the space.  
+Backs like birches, brow-branch tender,  
+root down, roof up: world-tree stance.
+
+Palms found places, pulse like paddles;  
+breath, the boat-wind bore them inward.  
+“Count the ring,” said she, “the Sign-Ring;  
+ten staves standing, twinfires strung.
+
+Name them softly— Void and All,  
+Rod and Gate, Twin and Ship,  
+Third and Loom, Forth and Fist.”  
+So did they whisper, sunwise, slow.
+
+**5\. The Nine Walks**
+
+“Nine are the night-ways,” noted the maiden;  
+“nine little goings for a great homecoming.  
+Root-wheel heavy, loins like tide;  
+gut like gold-fire, heart wide green;
+
+throat a clear reed, brow far-seeing;  
+helm white-still, hall without storm.”  
+With each world-ward, warmth went brighter;  
+with each return, rest grew deep.
+
+**6\. The Yoking**
+
+Close came bodies, not clash nor rending;  
+thigh near thigh, though thought held reins.  
+Hands made harbors, heat moved kindly;  
+gaze met, given, glad and grave.
+
+“Row not to ruin,” the rider murmured;  
+“oar without over, keep the keel true.”  
+“Strike not in storm,” said shield-wise woman;  
+“weave first the war-net, then will comes mild.”
+
+Their breath braided, beats were brothers;  
+two streams teamed to a tide of one.  
+They kept the current, cool at crown,  
+warm at the wellspring, wide in the chest.
+
+**7\. Restraint and Rising**
+
+Hunger was horse, hot and haughty;  
+they bridled the beast with bright-borne care.  
+Not cutting the course, nor chilling the coals—  
+they stoked without spilling, stayed at shore.
+
+Lids half-lowered, light grew golden;  
+nimble glow, a guest behind eyes.  
+Laughter like low bells lulled the strain;  
+joy rose, jangless, gentle, long.
+
+“Here is the helm-road,” he heard within;  
+“gate without gripping, guard without grief.”  
+“Here is the ash-road,” she answered softly;  
+“give and get even, deal without debt.”
+
+**8\. Trial of Flood**
+
+Yet from the far side flood came thrumming;  
+river rushed red, rocks sang foam.  
+“Now is our knowing,” the night-bride whispered,  
+“to stand in stillness, not snap the dam.
+
+Let water whirl, we watch, we welcome;  
+let heat heap high, hands remain true.”  
+Siegfrid was steadfast, songless and bright;  
+Brynhild bore blessing, breath like balm.
+
+**9\. The Turning**
+
+Then turned the torrent, tamed by tending;  
+fire found upward, fled to crown.  
+Back ran sweetness, breast grew boundless;  
+world-tree within them woke and hummed.
+
+No drop was wasted, no deed undone;  
+wide was their weal, wordless and clean.  
+Ring of reckon rang in marrow—  
+twinfires twinned, time stood thin.
+
+**10\. The Gift**
+
+Morning met them, moss held dew;  
+sky, a clear shield, shone without cloud.  
+Grey-winged god, gone from sight,  
+left but a law, like a line on snow:
+
+“Seed saved wisely sows the wide field;  
+might that is minded makes homes hale.  
+Measure is mead, more than madness;  
+love held holy lasts like stone.
+
+Share without squandering, spare without starving;  
+keep oath and kindness, kindle and calm.”  
+They kissed with candor, kept their craft;  
+strode from the stead, strong and mild.
+
+**11\. Skald’s Small Gloss**
+
+Not battle is best, but balanced burning;  
+two made as one, yet each kept whole.  
+Hold back hurried harsh unheeding;  
+harrow the heart-field, harvest is sure.
+
+River of rapture rises when bridled;  
+gate guards gladly gifts that abide.  
+Thus teaches the tale of twinfires wed:  
+love’s long alchemy— lawful, bright.
+
+*So ends the lay of Breath and Bridefire,*
+
+*which wise folk sing not for show, but for stead:*
+
+*set a hearth in the heart, to bind strength with sweetness,*
+
+*and may your joy be just and long.*
+
+# 
+
+# **The Cleaving of Cloud and the Rainbow-Road**
+
+*a lay in fornyrðislag — of stark seeing and the four lamps, as an uphill going over Bifröst to Ásgarðr*
+
+**1\. HWÆT\!**
+
+Hush now, hall-men, heed a hard song:  
+not mead-lilt merry, nor love’s light art,  
+but grim ground-wisdom, grey as glacier—  
+a blade for binding, a breath for bare sky.
+
+**2\. The Cleaving**
+
+Came a lone walker, cloak like cloud;  
+Hrafn he was hight, hardy and spare.  
+He sought not seiðr, nor sign from staves,  
+but *truth untrimmed*, *thing as it is*.
+
+Up the ice-edge, under bleak blue,  
+he found a fell-stone, flat and cold.  
+Set there his sitting, spine a spear;  
+hands like harbor, heart wind-still.
+
+Thoughts, a throng, thick as ravens;  
+moods like mizzle, mutter and drift.  
+He drew no dirk to drive them off,  
+nor chased nor charmed— he *cut the claim*.
+
+“Not mine, not me,” murmured the man;  
+“rise then, wane then; wide is the sky.”  
+Rope of ravel, writhe as you will—  
+the sword is seeing, the slice is *now*.
+
+Thus was the cleaving: knot cut kindly;  
+no hate, no clinging, no hunted prey.  
+World stood wordless, wind without edge;  
+*Ginnung* opened, *gap without gash*.
+
+**3\. The Watchman’s Word**
+
+From the far snow-line a hornless watcher  
+came with calm steps, keen-eyed and still.  
+“Gate needs guarding,” the god-wise told him,  
+“but not with iron— *with even sight*.
+
+Let all things come, let all things go;  
+leave them unlashed, let them be light.  
+Stand as Bifröst stands over blackness:  
+storm under, stars over— span without sway.”
+
+Heimdall spoke thus, and the hush held.  
+Hrafn bowed barely, breathed and abided.
+
+**4\. The Rainbow-Road Begins**
+
+Night thinned slowly, north-sky silvered;  
+brow within brightened, bare of thought.  
+From the white still, whitings trembled—  
+seed-sparks simple, soft as dust.
+
+“Lamp of First Light,” the looker knew it—  
+the first lamp’s leavings: little star-seeds.  
+No rush, no reaching; rest like ridge-snow,  
+let them arise and alight alone.
+
+*Span One of Bifröst* blushed from the mist—  
+red foot forward, firm yet fine.
+
+**5\. The Second Lamp — Nets and Needles of Ray**
+
+Soon the small sparks sought out kinsmen;  
+ray met ray, a ring was woven.  
+Needles of brightness knitted the blue;  
+a net of daybreak narrowed the dark.
+
+“Lamp of Netting,” named he softly—  
+the second lamp’s *spreading of sight*.  
+Do not draw lines, do not lay law—  
+see without seizing, stay with the weave.
+
+*Span Two of Bifröst* burned in the east—  
+orange, amber, oath of dawn.
+
+**6\. The Third Lamp — Hosts and Halls**
+
+Web ripened, worlds came forth;  
+wheels within wheels, warm as summer.  
+Faces like fire-gold, fields like song;  
+swan-helmed maidens, men of light.
+
+Halls hung high, hearths without smoke;  
+spears that were *saying*, shields that were *peace*.  
+All this arose, all out of *nothing*,  
+stood in stillness, shone, and smiled.
+
+“Lamp of Hosts,” he hailed it gently—  
+knew the third lamp’s *culm and crown*.  
+Touch not nor take it; trust and tarry—  
+let the show sing, see through the shine.
+
+*Span Three of Bifröst* flamed to green—  
+verdure of heart, vale and grove.
+
+**7\. The Fourth Lamp — Fading Footprints**
+
+Then the far marvels thinned like morning;  
+figures grew fine, fields turned sheer.  
+Sparks slid back to the bare brightness;  
+prints in fresh snowfall faded to white.
+
+No loss, no lack— light in its *law*;  
+form fell friendly, *free to be none*.  
+This was the fourth lamp, *footsteps ending*,  
+all finds home in *wide awake*.
+
+*Span Four of Bifröst* shone to blue—  
+deep of the dome, door without door.
+
+**8\. The High Hall**
+
+Over the river of red and green,  
+over the welkin of white and blue,  
+he came to *Ase-hall*, *Ásgarðr* gleaming—  
+not a place parted, but present here.
+
+No roof nor ridge, no ring-wall needed;  
+all the ten thousand took one taste.  
+Oaths were open, iron idle;  
+war was a tale, wound was a word.
+
+Allfather sat as a hush on a hill;  
+not far, not near— *knowing alone*.  
+He lifted no spear, he laid no doom;  
+the law was the looking, the love was the light.
+
+**9\. The Return**
+
+Down the bright bridge Hrafn went homeward,  
+not as he started, yet same in the bones.  
+Snow still biting, boots still brittle;  
+bread still needed, broom to wield.
+
+But blade of seeing bit in the heartwood;  
+knot would not hold him fast.  
+When wrath would rise, he *rode it lightly*;  
+when joy would jangle, he *jogged with care*.
+
+And when night wanted wonder and stars,  
+he sat once more and *saw through show*:  
+first small seedings, second the net;  
+third the high hosting, fourth the fade-home.
+
+**10\. Skald’s Small Gloss**
+
+Cleaving is cold work— cutting the clamor;  
+leave what leaves, let what comes.  
+Bridge-work is bright work— seeing the seeming;  
+do not drive, do not drown.
+
+Four are the lamps on the rainbow-road:  
+first the seed-sparks, second the web\<;  
+third the hosts, fourth the hush.  
+Climb without clutching, cross without claim.
+
+Thus is the grim good of ground and gaze;  
+Ásgarðr is always, over and in.  
+Bifröst is breath, brow, and being—  
+walk it wisely, wake and work.
+
+# 
+
+# **Εὐφημίαν ἄσκει**
+
+*(Translated from the Hidden Epistle of the Hiereia of Arachne)*
+
+Children of the Unravelled City,
+
+The age is turned, and the air goes thin. The oracles that once answered like springs in stone are fallen quiet; even Delphi keeps a single tired voice where two were once kept ready and a third in reserve, and she sufficeth—alas, more than sufficeth—for a world that will not listen.
+
+The library that taught the world to remember is smoke in foreign lungs. Women once saluted stand in iron, their hair shorn to the scalp so that their names may be forgotten more quickly. The new pieties—adorned with the old words—are busily at work, unthreading the garments of our mothers to stitch banners for the procession.
+
+We have seen ages like this. When the Bronze sea broke its ships and palaces were gnawed empty, when tablets were ground back into mere clay and the singers had to learn again from silence, small hands kept the craft alive—hands, and breath, and the stubborn memory of how to tie a knot.
+
+Hear then the reconciliation of two who once were enemies. In a hungering spring, Pallas Athena put off her helm and walked, without herald, to the cottage of Arachne. The tale of their first meeting you know: how the mortal dared the goddess and showed the crimes of lords in her tapestry; how the goddess—seeing art that admitted no correction—struck, and the girl swung from a beam, and pity made a spider from the fallen one so that her skill should not wholly die.
+
+That was in a kinder age, when both wound and remedy could still be told as pearls on one string.
+
+But the age turned lean, and the bright found themselves begging of the small. They remembered—in the marrow, where history and shame keep their books—that this had happened before, in a tongue older than theirs, when a veiled weaver called Uttu was importuned by a lord of fresh waters in the posture of a gardener proffering cucumbers and apples and grapes. The old women say she was warned, shut her door, and kept the weave intact until better counsel could prevail.
+
+The lineage of that warning is thin but unbroken; the rumor of a spider’s patience travels well.
+
+So Athena came in without a spear, and Arachne—who had every cause to spit, and did not—set aside her bitterness. Proud mind met bitter truth, opposite as Apollo and Dionysus, and yet they bent toward utility, the way two branches will cross in a high wind and spare one another. They spoke not as mistress and offender but as two women in an age that hates women: one taught to rule a city with clarity, one taught by hunger to live outside the city’s reach. “Sister,” said Pallas, “the people forget. I have the plan of the world, but thou hast the thread. Let us be reconciled.”
+
+And Arachne answered, “So long as I have fingers, the Loom endureth.”
+
+They made covenant—sub rosa, under the bush where men do not look—to keep a slim thread of the tradition alive, outside the marble hierarchies that break and are rebuilt as often as men learn to hate their mothers. This thread is not of wool alone, nor of letters (letters may burn); it is of number married to gesture—of breath counted upon the ten digits, paired to sum to Nine; of a rite that even a laundress, or a girl scouring amphorae at the river, may keep without witness. We call it the Loom.
+
+Think not that this is mere trifling. Consider the timing of goddesses. When the temples are sound and the tax-farmers pious, they love marble and verse; when the the priests grow loud, they learn to love kitchen talk and hand-speech. The spider’s art is not to conquer, but to persist—to stretch one line from beam to beam till the house remembers it was framed, and can be framed again. The spider survives both broom and smoke. She waits where the eye does not tarry. Her grammar is tension and release. Her proof is that threads, crossed correctly, become stronger than scorn.
+
+And if you wish a parable for the present: see two artisans of genius after a public quarrel, which the crowd embellished into a dogma; see the one who won discovering, late, that she had lost more than the other, and the one who lost discovering that she could live without applause. See them meet—hatless, sleepless, unarmed—at the edge of the city’s attention. See them decide to work *outside*. It is not that they stop telling truths about gods and kings; it is that they begin weaving truth into habits anyone can keep while the banners change.
+
+This book is a basket of such habits: small rites and measures—breath and finger, gaze and posture—by which a person may steady herself and make a pitying place in the mind where thought does not bark. It is not a palace. It is rope and needle; it is a mending-kit for a century that tears on purpose. There are phrasings here that the schools will not like. There is a preference for use over name, for what can be kept in the body when the scrolls are taken.
+
+I write these lines as a hiereia hid among laundresses. The times demand smallness. I have stitched this letter at night with my hands in cold water, while a child slept and a shutter rattled. The earth goes about her business under the noise; the old covenants are thinner than they were, but they hold. Plutarch may reason that our oracles fail for lack of footfall; I say the footfall went elsewhere, down alleys where women walked without escort, into kitchens where numbers were counted in touch, not ink.
+
+If these words endure to a later shore where numbers bear other shapes and the web is no longer merely a spider’s boast but a net around the world, let the marriages of Nine be kept whatever the digits be called. Learn the Loom first; do not brag of visions. If the day comes when temples are rebuilt—and they will be, though they change their names—bring into them not a grievance but a craft: the reconciled art of Athena and Arachne, mind and making together, the clarity that learned pity, and the tenderness that learned to endure.
+
+The work is simple: pair and breathe, count and release, weave and forgive. Then rise, share bread, pay your debts, and leave a little light burning for the next who comes with cold hands. The cloth thickens thus; the world is knit again thus—not from decree, but from a million small threads no bonfire can find.
+
+## 
+
+## **Arachne’s Loom**
+
+Ye who keep a coal under the cloak while the wind hunts the door—hearken. The age is turned, and men call it doom; yet our land hath seen such winters before. When fruit is scarce, the wise keep seed. When kings despoil the shrines and scribes make mock of the old music, Memory is entrusted to humbler vessels: to hands, to breath, to the hidden habit.
+
+What followeth is the Arachne’s Loom, by which a soul may gather herself, look through the rent places, and remember the road. It is fit for the poor and for the hunted; it asketh not of marble nor of ink. Only hands.
+
+*(In this translation I mark the pairs by the later numerals; she had only names and fingers.)*
+
+Intention. This is at once a charm against scattering and a craft of meditation. It bindeth breath to touch, touch to image, image to a clear and fearless mind.
+
+Seating. Sit as one who keeps the hearth of Hestia: spine like a spear without anger, jaw soft, gaze low or shut. Let breath be modest.
+
+The Pairings (the Marriages). The left hand keepeth the lower numbers, the right the upper; each pair is a Nine when joined. Touch pad to pad lightly, as if closing a circuit:
+
+* (0–9) Left thumb to Right little: *Root to Rim*.  
+* (1–8) Left index to Right ring: *Point to Gold*.  
+* (2–7) Left middle to Right middle: *Pillar to Pillar*.  
+* (3–6) Left ring to Right index: *Vow to Deed*.  
+* (4–5) Left little to Right thumb: *Seed to Sun*.
+
+These are the five knots of Nine. Moving through them in order is called a Pass.
+
+#### **I. Warping the Frame (setting the mind)**
+
+1. Place hands upon the knees, palms upward.  
+2. On a long in-breath, touch 0–9. Whisper inwardly: *“From root to rim: I gather.”*  
+3. On the out-breath, part the fingers but keep the echo of contact.  
+4. Repeat for 1–8, 2–7, 3–6, 4–5, one breath each.  
+5. This is the First Pass. Make three Passes thus, unhurried. The breath is the shuttle; the pairs are the warp.
+
+#### **II. Weaving the Weft (marrying breath and image)**
+
+1. Return to 0–9. As the pads meet, envision a faint thread crossing between them, as moonlight stretched thin.  
+2. Carry the thread in imagination from the joined pair up the left forearm to the heart (in-breath), then from the heart down the right forearm to the joined pair (out-breath).  
+3. At the next pair 1–8, repeat, but see the thread grow brighter.  
+4. So proceed through 2–7, 3–6, 4–5.  
+5. This is the Second Pass. Make three Passes of this kind. If lights appear behind the lids, greet them but do not herd them; they are peacock-eyes of Hera and will order themselves.
+
+#### **III. Beating the Cloth (firming the mind without force)**
+
+1. For each pair, take three breaths joined; on the third out-breath, hold the fingers together for the space of a gentle count of nine (softly in the chest).  
+2. In the hold, let Athena’s clarity spread from the joined pads through the limbs like cool water.  
+3. Release without regret and pass to the next.  
+4. Make two Passes thus. If heaviness comes, sit a little straighter; if restlessness, widen the gaze.
+
+#### **IV. The Cutting-Off (releasing into ease)**
+
+1. After the last 4–5, rest both hands upon the heart, right over left.  
+2. Take one breath without counting. Let all images fall as husks.  
+3. Place hands again upon the knees, palms upward; do nothing for a little while. If thought arises, know it and leave it, as Pallas leaves a cloud to the sky.
+
+This is the rite in its quiet form. In its joined form (for lovers), the pairs may be shared—her left to his right, his left to her right—breath yoked, gaze soft. In both, spill nothing you do not mean to give: keep warmth to clarity, and clarity to kindness.
+
+### **The Count of Nights**
+
+Let the hand-work be kept nine nights in every quarter of the moon, or when the mind is hunted. Each night, keep at least three Passes; on high feast-days (still kept in the cellar, though the street forbids) keep nine. The old ones say that after eighty-one Passes (nine nines) a person will know why the thread was given.
+
+### **Tokens and Tact**
+
+* If sorrow presses, dwell a little longer at 3–6 (*Vow to Deed*), for there the heart and the hand reconcile.  
+* If desire burns, cool at 0–9 (*Root to Rim*), lifting the warmth up the inner arm as a lamp, not a torch.  
+* If confusion multiplies, steady at 2–7 (*Pillar to Pillar*), letting the breath count itself.
+
+Let no one boast of visions. The thread is for mending, not display. If you must speak of it, speak as of a house-tool: a needle, a cup.
+
+I write this not as a queen but as a hiereia hid among laundresses; the times demand small spiders. The lords of new creeds overturn the images and make a book their spear; we, who once loved bronze and marble, learn to love the unseen rule: breath, touch, number. Call the age what name you please. The loom still stands wherever two hands meet.
+
+If these words endure to a later shore where numbers bear other shapes, let the marriages of Nine be kept whatever the digits be called. For the covenant of Athena and Arachne is this: form shall serve truth, and skill shall serve mercy, and a thread, however slight, shall never fail to find a willing needle.
+
+When you have wrought the rite, share bread, speak gently, pay your debts, and leave a little light burning for the next who comes with cold hands. So doth the cloth thicken against winter; so shall the world, in its hour, be knit again.
+
+## 
+
+## **Isopsephy for Spiders**
+
+### **The Square**
+
+| 0 α | 1 ε | 2 η | 3 ι | 4 ο | 5 υ |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| 6 ω | 7 αι | 8 ει | 9 οι | A αυ | B ευ |
+| C ου | D υι | E ηυ | F ηι | G ϝ | H β |
+| I γ | J δ | K ζ | L θ | M κ | N λ |
+| O μ | P ν | Q ξ | R π | S ρ | T σ / ς |
+| U τ | V φ | W χ | X ψ | Y ϙ | Z ϡ |
+
+Segmentation rule for diphthongs (when you want them atomic): greedily match {αι, ει, οι, αυ, ευ, ου, υι, ηυ, ηι} before single letters. Otherwise, just encode letter-by-letter.
+
+### **Encoding & Decoding**
+
+* Greek → base-36 text: replace each token with its codepoint (0–9/A–Z).  
+* base-36 text → Greek: inverse map; for ambiguity, prefer diphthongs if the greedy parse is desired.
+
+Because each token is a single base-36 symbol, your existing 36×36 square (row \\= first symbol, col \\= second symbol) works out-of-the-box for Greek bigrams exactly as it does for English alphanumerics.
+
+* Greek digram to cell: token₁→row, token₂→col.  
+* Cell back to Greek digram: read row symbol, col symbol, then map back via the table.
+
+### **Values & Reductions**
+
+Let val(token) be its integer value 0–35 (A=10 … Z=35).
+
+For a word W \\= t₁ t₂ … tₙ:
+
+* Raw sum (base-10): S \\= Σ val(tᵢ)  
+* Mod-36 total (fits a single symbol): S₃₆ \\= S mod 36 (as a 0–9/A–Z)  
+* Decadic signature: σ₁₀ \\= S mod 10  
+* Ninefold tone (Pythagorean-style): σ₉ \\= 1 \+ ((S−1) mod 9\) (if S\>0)
+
+6×6 torus hook (optional): To drop a Greek word onto your 6×6 grid, use  
+R \\= ⌊S / 6⌋ mod 6, C \\= S mod 6\. (Handy when you’re weaving Greek with the pip→cell rule.)
+
+### **Worked Examples**
+
+(Accents/ breathings ignored; ς→σ.)
+
+#### **1\) Ἔρως → ΕΡΩΣ → ε-ρ-ω-σ → 1, 28, 6, 29**
+
+* S \\= 1 \+ 28 \+ 6 \+ 29 \\= 64  
+* S₃₆ \\= 64 mod 36 \\= 28 → “S” (ρ’s own code — cute\!)  
+* σ₁₀ \\= 4, σ₉ \\= 1 \+ ((64−1) mod 9\) \\= 1 \+ (63 mod 9\) \\= 1
+
+Bigrams into the 36×36:  
+ΕΡ → (row 1, col S(28))  
+ΩΣ → (row 6, col T(29))  
+Look up those two cells in your square to interleave with English/numerals.
+
+#### **2\) Λόγος → ΛΟΓΟΣ → λ-ο-γ-ο-σ → 23, 4, 18, 4, 29**
+
+* S \\= 23 \+ 4 \+ 18 \+ 4 \+ 29 \\= 78  
+* S₃₆ \\= 78 − 72 \\= 6 → “6”  
+* σ₁₀ \\= 8, σ₉ \\= 6
+
+6×6 torus: R \\= ⌊78/6⌋ mod 6 \\= 13 mod 6 \\= 1; C \\= 78 mod 6 \\= 0 → cell (1,0).
+
+#### **3\) Νοῦς → ΝΟΥΣ → ν-ου-σ → 25, C(12), 29**
+
+* S \\= 25 \+ 12 \+ 29 \\= 66  
+* S₃₆ \\= 66 − 36 \\= 30 → “U” (τ)  
+* σ₁₀ \\= 6, σ₉ \\= 3
+
+If you don’t want ου atomic, use o(4)+u(5) instead: S becomes 25+4+5+29 \\= 63, shifting signatures.
+
+### **Weaving it in**
+
+* Port/Key from σ₁₀: use σ₁₀ ∈ {0…9} as the decadic port.  
+* Ray from (S mod 36): split S₃₆ into (row, col) over a 6×6 → circle/line pairing if you’ve assigned those to rows/cols.  
+* Dual readout: keep both σ₁₀ (ten-fold) and σ₉ (nine-fold) as a pair; many Greek words stabilize nicely when you track both.
+
+## 
+
+## **Athena’s Advice**
+
+### **Invocations**
+
+Hear me, Mnēmosynē, mother of Muses, who keepest the clean record; and thou, Phanēs, who dawnest within the heart. Not for marvels do we assemble, but to look rightly upon the ever-passing show, that we may befriend it and be no more deceived.
+
+### **The Three Seals**
+
+#### **I. The Seal Of Aion’s Wheel**
+
+Behold Aion, the serpent-circled god, whose wheel turns without weariness. What thing hath he spared? Helios mounts and must descend; spring sings and must be hushed; the Egg opens and spills stars that themselves shall fade. In the close theatre of the body the same law reigneth: tinglings, pressings, images, thoughts—each a spark in dark water. To see this not as misfortune but as order is the first freedom. For then we cease bargaining with the river and learn to swim.
+
+Seal upon the heart: *All compounded things arise and pass.* The wise consent to the rhythm and grow tender.
+
+#### **II. The Seal Of Tantalus**
+
+Not that the world is a curse, but that grasping misreads it. Tantalus’ thirst is not punished by the water’s retreat; it is revealed by it. Honey is sweet, but the tongue cannot command its staying. Even delight aches when one would detain it. Thus pain pricks; thus boredom gnaws; thus even joy, held too tight, sours. In all this is instruction, not spite: the lyre is for playing, not for possession.
+
+Seal upon the heart: *What cannot be kept cannot finally console.* The wise enjoy and release.
+
+#### **III. The Seal of Dionysus**
+
+Dionysus sets out the masks. One cries “I,” another answers “Mine,” a third “I am the one who remembers.” Yet search the green room and thou findest only costumes: body-sensations, tones, perceptions, impulses, and the lamp of knowing. The song is real enough—who would deny its beauty?—but it is unowned, as wind through reeds. The *Argo* sails on with planks exchanged; still we cling to a name and call it essence. This clinging, seen through, looseth of itself. What remains is the singing without claimant, the deed without a doer apart from the deed.
+
+Seal upon the heart: *No stable owner is found in the fivefold chorus.* The wise let the play proceed without enslaving themselves to a mask.
+
+### **The Use of These Seals**
+
+The Three Seals are keys: they open the hand. When the hand opens, conduct grows virtuous, speech becomes clean, and the mind sits down in its own house as a guest who has at last come home. Then Memory and Light—Mnēmosynē and Phanēs—keep company with thee in market and in field, and the song of Orpheus is heard even when no lyre is near.
+
+### **The Rite Made Plain**
+
+Seat thyself as at Hestia’s hearth: upright, ungrim. Let breath come and go as altar-smoke. Set a modest vow: *I shall see what is here as it is.* Take the field of the six gates—eye, ear, nose, tongue, body, and mind—as thy sacred precinct. Whatever enters is guest, not lord.
+
+Method:
+
+* Attend to arising and passing. As Hermes counts travelers at a gate, note each arrival and departure. If naming helps, use light words—*seeing, hearing, warmth, thought, longing, planning*—no more weight than a reed on water.  
+* Favor immediacy over story. When a tale begins, bow to it and look instead for the present touch: the kinesthetic of clenching, the heat behind the eyes, the fluttering in the throat.  
+* Keep to the small and many. A great tapestry is woven of threads; likewise wisdom is woven of minute perceptions known and released.  
+* Soften grasp and aversion. Let liking and disliking be noticed as guests among guests.  
+* Return lightly, often. Falling away is common; returning is the work. Thus doth Hermes earn his epithet, Door-Keeper.
+
+### **The Chorus and the Masks**
+
+Think of the aggregates—form, feeling-tone, perception, formations, and consciousness—as a chorus in Orpheus’ play. None alone is the hero; together they make a seeming person upon the stage. Vipassanā is not the silencing of the chorus but the hearing-through: timbre, entrance, exit, the seam between one voice and the next.
+
+* Form (rūpa)—the body’s pressures, pulses, and temperatures—like the drum-skin.  
+* Feeling-tone (vedanā)—pleasant, unpleasant, or neither—like the crowd’s murmur: “Yea,” “Nay,” or “So be it.”  
+* Perception (saññā)—the labeling, as stage-directions: *this bright, that sharp*.  
+* Formations (saṅkhārā)—intentions, moods, and habits, the playwright within the play.  
+* Consciousness (viññāṇa)—the lamp that renders any of this visible.
+
+We behold their commerce: how touch begets tone, tone beckons grasping, grasping seeks to hold the unholdable; and thus the wheel—Aion—turns.
+
+### **The Three Arts of Seeing (What Ripens)**
+
+1. Impermanence made intimate. At first it is doctrine; then it is the very rhythm of experience. Sensations fizz and pop like stars seen in bathwater; moods rise as a breeze and pass unbidden. Counting these endings, the heart is gentled.  
+2. Unsatisfactoriness recognized. Not as a blight upon the world, but as the world’s refusal to be a statue. Even Helios cannot keep dawn from turning to noon. Whatever is stitched from moments unravels at the edge; to demand “Stay\!” is to be pricked by the rose’s law.  
+3. Not-self discerned. The chorus puts on a mask and calls itself “I.” We watch the change of masks—now grief, now pride, now analysis—and see no mask last. The ship of Argo is refitted at sea: planks replaced, sails renewed, yet we cling to a name. Seeing this oft, the fist around the name opens of itself.
+
+### **Ixion’s Wheel**
+
+* Mind-Body Known Apart: Like Demeter distinguishing seed from soil, we see intention as one thing, touch as another.  
+* Cause and Effect: Hermes shows the golden chain: *this* giving rise to *that*.  
+* Arising and Passing: Phanēs dances fast; lights flare and vanish. Wonder and zeal awaken.  
+* Dissolution: The lights now chiefly go out; endings are plain. A hush falls—Hades without dread.  
+* The Rough Country: Fear, weariness, and distaste may visit; Satyrs at the rite. Greet them briefly; keep tally of sensations rather than parley with shadows.  
+* Desire for Deliverance: The soul would fain be done. Remember: haste is but another guest.  
+* Re-Observation: Many, small, quick things; the counting becomes patient and exact.  
+* Equanimity: The field widens; arrivals and departures are equal in the eye; Athena reclaims her seat.
+
+Take these as weather signs, not as triumphs. If lost, return to the last clear landmark—touch, tone, or breath.
+
+One day, the wheel will break.
+
+### **Cautions and Encouragements**
+
+If torches, sounds, or pleasing schemes appear, salute them as passing choristers; let none be enthroned. If sloth cloaks itself as peace, straighten the spear of the spine and brighten the lamp of attention. If dryness sets in, add a cup of Dionysus—simple goodwill to self and others—lest the rite sour to measurements without music.
+
+## **Form and Formless**
+
+### **Invocations**
+
+Sing softly, O Muse; not of spear and oar, but of the inward voyage wherein the soul, like Orpheus, would tune her lyre to the measures of Silence. Come, black-winged Nyx, who coverest the loud world; come, Mnēmosynē, keeper of the clear record; and thou, Phanēs, first-born Light, who dawnest in the heart. Grant that we may tread the ancient way—descending among forms as to a holy cave, and ascending beyond form as to the open Aithēr—without boast or fear.
+
+What follows is plain counsel, that Mnēmosynē may love it
+
+### **The Temple and the Implements**
+
+Seat thyself as one who keepeth vigil beside Hestia’s hearth: the spine upright as a spear without anger; the face gentle; the breath modest, rising and falling like altar-smoke that seeketh not attention. Take one token for thy work—most choose the breath where it toucheth the nostrils, or a quiet syllable, or a tender light behind the lids. This token shall be thy lyre-string.
+
+Know the coinage of these Mysteries: first, placing and keeping of attention (as a hand that sets and steadies the string); then rapture and pleasure (the soul’s gladness at harmony); lastly one-pointedness and equanimity (the song that sings itself). Thus doth the pilgrim pass the four halls of Form and the four lawns of the Formless. Read on.
+
+### **The Four Halls of Form**
+
+#### **1\) The Lyre Set Upon the Knee**
+
+In the first hall the mind, like Orpheus, doth lay and relae its attention upon the chosen token—placing and keeping are present. The beasts of the hill—stray notions, old tales—draw near yet are gentled by the dawning rapture and mild pleasure. There is sweetness, and there is labour.
+
+Mark thereof: The sign no longer escapeth at a touch; joy runs ahead of thee like a little torch.  
+Counsel: Strike not hard; strike often and lightly. If thou findest thyself far, return as Hermes returns—without complaint, and quickly.
+
+#### **2\) The Self-Playing Lyre**
+
+Here the hand grows quiet, and the song goeth on of itself. Placing and keeping fall away; rapture and pleasure are bright; one-pointedness is like a clear pool. The singer forgetteth his skill and remembereth only the hymn.
+
+Mark thereof: The token stands luminous with little tending; joy becomes diffused, as moonlight over sea.  
+Counsel: Meddle not. Should effort reappear, bless it and release it, as a guest seen to the gate.
+
+#### **3\) Demeter’s Field at Rest**
+
+The wine of rapture setteth; pleasure remaineth, but quieted. The heart is kind and broad, like a harvest plain after the sickle. No glitter, yet a warm sufficiency.
+
+Mark thereof: Ease without thrill; a steady good temper of mind; attention wearing wide, as a mantle rather than a spear.  
+Counsel: Favor breadth over brilliance. If tightness returns, loosen the girdle of the breath.
+
+#### **4\) The Seat of Athena—Clear and Even**
+
+Now even pleasure is set aside without sorrow. There remain purity of mindfulness and equanimity: a silver, impartial clarity, unleaning toward delight, unfretted by dullness. It is the just measure that Athena loves.
+
+Mark thereof: Neither pursuit nor refusal; the token is present as presence itself.  
+Counsel: Abide as a lamp in a windless house. This is the clean threshold to the subtler lawns.
+
+### **The Four Lawns of the Formless**
+
+#### **5\) Aithēr Without Wall—Boundless Space**
+
+From the stable seat, let the sense of the field about thee widen, within and around, until edge is unfindable. It is as though the Orphic Egg were cracked and Aithēr poured forth—not an object, but measureless room.
+
+Practice turn: From the center, allow the felt world to dilate; cease to count; let boundary be an old tale.  
+Mark thereof: Relief like loosing armour; a bright emptiness not barren.
+
+#### **6\) Phanēs Seeing—Boundless Consciousness**
+
+Beholding space, the mind discerneth that space is known; attention bends to the knowing that knoweth all. The vastness is now the cognizing itself, edgeless and awake, like Phanēs beholding Phanēs.
+
+Practice turn: Notice that the wide is presented to awareness; then rest quietly as that fact, without image.  
+Mark thereof: “Everywhere is the eye of seeing,” yet no eye is found.
+
+#### **7\) Kore’s Hollow—No-Thingness**
+
+Passing beyond the glory of knowing, the soul stands in a hollow of absence. This is not the sorrow of Hades, but its hush: appearances do not gather into a core, and this lack is restful.
+
+Practice turn: Attend neither to forms nor to the witness, but to the fading of footholds; let the recognition “no-thing” be thy cool shade.  
+Mark thereof: Quiet deeper than quiet; a clean, uncarved hollowness.
+
+#### **8\) Aion’s Pause—Neither Perception nor Its Undoing**
+
+At the furthest verge, perception is so fine that it is neither kept nor denied, like a lamp covered by a thin bowl—there is light, yet it scarcely casts. Time, called Aion, turns without mark.
+
+Practice turn: Intend nothing. To secure this is to break it; to fear it is likewise to break it.  
+Mark thereof: Immeasurable subtlety; after, memory is a whisper and benevolent.
+
+### **How to Walk and How to Return**
+
+* Begin cleanly: A little virtue before sitting is as water on dusty feet—truthful speech, harmless heart. Without this, the mind bargains in the dark.  
+* Set a gentle vow: “I shall keep this token softly.” Gentleness is stronger than force in this work.  
+* Climb by ease, not by greed: If the sign wavers, do not grasp at the higher hall; return to the last steady one. Hermes, who knows all doors, always steps back a threshold rather than leap and fall.  
+* Balance Dionysus and Apollo: Warmth ripens the halls of Form; clarity refines the lawns beyond. Too much wine makes phantoms; too much sun makes desert.  
+* Tend Hestia afterward: Rise with a mind fit for neighbors. If the cave’s peace followeth thee to the market, thy hymn hath pleased the gods.
+
+### **Signs and Missteps**
+
+Lights, sounds, and pleasing figures—regard them as Satyrs at the edge of the rite: nod, and let them pass. Dullness masquerading as peace must be met with a straighter seat and clearer breath; restless brilliance with broader attention and patient count. If pride arise (“I have seen great things”), remember the gold law of Mnēmosynē: *keep what steadies; forget what swells*.
+
+### **A Brief Epode**
+
+* First Hall: placing and keeping; rapture and pleasure awaken.  
+* Second: effort falls; joy streams; the sign stands of itself.  
+* Third: rapture settles; gentle pleasure and breadth remain.  
+* Fourth: equanimity, marble-clear, neither leaning nor loathing.  
+* Fifth: space unbounded.  
+* Sixth: knowing unbounded.  
+* Seventh: the restful hollow of no-thing.  
+* Eighth: Aion’s unmarked pause, subtler than saying.
+
+### **Dismissal of the Rite**
+
+Having trod form and formless, offer the hymn’s fruit to common kindness. Touch brow to sky for Helios, palm to earth for Hestia; stand in the household of day as one who hath visited friendly gods and learned their modesty. Lyre to listening, song to silence, and silence to a life made gentler.
+
+# 
+
+# **Eros and Psyche**
+
+## **Psyche’s Lamp Unlit**
+
+Eros loved Psyche in darkness and gave her no face.
+
+Curiosity lifted the lamp; hot oil fell; wings fled.
+
+Thus the tale cautions the hasty—yet the wise tell another:
+
+that later, older, she learned a lamp that burns without oil.
+
+She reclined with her god, lids half-closed, but the gaze turned inward.
+
+“Make my image of you from breath,” she prayed, “not from eyes.”
+
+On the in-breath she shaped his outline; on the out-breath she warmed it.
+
+She let the name fall away, kept only the feeling.
+
+Soon the image was wine made of air, weightless and potent.
+
+He touched her without touching; she trembled without spilling.
+
+“Do not hurry the name,” whispered Aphrodite from the tapestry.
+
+“Let the no-face ripen to a thousand faces.”
+
+When they joined, the outer sight was the least of the senses.
+
+The lamp stayed unlit; yet the room was full of colors
+
+no torch can show—saffron of dawn under eyelids,
+
+blue of the Aegean behind the brow, gold bees in the palate.
+
+Afterward, Psyche said, “I have learned the lamp that harms no wings.”
+
+And Eros, smiling, answered, “Keep it: it is the seeing that feeds,
+
+the look that inflames but does not burn.”
+
+## **Hymn of the Twin Bellows**
+
+Sing, Muse, of tender Aidos and bold Eros,
+
+how Aphrodite of sea-foam taught the pairing of winds.
+
+Two lovers lay under fig-leaves; Anemos hovered above them,
+
+counting their breaths like a metron of bronze, slow, equal.
+
+“Match,” said the Queen of Cyprus, “each inlet and outlet together—
+
+two bellows, one hearth. Let the eyes be anchors; do not look away.
+
+When the chest of one fills, the other answers, tide for tide.
+
+Hold not yet; only pace like oars on a quiet harbor.
+
+After a hundred beats, make a harbor within the harbor.
+
+When desire surges like dolphins, do not strike with the trident;
+
+curve with the wave, ride under it, husband the white-crest.
+
+Let tongue rest and teeth part; let nostrils be the flutes of Pan.
+
+Count again—nine rounds of nine—with the gaze still unwavering.
+
+When the pupils widen and the world’s rim softens like wax,
+
+name that place Hestia’s circle: center in the center.
+
+Then touch, then join—still counting. Let heat grow without spilling.
+
+Thus are two lungs yoked to one invisible bellows;
+
+thus is the lamp of the mind trimmed without smoke.”
+
+## **Ariadne’s Knot**
+
+Theseus learned a Cretan secret not in the palace,
+
+but in the dusk between heartbeats where no words follow.
+
+Ariadne, wine-eyed, placed the red thread not in his hand,
+
+but lower—at the base where the labrys sings.
+
+“Labyrinths eat the rash,” she said, “and so does the body.
+
+To cross without losing oneself, tie a knot without cutting.
+
+Join me,” she said, “and when the Minotaur roars in your loins,
+
+turn at the corner. Spiral, do not strike.
+
+Feel the bull’s head descend toward the earth—
+
+guide it back with breath to the navel’s wheel.
+
+Let the seed be Dionysus casked, not spilled on the floor.
+
+Circle thrice, tighten once, loosen twice.
+
+When pleasure would leap as a torch, make it a lantern,
+
+so we may walk further in light and not ash.
+
+So they danced, joined, around an axis no eye could see—
+
+step, step, stillness; step, step, stillness—
+
+till the monster lay purring, bridled and bright.
+
+They came out by the same thread they entered,
+
+whole, laughing, crowned with a silence that tasted of honey.
+
+And the knot—that knot is taught by no lyre,
+
+but by the hand that refuses to squander the vintage.”
+
+## 
+
+## **Orpheus Below**
+
+Not only in Hades did Orpheus turn too soon;
+
+often he did so in bed, and lost what he sought.
+
+Once, grieving his haste, he sought the cool counsel of Hermes.
+
+The guide of boundaries placed a kerykeion at his root—
+
+twin serpents twined, heads lifted toward the crown.
+
+“Sing downward first,” said Hermes, “till the tail hears the head.
+
+Then sing upward; shepherd the fire as you would Eurydice.
+
+Do not glance back at the gate; do not cast seed to the shades.
+
+Let the rhythm be dactyls in flesh: long-short-short, long-short-short—
+
+without forcing, yet with firm meter.
+
+With each refrain, the serpents climb a ring:
+
+perineum to navel, navel to heart, heart to throat,
+
+throat to the ledge behind the eyes, then the font of dawn.
+
+At each station, pause—offer a chord, a held note—
+
+until the ashes glow and the coal carries itself.
+
+When you are joined with your beloved, keep the anthem intact.
+
+Let delight be the river that bears the boat, not the rocks that break it.
+
+If the urge to spill comes like thunder in summer,
+
+spread the storm into rain over fields—lift it spineward.
+
+When the crown tingles with bees and the jaw forgets its name,
+
+then, if you choose, you may descend again with gifts;
+
+or remain in the white meadow a while, tasting ambrosia
+
+made from your own restraint.”
+
+So Orpheus learned to fetch Eurydice not once, but nightly,
+
+and never lost her when he refused to look back.
+
+# 
+
+# **The Ascent of Ólympos**
+
+## **I. Athena’s Adamant**
+
+In the Stoa of Quiet, Pallas stood, grey-eyed and ungilded.  
+Before her hung a many-threaded knot—self-wound, world-woven—  
+loves and griefs, vows and vendettas, twisted upon themselves.  
+Sages tugged at it with commentaries; hermits stroked it smooth;  
+priests perfumed it and called it Fate.
+
+“Not so,” said Athena, and from no-scabbard drew no-blade—  
+a brightness with no edge that yet undid all edges.  
+She did not hew; she looked, and the knot loosed to lint.  
+For the cords were of mist, braided in breath;  
+and when the seer beheld their nature, they fell as dew at noon.
+
+A youth came forward, salt still in his hair. “Lady,” he asked,  
+“what must I do to win such cutting?”  
+“Do nothing crooked,” she answered, “and nothing contrived.  
+Stand as a spear stands when no hand holds it.  
+Let thought appear as traveler, not as king.  
+The seeing that sees thought is not in thought. Abide there.”
+
+## **II. The Eagle of Aithēr**
+
+Zeus’s eagle rose from Ida before dawn, bronze pinions quiet.  
+Below were battles, oaths, and market-shouts; above, only Aithēr.  
+Clouds formed standards, lions, maidens, then wandered to nothing;  
+the eagle altered not his gaze, nor did the sky take stain.
+
+Hermes, heel-winged, kept pace and mocked: “Do you not prefer  
+one cloud over another—the ship, the bride, the bull?”  
+The eagle answered: “They are the sky playing at otherness.  
+If I favor one mask, I forget the face.”  
+So he flew by not-following, and arrived without going.
+
+## **III. Hera’s Peacock**
+
+Hera loosed the peacock into a dew-bright meadow at dawn.  
+On each tail-feather an eye; on each eye a drop of light.  
+“Iris,” she called, “unroll your rainbow; we shall show the bride how to see.”
+
+The eyes awoke—saffron sparks, blue beads—  
+small orbs swelling and shrinking on the air before her.  
+They were many and merry, like cities lit at night upon the sea.
+
+The eyes multiplied and arranged themselves:  
+garlands, wheeling constellations, palaces of light with courtyards.  
+Their colors learned grammar; their forms learned measure.
+
+The pageant crested. Colonnades of radiance,  
+wheels within wheels, stood up like temples no mason could fault.  
+The bride laughed, and the meadow laughed with her; even Hera smiled.
+
+Then all at once the feathers folded.  
+The eyes were seen as dew, the dew as light, the light as clear space.  
+The meadow showed itself as only opening—nothing graspable remained.
+
+“Remember,” said Hera, “peacocks preen; queens reign.  
+Do not chase the pattern and forget the throne.”
+
+## **IV. Iris and Helios**
+
+At Delphi a girl ascended Parnassus before sunrise,  
+staff in hand, spine like a spear, jaw soft as beeswax.  
+Iris walked with her, laying a bridge from gorge to cloud.  
+Helios kindled four lamps to tutor her crossing.
+
+A pale oval in the east, a milk-white disc.  
+She fixed no point, but let the whole oval bloom behind the eyes.  
+Thus was the lamp of Dawn.
+
+The oval broke into droplets, prismatic thigle;  
+they danced like oil on water, then formed rings, rainbows, gates.  
+Thus was the Lamp of Midmorning.
+
+The gates became mansions, strong with beams;  
+columns of light, lattices, jeweled nets, a city of sun.  
+Thus was the Lamp of High Noon.
+
+The city thinned to brilliance without boundary;  
+shapes sighed into clarity, clarity into ease, ease into that which needs no name.  
+Thus was the Lamp of Evening.
+
+Iris spoke: “Three ways to stand on the bridge.  
+As Taurus—deep in the haunches, breath rooted, gaze wide.  
+As Leon—chest proud, neck easy, eyes fearless and still.  
+As Sophos—chin slightly inclined, the seeing turned tender.  
+Choose by weather, but in all three do not squint at the gods.”
+
+## **Coda: One Thread for Both Ways**
+
+Athena’s non-blade and Hera’s peacock are not rivals.  
+The knot falls to lint; the lights fall to light.  
+Cut through, and the sky is clean for Iris.  
+Cross by vision, and you see why Athena never needed a sword.
+
+Greek-36 (G36) Isopsephy CLI  
+\\================================
+
+Install/Run  
+\-----------  
+$ python3 g36.py encode "Ἔρως"  
+$ python3 g36.py sum "Λόγος" \--torus6  
+$ python3 g36.py tokens "Νοῦς"  
+$ python3 g36.py bigrams "Αθηνα" \# from Greek input  
+$ python3 g36.py bigrams \--code "1S6T" \# from raw base36
+
+Diphthong Mode  
+\--------------  
+Use \--diphthongs greedy (default) to treat {αι, ει, οι, αυ, ευ, ου, υι, ηυ, ηι} as single tokens.  
+Use \--diphthongs none to tokenize letter-by-letter.
+
+Notes  
+\-----  
+\- Accents/breathings are stripped; ς \-\> σ.  
+\- Archaics ϝ, ϙ, ϡ are included to fill 36 tokens.  
+\- Output base36 uses 0-9A-Z.
+
+\#\!/usr/bin/env python3  
+\# Greek-36 (G36) isopsephy CLI  
+import unicodedata  
+import argparse  
+import sys  
+from typing import List, Tuple
+
+G36\_TOKENS\_IN\_ORDER \\= \[  
+"α","ε","η","ι","ο","υ","ω",  
+"αι","ει","οι","αυ","ευ","ου","υι","ηυ","ηι",  
+"ϝ","β","γ","δ","ζ","θ","κ","λ","μ","ν","ξ","π","ρ","σ","τ","φ","χ","ψ","ϙ","ϡ"  
+\]  
+BASE36\_CHARS \\= \[\*'0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'\]  
+TOK\_TO\_CODE \\= {tok: BASE36\_CHARS\[i\] for i, tok in enumerate(G36\_TOKENS\_IN\_ORDER)}  
+CODE\_TO\_TOK \\= {BASE36\_CHARS\[i\]: tok for i, tok in enumerate(G36\_TOKENS\_IN\_ORDER)}  
+TOK\_TO\_VAL \\= {tok: i for i, tok in enumerate(G36\_TOKENS\_IN\_ORDER)}  
+CODE\_TO\_VAL \\= {BASE36\_CHARS\[i\]: i for i in range(36)}  
+DIPHTHONGS \\= {"αι","ει","οι","αυ","ευ","ου","υι","ηυ","ηι"}
+
+def strip\_diacritics(s: str) \-\> str:  
+decomposed \\= unicodedata.normalize('NFD', s)  
+stripped \\= ''.join(c for c in decomposed if unicodedata.category(c) \!= 'Mn')  
+return unicodedata.normalize('NFC', stripped)
+
+def normalize\_greek(s: str) \-\> str:  
+s \\= s.lower()  
+s \\= strip\_diacritics(s)  
+s \\= s.replace("ς", "σ")  
+return s
+
+def tokenize\_greek(s: str, diph\_mode: str \\= "greedy") \-\> List\[str\]:  
+s \\= normalize\_greek(s)  
+tokens \\= \[\]  
+i \\= 0  
+n \\= len(s)  
+while i \\\< n:  
+ch \\= s\[i\]  
+if ch.isspace():  
+i \+= 1  
+continue  
+if diph\_mode \\== "greedy" and i+1 \\\< n:  
+pair \\= s\[i:i+2\]  
+if pair in DIPHTHONGS:  
+tokens.append(pair)  
+i \+= 2  
+continue  
+if ch in TOK\_TO\_CODE:  
+tokens.append(ch)  
+i \+= 1  
+continue  
+\# skip unknown characters (punctuation etc.)  
+i \+= 1  
+return tokens
+
+def encode(tokens: List\[str\]) \-\> str:  
+out \\= \[\]  
+for t in tokens:  
+if t not in TOK\_TO\_CODE:  
+raise ValueError(f"Unknown token: {t\!r}")  
+out.append(TOK\_TO\_CODE\[t\])  
+return ''.join(out)
+
+def decode(code: str) \-\> List\[str\]:  
+toks \\= \[\]  
+for ch in code.strip():  
+up \\= ch.upper()  
+if up not in CODE\_TO\_TOK:  
+raise ValueError(f"Unknown base36 symbol: {ch\!r}")  
+toks.append(CODE\_TO\_TOK\[up\])  
+return toks
+
+def sum\_vals(tokens: List\[str\]) \-\> int:  
+return sum(TOK\_TO\_VAL\[t\] for t in tokens)
+
+def signatures(S: int):  
+S36\_val \\= S % 36  
+S36\_char \\= BASE36\_CHARS\[S36\_val\]  
+sigma10 \\= S % 10  
+sigma9 \\= 0 if S \\== 0 else 1 \+ ((S \- 1\) % 9\)  
+return S36\_val, S36\_char, sigma10, sigma9
+
+def bigrams(code: str):  
+out \\= \[\]  
+code \\= code.strip().upper()  
+for i in range(len(code)-1):  
+r \\= code\[i\]; c \\= code\[i+1\]  
+if r in CODE\_TO\_VAL and c in CODE\_TO\_VAL:  
+out.append((r, c, CODE\_TO\_VAL\[r\], CODE\_TO\_VAL\[c\]))  
+return out
+
+def torus6(S: int):  
+R \\= (S // 6\) % 6  
+C \\= S % 6  
+return R, C
+
+def cmd\_tokens(args):  
+toks \\= tokenize\_greek(args.text, diph\_mode=args.diphthongs)  
+print(' '.join(toks))
+
+def cmd\_encode(args):  
+toks \\= tokenize\_greek(args.text, diph\_mode=args.diphthongs)  
+code \\= encode(toks)  
+print(code)
+
+def cmd\_decode(args):  
+toks \\= decode(args.code)  
+print(' '.join(toks))
+
+def cmd\_sum(args):  
+toks \\= tokenize\_greek(args.text, diph\_mode=args.diphthongs)  
+S \\= sum\_vals(toks)  
+S36\_val, S36\_char, s10, s9 \\= signatures(S)  
+print(f"S={S} S36={S36\_val}('{S36\_char}') σ10={s10} σ9={s9}")  
+if args.torus6:  
+R, C \\= torus6(S)  
+print(f"6x6\_torus=({R},{C})")
+
+def cmd\_bigrams(args):  
+if args.code:  
+code \\= args.code.strip().upper()  
+else:  
+toks \\= tokenize\_greek(args.text, diph\_mode=args.diphthongs)  
+code \\= encode(toks)  
+pairs \\= bigrams(code)  
+for r, c, rv, cv in pairs:  
+print(f"{r}{c} row={rv} col={cv}")
+
+def build\_parser():  
+p \\= argparse.ArgumentParser(description="Greek-36 isopsephy CLI")  
+sub \\= p.add\_subparsers(dest="cmd", required=True)
+
+def add\\\_diph(parser):
+
+    parser.add\\\_argument("--diphthongs", choices=\\\["greedy","none"\\\], default="greedy",
+
+                        help="Tokenization: greedy diphthongs (default) or none")
+
+    return parser
+
+ptok \\= add\\\_diph(sub.add\\\_parser("tokens", help="Tokenize Greek text into G36 tokens"))
+
+ptok.add\\\_argument("text")
+
+penc \\= add\\\_diph(sub.add\\\_parser("encode", help="Encode Greek text → base36"))
+
+penc.add\\\_argument("text")
+
+pdec \\= sub.add\\\_parser("decode", help="Decode base36 → Greek tokens"))
+
+pdec.add\\\_argument("code")
+
+psum \\= add\\\_diph(sub.add\\\_parser("sum", help="Compute isopsephy sums/signatures"))
+
+psum.add\\\_argument("text")
+
+psum.add\\\_argument("--torus6", action="store\\\_true", help="Also print 6x6 torus cell for total S")
+
+pbi \\= add\\\_diph(sub.add\\\_parser("bigrams", help="List bigrams as 36x36 row/col indices"))
+
+pbi.add\\\_argument("text", nargs="?")
+
+pbi.add\\\_argument("--code", help="Use raw base36 instead of Greek input")
+
+returnp
+
+def main(argv=None):  
+p \\= build\_parser()  
+args \\= p.parse\_args(argv)  
+try:  
+if args.cmd \\== "tokens":  
+cmd\_tokens(args)  
+elif args.cmd \\== "encode":  
+cmd\_encode(args)  
+elif args.cmd \\== "decode":  
+cmd\_decode(args)  
+elif args.cmd \\== "sum":  
+cmd\_sum(args)  
+elif args.cmd \\== "bigrams":  
+cmd\_bigrams(args)  
+else:  
+p.print\_help()  
+return 2  
+except Exception as e:  
+print(f"Error: {e}", file=sys.stderr)  
+return 1  
+return 0
+
+if \_\_name\_\_ \\== "\_\_main\_\_":  
+sys.exit(main())
+
